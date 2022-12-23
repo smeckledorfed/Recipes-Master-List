@@ -99,6 +99,7 @@
 - [Eating China](https://www.eatingchina.com/)
 - [Fun Chinese Cooking](https://fun-chinese-cooking.blogspot.com/)
 - [Hello Tea Cup](https://helloteacup.com/category/chinese-food/)
+- [Lost Laowai](https://www.lostlaowai.com/)
 - [Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)
 - [Miss Chinese Food](https://misschinesefood.com/)
 - [My Chinese Home Kitchen](https://mychinesehomekitchen.com/)
@@ -135,6 +136,7 @@
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
 - [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
+- [Rasa Malaysia](https://rasamalaysia.com/)
 - [Secret Indian Recipe](https://secretindianrecipe.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
 - [Sunera Kitchen](https://www.sunerakitchen.com/)
@@ -147,14 +149,42 @@
 - [Aromatic Essence](https://aromaticessence.co/)
 
 #### Japan
+- [Cook & Meshiagare](https://meshiagare.tokyo/)
+- [Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)
+- [Japan Centre](https://www.japancentre.com/en/recipe)
+- [Japanese Cooking 101](https://www.japanesecooking101.com/)
+- [Japan Food Addict](http://www.japanfoodaddict.com/)
+- [Japanese Food at Home](https://japfoodathome.com/)
+- [The Japanese Kitchen](https://thejapanesekitchen.com/)
+- [Japan McConnell](https://japanmcconnell.com/)
+- [Japan-Recipe](https://www.japan-recipe.com/)
+- [The Japan Store](https://thejapanstore.us/)
+- [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
+- [Japan Taste](https://japan-taste.com/)
+- [The Japantry](https://thejapantry.com/)
+- [JP Foodie](https://japanesefoods.net/)
+- [Kyoto Foodies](https://kyotofoodie.com/category/recipe/)
+- [RecipeTin Japan](https://japan.recipetineats.com/)
+- [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
+- [Suki Desu](https://skdesu.com/en/tag/japan/culinaria/)
 - [Tiffoodss](https://tiffoodss.com/)
+- [We Love Japanese Food](https://welovejapanesefood.com/)
 
 #### Laos
+- [Food from Northern Laos](https://foodfromnorthernlaos.com/)
+- [Little Lao Kitchen](https://www.littlelaokitchen.com/)
 - [Vegan Lao Food](https://www.veganlaofood.com/)
 
 #### Malaysia
+- [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
+- [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [Da Vina Vegan](http://davinadavegan.com/)
 - [Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)
+- [The Malaysian Kitchen](https://themalaysiankitchen.com/)
+- [New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)
+- [**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)
+- [Rasa Malaysia](https://rasamalaysia.com/)
+- [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
 
 #### Nepal
 - [Anup's Kitchen](https://www.anupskitchen.com/)
@@ -162,9 +192,29 @@
 #### The Philippines
 - [Amiable Foods](https://amiablefoods.com/)
 - [Ang Sarap](https://www.angsarap.net/)
+- [Atbp.ph](https://www.atbp.ph/)
+- [Authentic Filipino Recipes](https://authenticfilipinorecipes.com/)
+- [Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)
+- [Filipino Egg Rolls](https://filipinoeggrolls.com/)
+- [Filipino Food Recipes](https://www.filipino-food-recipes.com/)
+- [Filipino Foods and Recipes](https://www.filipinofoodsrecipes.com/)
+- [Filipino Food Store](http://www.filipinofoodstore.com/recipes/)
+- [Filipino Recipe Site](https://www.filipinorecipesite.com/)
+- [Filipino Recipes Lutong Pinoy](https://www.filipino-recipes-lutong-pinoy.com/)
+- [Foodamn Philippines](https://www.foodamn.com/)
+- [Inato Iang Filipino Cuisine](http://bisayajudkaayo.blogspot.com/?m=1)
+- [MAGGI Philippines](https://www.maggi.ph/)
+- [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
+- [Savor Filipino Food](https://savorfilipino.food.blog/)
 
 #### Singapore
 - [Anncoo Journal](https://www.anncoojournal.com/)
+- [**Sadia**](https://www.sadia.sg/recipes)
+- [My Singapore Food](http://mysingaporefood.com/)
+- [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
+- [Singapore Best Food Blogs](https://www.aspirantsg.com/top-food-blogger-singapore-best-food-blogs/?amp)
+- [Singapore Food](https://singaporelocalfavourites.com/)
+- [Singapore Noodles](https://www.sgpnoodles.com/freerecipes)
 
 #### South Korea
 - [10000 Recipe](https://www.10000recipe.com/)
@@ -218,6 +268,7 @@
 
 ##### Russia
 - [Babushka Cooking](https://www.babushkacooking.com/)
+- [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
 
 #### Spain
 - [Basco Fine Foods](https://www.bascofinefoods.com/)
@@ -329,6 +380,9 @@
 - [**Promise Gluten-Free**](https://www.promiseglutenfree.com/recipes/)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [Three Bakers](https://threebakers.com/category/gluten-free-recipes/)
+
+### Halal
+- [Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)
 
 ### Healthy
 - [Abbey's Kitchen](https://www.abbeyskitchen.com/)
@@ -591,6 +645,7 @@
 - [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
 - [Easy Vegan Meal Plan](https://www.easyveganmealplan.com/)
+- [Japanese Cooking 101](https://www.japanesecooking101.com/)
 - [My Darling Vegan](https://www.mydarlingvegan.com/)
 - [My Vegan Minimalist](https://myveganminimalist.com/)
 - [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)
@@ -643,6 +698,8 @@
 ### Seafood
 - [Australian Prawns](https://australianprawns.com.au/)
 - [**Chicken of the Sea**](https://chickenofthesea.com/recipes/)
+### Sushi
+- [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
 ### Vegetables
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
 - [Australian Onions](https://australianonions.com.au/)
@@ -769,6 +826,7 @@
 - [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
 - [**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)
 - [**Anthony's Goods**](https://anthonysgoods.com/pages/recipes)
+- [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [**Back of the Box Recipes**](http://www.backofthebox.com/)
 - [**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)
 - [**Canyon Gluten-Free**](https://canyonglutenfree.com/recipes/)
@@ -803,16 +861,19 @@
 - [**The Only Bean**](https://theonlybean.com/blogs/recipes)
 - [**Paleo NoLa**](https://paleonola.com/blogs/recipes)
 - [**Paleo Powder Seasoning**](https://www.paleopowderseasoning.com/blogs/recipes)
+- [**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)
 - [**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)
 - [**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)
 - [**Peet's Coffee**](https://www.peets.com/blogs/peets)
 - [**PlantPerks**](https://www.plantperks.com/vegan-recipes/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
+- [**Sadia**](https://www.sadia.sg/recipes)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
 - [**Seattle's Best Coffee**](https://www.seattlesbest.com/recipes-crafts)
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [**Shipetaukin**](https://www.shipetaukin.com/natural-recipes-gluten-free-recipes-healthy-recipes/)
 - [**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)
+- [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
 - [**Starbucks**](https://athome.starbucks.com/recipe)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [**Tuyyo Foods**](https://tuyyofoods.com/)
@@ -831,3 +892,4 @@
 - [Gourmand Asia](https://www.gourmandasia.com/)
 - [New York Times Cooking](https://cooking.nytimes.com/)
 - [Plain Chicken](https://www.plainchicken.com/)
+- [The Singapore Women's Weekly](https://www.womensweekly.com.sg/food/)
