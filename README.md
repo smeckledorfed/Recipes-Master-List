@@ -732,7 +732,7 @@
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**Mayorga Coffee**](https://mayorgacoffee.com/pages/chia-recipes)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
-- [**My Vega](https://myvega.com/blogs/recipes)
+- [**My Vega**](https://myvega.com/blogs/recipes)
 - [**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)
 - [**Nespresso (Aus.)**](https://www.nespresso.com/au/en/coffee-recipes)
 - [**Nespresso (USA)**](https://www.nespresso.com/us/en/coffee-recipes)
