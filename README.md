@@ -38,6 +38,7 @@
 - [Asian Recipe](https://asian-recipe.com/)
 - [Asian Test Kitchen](https://asiantestkitchen.com/)
 - [Assorted Eats](https://www.assortedeats.com/)
+- [Nom Nom Paleo](https://nomnompaleo.com/)
 - [The Savory Chopstick](https://www.thesavorychopstick.com/)
 
 #### Afghanistan
@@ -86,7 +87,7 @@
 ##### Goa
 - [Aromatic Essence](https://aromaticessence.co/)
 
-#### *apan
+#### Japan
 - [Tiffoodss](https://tiffoodss.com/)
 
 #### Laos
@@ -227,6 +228,7 @@
 - (all websites in vegan section)
 - [Bakerita](https://www.bakerita.com/)
 - [Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)
+- [Paleo Scaleo](https://www.paleoscaleo.com/)
 
 ### Gluten-Free
 - [Bakerita](https://www.bakerita.com/)
@@ -260,6 +262,8 @@
 - [**Nu Life Market**](https://nulifemarket.com/gluten-free-recipes/)
 - [Paleo Gluten-Free](https://paleoglutenfree.com/)
 - [Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)
+- [Paleo Newbie](https://www.paleonewbie.com/)
+- [Paleo Scaleo](https://www.paleoscaleo.com/)
 - [**Promise Gluten-Free**](https://www.promiseglutenfree.com/recipes/)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [Three Bakers](https://threebakers.com/category/gluten-free-recipes/)
@@ -296,8 +300,16 @@
 - [Salt in My Coffee](https://saltinmycoffee.com/)
 
 ### Paleo
+- [Back Porch Paleo](https://backporchpaleo.com/)
+- [Lichen Paleo, Loving AIP](https://lichenpaleolovingaip.com/)
+- [Nom Nom Paleo](https://nomnompaleo.com/)
+- [Paleo Flourish](https://paleoflourish.com/)
 - [Paleo Gluten-Free](https://paleoglutenfree.com/)
 - [Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)
+- [Paleo Grubs](https://paleogrubs.com/)
+- [Paleo Leap](https://paleoleap.com/)
+- [**Paleo Powder Seasoning**](https://www.paleopowderseasoning.com/blogs/recipes)
+- [Paleo Scaleo](https://www.paleoscaleo.com/)
 
 ### Skincare
 - [Happy Skin Kitchen](https://www.happyskinkitchen.com/)
@@ -515,7 +527,10 @@
 - [Coffee at Three](https://coffeeatthree.com/)
 - [**Coffee Cherry Co.**](https://coffeecherryco.com/recipes/)
 - [**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)
+- [**Door County Coffee**](https://doorcountycoffee.com/recipes/)
+- [**Drink Super Coffee**](https://drinksupercoffee.com/blog/)
 - [**Eight O'Clock**](https://www.eightoclock.com/coffee-recipes)
+- [**Folger's Coffee**](https://www.folgerscoffee.com/coffee/recipes)
 - [**Groundwork Coffee**](https://www.groundworkcoffee.com/pages/blog)
 - [**Hey Joe Coffee**](https://heyjoecoffee.com/)
 - [**Illy**](https://www.illy.com/en-us/coffee/coffee-recipes)
@@ -677,7 +692,10 @@
 - [**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)
 - [**Dandie's**](https://dandies.com/recipes)
 - [**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)
+- [**Door County Coffee**](https://doorcountycoffee.com/recipes/)
+- [**Drink Super Coffee**](https://drinksupercoffee.com/blog/)
 - [**Eight O'Clock**](https://www.eightoclock.com/coffee-recipes)
+- [**Folger's Coffee**](https://www.folgerscoffee.com/coffee/recipes)
 - [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
 - [**Good for You Gluten-Free**](https://www.goodforyouglutenfree.com/)
 - [**Groundwork Coffee**](https://www.groundworkcoffee.com/pages/blog)
@@ -697,6 +715,7 @@
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [**Nu Life Market**](https://nulifemarket.com/gluten-free-recipes/)
 - [**The Only Bean**](https://theonlybean.com/blogs/recipes)
+- [**Paleo Powder Seasoning**](https://www.paleopowderseasoning.com/blogs/recipes)
 - [**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)
 - [**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)
 - [**Peet's Coffee**](https://www.peets.com/blogs/peets)
