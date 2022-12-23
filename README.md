@@ -17,6 +17,7 @@
 - [The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)
 - [Friendly Veg](https://friendlyveg.com/)
 - [Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)
+- [Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)
 
 ## Cuisine
 
@@ -61,6 +62,7 @@
 - [Devour.Asia](https://devour.asia/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [Health Gluten-Free Asian](https://www.healthygfasian.com/)
+- [Kawaling Pinoy](https://www.kawalingpinoy.com/)
 - [Love Food Asia](https://www.lovefoodasia.com/en/)
 - [Low-Carbing Asian](https://www.lowcarbingasian.com/)
 - [Modern Asian Baking](https://www.modernasianbaking.com/)
@@ -196,6 +198,8 @@
 - [Atbp.ph](https://www.atbp.ph/)
 - [Authentic Filipino Recipes](https://authenticfilipinorecipes.com/)
 - [Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)
+- [Cooking Pinoy](https://www.cookingpinoy.com/)
+- [Eat Like Pinoy](https://eatlikepinoy.com/)
 - [Filipino Egg Rolls](https://filipinoeggrolls.com/)
 - [Filipino Food Recipes](https://www.filipino-food-recipes.com/)
 - [Filipino Foods and Recipes](https://www.filipinofoodsrecipes.com/)
@@ -204,7 +208,19 @@
 - [Filipino Recipes Lutong Pinoy](https://www.filipino-recipes-lutong-pinoy.com/)
 - [Foodamn Philippines](https://www.foodamn.com/)
 - [Inato Iang Filipino Cuisine](http://bisayajudkaayo.blogspot.com/?m=1)
+- [Kawaling Pinoy](https://www.kawalingpinoy.com/)
+- [Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)
 - [MAGGI Philippines](https://www.maggi.ph/)
+- [Overseas Pinoy Cooking](https://www.overseaspinoycooking.net/)
+- [Pagkaing Pinoy TV](https://www.pagkaingpinoytv.com/)
+- [Pansalang Pinoy](https://panlasangpinoy.com/)
+- [Pansalang Pinoy Meat Recipes](https://www.panlasangpinoymeatrecipes.com/)
+- [Pinoy Bites](https://pinoybites.com/)
+- [Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)
+- [Pinoy Food Recipes](https://pinoyfoodblog.com/)
+- [Pinoy Hapagkainan](https://www.pinoyhapagkainan.com/)
+- [Pinoy Recipe](https://www.pinoyrecipe.net/)
+- [Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/?m=1)
 - [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
 - [Savor Filipino Food](https://savorfilipino.food.blog/)
 
@@ -243,6 +259,8 @@
 
 #### Thailand
 - [Messy Vegan Cook](https://www.messyvegancook.com/)
+- [Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)
+- [**Yai's Thai**](https://www.yaisthai.com/blogs/recipes)
 
 #### Ukraine
 - [Anna Voloshyna](https://annavoloshyna.com/)
@@ -326,6 +344,9 @@
 - [A Southern Soul](https://www.asouthernsoul.com/)
 - [Back to my Southern Roots](https://www.backtomysouthernroots.com/)
 - [Basil and Bubbly](https://basilandbubbly.com/)
+
+##### South Carolina
+- [Pinch Me I'm Eating](https://www.pinchmeimeating.com/)
 
 ### Oceania
 
@@ -527,6 +548,7 @@
 - [The Pesky Vegan](https://thepeskyvegan.com/)
 - [Planet Vegans](https://planetvegans.com/)
 - [**PlantPerks**](https://www.plantperks.com/vegan-recipes/)
+- [Plant Phoward](https://www.phokmeat.com/)
 - [PlantYou](https://plantyou.com/)
 - [Project Vegan Baking](https://projectveganbaking.com/)
 - [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/)
@@ -613,6 +635,7 @@
 - [Gluten-Free Vegetarian](https://gf-veg.com/)
 - [Gourmet Vegetarians](https://gourmetvegetarians.com/)
 - [Indian Veggie Delight](https://www.indianveggiedelight.com/)
+- [Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)
 - [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
@@ -664,6 +687,7 @@
 - [My Darling Vegan](https://www.mydarlingvegan.com/)
 - [My Vegan Minimalist](https://myveganminimalist.com/)
 - [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)
+- [Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [Vegan Cocotte](https://vegancocotte.com/)
@@ -672,6 +696,10 @@
 ### Alcohol
 - [1001 Cocktails](https://en.1001cocktails.com/)
 - [**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)
+### Cheese
+- [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
+### Chocolate
+- [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
 ### Coffee
 - [**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)
 - [**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)
@@ -699,17 +727,21 @@
 - [**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)
 ### Eggs
 - [American Egg Board](https://www.incredibleegg.org/)
-### Pasta
-- [The Monday Pasta Club](https://www.themondaypastaclub.com/)
-- [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
-### Poultry
+### Meat
+- [**4505 Meats**](https://4505meats.com/blogs/recipes)
 - [All Chicken Recipes](https://www.allchickenrecipes.com/)
 - [Chicken Roost](https://www.chickenroost.com/)
 - [The Chicken Website](https://www.thechickenwebsite.com/)
 - [Easy Chicken Recipes](https://easychickenrecipes.com/)
 - [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
 - [**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)
+- [**The Meat Eater**](https://www.themeateater.com/)
+- [The Meatwave](https://meatwave.com/)
+- [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
+### Pasta
+- [The Monday Pasta Club](https://www.themondaypastaclub.com/)
+- [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 ### Ramen
 - [The Ramen Rater](https://www.theramenrater.com/resources-2/recipes/)
 - [**The Vite Ramen**](https://www.viteramen.com/all-recipes-1)
@@ -844,11 +876,13 @@
 - [The Tipsy Housewife](https://thetipsyhousewife.org/)
 
 ### Brand
+- [**4505 Meats**](https://4505meats.com/blogs/recipes)
 - [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
 - [**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)
 - [**Anthony's Goods**](https://anthonysgoods.com/pages/recipes)
 - [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [**Back of the Box Recipes**](http://www.backofthebox.com/)
+- [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
 - [**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)
 - [**Canyon Gluten-Free**](https://canyonglutenfree.com/recipes/)
 - [**Chicken of the Sea**](https://chickenofthesea.com/recipes/)
@@ -863,6 +897,7 @@
 - [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
 - [**Good for You Gluten-Free**](https://www.goodforyouglutenfree.com/)
 - [**Groundwork Coffee**](https://www.groundworkcoffee.com/pages/blog)
+- [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
 - [**Hey Joe Coffee**](https://heyjoecoffee.com/)
 - [**Illy**](https://www.illy.com/en-us/coffee/coffee-recipes)
 - [**Josie's Best**](https://josiesbestgf.com/gluten-free-recipes/)
@@ -870,6 +905,8 @@
 - [**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**Mayorga Coffee**](https://mayorgacoffee.com/pages/chia-recipes)
+- [**The Meat Eater**](https://www.themeateater.com/)
+- [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 - [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
 - [**My Vega**](https://myvega.com/blogs/recipes)
@@ -887,6 +924,7 @@
 - [**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)
 - [**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)
 - [**Peet's Coffee**](https://www.peets.com/blogs/peets)
+- [**Plant Boss](https://www.plantboss.com/community/recipes/category/put-meat-the-back-burner)
 - [**PlantPerks**](https://www.plantperks.com/vegan-recipes/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
 - [**The Vite Ramen**](https://www.viteramen.com/all-recipes-1)
@@ -901,6 +939,7 @@
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [**Tuyyo Foods**](https://tuyyofoods.com/)
 - [**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)
+- [**Yai's Thai**](https://www.yaisthai.com/blogs/recipes)
 
 ### Celebrity Chef
 - [Alton Brown](https://altonbrown.com/)
