@@ -167,6 +167,7 @@
 - [RecipeTin Japan](https://japan.recipetineats.com/)
 - [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
 - [Suki Desu](https://skdesu.com/en/tag/japan/culinaria/)
+- [Sushi Day](https://sushiday.com/)
 - [Tiffoodss](https://tiffoodss.com/)
 - [We Love Japanese Food](https://welovejapanesefood.com/)
 
@@ -220,7 +221,20 @@
 - [10000 Recipe](https://www.10000recipe.com/)
 - [Aaron and Claire](https://aaronandclaire.com/)
 - [Ahjummarecipes](https://www.ahjummarecipes.com/)
+- [Cathlyn's Korean Kitchen](https://koreancuisinerecipes.com/)
+- [Crazy Korean Cooking](https://crazykoreancooking.com/)
+- [Curious Kimchi](https://curiouskimchi.com/)
+- [Easy Korean Food](https://www.easykoreanfood.com/)
+- [Kimchi Mari](https://kimchimari.com/)
+- [Kimchi Mom](https://kimchimom.com/)
+- [Kimchi Rules](https://www.kimchirules.com/blogs/video-recipes)
+- [Korean Bapsang](https://www.koreanbapsang.com/)
+- [Korean Kitchen](https://korean.kitchen/)
 - [The Korean Vegan](https://thekoreanvegan.com/)
+- [Love Korean Food](https://lovekoreanfood.com/)
+- [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
+- [My Korean Kitchen](https://mykoreankitchen.com/)
+- [Zen Kimchi](https://zenkimchi.com/)
 
 #### Taiwan
 - [Angel Wong's Kitchen](https://www.angelwongskitchen.com/)
@@ -644,6 +658,7 @@
 - [Cook Like Asian](https://cooklikeasian.com/)
 - [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
+- [Easy Korean Food](https://www.easykoreanfood.com/)
 - [Easy Vegan Meal Plan](https://www.easyveganmealplan.com/)
 - [Japanese Cooking 101](https://www.japanesecooking101.com/)
 - [My Darling Vegan](https://www.mydarlingvegan.com/)
@@ -695,11 +710,16 @@
 - [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
 - [**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
+### Ramen
+- [The Ramen Rater](https://www.theramenrater.com/resources-2/recipes/)
+- [**The Vite Ramen**](https://www.viteramen.com/all-recipes-1)
 ### Seafood
 - [Australian Prawns](https://australianprawns.com.au/)
 - [**Chicken of the Sea**](https://chickenofthesea.com/recipes/)
 ### Sushi
+- [Ichi Sushi](https://ichisushi.com/category/recipes/)
 - [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
+- [Make Sushi](https://www.makesushi.com/)
 ### Vegetables
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
 - [Australian Onions](https://australianonions.com.au/)
@@ -820,6 +840,7 @@
 - [Clove Graden](https://clovegarden.com/)
 - [Foodtasia](https://foodtasia.com/)
 - [Immaculate Bites](https://www.africanbites.com/)
+- [Kimchi and Beans](http://www.kimchiandbeans.com/)
 - [The Tipsy Housewife](https://thetipsyhousewife.org/)
 
 ### Brand
@@ -850,6 +871,7 @@
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**Mayorga Coffee**](https://mayorgacoffee.com/pages/chia-recipes)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
+- [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
 - [**My Vega**](https://myvega.com/blogs/recipes)
 - [**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)
 - [**Nespresso (Aus.)**](https://www.nespresso.com/au/en/coffee-recipes)
@@ -867,6 +889,7 @@
 - [**Peet's Coffee**](https://www.peets.com/blogs/peets)
 - [**PlantPerks**](https://www.plantperks.com/vegan-recipes/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
+- [**The Vite Ramen**](https://www.viteramen.com/all-recipes-1)
 - [**Sadia**](https://www.sadia.sg/recipes)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
 - [**Seattle's Best Coffee**](https://www.seattlesbest.com/recipes-crafts)
