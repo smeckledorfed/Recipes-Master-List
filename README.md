@@ -26,7 +26,10 @@
 - [African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)
 - [African Food Network](https://afrifoodnetwork.com/)
 - [Amuna Foods](https://amunafoods.com/)
+- [The Canadian African](https://thecanadianafrican.com/)
 - [Grubbys](https://grubbys.africa/)
+- [Low-Carb Africa](https://lowcarbafrica.com/)
+- [Pan-African](https://pan-african.net/recipe/)
 - [West Africa Cooks](https://www.westafricacooks.com/africa/)
 
 #### Kenya
@@ -35,6 +38,7 @@
 
 #### Nigeria
 - [All Nigerian Recipes](https://www.allnigerianrecipes.com/)
+- [Nigerian Food TV](https://www.nigerianfoodtv.com/)
 - [Vegan Nigerian](https://www.vegannigerian.com/)
 
 #### South Africa
@@ -44,6 +48,7 @@
 - [A Day in the Kitchen](https://www.adayinthekitchen.com/)
 - [Amazing Asian Food](https://amazingasianfood.com/)
 - [Angel Wong's Kitchen](https://www.angelwongskitchen.com/)
+- [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
 - [Asian Caucasian](https://www.asiancaucasian.com/)
 - [Asian Inspirations](https://asianinspirations.com.au/)
 - [Asian Recipe](https://asian-recipe.com/)
@@ -51,20 +56,31 @@
 - [Asian Test Kitchen](https://asiantestkitchen.com/)
 - [Asian Top Recipes](https://asiantoprecipes.weebly.com/)
 - [Assorted Eats](https://www.assortedeats.com/)
+- [Blue Apocalypse](http://www.blueapocalypse.com/p/asian.html)
+- [Cook Like Asian](https://cooklikeasian.com/)
+- [Devour.Asia](https://devour.asia/)
+- [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [Health Gluten-Free Asian](https://www.healthygfasian.com/)
+- [Love Food Asia](https://www.lovefoodasia.com/en/)
 - [Low-Carbing Asian](https://www.lowcarbingasian.com/)
 - [Modern Asian Baking](https://www.modernasianbaking.com/)
 - [My Asian Kitchen NY](https://www.myasiankitchenny.com/)
 - [Nom Nom Paleo](https://nomnompaleo.com/)
+- [**NutriAsia**](https://nutriasia.com/recipe/)
 - [The Savory Chopstick](https://www.thesavorychopstick.com/)
+- [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Taste Asian Food](https://tasteasianfood.com/)
+- [Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)
 
 #### Afghanistan
 - [Afghan Kitchen Recipes](http://www.afghankitchenrecipes.com/)
+- [Afghan Yummy Food](https://www.afghanyummyfood.com/)
 
 #### Armenia
 - [Adventures in Armenian Cooking](http://www.armeniapedia.org/index.php?title=Adventures_in_Armenian_Cooking)
+- [The Armenian Kitchen](https://thearmeniankitchen.com/)
+- [The Armenian Mirror Specator](https://mirrorspectator.com/category/recipes/)
 
 #### Bangladesh
 - [Afelia's Kitchen](https://www.afeliaskitchen.com/)
@@ -98,11 +114,18 @@
 ##### Shanghai
 - [Cook in Shanghai](https://www.cookinshanghai.com/recipes/)
 
+#### Hong Kong
+- [The Hong Kong Cookery](https://www.thehongkongcookery.com/)
+
 #### India
 - [Archana's Kitchen](https://www.archanaskitchen.com/)
+- [Banglar Rannaghor](https://www.banglarrannaghor.com/)
 - [Bawarchi](https://www.bawarchi.com/)
 - [Be ExtraVegant](https://beextravegant.com/)
+- [Fine Dining Indian](https://finediningindian.com/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
+- [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
+- [Some Indian Girl](https://someindiangirl.com/)
 - [Sunera Kitchen](https://www.sunerakitchen.com/)
 ##### Goa
 - [Aromatic Essence](https://aromaticessence.co/)
@@ -136,6 +159,7 @@
 #### Taiwan
 - [Angel Wong's Kitchen](https://www.angelwongskitchen.com/)
 - [Baking Taitai](https://www.bakingtaitai.com/)
+- [Taiwan Duck](http://taiwanduck.com/)
 
 #### Thailand
 - [Messy Vegan Cook](https://www.messyvegancook.com/)
@@ -149,6 +173,7 @@
 - [The Viet Vegan](https://thevietvegan.com/)
 
 ### Europe
+- [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
 
 #### France
 - [A Baking Journey](https://www.abakingjourney.com/)
@@ -306,6 +331,7 @@
 - [Batel's Kitchen](https://batelskitchen.com/)
 
 ### Low-Carb
+- [Low-Carb Africa](https://lowcarbafrica.com/)
 - [Low-Carbing Asian](https://www.lowcarbingasian.com/)
 
 ### Low-FODMAP
@@ -320,6 +346,7 @@
 - [Art of Natural Living](https://artofnaturalliving.com/)
 - [Ask the Food Geek](https://askthefoodgeek.com/)
 - [Beyond the Chicken Coop](https://www.beyondthechickencoop.com/)
+- [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
 - [Salt in My Coffee](https://saltinmycoffee.com/)
 
@@ -502,8 +529,9 @@
 - [Gluten-Free Vegetarian](https://gf-veg.com/)
 - [Gourmet Vegetarians](https://gourmetvegetarians.com/)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
-- [Simply Vegetarian 777](https://simplyvegetarian777.com/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
+- [Simply Vegetarian 777](https://simplyvegetarian777.com/)
+- [Some Indian Girl](https://someindiangirl.com/)
 - [Vegetarian Mamma](https://vegetarianmamma.com/)
 - [Vegetarian Society](https://vegsoc.org/)
 - [Vegetarian Taste Buds](https://www.vegetariantastebuds.com/)
@@ -539,6 +567,7 @@
 - [Baking Mischief](https://bakingmischief.com/)
 - [Baking Sense](https://www.baking-sense.com/)
 - [Barefeet in the Kitchen](https://barefeetinthekitchen.com/)
+- [Cook Like Asian](https://cooklikeasian.com/)
 - [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
 - [Easy Vegan Meal Plan](https://www.easyveganmealplan.com/)
@@ -711,6 +740,8 @@
 - [BBOnline](https://www.bbonline.com/recipes/)
 - [Chicken Fried Kitchen](https://chickenfriedkitchen.com/)
 - [Clove Graden](https://clovegarden.com/)
+- [Foodtasia](https://foodtasia.com/)
+- [Immaculate Bites](https://www.africanbites.com/)
 - [The Tipsy Housewife](https://thetipsyhousewife.org/)
 
 ### Brand
@@ -747,6 +778,7 @@
 - [**New England Coffee**](https://www.newenglandcoffee.com/)
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [**Nu Life Market**](https://nulifemarket.com/gluten-free-recipes/)
+- [**NutriAsia**](https://nutriasia.com/recipe/)
 - [**The Only Bean**](https://theonlybean.com/blogs/recipes)
 - [**Paleo NoLa**](https://paleonola.com/blogs/recipes)
 - [**Paleo Powder Seasoning**](https://www.paleopowderseasoning.com/blogs/recipes)
@@ -754,8 +786,10 @@
 - [**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)
 - [**Peet's Coffee**](https://www.peets.com/blogs/peets)
 - [**PlantPerks**](https://www.plantperks.com/vegan-recipes/)
+- [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
 - [**Seattle's Best Coffee**](https://www.seattlesbest.com/recipes-crafts)
+- [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [**Shipetaukin**](https://www.shipetaukin.com/natural-recipes-gluten-free-recipes-healthy-recipes/)
 - [**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)
 - [**Starbucks**](https://athome.starbucks.com/recipe)
@@ -773,5 +807,6 @@
 - [1000 World Recipes](https://1000worldrecipes.com/)
 - [Allrecipes](https://www.allrecipes.com/)
 - [BBC Food](https://www.bbc.co.uk/food)
+- [Gourmand Asia](https://www.gourmandasia.com/)
 - [New York Times Cooking](https://cooking.nytimes.com/)
 - [Plain Chicken](https://www.plainchicken.com/)
