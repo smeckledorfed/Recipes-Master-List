@@ -21,6 +21,7 @@
 ## Cuisine
 
 ### Africa
+- [The Africa Cookbooks](https://theafricacookbook.com/)
 - [Africa Food Love](https://www.africanfood.recipes/)
 - [African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)
 - [African Food Network](https://afrifoodnetwork.com/)
