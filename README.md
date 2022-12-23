@@ -22,15 +22,22 @@
 
 ### Africa
 - [Africa Food Love](https://www.africanfood.recipes/)
+- [African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)
 - [African Food Network](https://afrifoodnetwork.com/)
 - [Amuna Foods](https://amunafoods.com/)
+- [Grubbys](https://grubbys.africa/)
+- [West Africa Cooks](https://www.westafricacooks.com/africa/)
 
 #### Kenya
 - [All Kenyan Recipes](https://allkenyanrecipes.com/)
+- [Grubbys](https://grubbys.africa/)
 
 #### Nigeria
 - [All Nigerian Recipes](https://www.allnigerianrecipes.com/)
 - [Vegan Nigerian](https://www.vegannigerian.com/)
+
+#### South Africa
+- [The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)
 
 ### Asia
 - [A Day in the Kitchen](https://www.adayinthekitchen.com/)
