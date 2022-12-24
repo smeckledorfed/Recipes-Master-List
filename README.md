@@ -269,8 +269,22 @@
 - [Rachel Cooks Thai](https://rachelcooksthai.com/)
 - [Real Thai Recipes](https://www.realthairecipes.com/)
 - [**Rosa's Thai**](https://rosasthai.com/recipes)
+- [**Sabai**](https://www.thaispa.ca/blog/categories/recipes)
 - [**A Taste of Thai**](https://atasteofthai.com/)
+- [Tasty Thais](https://www.tastythais.com/)
+- [Temple of Thai](https://www.templeofthai.com/)
+- [Thai Caliente](https://thaicaliente.com/)
+- [Thai Coconut](https://www.thaicoconut.com/recipes)
+- [Thai Cookbook](https://www.thaicookbook.tv/)
+- [Thaiest](https://thaiest.com/thai-food/recipes)
+- [Thai Food and Travel](http://www.thaifoodandtravel.com/recipe.html)
+- [Thai Food Heritage](http://www.thaifoodheritage.com/en/recipe_category)
+- [Thai Foodie](https://thai-foodie.com/)
+- [**Thai Food Online**](https://www.thai-food-online.co.uk/)
+- [**Thai Kitchen** (Canada)](https://www.clubhouse.ca/en-ca/thai-kitchen/recipes)
+- [**Thai Kitchen** (USA)](https://www.mccormick.com/thai-kitchen/recipes)
 - [Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)
+- [Thai Table](https://www.thaitable.com/)
 - [**Yai's Thai**](https://www.yaisthai.com/blogs/recipes)
 
 #### Ukraine
@@ -350,6 +364,9 @@
 #### Latin American
 - [Amigo Foods](https://www.amigofoods.com/)
 - [Artisan Bryan](https://www.artisanbryan.com/)
+
+#### Mexico
+- [Thai Caliente](https://thaicaliente.com/)
 
 #### Native American
 - [American Indian Health](https://aihd.ku.edu/)
@@ -976,6 +993,7 @@
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**My Vega**](https://myvega.com/blogs/recipes)
 - [**NutriAsia**](https://nutriasia.com/recipe/)
+- [**Ortega**](https://ortega.com/recipes/)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 
 ### Celebrity Chef
