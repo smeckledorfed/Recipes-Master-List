@@ -293,12 +293,24 @@
 - [Ukraine Food](https://ukrainefood.info/)
 
 #### Vietnam
+- [Cuisine of Vietnam]](https://cuisineofvietnam.com/)
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [A Peachy Plate](https://apeachyplate.com/)
+- [Simply Vietnamese](https://simplyvietnamese.wordpress.com/)
+- [Vietnamese Cuisines](https://vietnamesecuisines.com/)
+- [The Viet Dish](https://www.thevietdish.com/)
+- [Vietnamese Food](https://vietnamesefood.com.vn/vietnamese-recipes/)
+- [Viet Spices](http://vietspices.blogspot.com/)
 - [The Viet Vegan](https://thevietvegan.com/)
+- [Viet World Kitchen](https://www.vietworldkitchen.com/)
+- [YummY Vietnam](http://yummyvietnam.net/)
 
 ### Europe
 - [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
+- [Eating European](https://eatingeuropean.com/)
+- [(F)eastern Europe](https://feasterneurope.com/)
+- [Frigot Europe](https://fricoteurope.wordpress.com/)
+- [Recipes from Europe](https://www.recipesfromeurope.com/)
 
 #### France
 - [A Baking Journey](https://www.abakingjourney.com/)
@@ -487,6 +499,7 @@
 - [Beyond the Chicken Coop](https://www.beyondthechickencoop.com/)
 - [The Crooked Carrot](https://thecrookedcarrot.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
+- [Frigot Europe](https://fricoteurope.wordpress.com/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
 - [Salt in My Coffee](https://saltinmycoffee.com/)
 - [Thyme Herbal](https://www.thymeherbal.com/blog/)
