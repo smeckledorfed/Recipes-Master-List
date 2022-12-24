@@ -357,10 +357,16 @@
 
 ### Middle East
 - [Amira's Pantry](https://amiraspantry.com/)
+- [Fufu's Kitchen](https://www.fufuskitchen.com/)
 - [One Arab Vegan](https://www.onearabvegan.com/)
 
 #### Lebanon
 - [Thyme To](http://www.thymeto.com/)
+
+#### Palestine
+- [Palestine in a Dish](https://palestineinadish.com/)
+- [Taste of Palestine](https://tasteofpalestine.org/)
+- [Welcome to Palestine](https://www.welcometopalestine.com/food/)
 
 #### Turkey
 - [My Home Diary in Turkey](https://myhomediaryinturkey.blogspot.com/?m=1)
@@ -817,6 +823,8 @@
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
 - [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
 - [All Chicken Recipes](https://www.allchickenrecipes.com/)
+- [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
+- [Beef Loving Texans](https://beeflovingtexans.com/)
 - [Chicken Roost](https://www.chickenroost.com/)
 - [The Chicken Website](https://www.thechickenwebsite.com/)
 - [Easy Chicken Recipes](https://easychickenrecipes.com/)
@@ -827,6 +835,7 @@
 - [The Meatwave](https://meatwave.com/)
 - [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
+- [**Seemore Sausage Recipes**](https://eatseemore.com/blogs/recipe)
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
 ### Meat Alternatives
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
@@ -969,6 +978,11 @@
 - [bakereeve](https://bakereeve.com/)
 - [Barley & Sage](https://www.barleyandsage.com/)
 - [BBOnline](https://www.bbonline.com/recipes/)
+- [BeefSteak Veg](https://beefsteakveg.com/)
+- [Best Beef Recipes](https://bestbeefrecipes.com/)
+- [The Blue Fufu](https://thebluefufu.com/)
+- [Canada Beef](https://canadabeef.ca/recipes/)
+- [**Certified Angus Beef**](https://www.certifiedangusbeef.com/)
 - [Chicken Fried Kitchen](https://chickenfriedkitchen.com/)
 - [Chorizo & Thyme](https://chorizoandthyme.wordpress.com/)
 - [A Classic Twist](https://aclassictwist.com/)
@@ -980,7 +994,9 @@
 - [A Farmgirl's Dabbles](https://www.afarmgirlsdabbles.com/)
 - [Foodtasia](https://foodtasia.com/)
 - [A Hint of Rosemary](https://ahintofrosemary.com/)
+- [The Hint of Rosemary](https://thehintofrosemary.com/)
 - [Immaculate Bites](https://www.africanbites.com/)
+- [Immigrant's Table](https://immigrantstable.com/)
 - [It's Thyme 2 Cook](https://itsthyme2cook.com/)
 - [Killing Thyme](https://www.killingthyme.net/)
 - [A Kitchen Hoor's Adventures](https://www.akitchenhoorsadventures.com/)
