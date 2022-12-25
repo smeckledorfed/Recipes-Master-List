@@ -28,6 +28,7 @@
 - [Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)
 - [Good Cheap Eats](https://goodcheapeats.com/)
 - [Happy Money Saver](https://happymoneysaver.com/)
+- [Hot, Cheap, Easy](https://hotcheapeasy.com/)
 - [No Money, No Time](https://nomoneynotime.com.au/)
 - [Plant-Based on a Budget](https://plantbasedonabudget.com/)
 - [Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)
@@ -40,6 +41,7 @@
 - [African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)
 - [African Food Network](https://afrifoodnetwork.com/)
 - [Amuna Foods](https://amunafoods.com/)
+- [Black Foodie](https://www.blackfoodie.co/recipes/)
 - [The Canadian African](https://thecanadianafrican.com/)
 - [The Congo Cookbook](http://www.congocookbook.com/)
 - [Grubbys](https://grubbys.africa/)
@@ -93,12 +95,14 @@
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [Health Gluten-Free Asian](https://www.healthygfasian.com/)
 - [Kawaling Pinoy](https://www.kawalingpinoy.com/)
+- [Khin's Kitchen](https://khinskitchen.com/)
 - [Love Food Asia](https://www.lovefoodasia.com/en/)
 - [Low-Carbing Asian](https://www.lowcarbingasian.com/)
 - [Modern Asian Baking](https://www.modernasianbaking.com/)
 - [My Asian Kitchen NY](https://www.myasiankitchenny.com/)
 - [Nom Nom Paleo](https://nomnompaleo.com/)
 - [**NutriAsia**](https://nutriasia.com/recipe/)
+- [Patterns of Humanity](https://patternsofhumanity.com/)
 - [The Savory Chopstick](https://www.thesavorychopstick.com/)
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
@@ -107,6 +111,11 @@
 
 #### Bangladesh
 - [Afelia's Kitchen](https://www.afeliaskitchen.com/)
+- [The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)
+- [Debjanir Rannaghar](https://kitchenofdebjani.com/)
+- [Dolce and Masala](http://www.dolceandmasala.com/)
+- [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
+- [Rownak's Kitchen](https://banglarecipes.com.au/)
 
 #### China
 - [Asian Cooking Mom](https://www.asiancookingmom.com/)
@@ -129,6 +138,7 @@
 - [My Chinese Recipes](https://www.mychineserecipes.com/)
 - [My Chinese Soul Food](https://mychinesesoulfood.com/)
 - [South China Morning Post](https://www.scmp.com/cooking?)
+- [Rasa Malaysia](https://rasamalaysia.com/)
 - [Unfamiliar China](https://www.unfamiliarchina.com/)
 - [Yum Chinese Food](https://www.yumchinesefood.com/)
 - [Yum of China](https://www.yumofchina.com/)
@@ -148,6 +158,7 @@
 - [Be ExtraVegant](https://beextravegant.com/)
 - [East Indian Recipes](https://eastindianrecipes.net/)
 - [Fine Dining Indian](https://finediningindian.com/)
+- [Hari Ghotra](https://www.harighotra.co.uk/)
 - [Indian Ambrosia](https://indianambrosia.com/)
 - [India Netzone](https://www.indianetzone.com/food/)
 - [Indian Feast](https://indianfeast.tripod.com/)
@@ -155,12 +166,17 @@
 - [Indian Kitchen and Spices](https://indiankitchenandspices.com/)
 - [Indian Recipes](https://indianrecipes.com/)
 - [Indian Veggie Delight](https://www.indianveggiedelight.com/)
+- [Joo's Food](https://joosfood.com/)
 - [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
+- [A Mom's Cookbook](https://amomscookbook.com/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
+- [My Weekend Kitchen](https://www.myweekendkitchen.in/)
 - [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)
+- [Polka Puffs](https://polkapuffs.in/)
+- [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
-- [Rasa Malaysia](https://rasamalaysia.com/)
 - [Ribbons to Pasta](https://ribbonstopastas.com/)
+- [Sailu's Food](https://www.sailusfood.com/)
 - [Secret Indian Recipe](https://secretindianrecipe.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
 - [Sunera Kitchen](https://www.sunerakitchen.com/)
@@ -168,12 +184,19 @@
 - [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)
 - [Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)
 - [Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/?m=1)
+- [Zaiqa](https://www.zaiqa.com/)
 - [Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)
+##### Assam
+- [RumiCooks](http://www.rumicooks.com/)
 ##### Garo
 - [Garo Recipes/Garo Food](https://tensanz2012.wordpress.com/)
 - [Mobsea](http://mobsea.com/what-to-eat-in-meghalaya/Garo-recipe)
 ##### Goa
 - [Aromatic Essence](https://aromaticessence.co/)
+
+#### Indonesia
+##### Bali
+- [Wil and Wayan's Bali Kitchen](https://wilandwayanskitchen.com/)
 
 #### Japan
 - [Cook & Meshiagare](https://meshiagare.tokyo/)
@@ -216,7 +239,10 @@
 
 #### Middle East
 - [Amira's Pantry](https://amiraspantry.com/)
+- [Cardamom and Tea](https://cardamomandtea.com/)
 - [Fufu's Kitchen](https://www.fufuskitchen.com/)
+- [Middle East Kitchen](https://www.middleeastkitchen.com/)
+- [MidEastChef](http://www.mideastchef.com/)
 - [One Arab Vegan](https://www.onearabvegan.com/)
 
 #### Afghanistan
@@ -236,6 +262,10 @@
 
 ##### Lebanon
 - [Thyme To](http://www.thymeto.com/)
+
+##### Pakistan
+- [Food Fusion](https://www.foodfusion.com/)
+- [Zaiqa](https://www.zaiqa.com/)
 
 ##### Palestine
 - [Palestine in a Dish](https://palestineinadish.com/)
@@ -365,7 +395,10 @@
 
 #### France
 - [A Baking Journey](https://www.abakingjourney.com/)
+- [The Everyday French Chef](https://everydayfrenchchef.com/)
 - [A Lady in France](https://aladyinfrance.com/)
+- [Love French Food](https://www.lovefrenchfood.com/)
+- [Traditional French Food](https://www.traditionalfrenchfood.com/)
 
 #### Germany
 - [All Tastes German](https://alltastesgerman.com/)
@@ -390,6 +423,11 @@
 #### The Netherlands
 - [Vega Recepten](https://vegarecepten.com/en/)
 
+#### Portugal
+- [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
+##### Azoria
+- [Azorean Green Bean](https://azoreangreenbean.com/)
+
 #### Slavic
 - [Slavic Vegan](http://www.slavicvegan.com/)
 
@@ -407,6 +445,7 @@
 
 #### Spain
 - [Basco Fine Foods](https://www.bascofinefoods.com/)
+- [The Spanish Radish](https://thespanishradish.com/)
 
 #### Ukraine
 - [Anna Voloshyna](https://annavoloshyna.com/)
@@ -429,10 +468,24 @@
 - [Fav Club](https://www.favclub.org/acadian-recipes.html)
 - [Yarmouth & Acadian Shore](https://www.yarmouthandacadianshores.com/en/things-to-do/eat-drink/local-recipes/)
 
-#### Cuba
+#### Caribbean
+- [Black Foodie](https://www.blackfoodie.co/recipes/)
+- [Jehan Can Cook](https://jehancancook.com/)
+##### Aruba
+- [Menu Aruba](https://menuaruba.com/recipes)
+- [Visit Aruba](https://www.visitaruba.com/dining-and-restaurants/aruba-recipes/)
+##### Bahamas
+- [**Bahama Breeze**](https://m.bahamabreeze.com/recipes)
+##### Barbados
+- [Barbados.org](https://barbados.org/barbados-recipes.htm)
+- [Loop Barbados](https://loopbarbados.com/blogtag/food)
+- [My Bajan Cooking](https://mybajan.com/)
+- [Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)
+##### Cuba
 - [A Sassy Spoon](https://asassyspoon.com/)
-
-#### Jamaica
+##### Guyana
+- [Jehan Can Cook]((https://jehancancook.com/)
+##### Jamaica
 - [Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)
 
 #### Latin American
@@ -446,6 +499,9 @@
 - [American Indian Health](https://aihd.ku.edu/)
 
 #### USA
+
+##### Arkansas
+- [Arkansas Local Food Network](https://arkansaslocalfoodnetwork.org/category/recipes/)
 
 ##### Cajun
 - [Acadiana Table](https://acadianatable.com/)
@@ -482,6 +538,9 @@
 - [**Louisiana Seafood**](https://www.louisianaseafood.com/)
 - [Louisiana Travel](https://www.louisianatravel.com/culinary/louisiana-recipes)
 - [Louisiana Woman Blog](https://louisianawomanblog.com/)
+
+##### Soul Food
+- [Black Foodie](https://www.blackfoodie.co/recipes/)
 
 ##### South
 - [A Southern Soul](https://www.asouthernsoul.com/)
@@ -521,6 +580,10 @@
 - [Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)
 - [Paleo Scaleo](https://www.paleoscaleo.com/)
 
+### Egg-Free
+- [Polka Puffs](https://polkapuffs.in/)
+- [Priya's Curry Nation](https://www.priyascurrynation.com/)
+
 ### Gluten-Free
 - [24 Carrot Kitchen](https://24carrotkitchen.com/)
 - [Bakerita](https://www.bakerita.com/)
@@ -552,6 +615,7 @@
 - [Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)
 - [My Gluten-Free Guide](https://www.mygfguide.com/)
 - [My Gluten-Free Kitchen](https://mygluten-freekitchen.com/)
+- [My Weekend Kitchen](https://www.myweekendkitchen.in/)
 - [**Nu Life Market**](https://nulifemarket.com/gluten-free-recipes/)
 - [Paleo Gluten-Free](https://paleoglutenfree.com/)
 - [Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)
@@ -583,6 +647,7 @@
 
 ### Local
 - [Acadian Family Farm](https://www.acadianfamilyfarm.com/)
+- [Arkansas Local Food Network](https://arkansaslocalfoodnetwork.org/category/recipes/)
 - [Art of Natural Living](https://artofnaturalliving.com/)
 - [Ask the Food Geek](https://askthefoodgeek.com/)
 - [Beyond the Chicken Coop](https://www.beyondthechickencoop.com/)
@@ -799,6 +864,8 @@
 - [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
+- [My Weekend Kitchen](https://www.myweekendkitchen.in/)
+- [Priya's Curry Nation](https://www.priyascurrynation.com/)
 - [Simply Vegetarian 777](https://simplyvegetarian777.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
 - [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)
@@ -818,6 +885,7 @@
 - [Aileen Cooks](https://aileencooks.com/)
 - [Aina Yums](https://www.ainayums.com/)
 - [Air Fryer Eats](https://airfryereats.com/)
+- [All Easy Recipes](http://www.alleasyrecipes.com/)
 - [All Things Mamma](https://www.allthingsmamma.com/)
 - [Andi Anne](https://www.andianne.com/)
 - [Anncoo Journal](https://www.anncoojournal.com/)
@@ -834,11 +902,13 @@
 - [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
 - [Easy Korean Food](https://www.easykoreanfood.com/)
+- [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
 - [Easy Vegan Meal Plan](https://www.easyveganmealplan.com/)
 - [A Fork's Tale](https://www.aforkstale.com/)
 - [Friend Cheap Menu](https://www.friendcheapmenu.com/)
 - [Fun Money Mom](https://funmoneymom.com/)
 - [A Gluten-Free Plate](https://aglutenfreeplate.com/)
+- [Hot, Cheap, Easy](https://hotcheapeasy.com/)
 - [Japanese Cooking 101](https://www.japanesecooking101.com/)
 - [A Little and A Lot](https://alittleandalot.com/)
 - [A Mind Full Mom](https://amindfullmom.com/)
@@ -851,6 +921,7 @@
 - [An Oregon Cottage](https://anoregoncottage.com/)
 - [A Peachy Plate](https://apeachyplate.com/)
 - [Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)
+- [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [A Spicy Perspective](https://www.aspicyperspective.com/)
@@ -909,6 +980,7 @@
 - [**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
+- [**Curry Culture*](https://curryculture.co.uk/category/curry-recipes/)
 ### Dairy
 - [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
 - [**Turkey Hill**](https://www.turkeyhill.com/recipes)
@@ -919,12 +991,14 @@
 - [American Egg Board](https://www.incredibleegg.org/)
 ### Fruit
 - [**Acai Roots**](https://www.acairoots.com/blogs/recipes)
+- [**Holland Bottom Farm**](https://www.hollandbottomfarmllc.com/recipes)
 ### Meat
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
 - [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
 - [All Chicken Recipes](https://www.allchickenrecipes.com/)
 - [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
 - [Beef Loving Texans](https://beeflovingtexans.com/)
+- [Carne Diem](https://carnediem.blog/)
 - [**Certified Angus Beef**](https://www.certifiedangusbeef.com/)
 - [Chicken Roost](https://www.chickenroost.com/)
 - [The Chicken Website](https://www.thechickenwebsite.com/)
@@ -1111,10 +1185,13 @@
 - [Immigrant's Table](https://immigrantstable.com/)
 - [International Menu](https://internationalmenu.com/)
 - [It's Thyme 2 Cook](https://itsthyme2cook.com/)
+- [Ketchup With Linda](https://ketchupwithlinda.com/)
 - [Killing Thyme](https://www.killingthyme.net/)
 - [A Kitchen Hoor's Adventures](https://www.akitchenhoorsadventures.com/)
 - [The Kitchen Scholar](https://www.thekitchenscholar.com/recipes)
+- [Kitchen With Amna](http://www.kitchenwithamna.com/)
 - [Kimchi and Beans](http://www.kimchiandbeans.com/)
+- [Life of Spice](https://www.lifeofspiceboulder.com/recipes)
 - [Lynn and Russ](https://lynnandruss.com/)
 - [My Own Sweet Thyme](https://myownsweetthyme.com/)
 - [Neil's Healthy Meals](https://neilshealthymeals.com/)
@@ -1135,11 +1212,13 @@
 ### Brand
 - [**Anthony's Goods**](https://anthonysgoods.com/pages/recipes)
 - [**Back of the Box Recipes**](http://www.backofthebox.com/)
+- [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
 - [**Judee's**](https://www.judeesfromscratch.com/blogs/recipes)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**My Vega**](https://myvega.com/blogs/recipes)
 - [**NutriAsia**](https://nutriasia.com/recipe/)
 - [**Ortega**](https://ortega.com/recipes/)
+- [**Spice Tree Organics**](http://www.spicetreeorganics.com/recipes)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 
 ### Celebrity Chef
@@ -1157,3 +1236,4 @@
 - [New York Times Cooking](https://cooking.nytimes.com/)
 - [Plain Chicken](https://www.plainchicken.com/)
 - [The Singapore Women's Weekly](https://www.womensweekly.com.sg/food/)
+- [Very Good Recipes](https://verygoodrecipes.com/)
