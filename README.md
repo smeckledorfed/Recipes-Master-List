@@ -928,7 +928,7 @@
 - [My Halal Restaurants](https://myhalalrestaurants.com/category/halal-recipes/)
 - [**Zabiha Halal**](https://zabihahalal.com/recipes/)
 
-### Keto
+### Keto/Low-Carb
 - [All Day I Dream About Food](https://alldayidreamaboutfood.com/)
 - [All Nutritious](https://allnutritious.com/)
 - [The Best Keto Recipes](https://thebestketorecipes.com/)
@@ -949,10 +949,19 @@
 - [Kiss My Keto](https://blog.kissmyketo.com/recipes/)
 - [Life Made Keto](https://lifemadeketo.com/)
 - [Lovin' It Keto](https://www.lovinitketo.com/)
+- [Low-Carb Africa](https://lowcarbafrica.com/)
+- [Low-Carbing Asian](https://www.lowcarbingasian.com/)
+- [Low Carb Love](https://www.lowcarblove.com/)
+- [Low-Carb Maven](https://www.lowcarbmaven.com/)
+- [Low-Carb Nikki](https://www.lowcarbnikki.com/)
+- [Low-Carb Yum](https://lowcarbyum.com/)
 - [My Keto Kitchen](https://www.myketokitchen.com/)
 - [My Ketogenic Kitchen](https://www.myketogenickitchen.com/)
 - [Perfect Keto](https://perfectketo.com/recipes/)
 - [Queen Keto](https://queenketo.com/)
+- [Step Away from the Carbs](https://stepawayfromthecarbs.com/)
+- [Tasty Low-Carb](https://www.tasty-lowcarb.com/)
+- [That Low-Carb Life](https://thatlowcarblife.com/)
 - [Yummy Healthy Keto](https://yummyhealthyketo.com/)
 
 ### Kosher
@@ -981,11 +990,6 @@
 - [Salt in My Coffee](https://saltinmycoffee.com/)
 - [Thyme Herbal](https://www.thymeherbal.com/blog/)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
-
-### Low-Carb
-- (all websites in the keto section)
-- [Low-Carb Africa](https://lowcarbafrica.com/)
-- [Low-Carbing Asian](https://www.lowcarbingasian.com/)
 
 ### Low-FODMAP
 - [Bay's Kitchen](https://www.bayskitchen.com/)
@@ -1418,6 +1422,7 @@
 - [5 Boys Baker](https://www.5boysbaker.com/)
 - [5th Avenue Cake Designs](https://5thavenuecakedesigns.com/)
 - [Also the Crumbs Please](https://www.alsothecrumbsplease.com/)
+- [Amy's Healthy Baking](https://amyshealthybaking.com/)
 - [Apt. 2B Baking Co.](http://www.apt2bbakingco.com/)
 - [A Sparkle of Genius](https://www.asparkleofgenius.com/)
 - [Bake at 350](https://www.bakeat350.net/)
@@ -1485,13 +1490,16 @@
 - [40 Aprons](https://40aprons.com/)
 - [196 Flavors](https://www.196flavors.com/)
 - [1001 Voyages Gourmands](https://1001voyagesgourmands.com/)
+- [Abbey's Kitchen](https://www.abbeyskitchen.com/)
 - [Adamant Kitchen](https://adamantkitchen.com/)
 - [Adam Liaw](https://adamliaw.com/)
 - [Add a Pinch](https://addapinch.com/)
 - [Adore Foods](https://adorefoods.com/)
 - [An Affair from the Heart](https://anaffairfromtheheart.com/)
+- [Aggie's Kitchen](https://aggieskitchen.com/)
 - [Ahead of Thyme](https://www.aheadofthyme.com/)
 - [Alexandra's Kitchen](https://alexandracooks.com/)
+- [Alexa's Cuisine](https://www.alexascuisine.com/)
 - [All Roads Lead to the Kitchen](https://www.allroadsleadtothe.kitchen/)
 - [All She Cooks](https://allshecooks.com/)
 - [All Tasteful Recipes](https://alltasteful.com/)
@@ -1536,6 +1544,7 @@
 - [Immigrant's Table](https://immigrantstable.com/)
 - [International Menu](https://internationalmenu.com/)
 - [It's Thyme 2 Cook](https://itsthyme2cook.com/)
+- [Kalejunkie](https://kalejunkie.com/)
 - [Ketchup With Linda](https://ketchupwithlinda.com/)
 - [Killing Thyme](https://www.killingthyme.net/)
 - [A Kitchen Hoor's Adventures](https://www.akitchenhoorsadventures.com/)
@@ -1552,6 +1561,7 @@
 - [Season and Thyme](https://seasonandthyme.com/)
 - [A Simple Palate](https://asimplepalate.com/)
 - [Sweat Tea and Thyme](https://www.sweetteaandthyme.com/)
+- [A Sweet Pea Chef](https://www.asweetpeachef.com/)
 - [Tamarind & Thyme](https://www.tamarindnthyme.com/)
 - [Taming of the Spoon](https://tamingofthespoon.com/)
 - [A Taste of Koko](https://www.atasteofkoko.com/)
