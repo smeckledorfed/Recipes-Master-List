@@ -50,6 +50,9 @@
 - [Pan-African](https://pan-african.net/recipe/)
 - [West Africa Cooks](https://www.westafricacooks.com/africa/)
 
+#### Burkina Faso
+- [Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)
+
 #### Cameroon
 - [Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)
 
@@ -126,6 +129,10 @@
 - [Dolce and Masala](http://www.dolceandmasala.com/)
 - [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
 - [Rownak's Kitchen](https://banglarecipes.com.au/)
+
+#### Bhutan
+- [The Bhutanese Food Site](https://thinley.tripod.com/recipe/)
+- [My Bhutan](https://blog.mybhutan.com/food)
 
 #### Burma
 - [Burmalicious by Suu](https://www.theburmalicious.com/)
@@ -458,6 +465,12 @@
 - [Viet World Kitchen](https://www.vietworldkitchen.com/)
 - [YummY Vietnam](http://yummyvietnam.net/)
 
+### Central America
+#### Costa Rica
+- [Costa Rica.com](https://www.costarica.com/recipes/)
+- [Costa Rica.org](https://costarica.org/food/recipes/)
+- [Recipes from Costa Rica](https://www.recipesfromcostarica.com/)
+
 ### Europe
 - [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
 - [Eating European](https://eatingeuropean.com/)
@@ -465,20 +478,69 @@
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
 - [Recipes from Europe](https://www.recipesfromeurope.com/)
 
+#### Albania
+- [My Albanian Food](https://www.myalbanianfood.com/)
+
+#### Andorra
+- [Visit Andorra](https://visitandorra.com/en/indigenous-products/andorran-recipes/)
+
 #### Basque Region
 - [Buber's Basque Page](https://www.buber.net/Basque/Food/Recipes/)
 - [Euskal Kazeta](https://euskalkazeta.com/category/culture/food-2/recipes/)
 
+#### Bulgaria
+- [Find Bulgarian Food](https://www.findbgfood.com/home)
+
+#### Croatia
+- [Croatia Honestly](https://travelhonestly.com/croatian-recipes/)
+- [Croatia Fest](http://www.croatiafest.org/recipes/)
+- [Croatian Food](https://croatianfood.eu/)
+- [Croatia Traveller](https://www.croatiatraveller.com/Recipes/)
+
+#### Cyprus
+- [Cyprus Island](https://www.cyprusisland.net/cyprus-cuisine)
+- [My Cypriot Life](https://mycypriotlife.wordpress.com/)
+
+#### Czech Republic
+- [Czech Cookbook](https://www.czechcookbook.com/)
+- [Cook Like Czechs](https://www.cooklikeczechs.com/)
+
+#### Denmark
+- [Danish Food Lovers](https://www.danishfoodlovers.com/)
+- [Danish Net.com](https://www.danishnet.com/food/)
+
+#### Finland
+- [Cooking Finland](http://cookingfinland.blogspot.com/)
+- [Her Finland](https://herfinland.com/category/food/)
+- [This is Finland](https://finland.fi/tag/cuisine/)
+
 #### France
 - [A Baking Journey](https://www.abakingjourney.com/)
 - [The Everyday French Chef](https://everydayfrenchchef.com/)
+- [France Just For You](https://www.france-justforyou.com/blog/french-food-wine)
+- [France This Way](https://www.francethisway.com/frenchfood.php)
+- [French Cooking Acadamy](https://www.thefrenchcookingacademy.com/recipes)
+- [French Revolution](http://www.frenchrevolutionfood.com/)
+- [French Women Don't Get Fat](https://frenchwomendontgetfat.com/)
+- [Interfrance](http://www.interfrance.com/cuisines_en.html)
 - [A Lady in France](https://aladyinfrance.com/)
+- [Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)
 - [Love French Food](https://www.lovefrenchfood.com/)
+- [Pardon Your French](https://www.pardonyourfrench.com/)
+- [Simple French Cooking](https://www.simplefrenchcooking.com/)
+- [Snippets of Paris](https://snippetsofparis.com/category/french-food/)
+- [Taste France](https://www.tastefrance.com/us/recipes)
 - [Traditional French Food](https://www.traditionalfrenchfood.com/)
 
 #### Germany
 - [All Tastes German](https://alltastesgerman.com/)
+- [German Food Guide](http://www.germanfoodguide.com/cooking.cfm)
+- [German Foods](https://germanfoods.org/)
+- [**MixMarkt**](https://www.mixmarkt.eu/en/germany/recipes/)
 - [My Best German Recipes](https://mybestgermanrecipes.com/)
+- [My German Recipes](https://mygerman.recipes/)
+- [My German Table](https://www.mygermantable.com/)
+- [Quick German Recipes](https://www.quick-german-recipes.com/)
 - [A Sausage Has Two](https://www.asausagehastwo.com/)
 - [Thomas Sixt](https://thomassixt.de/en/)
 ##### Bavaria
@@ -486,6 +548,7 @@
 - [**Bavarian Meats**](https://bavarianmeats.com/)
 
 #### Greece
+- [Greece High Definition](https://www.greecehighdefinition.com/recipes)
 - [The Greek Vegan](https://thegreekvegan.com/)
 
 #### Italy
@@ -502,23 +565,59 @@
 ##### Abruzzo
 - [Life in Abruzzo](https://lifeinabruzzo.com/eating-drinking/food-recipes/)
 
+#### Latvia
+- [Latvian Eats](https://latvianeats.com/)
+
+#### Lithuania
+- [Lithuanian in the USA](https://lithuanianintheusa.com/)
+
+#### Malta
+- [I Love Food.com.mt](https://www.ilovefood.com.mt/maltese-cuisine/)
+- [Maltese Cuisine](https://maltesecuisine.com/)
+- [A Maltese Mouthful](https://www.amaltesemouthful.com/)
+
+#### Mediterranean
+- [Aegean Delight](https://aegeandelight.com/)
+- [Amira's Pantry](https://amiraspantry.com/)
+- [The Matbakh](https://thematbakh.com/)
+
 #### The Netherlands
+- [Dutch Food Heritage](https://www.dutchfoodheritage.com/)
 - [Vega Recepten](https://vegarecepten.com/en/)
 
-##### Norway
+#### Norway
 - [Arctic Grub](https://arcticgrub.com/)
+
+#### Poland
+- [My Polish Cuisine](https://mypolishcuisine.com/)
+- [Polish Foodies](https://polishfoodies.com/)
+- [The Polish Housewife](https://polishhousewife.com/)
+- [Polish Your Kitchen](https://www.polishyourkitchen.com/)
 
 #### Portugal
 - [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
+- [Eu Amo Portugal](https://euamoportugal.com/en/recipes)
+- [Food from Portgual](https://www.foodfromportugal.com/)
+- [We Travel Portugal](https://wetravelportugal.com/category/recipes/)
 ##### Azoria
 - [Azorean Green Bean](https://azoreangreenbean.com/)
 
+#### Romania
+- [Delicious Romania](http://www.deliciousromania.com/category/recipes/)
+- [Romanian Cook](https://romaniancook.com/)
+- [Romanian Food Blog](http://romanianfoodblog.blogspot.com/)
+
+#### Spain
+- [Basco Fine Foods](https://www.bascofinefoods.com/)
+- [The Spanish Radish](https://thespanishradish.com/)
+
+#### Sweden
+- [Swedish Freak](https://www.swedishfreak.com/)
+
 #### Slavic
 - [Slavic Vegan](http://www.slavicvegan.com/)
-
 ##### Belarus
 - [Belarus.by](https://www.belarus.by/en/about-belarus/cuisine/belarusian-recipes)
-
 ##### Russia
 - [Babushka Cooking](https://www.babushkacooking.com/)
 - [Meet Russia](https://meetrussia.online/russian-food/)
@@ -527,26 +626,18 @@
 - [Russian Recipe Book](https://russianrecipebook.com/)
 - [Russian Spirit](https://ruspirit.ru/en/russain_food_with_recipes)
 - [Russland Journal](https://www.russlandjournal.de/en/russian-recipes/)
-
 ##### Ukraine
 - [Anna Voloshyna](https://annavoloshyna.com/)
 - [Authentic Ukraine](https://authenticukraine.com.ua/en/food)
 - [Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)
 - [Ukraine Food](https://ukrainefood.info/)
 
-#### Spain
-- [Basco Fine Foods](https://www.bascofinefoods.com/)
-- [The Spanish Radish](https://thespanishradish.com/)
-
-### Mediterranean
-- [Aegean Delight](https://aegeandelight.com/)
-- [Amira's Pantry](https://amiraspantry.com/)
-- [The Matbakh](https://thematbakh.com/)
-
 ### North America
 
 #### Belize
+- [Belize.com](https://belize.com/belizean-recipes/)
 - [Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)
+- [**Grace Kennedy Belize**](https://www.gracekennedybelize.com/)
 
 #### Canada
 - [Canada's Food Island](https://canadasfoodisland.ca/)
@@ -571,7 +662,16 @@
 - [My Bajan Cooking](https://mybajan.com/)
 - [Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)
 ##### Cuba
+- [Cuban in the Midwest](http://cubaninthemidwest.blogspot.com/)
+- [Let's Eat Cuban](https://letseatcuban.com/)
+- [My Big Fat Cuban Family](https://www.mybigfatcubanfamily.com/)
 - [A Sassy Spoon](https://asassyspoon.com/)
+- [Three Guys from Miami](https://icuban.com/food/index.html)
+##### Dominica
+- [Dominica Gourmet](https://dominicagourmet.com/)
+##### Dominican Republic
+- [Dominican Cooking](https://www.dominicancooking.com/)
+- [My Dominican Kitchen](https://mydominicankitchen.com/)
 ##### Guyana
 - [Jehan Can Cook]((https://jehancancook.com/)
 ##### Jamaica
@@ -642,6 +742,12 @@
 
 ### Oceania
 
+#### Australia
+- [Australia's Best Recipes](https://www.bestrecipes.com.au/)
+
+#### Fiji
+- [Savoring Fiji](https://www.savoringfiji.com/)
+
 #### Guam
 - [Annie's Chamorro Kitchen](https://www.annieschamorrokitchen.com/)
 
@@ -650,6 +756,22 @@
 - [Anava Samoana](https://anavasamoana.com/section/samoanfood/)
 
 ### South America
+
+#### Argentina
+- [Argentine Chef](https://www.argentinechef.com/recipes-gral/)
+
+#### Bolivia
+- [Bolivian Cookbook](https://boliviancookbook.com/)
+
+#### Brazil
+- [Best Brazilian Recipes](http://bestbrazilianrecipes.com/)
+- [Brazilian Kitchen Abroad](https://braziliankitchenabroad.com/)
+- [Eat Rio](https://eatrio.net/brazilian-recipes)
+- [Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)
+- [I Heart Brazil](https://www.iheartbrazil.com/category/foods-and-drinks/)
+
+#### Chile
+- [Chilean Food and Garden](https://www.chileanfoodandgarden.com/)
 
 #### Colombia
 - [Vecina Vegeteriana](https://vecinavegetariana.com/)
@@ -1022,6 +1144,7 @@
 - [A Peachy Plate](https://apeachyplate.com/)
 - [Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)
 - [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)
+- [Quick German Recipes](https://www.quick-german-recipes.com/)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [A Spicy Perspective](https://www.aspicyperspective.com/)
