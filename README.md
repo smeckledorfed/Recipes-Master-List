@@ -49,6 +49,9 @@
 - [Pan-African](https://pan-african.net/recipe/)
 - [West Africa Cooks](https://www.westafricacooks.com/africa/)
 
+#### Cameroon
+- [Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)
+
 #### Egypt
 - [Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)
 - [Food of Egypt](https://www.foodofegypt.com/)
@@ -71,6 +74,7 @@
 #### Nigeria
 - [All Nigerian Recipes](https://www.allnigerianrecipes.com/)
 - [Nigerian Food TV](https://www.nigerianfoodtv.com/)
+- [Nigerian Lazy Chef](https://www.nigerianlazychef.com/)
 - [Vegan Nigerian](https://www.vegannigerian.com/)
 
 #### South Africa
@@ -107,6 +111,7 @@
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Taste Asian Food](https://tasteasianfood.com/)
+- [That Spicy Chick](https://thatspicychick.com/)
 - [Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)
 
 #### Bangladesh
@@ -116,6 +121,13 @@
 - [Dolce and Masala](http://www.dolceandmasala.com/)
 - [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
 - [Rownak's Kitchen](https://banglarecipes.com.au/)
+
+#### Burma
+- [Burmalicious by Suu](https://www.theburmalicious.com/)
+
+#### Cambodia
+- [Cambodia Recipe](https://cambodiarecipe.com/)
+- [Chef Nak](https://www.chefnak.com/recipes)
 
 #### China
 - [Asian Cooking Mom](https://www.asiancookingmom.com/)
@@ -140,6 +152,7 @@
 - [South China Morning Post](https://www.scmp.com/cooking?)
 - [Rasa Malaysia](https://rasamalaysia.com/)
 - [Unfamiliar China](https://www.unfamiliarchina.com/)
+- [Yan Can Cook](https://yancancook.com/home/)
 - [Yum Chinese Food](https://www.yumchinesefood.com/)
 - [Yum of China](https://www.yumofchina.com/)
 ##### Sichuan
@@ -147,6 +160,7 @@
 - [Yi's Sichuan Kitchen](https://sichuankitchenrecipes.com/)
 ##### Shanghai
 - [Cook in Shanghai](https://www.cookinshanghai.com/recipes/)
+- [**The Mala Market**](https://blog.themalamarket.com/)
 
 #### Hong Kong
 - [The Hong Kong Cookery](https://www.thehongkongcookery.com/)
@@ -213,6 +227,7 @@
 - [Japan Taste](https://japan-taste.com/)
 - [The Japantry](https://thejapantry.com/)
 - [JP Foodie](https://japanesefoods.net/)
+- [Just One Cookbook](https://www.justonecookbook.com/)
 - [Kyoto Foodies](https://kyotofoodie.com/category/recipe/)
 - [RecipeTin Japan](https://japan.recipetineats.com/)
 - [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
@@ -374,7 +389,7 @@
 - [**Yai's Thai**](https://www.yaisthai.com/blogs/recipes)
 
 #### Vietnam
-- [Cuisine of Vietnam]](https://cuisineofvietnam.com/)
+- [Cuisine of Vietnam](https://cuisineofvietnam.com/)
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [A Peachy Plate](https://apeachyplate.com/)
 - [Simply Vietnamese](https://simplyvietnamese.wordpress.com/)
@@ -393,6 +408,10 @@
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
 - [Recipes from Europe](https://www.recipesfromeurope.com/)
 
+#### Basque Region
+- [Buber's Basque Page](https://www.buber.net/Basque/Food/Recipes/)
+- [Euskal Kazeta](https://euskalkazeta.com/category/culture/food-2/recipes/)
+
 #### France
 - [A Baking Journey](https://www.abakingjourney.com/)
 - [The Everyday French Chef](https://everydayfrenchchef.com/)
@@ -402,7 +421,12 @@
 
 #### Germany
 - [All Tastes German](https://alltastesgerman.com/)
+- [My Best German Recipes](https://mybestgermanrecipes.com/)
 - [A Sausage Has Two](https://www.asausagehastwo.com/)
+- [Thomas Sixt](https://thomassixt.de/en/)
+##### Bavaria
+- [Bavarian Kitchen](http://www.bavariankitchen.com/)
+- [**Bavarian Meats**](https://bavarianmeats.com/)
 
 #### Greece
 - [The Greek Vegan](https://thegreekvegan.com/)
@@ -415,6 +439,7 @@
 - [Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)
 - [Maria Liberati](https://marialiberati.com/blog2/recipes-articles/)
 - [The Monday Pasta Club](https://www.themondaypastaclub.com/)
+- [Nonna Box](https://www.nonnabox.com/recipes/)
 - [Pasta Grammar](https://www.pastagrammar.com/blog)
 - [The Pasta Project](https://www.the-pasta-project.com/)
 ##### Abruzzo
@@ -422,6 +447,9 @@
 
 #### The Netherlands
 - [Vega Recepten](https://vegarecepten.com/en/)
+
+##### Norway
+- [Arctic Grub](https://arcticgrub.com/)
 
 #### Portugal
 - [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
@@ -431,8 +459,8 @@
 #### Slavic
 - [Slavic Vegan](http://www.slavicvegan.com/)
 
-##### Norway
-- [Arctic Grub](https://arcticgrub.com/)
+##### Belarus
+- [Belarus.by](https://www.belarus.by/en/about-belarus/cuisine/belarusian-recipes)
 
 ##### Russia
 - [Babushka Cooking](https://www.babushkacooking.com/)
@@ -443,14 +471,15 @@
 - [Russian Spirit](https://ruspirit.ru/en/russain_food_with_recipes)
 - [Russland Journal](https://www.russlandjournal.de/en/russian-recipes/)
 
+##### Ukraine
+- [Anna Voloshyna](https://annavoloshyna.com/)
+- [Authentic Ukraine](https://authenticukraine.com.ua/en/food)
+- [Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)
+- [Ukraine Food](https://ukrainefood.info/)
+
 #### Spain
 - [Basco Fine Foods](https://www.bascofinefoods.com/)
 - [The Spanish Radish](https://thespanishradish.com/)
-
-#### Ukraine
-- [Anna Voloshyna](https://annavoloshyna.com/)
-- [Authentic Ukraine](https://authenticukraine.com.ua/en/food)
-- [Ukraine Food](https://ukrainefood.info/)
 
 ### Mediterranean
 - [Aegean Delight](https://aegeandelight.com/)
@@ -458,6 +487,9 @@
 - [The Matbakh](https://thematbakh.com/)
 
 ### North America
+
+#### Belize
+- [Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)
 
 #### Canada
 - [Canada's Food Island](https://canadasfoodisland.ca/)
@@ -996,6 +1028,7 @@
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
 - [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
 - [All Chicken Recipes](https://www.allchickenrecipes.com/)
+- [**Bavarian Meats**](https://bavarianmeats.com/)
 - [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
 - [Beef Loving Texans](https://beeflovingtexans.com/)
 - [Carne Diem](https://carnediem.blog/)
@@ -1014,6 +1047,8 @@
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
 ### Meat Alternatives
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
+### Oil
+- [Bodo Oil](https://bodo-oil.com/)
 ### Pasta/Noodles
 - [**Asha Dry Noodle](https://ashadrynoodle.com/blogs/recipes)
 - [**Miracle Noodle**](https://miraclenoodle.com/pages/recipe-cookbook)
@@ -1193,6 +1228,7 @@
 - [Kimchi and Beans](http://www.kimchiandbeans.com/)
 - [Life of Spice](https://www.lifeofspiceboulder.com/recipes)
 - [Lynn and Russ](https://lynnandruss.com/)
+- [Matching Food and Wine](https://www.matchingfoodandwine.com/news/recipes/)
 - [My Own Sweet Thyme](https://myownsweetthyme.com/)
 - [Neil's Healthy Meals](https://neilshealthymeals.com/)
 - [Nomad with Cookies](https://www.nomadwithcookies.com/)
@@ -1201,6 +1237,7 @@
 - [A Simple Palate](https://asimplepalate.com/)
 - [Sweat Tea and Thyme](https://www.sweetteaandthyme.com/)
 - [Tamarind & Thyme](https://www.tamarindnthyme.com/)
+- [Taming of the Spoon](https://tamingofthespoon.com/)
 - [A Taste of Koko](https://www.atasteofkoko.com/)
 - [Tasty Arbuz](https://arbuz.com/)
 - [Thyme and Love](https://thymeandlove.com/)
