@@ -852,19 +852,26 @@
 
 ### Diabetic
 - [American Diabetes Association](https://diabetes.org/healthy-living/recipes-nutrition)
+- [Diabetic Gourmet](https://diabeticgourmet.com/)
+- [Diabetic Kitchen](https://diabetickitchen.com/recipes/)
 - [Diabetes Meal Plans](https://diabetesmealplans.com/)
 - [Diabetes Self-Management](https://www.diabetesselfmanagement.com/recipes/)
 - [Diabetes Strong](https://diabetesstrong.com/)
+- [Everyday Diabetic Recipes](https://www.everydaydiabeticrecipes.com/)
+- [The Gestational Diabetic](https://thegestationaldiabetic.com/)
+- [The Naked Diabetic](https://thenakeddiabetic.com/)
 - [typefoodie](https://www.typefoodie.com/)
 
 ### Dairy-Free
-- (all websites in vegan section)
+- (all websites in the vegan section)
 - [24 Carrot Kitchen](https://24carrotkitchen.com/)
 - [Bakerita](https://www.bakerita.com/)
+- [Go Dairy-Free](https://www.godairyfree.org/)
 - [Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)
 - [Paleo Scaleo](https://www.paleoscaleo.com/)
 
 ### Egg-Free
+- (all websites in the vegan section)
 - [Polka Puffs](https://polkapuffs.in/)
 - [Priya's Curry Nation](https://www.priyascurrynation.com/)
 
@@ -901,6 +908,7 @@
 - [My Gluten-Free Kitchen](https://mygluten-freekitchen.com/)
 - [My Weekend Kitchen](https://www.myweekendkitchen.in/)
 - [**Nu Life Market**](https://nulifemarket.com/gluten-free-recipes/)
+- [Only Gluten-Free Recipes](https://onlyglutenfreerecipes.com/)
 - [Paleo Gluten-Free](https://paleoglutenfree.com/)
 - [Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)
 - [Paleo Newbie](https://www.paleonewbie.com/)
@@ -912,23 +920,53 @@
 
 ### Halal
 - [Easy Halal Recipes](https://www.easyhalalrecipes.com/)
+- [Halal Girl About Town](https://www.halalgirlabouttown.com/category/hgat-life/recipes/)
 - [Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)
-
-### Healthy
-- [Abbey's Kitchen](https://www.abbeyskitchen.com/)
-- [Aggie's Kitchen](https://aggieskitchen.com/)
-- [Alexa's Cuisine](https://www.alexascuisine.com/)
-- [Amy's Healthy Baking](https://amyshealthybaking.com/)
-- [Kalejunkie](https://kalejunkie.com/)
-- [A Sweet Pea Chef](https://www.asweetpeachef.com/)
+- [Have Halal Will Travel](https://www.havehalalwilltravel.com/category/travel-guide/recipes)
+- [**Midamar Halal**](https://midamarhalal.com/blogs/recipes)
+- [My Big Fat Halal Blog](http://www.mybigfathalalblog.com/)
+- [My Halal Restaurants](https://myhalalrestaurants.com/category/halal-recipes/)
+- [**Zabiha Halal**](https://zabihahalal.com/recipes/)
 
 ### Keto
 - [All Day I Dream About Food](https://alldayidreamaboutfood.com/)
 - [All Nutritious](https://allnutritious.com/)
+- [The Best Keto Recipes](https://thebestketorecipes.com/)
+- [Better Than Bread Keto](https://betterthanbreadketo.com/)
+- [Cast Iron Keto](https://www.castironketo.net/)
+- [Charlie Foundation](https://charliefoundation.org/keto-recipes/)
+- [Fearless Keto](https://fearlessketo.com/)
+- [Hip 2 Keto](https://hip2keto.com/)
+- [**Keto and Co.**](https://ketoand.co/blogs/recipes)
+- [**Keto Farms**](https://ketofarms.com/blogs/recipes)
+- [Keto Focus](https://www.ketofocus.com/)
+- [**Keto Foods](https://ketofoods.com/blogs/recipes)
+- [KETohh](https://ketohh.com/)
+- [Keto in Pearls](https://ketoinpearls.com/)
+- [Keto Karma](https://ketokarma.com/)
+- [Keto Meals and Recipes](https://www.ketomealsandrecipes.com/)
+- [Keto Size Me](https://ketosizeme.com/)
+- [Kiss My Keto](https://blog.kissmyketo.com/recipes/)
+- [Life Made Keto](https://lifemadeketo.com/)
+- [Lovin' It Keto](https://www.lovinitketo.com/)
+- [My Keto Kitchen](https://www.myketokitchen.com/)
+- [My Ketogenic Kitchen](https://www.myketogenickitchen.com/)
+- [Perfect Keto](https://perfectketo.com/recipes/)
+- [Queen Keto](https://queenketo.com/)
+- [Yummy Healthy Keto](https://yummyhealthyketo.com/)
 
 ### Kosher
 - (all websites in vegetarian & vegan sections)
 - [Batel's Kitchen](https://batelskitchen.com/)
+- [Kosher.com](https://www.kosher.com/)
+- [Kosher Cooking](http://www.koshercooking.com/)
+- [Kosher Delight](https://kosherdelight.com/)
+- [Kosher Everyday](https://koshereveryday.com/)
+- [Kosher Eye](https://koshereye.com/)
+- [Kosher in the Kitch](https://www.kosherinthekitch.com/)
+- [Leh Cooks Kosher](https://www.leahcookskosher.com/)
+- [OU Kosher](https://oukosher.org/recipes/)
+- [**Western Kosher**](https://www.westernkosher.com/los-angeles-pico/recipes)
 
 ### Local
 - [Acadian Family Farm](https://www.acadianfamilyfarm.com/)
@@ -945,6 +983,7 @@
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 
 ### Low-Carb
+- (all websites in the keto section)
 - [Low-Carb Africa](https://lowcarbafrica.com/)
 - [Low-Carbing Asian](https://www.lowcarbingasian.com/)
 
@@ -976,6 +1015,9 @@
 - [Paleo Scaleo](https://www.paleoscaleo.com/)
 - [That Paleo Couple](https://thatpaleocouple.com/)
 - [Whitty Paleo](https://whittypaleo.com/)
+
+### Pregnancy
+- [The Gestational Diabetic](https://thegestationaldiabetic.com/)
 
 ### Skincare
 - [Happy Skin Kitchen](https://www.happyskinkitchen.com/)
@@ -1043,6 +1085,7 @@
 - [Liv Vegan Strong](https://www.livveganstrong.com/)
 - [Loving It Vegan](https://lovingitvegan.com/)
 - [Lucy & Lentils](https://lucyandlentils.co.uk/)
+- [Make It Dairy-Free](https://makeitdairyfree.com/)
 - [Making Thyme for Health](https://www.makingthymeforhealth.com/)
 - [Messy Vegan Cook](https://www.messyvegancook.com/)
 - [Munchmeals by Janet](https://munchmealsbyjanet.com/)
