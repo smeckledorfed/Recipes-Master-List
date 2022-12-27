@@ -933,8 +933,10 @@
 - [All Nutritious](https://allnutritious.com/)
 - [The Best Keto Recipes](https://thebestketorecipes.com/)
 - [Better Than Bread Keto](https://betterthanbreadketo.com/)
+- [Carb Manager](https://www.carbmanager.com/recipes/)
 - [Cast Iron Keto](https://www.castironketo.net/)
 - [Charlie Foundation](https://charliefoundation.org/keto-recipes/)
+- [Ditch the Carbs](https://www.ditchthecarbs.com/)
 - [Fearless Keto](https://fearlessketo.com/)
 - [Hip 2 Keto](https://hip2keto.com/)
 - [**Keto and Co.**](https://ketoand.co/blogs/recipes)
@@ -946,6 +948,7 @@
 - [Keto Karma](https://ketokarma.com/)
 - [Keto Meals and Recipes](https://www.ketomealsandrecipes.com/)
 - [Keto Size Me](https://ketosizeme.com/)
+- [Kicking Carbs](https://kicking-carbs.com/)
 - [Kiss My Keto](https://blog.kissmyketo.com/recipes/)
 - [Life Made Keto](https://lifemadeketo.com/)
 - [Lovin' It Keto](https://www.lovinitketo.com/)
@@ -993,8 +996,15 @@
 
 ### Low-FODMAP
 - [Bay's Kitchen](https://www.bayskitchen.com/)
+- [Casa de Sante](https://casadesante.com/blogs/low-fodmap-meal-plans-low-fodmap-recipes)
+- [Fit Fab FODMAP](https://www.fitfabfodmap.com/category/all-recipes/)
+- [FODMAP Everyday](https://www.fodmapeveryday.com/)
+- [FODMAP Formula](https://www.fodmapformula.com/)
+- [FODMAP Friendly](https://fodmapfriendly.com/)
+- [Fun Without FODMAPs](https://funwithoutfodmaps.com/)
 - [The Irritable Vegan](https://www.theirritablevegan.com/)
 - [A Little Bit Yummy](https://alittlebityummy.com/)
+- [Rachel Paul's Food](https://www.rachelpaulsfood.com/low-fodmap-blog/)
 
 ### Oil-Free
 - [Fat-Free Vegan Kitchen](https://blog.fatfreevegan.com/)
@@ -1021,13 +1031,23 @@
 - [Whitty Paleo](https://whittypaleo.com/)
 
 ### Pregnancy
+- [Baby Center](https://www.babycenter.com/pregnancy/diet-and-fitness#subtopic-pregnancy-best-foods)
+- [Baby Centre](https://www.babycentre.co.uk/c25004191/pregnancy-recipes)
+- [Baby Chick](https://www.baby-chick.com/category/pregnancy/recipes-pregnancy/)
+- [Birth Eat Love](https://www.birtheatlove.com/pregnancy-recipes/)
 - [The Gestational Diabetic](https://thegestationaldiabetic.com/)
+- [Ovia Health](https://www.oviahealth.com/blog/pregnancy/pregnancy-nutrition/)
 
 ### Skincare
+- [Beach Beauty Bar](https://beachbeautybar.com/category/acne-safe-recipes)
+- [Glow by Marlowe](https://mariamarlowe.com/recipes/)
 - [Happy Skin Kitchen](https://www.happyskinkitchen.com/)
 
 ### Sugar-Free
 - [Bakerita](https://www.bakerita.com/)
+- [Make Me Sugar-Free](https://www.makemesugarfree.com/)
+- [My Sugar-Free Journey](https://mysugarfreejourney.com/)
+- [My Sugar-Free Kitchen](https://www.mysugarfreekitchen.com/)
 
 ### Vegan
 - [101 Cookbooks](https://www.101cookbooks.com/)
@@ -1115,6 +1135,7 @@
 - [School Night Vegan](https://schoolnightvegan.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [Simple Veganista](https://simple-veganista.com/)
+- [Simple Veganizer](https://simpleveganizer.com/)
 - [Slavic Vegan](http://www.slavicvegan.com/)
 - [**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)
 - [Soulful Vegan](https://soulfulvegan.com/)
@@ -1227,6 +1248,7 @@
 - [Air Fryer Eats](https://airfryereats.com/)
 - [All Easy Recipes](http://www.alleasyrecipes.com/)
 - [All Things Mamma](https://www.allthingsmamma.com/)
+- [Amazing Food Made Easy](https://www.amazingfoodmadeeasy.com/)
 - [Andi Anne](https://www.andianne.com/)
 - [Anncoo Journal](https://www.anncoojournal.com/)
 - [Ann's Entitled Life](https://www.annsentitledlife.com/)
@@ -1241,10 +1263,15 @@
 - [Easy Budget Recipes](https://easybudgetrecipes.com/)
 - [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
+- [Easy Good Ideas](https://easygoodideas.com/)
+- [Easy Family Recipes](https://easyfamilyrecipes.com/)
 - [Easy Halal Recipes](https://www.easyhalalrecipes.com/)
 - [Easy Korean Food](https://www.easykoreanfood.com/)
 - [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
 - [Easy Vegan Meal Plan](https://www.easyveganmealplan.com/)
+- [Easy Weeknight Recipes](https://easyweeknightrecipes.com/)
+- [Easy Wrap Recipes](https://easywraprecipes.com/)
+- [Everyday Easy Eats](https://www.everydayeasyeats.com/)
 - [A Fork's Tale](https://www.aforkstale.com/)
 - [Friend Cheap Menu](https://www.friendcheapmenu.com/)
 - [Fun Money Mom](https://funmoneymom.com/)
@@ -1264,15 +1291,21 @@
 - [Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)
 - [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)
 - [Quick German Recipes](https://www.quick-german-recipes.com/)
+- [Sandra's Easy Cooking](https://www.sandraseasycooking.com/)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [A Spicy Perspective](https://www.aspicyperspective.com/)
 - [A Taste of Madness](https://www.atasteofmadness.com/)
 - [A Turtle's Life For Me](https://aturtleslifeforme.com/category/recipes/)
 - [Vegan Cocotte](https://vegancocotte.com/)
+- [Wholesome Made Easy](https://wholesomemadeeasy.com/)
+- [Yummy Healthy Easy](https://www.yummyhealthyeasy.com/)
 
 ## Historical
 - [18thC Cuisine](http://18thccuisine.blogspot.com/?m=1)
+- [Ancient Recipes](https://www.ancientrecipes.org/)
+- [A Dollop of History](https://historydollop.com/)
+- [A Taste of History with Joyce White](https://atasteofhistorywithjoycewhite.blogspot.com/?m=1)
 
 ## Ingredient
 ### Alcohol
