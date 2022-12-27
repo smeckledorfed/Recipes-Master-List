@@ -64,6 +64,9 @@
 #### Ethiopia
 - [**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)
 
+#### Ghana
+- [Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)
+
 #### Kenya
 - [All Kenyan Recipes](https://allkenyanrecipes.com/)
 - [Grubbys](https://grubbys.africa/)
@@ -73,7 +76,15 @@
 - [Okra Pantry](https://www.okrapantry.com/)
 
 #### Libya
-- [The Libyan Kitchen](https://www.thelibyankitchen.com/?m=1)
+- [The Libyan Kitchen](https://www.thelibyankitchen.com/)
+
+#### Mauritius
+- [Mauritian Cuisine](https://mauritian-cuisine.com/)
+- [Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)
+
+#### Morocco
+- [Moroccanzest](https://moroccanzest.com/)
+- [My Moroccan Food](http://www.mymoroccanfood.com/)
 
 #### Nigeria
 - [All Nigerian Recipes](https://www.allnigerianrecipes.com/)
@@ -86,6 +97,21 @@
 ##### Cape Malay
 - [Cape Malay Cooking Delights](https://capemalaycookingdelights.com/)
 - [Fatima Sydow Cooks](https://fatimasydow.co.za/)
+
+#### South Sudan
+- [**Tales of South Sudan**](https://tasteofsouthsudan.com/category/recipes/)
+
+#### Sudan
+- [Tales of Jewish Sudan](https://www.talesofjewishsudan.com/recipes)
+
+#### Tunisia
+- [Our Tunisian Table](https://www.ourtunisiantable.com/)
+
+#### Uganda
+- [A Kitchen in Uganda](https://akitcheninuganda.com/)
+
+#### Zimbabwe
+- [Naturally Zimbabwean](https://naturallyzimbabwean.com/)
 
 ### Asia
 - [Amazing Asian Food](https://amazingasianfood.com/)
@@ -326,6 +352,10 @@
 - [Georgian Recipes.com](https://georgianrecipes.com/)
 - [Georgian Recipes.net](https://georgianrecipes.net/)
 
+##### Iran
+- [Iran Cuisine](https://iran-cuisine.com/)
+- [Show Me Iran](https://showmeiran.com/)
+
 ##### Lebanon
 - [Hadia's Lebanese Cuisine](https://hadiaslebanesecuisine.com/newsite/)
 - [Julie Taboulie](https://www.julietaboulie.com/)
@@ -352,6 +382,15 @@
 - [Turkish Food Chef](https://turkishfoodchef.com/)
 - [Turkish Food Travel](https://www.turkishfoodtravel.com/)
 - [Turkish Style Cooking](https://turkishstylecooking.com/)
+
+##### Uzbekistan
+- [Uzbek Cooking](http://uzbekcooking.blogspot.com/)
+
+##### Yemen
+- [Yemen Kitchen](https://yemenkitchen.wordpress.com/)
+
+##### Maldives
+- [Maldives Cook](https://maldivescook.com/)
 
 #### Nepal
 - [Anup's Kitchen](https://www.anupskitchen.com/)
@@ -471,6 +510,9 @@
 - [Costa Rica.org](https://costarica.org/food/recipes/)
 - [Recipes from Costa Rica](https://www.recipesfromcostarica.com/)
 
+#### Nicaragua
+- [Nicagaruan Recipes](https://nicaraguanrecipes.com/)
+
 ### Europe
 - [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
 - [Eating European](https://eatingeuropean.com/)
@@ -551,6 +593,12 @@
 - [Greece High Definition](https://www.greecehighdefinition.com/recipes)
 - [The Greek Vegan](https://thegreekvegan.com/)
 
+#### Iceland
+- [Guide to Iceland](https://guidetoiceland.is/best-of-iceland/delicious-icelandic-recipes)
+
+#### Ireland
+- [Real Irish Desserts](https://realirishdesserts.com/)
+
 #### Italy
 - [All Our Way](https://allourway.com/)
 - [Ciao Italia](https://www.ciaoitalia.com/)
@@ -581,6 +629,9 @@
 - [Amira's Pantry](https://amiraspantry.com/)
 - [The Matbakh](https://thematbakh.com/)
 
+#### Moldova
+- [Eat Like Moldovans](https://eatlikemoldovans.com/)
+
 #### The Netherlands
 - [Dutch Food Heritage](https://www.dutchfoodheritage.com/)
 - [Vega Recepten](https://vegarecepten.com/en/)
@@ -607,6 +658,9 @@
 - [Romanian Cook](https://romaniancook.com/)
 - [Romanian Food Blog](http://romanianfoodblog.blogspot.com/)
 
+#### Serbia
+- [Serbian Cuisines](https://cuisinesinserbia.weebly.com/)
+
 #### Spain
 - [Basco Fine Foods](https://www.bascofinefoods.com/)
 - [The Spanish Radish](https://thespanishradish.com/)
@@ -631,6 +685,15 @@
 - [Authentic Ukraine](https://authenticukraine.com.ua/en/food)
 - [Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)
 - [Ukraine Food](https://ukrainefood.info/)
+
+##### United Kingdom
+###### England
+- [Foods of England](http://www.foodsofengland.co.uk/index.htm)
+###### Scotland
+- [Scottish Food Guide](https://scottishfoodguide.com/recipes-scottish-food-guide-wendy-barrie/)
+###### Wales
+- [The Rare Welsh Bit](https://www.therarewelshbit.com/)
+- [Visit Wales](https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes)
 
 ### North America
 
@@ -674,8 +737,14 @@
 - [My Dominican Kitchen](https://mydominicankitchen.com/)
 ##### Guyana
 - [Jehan Can Cook]((https://jehancancook.com/)
+##### Haiti
+- [Haitian Cooking](http://haitiancooking.com/)
+- [Haitian Recipes](https://haitian-recipes.com/)
 ##### Jamaica
 - [Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)
+##### Trinidad & Tobago
+- [Simply Trini Cooking](https://www.simplytrinicooking.com/)
+- [We Trini Food](https://wetrinifood.com/)
 
 #### Latin American
 - [Amigo Foods](https://www.amigofoods.com/)
@@ -775,6 +844,9 @@
 
 #### Colombia
 - [Vecina Vegeteriana](https://vecinavegetariana.com/)
+
+#### Peru
+- [Eat Peru](https://www.eatperu.com/)
 
 ## Diet
 
@@ -1278,6 +1350,8 @@
 - [Australian Onions](https://australianonions.com.au/)
 - [**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)
 - [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
+### Yogurt
+- [Icelandic Provisions](https://www.icelandicprovisions.com/skyr-recipes/)
 
 ## Method
 
@@ -1337,6 +1411,7 @@
 - [Modern Asian Baking](https://www.modernasianbaking.com/)
 - [Olives + Thyme](https://olivesnthyme.com/)
 - [Project Vegan Baking](https://projectveganbaking.com/)
+- [Real Irish Desserts](https://realirishdesserts.com/)
 - [Simply Veganista](https://simple-veganista.com/)
 - [Tasting Thyme](https://tasting-thyme.com/)
 - [Teak & Thyme](https://teakandthyme.com/)
@@ -1448,6 +1523,7 @@
 - [**Anthony's Goods**](https://anthonysgoods.com/pages/recipes)
 - [**Back of the Box Recipes**](http://www.backofthebox.com/)
 - [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
+- [**Food Ireland**](https://www.foodireland.com/recipes/)
 - [**Judee's**](https://www.judeesfromscratch.com/blogs/recipes)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**My Vega**](https://myvega.com/blogs/recipes)
