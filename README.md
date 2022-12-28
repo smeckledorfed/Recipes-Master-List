@@ -641,6 +641,12 @@
 
 #### Norway
 - [Arctic Grub](https://arcticgrub.com/)
+- [Daughters of Norway](https://www.daughtersofnorway.org/heritage/nordic-foods/)
+- [Norway Hei](https://www.norway-hei.com/norwegian-recipes.html)
+- [Norwegian American](https://www.norwegianamerican.com/category/food/)
+- [Outside Oslo](https://outside-oslo.com/)
+- [Seafood from Norway](https://fromnorway.com/recipes/)
+- [Sons of Norway](https://www.sofn.com/norwegian_culture/recipe_box/)
 
 #### Poland
 - [My Polish Cuisine](https://mypolishcuisine.com/)
@@ -1333,6 +1339,8 @@
 - [Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)
 #### Bourbon
 - [**Wild Turkey Bourbon**](https://www.wildturkeybourbon.com/en-us/cocktails/)
+#### Brandy
+- [**Paul Masson**](https://www.paulmasson.com/cocktails.php)
 #### Vodka
 - [**Neft Vodka**](https://www.neftvodkaus.com/recipes/)
 - [**Old Bay Vodka**](https://oldbayvodka.com/recipes/)
@@ -1368,6 +1376,7 @@
 - [Coffee Affection](https://coffeeaffection.com/)
 - [Coffee at Three](https://coffeeatthree.com/)
 - [**Coffee Cherry Co.**](https://coffeecherryco.com/recipes/)
+- [**Copper Cow Coffee**](https://coppercowcoffee.com/blogs/blog-posts)
 - [**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)
 - [**Door County Coffee**](https://doorcountycoffee.com/recipes/)
 - [**Drink Super Coffee**](https://drinksupercoffee.com/blog/)
@@ -1402,7 +1411,10 @@
 ### Eggs
 - [American Egg Board](https://www.incredibleegg.org/)
 ### Flour
+- [**Gold Medal Flour**](https://www.goldmedalflour.com/recipes/)
 - [**India Gate Flours**](https://indiagateflours.com/recipe.php)
+- [**Robin Hood Flour**](https://www.robinhood.ca/En/Home)
+- [**Sunflour Flour**](http://www.sunflourflour.com/recipes.html)
 ### Fruit
 - [**Acai Roots**](https://www.acairoots.com/blogs/recipes)
 - [**Holland Bottom Farm**](https://www.hollandbottomfarmllc.com/recipes)
@@ -1410,6 +1422,7 @@
 - [**Organic India**](https://organicindiausa.com/blog/)
 ### Meat
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
+- [**Armour Meats**](https://armourmeats.sfdbrands.com/en-us/recipes/)
 - [Carne Diem](https://carnediem.blog/)
 - [**The Meat Eater**](https://www.themeateater.com/)
 - [The Meatwave](https://meatwave.com/)
@@ -1434,11 +1447,13 @@
 - [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
 - [**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
+- [**Tyson**](https://www.tyson.com/recipes/)
 #### Pork
 - [**Bavarian Meats**](https://bavarianmeats.com/)
 - [Eat Pork](http://www.eatpork.org/)
 - [**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)
 - [Pork.org](https://www.pork.org/cooking-techniques/)
+- [**Wright Brand**](https://www.wrightbrand.com/recipes/)
 #### Turkey
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
 - [National Turkey Federation](https://www.eatturkey.org/recipes/)
@@ -1470,12 +1485,14 @@
 - [Australian Prawns](https://australianprawns.com.au/)
 - [**Chicken of the Sea**](https://chickenofthesea.com/recipes/)
 - [**Louisiana Seafood**](https://www.louisianaseafood.com/)
+- [Seafood from Norway](https://fromnorway.com/recipes/)
 ### Snacks
 ### Sushi
 - [Ichi Sushi](https://ichisushi.com/category/recipes/)
 - [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
 - [Make Sushi](https://www.makesushi.com/)
 ### Vegetables
+- [**Amore**](https://amorebrand.com/blogs/recipe)
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
 - [Australian Onions](https://australianonions.com.au/)
 - [**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)
