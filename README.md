@@ -798,6 +798,7 @@
 - [Ono Hawaiian Recipes](https://onohawaiianrecipes.com/)
 
 ##### Louisiana
+- [225 Baton Rouge](https://www.225batonrouge.com/food-drink/recipes)
 - [Louisiana Cookin'](https://www.louisianacookin.com/)
 - [Louisiana Kitchen and Culture](https://louisiana.kitchenandculture.com/)
 - [**Louisiana Seafood**](https://www.louisianaseafood.com/)
@@ -923,6 +924,7 @@
 - [**Shipetaukin**](https://www.shipetaukin.com/natural-recipes-gluten-free-recipes-healthy-recipes/)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [Three Bakers](https://threebakers.com/category/gluten-free-recipes/)
+- [**XO Baking Co.**](https://xobakingco.com/recipes/)
 
 ### Halal
 - [Easy Halal Recipes](https://www.easyhalalrecipes.com/)
@@ -985,6 +987,7 @@
 - [Leh Cooks Kosher](https://www.leahcookskosher.com/)
 - [OU Kosher](https://oukosher.org/recipes/)
 - [**Western Kosher**](https://www.westernkosher.com/los-angeles-pico/recipes)
+- [Yay Kosher](https://yaykosher.com/)
 
 ### Local
 - [Acadian Family Farm](https://www.acadianfamilyfarm.com/)
@@ -1307,6 +1310,7 @@
 - [A Turtle's Life For Me](https://aturtleslifeforme.com/category/recipes/)
 - [Vegan Cocotte](https://vegancocotte.com/)
 - [Wholesome Made Easy](https://wholesomemadeeasy.com/)
+- [Yay Kosher](https://yaykosher.com/)
 - [Yummy Healthy Easy](https://www.yummyhealthyeasy.com/)
 
 ## Historical
@@ -1495,6 +1499,8 @@
 - [A Beautiful Plate](https://www.abeautifulplate.com/)
 - [Artisan Bryan](https://www.artisanbryan.com/)
 - [The Clever Carrot](https://www.theclevercarrot.com/)
+- [Natasha's Baking](https://natashasbaking.com/)
+- [True Sourdough](https://truesourdough.com/)
 
 #### General
 - [365 Days of Baking and More](https://www.365daysofbakingandmore.com/)
@@ -1519,6 +1525,7 @@
 - [Baking a Moment](https://bakingamoment.com/)
 - [Baking Beauty](https://www.bakingbeauty.net/)
 - [Baking Bites](https://bakingbites.com/)
+- [THe Baking Explorer](https://thebakingexplorer.com/)
 - [Baking for Friends](https://www.bakingforfriends.com/)
 - [A Baking Journey](https://www.abakingjourney.com/)
 - [Baking Mad](https://www.bakingmad.com/)
@@ -1527,6 +1534,7 @@
 - [Baking with Aimee](https://bakingwithaimee.com/)
 - [Baking with Granny](https://bakingwithgranny.co.uk/)
 - [Baking with Josh & Ange](https://www.bakingwithjoshandange.com/)
+- [The Baking Wizard](https://thebakingwizard.com/)
 - [Barbara Bakes](https://www.barbarabakes.com/)
 - [The Blonde Abroad](https://www.theblondeabroad.com/recipes/)
 - [Bru Crew Life](https://insidebrucrewlife.com/)
@@ -1540,10 +1548,16 @@
 - [Olives + Thyme](https://olivesnthyme.com/)
 - [Project Vegan Baking](https://projectveganbaking.com/)
 - [Real Irish Desserts](https://realirishdesserts.com/)
+- [Sally's Baking Addiction](https://sallysbakingaddiction.com/)
 - [Simply Veganista](https://simple-veganista.com/)
+- [Stress Baking](https://stressbaking.com/)
 - [Tasting Thyme](https://tasting-thyme.com/)
 - [Teak & Thyme](https://teakandthyme.com/)
 - [typefoodie](https://www.typefoodie.com/)
+- [Wheel of Baking](https://wheelofbaking.com/)
+- [Whisk Averse Baking](https://whiskaversebaking.com/)
+- [Willow Bird Baking](http://willowbirdbaking.com/)
+- [**XO Baking Co.**](https://xobakingco.com/recipes/)
 
 ### Barbecue
 - [All Things Barbecue](https://www.atbbq.com/)
