@@ -1061,6 +1061,7 @@
 ### Sugar-Free
 - [Bakerita](https://www.bakerita.com/)
 - [Make Me Sugar-Free](https://www.makemesugarfree.com/)
+- [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
 - [My Sugar-Free Journey](https://mysugarfreejourney.com/)
 - [My Sugar-Free Kitchen](https://www.mysugarfreekitchen.com/)
 
@@ -1365,11 +1366,28 @@
 - [**Wonder Bread**](https://www.wonderbread.com/recipes)
 ### Candy
 - [**Dandie's**](https://dandies.com/recipes)
-- [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
 ### Cheese
 - [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
+- [**Proudly Wisconsin**](https://www.wisconsincheese.com/recipes)
+- [**Treeline Cheese**](https://www.treelinecheese.com/blogs/recipes)
+- [**Valbreso**](https://valbresocheese.com/recipes/)
 ### Chocolate
+- [**Aero**](https://www.aerochocolate.co.uk/recipes)
+- [Best With Chocolate](https://bestwithchocolate.com/)
+- [**Blommer**](https://www.blommer.com/services-recipe-library.php)
+- [**Divine Chocolate**](https://www.divinechocolate.com/divine-world/recipes/)
+- [Eat More Chocolate](https://eatmorechocolate.com/)
 - [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
+- [**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)
+- [Mission Chocolate](https://missionchocolaterecipes.com/)
+- [**Moody Girl**](https://moody-girl.com/pages/recipes-1)
+- [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
+- [**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)
+- [**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/)
+- [**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)
+- [**Theo Chocolate**](https://theochocolate.com/blog/tag/Recipes)
+- [**Verse Chocolate**](https://versechocolate.com/blogs/news)
+- [**Vosges Chocolate**](https://www.vosgeschocolate.com/pages/recipes)
 ### Coffee
 - [**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)
 - [**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)
@@ -1505,6 +1523,7 @@
 - [**Tom's Awesome Seafood**](https://www.tomsawesomeseafood.com/)
 - [**Trident Seafoods**](https://www.tridentseafoods.com/recipes/)
 ### Snacks
+- [**Whisps**](https://whisps.com/blogs/recipes)
 ### Sushi
 - [Ichi Sushi](https://ichisushi.com/category/recipes/)
 - [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
