@@ -568,11 +568,13 @@
 - [A Lady in France](https://aladyinfrance.com/)
 - [Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)
 - [Love French Food](https://www.lovefrenchfood.com/)
+- [My Parisian Kitchen](https://www.myparisiankitchen.com/en/)
 - [Pardon Your French](https://www.pardonyourfrench.com/)
 - [Simple French Cooking](https://www.simplefrenchcooking.com/)
 - [Snippets of Paris](https://snippetsofparis.com/category/french-food/)
 - [Taste France](https://www.tastefrance.com/us/recipes)
 - [Traditional French Food](https://www.traditionalfrenchfood.com/)
+- [Your Guardian Chef](https://yourguardianchef.com/)
 
 #### Germany
 - [All Tastes German](https://alltastesgerman.com/)
@@ -610,6 +612,7 @@
 - [Nonna Box](https://www.nonnabox.com/recipes/)
 - [Pasta Grammar](https://www.pastagrammar.com/blog)
 - [The Pasta Project](https://www.the-pasta-project.com/)
+- [Your Guardian Chef](https://yourguardianchef.com/)
 ##### Abruzzo
 - [Life in Abruzzo](https://lifeinabruzzo.com/eating-drinking/food-recipes/)
 
@@ -646,9 +649,12 @@
 - [Polish Your Kitchen](https://www.polishyourkitchen.com/)
 
 #### Portugal
+- [Ana's Portuguese Cooking](https://portuguesecooking.com/)
 - [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
 - [Eu Amo Portugal](https://euamoportugal.com/en/recipes)
 - [Food from Portgual](https://www.foodfromportugal.com/)
+- [The Portuguese American Mom](https://theportugueseamericanmom.com/)
+- [Portuguese Recipes](https://portugueserecipes.ca/)
 - [We Travel Portugal](https://wetravelportugal.com/category/recipes/)
 ##### Azoria
 - [Azorean Green Bean](https://azoreangreenbean.com/)
@@ -1051,6 +1057,7 @@
 
 ### Vegan
 - [101 Cookbooks](https://www.101cookbooks.com/)
+- [2ShareMyJoy](https://www.2sharemyjoy.com/category/high-protein-vegan-recipes/)
 - [Aegean Delight](https://aegeandelight.com/)
 - [Aline Made](https://www.aline-made.com/)
 - [All-Purpose](https://allpurposeveggies.com/)
@@ -1256,6 +1263,7 @@
 - [Artzy Foodie](https://artzyfoodie.com/)
 - [Averie Cooks](https://www.averiecooks.com/)
 - [Babaganosh](https://www.babaganosh.org/)
+- [Baking Beauty](https://www.bakingbeauty.net/)
 - [Baking Mischief](https://bakingmischief.com/)
 - [Baking Sense](https://www.baking-sense.com/)
 - [Barefeet in the Kitchen](https://barefeetinthekitchen.com/)
@@ -1311,13 +1319,38 @@
 ### Alcohol
 - [1001 Cocktails](https://en.1001cocktails.com/)
 - [**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)
+#### Beer
+- [**Anchor Brewing**](https://www.anchorbrewing.com/blog/category/beer-food-pairings/)
+- [Beer Alien](https://beeralien.com/)
+- [Beer and Brewing](https://beerandbrewing.com/beer-recipes/)
+- [Beers With Mandy](https://beerswithmandy.com/)
+- [Brew Dudes](https://www.brew-dudes.com/beer-recipes)
+- [Homebrew Academy](https://homebrewacademy.com/beer-recipes/)
+- [Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)
+#### Bourbon
 - [**Wild Turkey Bourbon**](https://www.wildturkeybourbon.com/en-us/cocktails/)
+#### Vodka
+- [**Neft Vodka**](https://www.neftvodkaus.com/recipes/)
+- [**Old Bay Vodka**](https://oldbayvodka.com/recipes/)
+- [**Skyy**](https://www.skyyvodka.com/us/cocktails/)
+- [**Stoli**](https://stoli.com/cocktail/)
+- [**Tito's**](https://www.titosvodka.com/recipes)
 ### Beans
+- [**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)
+- [**Camellia**](https://www.camelliabrand.com/)
+- [**Jack Rabbit Beans**](https://jackrabbitbeans.com/recipes/)
 - [**The Only Bean**](https://theonlybean.com/blogs/recipes)
+- [**Randall Beans**](https://randallbeans.com/recipes/)
 ### Beverages
 - [**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)
-###
+### Bread
+- [**Arnold Premium Breads**](https://arnoldbread.com/recipes)
 - [**Canyon Gluten-Free**](https://canyonglutenfree.com/recipes/)
+- [**Dave's Killer Bread**](https://www.daveskillerbread.com/recipes)
+- [**Martin's Famous**](https://potatorolls.com/recipes/)
+- [**Sara Lee Bread**](https://saraleebread.com/recipes)
+- [**Thomas Breads**](https://thomasbreads.com/recipes)
+- [**Wonder Bread**](https://www.wonderbread.com/recipes)
 ### Candy
 - [**Dandie's**](https://dandies.com/recipes)
 - [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
@@ -1373,25 +1406,38 @@
 - [**Organic India**](https://organicindiausa.com/blog/)
 ### Meat
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
-- [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
-- [All Chicken Recipes](https://www.allchickenrecipes.com/)
-- [**Bavarian Meats**](https://bavarianmeats.com/)
-- [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
-- [Beef Loving Texans](https://beeflovingtexans.com/)
 - [Carne Diem](https://carnediem.blog/)
-- [**Certified Angus Beef**](https://www.certifiedangusbeef.com/)
-- [Chicken Roost](https://www.chickenroost.com/)
-- [The Chicken Website](https://www.thechickenwebsite.com/)
-- [Easy Chicken Recipes](https://easychickenrecipes.com/)
-- [National Turkey Federation](https://www.eatturkey.org/recipes/)
-- [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
-- [**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)
 - [**The Meat Eater**](https://www.themeateater.com/)
 - [The Meatwave](https://meatwave.com/)
 - [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
+- [**Niman Ranch**](https://www.nimanranch.com/recipes/)
+- [**Seemore Sausage**](https://eatseemore.com/blogs/recipe)
+#### Beef
+- [Arkansas Beef](https://www.arkansasbeef.org/recipes)
+- [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
+- [Beef Loving Texans](https://beeflovingtexans.com/)
+- [**Cape Grim Beef**](https://www.capegrimbeef.com.au/)
+- [**Certified Angus Beef**](https://www.certifiedangusbeef.com/)
+- [**Country Natural Beef**](https://countrynaturalbeef.com/blogs/recipes)
+- [**Grassland Beef**](https://discover.grasslandbeef.com/blog/category/recipes/)
+- [New Mexico Beef](https://nmbeef.com/recipes)
+#### Chicken
+- [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
+- [All Chicken Recipes](https://www.allchickenrecipes.com/)
+- [Chicken Roost](https://www.chickenroost.com/)
+- [The Chicken Website](https://www.thechickenwebsite.com/)
+- [Easy Chicken Recipes](https://easychickenrecipes.com/)
+- [**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)
+- [**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
-- [**Seemore Sausage Recipes**](https://eatseemore.com/blogs/recipe)
+#### Pork
+- [**Bavarian Meats**](https://bavarianmeats.com/)
+- [Eat Pork](http://www.eatpork.org/)
+- [**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)
+- [Pork.org](https://www.pork.org/cooking-techniques/)
+#### Turkey
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
+- [National Turkey Federation](https://www.eatturkey.org/recipes/)
 ### Meat Alternatives
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 ### Oil
@@ -1471,6 +1517,7 @@
 - [Bakerella](https://www.bakerella.com/)
 - [Bakers Royale](https://www.bakersroyale.com/)
 - [Baking a Moment](https://bakingamoment.com/)
+- [Baking Beauty](https://www.bakingbeauty.net/)
 - [Baking Bites](https://bakingbites.com/)
 - [Baking for Friends](https://www.bakingforfriends.com/)
 - [A Baking Journey](https://www.abakingjourney.com/)
@@ -1499,16 +1546,28 @@
 - [typefoodie](https://www.typefoodie.com/)
 
 ### Barbecue
+- [All Things Barbecue](https://www.atbbq.com/)
+- [BBQ Heroes](https://bbq-heroes.com/)
+- [BBQing with the Nolands](https://bbqingwiththenolands.com/)
+- [**Lillie's**](https://lilliesq.com/blogs/bbq-recipes)
+- [My BBQ Recipe](https://mybbqrecipe.com/all-recipes/)
+- [**Postal Barbecue**](https://postalbarbecue.com/)
+- [Steven Raichlen's Barbecue Bible](https://barbecuebible.com/recipes/)
 
 ### Preserving
+- [Food Preserving](http://www.foodpreserving.org/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
 
 ### Pressure Cooker
 - [365 Days of Slow + Pressure Cooking](https://www.365daysofcrockpot.com/)
 - [Amy + Jacky](https://www.pressurecookrecipes.com/)
+- [Hip Pressure Cooking](https://www.hippressurecooking.com/)
+- [Lana Under Pressure](https://lanaunderpressure.com/)
+- [Pressure Luck Cooking](https://pressureluckcooking.com/)
 
 ### Slow-Cooker
 - [365 Days of Slow + Pressure Cooking](https://www.365daysofcrockpot.com/)
+- [The Magical Slow Cooker](https://www.themagicalslowcooker.com/)
 
 ### Small-Batch
 - [1-2 Cook](https://www.1-2-cook.com/)
@@ -1606,6 +1665,7 @@
 - [Yellow Thyme](https://www.yellowthyme.com/)
 
 ### Brand
+- [**Ancient Cookware**](https://ancientcookware.com/recipes#)
 - [**Anthony's Goods**](https://anthonysgoods.com/pages/recipes)
 - [**Back of the Box Recipes**](http://www.backofthebox.com/)
 - [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
