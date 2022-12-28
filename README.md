@@ -1459,6 +1459,7 @@
 - [National Turkey Federation](https://www.eatturkey.org/recipes/)
 ### Meat Alternatives
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
+- [**The Plant Based Seafood Co.**](https://plantbasedseafoodco.com/blogs/recipes)
 ### Oil
 - [Bodo Oil](https://bodo-oil.com/)
 ### Pasta/Noodles
@@ -1482,10 +1483,21 @@
 - [**Minute Rice**](https://minuterice.com/recipes/)
 - [**Success Rice**](https://successrice.com/recipes/)
 ### Seafood
+- [**Alabama Gulf Seafood**](https://eatalabamaseafood.com/recipes)
+- [**Alaskan Leader**](https://alaskanleader.com/recipes)
+- [Alaska Seafood](https://www.alaskaseafood.org/recipes/)
 - [Australian Prawns](https://australianprawns.com.au/)
+- [**Bela Brand Seafood**](https://www.belabrandseafood.com/recipes)
+- [**Catch Stika**](https://catchsitkaseafoods.com/blogs/recipes-stories)
 - [**Chicken of the Sea**](https://chickenofthesea.com/recipes/)
+- [**Global Seafoods**](https://globalseafoods.com/blogs/news)
+- [**King & Prince Seafood**](https://www.kpseafood.com/recipes/)
 - [**Louisiana Seafood**](https://www.louisianaseafood.com/)
+- [**Pacific Seafood**](https://www.pacificseafood.com/recipes/)
 - [Seafood from Norway](https://fromnorway.com/recipes/)
+- [**Today's Catch Seafood**](https://todayscatchseafood.com/)
+- [**Tom's Awesome Seafood**](https://www.tomsawesomeseafood.com/)
+- [**Trident Seafoods**](https://www.tridentseafoods.com/recipes/)
 ### Snacks
 ### Sushi
 - [Ichi Sushi](https://ichisushi.com/category/recipes/)
