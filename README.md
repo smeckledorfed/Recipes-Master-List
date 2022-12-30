@@ -605,25 +605,46 @@
 - [All Our Way](https://allourway.com/)
 - [Ciao Italia](https://www.ciaoitalia.com/)
 - [Cookies from Italy](https://cookiesfromitaly.com/recipes.htm)
+- [Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)
 - [Flavor of Italy](https://flavorofitaly.com/fi-recipes/)
+- [Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)
+- [Great Italian Chefs](https://www.greatitalianchefs.com/)
 - [Heart of Abruzzo](https://heartofabruzzo.com/category/abruzzo-recipes/)
-- [An Italian in My Kitchen](https://anitalianinmykitchen.com/)
-- [Italy Mamma Mia](https://www.italymammamia.com/venice-food.html)
+- [Italian Chef](https://italianchef.com/)
+- [Italian Cook](http://www.italiancook.ca/)
+- [Italian Food Forever](https://www.italianfoodforever.com/)
 - [Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)
-- [Italy Revisited](http://www.italyrevisited.org/)
+- [An Italian in My Kitchen](https://anitalianinmykitchen.com/)
+- [Italian Notes](https://italiannotes.com/food/)
 - [The Italian Sauce](https://theitaliansauce.com/)
+- [Italian Spoon](https://www.italianspoon.com.au/)
+- [Italian Style Cooking](https://www.italianstylecooking.net/en/)
+- [Italy Mamma Mia](https://www.italymammamia.com/venice-food.html)
+- [Italy Revisited](http://www.italyrevisited.org/)
+- [La Cucina Italiana](https://www.lacucinaitaliana.com/)
 - [Lida Bastianich](https://lidiasitaly.com/)
 - [Maria Liberati](https://marialiberati.com/blog2/recipes-articles/)
 - [The Monday Pasta Club](https://www.themondaypastaclub.com/)
+- [My Italian](https://myitalian.recipes/)
 - [Nonna Box](https://www.nonnabox.com/recipes/)
+- [Our Italian Journey](https://ouritalianjourney.com/)
+- [Our Italian Table]](https://ouritaliantable.com/)
 - [Pasta Grammar](https://www.pastagrammar.com/blog)
 - [The Pasta Project](https://www.the-pasta-project.com/)
+- [Proud Italian Cook](https://www.prouditaliancook.com/?m)
+- [The Real Italian Food](https://therealitalianfood.com/)
 - [Recipes from Italy](https://www.recipesfromitaly.com/)
+- [Ritrovo](https://ritrovo.com/collections/recipes)
 - [Rubber Slippers inItaly](https://rubberslippersinitaly.wordpress.com/)
 - [Savoring Italy](https://www.savoringitaly.com/)
+- [The Slow Roasted Italian](https://www.theslowroasteditalian.com/)
+- [The Tiny Italian](https://thetinyitalian.com/)
+- [What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/?m=1)
 - [Your Guardian Chef](https://yourguardianchef.com/)
 ##### Abruzzo
 - [Life in Abruzzo](https://lifeinabruzzo.com/eating-drinking/food-recipes/)
+##### Lombardy
+- [Lombardia Food](https://www.lombardiafood.com/traditional-italian-recipes/)
 
 #### Latvia
 - [Latvian Eats](https://latvianeats.com/)
@@ -811,6 +832,9 @@
 
 ##### Hawaii
 - [Ono Hawaiian Recipes](https://onohawaiianrecipes.com/)
+
+##### Illinois
+- [Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)
 
 ##### Louisiana
 - [225 Baton Rouge](https://www.225batonrouge.com/food-drink/recipes)
