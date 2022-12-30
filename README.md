@@ -45,9 +45,9 @@
 |[Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)|
 
 #### Egypt
-- [Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)
-- [Food of Egypt](https://www.foodofegypt.com/)
-- [Scarf Gal Food](https://scarfgalfood.com/)
+|     |     |     |
+| --- | --- | --- |
+|[Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)|[Food of Egypt](https://www.foodofegypt.com/)|[Scarf Gal Food](https://scarfgalfood.com/)|
 
 #### Ethiopia
 |     |
