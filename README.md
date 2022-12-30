@@ -12,11 +12,7 @@
 ## Budget
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|
-[Beat the Budget](https://beatthebudget.com/)|
-[Belly Cheap Cook](https://www.bellycheapcook.com/)|
-[Budget 101](https://www.budget101.com/)|
-[Budget Bytes](https://www.budgetbytes.com/)|
+|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|
 |[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|
 [The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|
 [Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|
