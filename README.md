@@ -1,12 +1,12 @@
 # Recipe Websites Master List
 - This has been a long time coming! I've been collecting recipe websites for forever and I'm finally getting them organized. 
 - Every website will be in 1-3 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
-- Websites in a particular category **do not ONLY offer recipes of that kind**; that German website might have some delicious keto stuff. I don't know, I haven't looked through them all, but you can. Life is all about exploration. 
+- Websites in a particular category do not ONLY offer recipes of that kind; that German website might have some delicious keto stuff. I don't know, I haven't looked through them all, but you can. Life is all about exploration. 
 - If a website doesn't seem to have a particular focus on anything, it will be in the **Miscellaneous** section.
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it (if they self-describe as Easy, etc).
 - These all have written recipes. Some may have accompanying videos, but the focus here is on text.
 - All of these websites are written in English and vary on whether they use metric vs. imperial measurements. 
-- Brand websites with a recipes section have been bolded.
+- Brands have been **bolded**.
 - Please alert me if there are any dead links or a website is miscategorized! I will try to update as soon as I can.
 
 ## Budget
@@ -28,6 +28,7 @@
 - [Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)
 - [Good Cheap Eats](https://goodcheapeats.com/)
 - [Happy Money Saver](https://happymoneysaver.com/)
+- [Hip2Save](https://hip2save.com/recipes/)
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
 - [No Money, No Time](https://nomoneynotime.com.au/)
 - [Plant-Based on a Budget](https://plantbasedonabudget.com/)
@@ -595,8 +596,14 @@
 - [**Bavarian Meats**](https://bavarianmeats.com/)
 
 #### Greece
+- [30 Days of Greek Food](https://30daysofgreekfood.com/)
+- [California Greek Girl](https://www.californiagreekgirl.com/)
+- [Cook Like a Greek Blog](https://cooklikeagreekblog.com/)
+- [Diane Kochilas](https://www.dianekochilas.com/)
+- [Eat Yourself Greek](https://eatyourselfgreek.com/)
 - [Greece High Definition](https://www.greecehighdefinition.com/recipes)
 - [The Greek Vegan](https://thegreekvegan.com/)
+- [My Greek Salad](https://www.mygreeksalad.com/)
 
 #### Iceland
 - [Guide to Iceland](https://guidetoiceland.is/best-of-iceland/delicious-icelandic-recipes)
@@ -673,6 +680,7 @@
 - [Aegean Delight](https://aegeandelight.com/)
 - [Amira's Pantry](https://amiraspantry.com/)
 - [The Matbakh](https://thematbakh.com/)
+- [My Greek Salad](https://www.mygreeksalad.com/)
 
 #### Moldova
 - [Eat Like Moldovans](https://eatlikemoldovans.com/)
@@ -1197,6 +1205,7 @@
 - [Foodaciously](https://foodaciously.com/)
 - [Friendly Veg](https://friendlyveg.com/)
 - [Get Set Vegan](https://www.getsetvegan.com/)
+- [Good Old Vegan](https://goodoldvegan.com/)
 - [The Greek Vegan](https://thegreekvegan.com/)
 - [Green Kai](https://www.greenkai.co.nz/)
 - [Gretchen's Vegan Bakery](https://www.gretchensveganbakery.com/)
@@ -1304,6 +1313,7 @@
 - [Vegetarian Cooking Recipes Tips](https://www.vegetarian-cooking-recipes-tips.com/)
 - [Vegetarian Gastronomy](https://vegetariangastronomy.com/)
 - [Vege Vega](https://vegevega.com/)
+- [Veggies Save the Day](https://www.veggiessavetheday.com/)
 - [Veggie World Recipes](https://veggieworldrecipes.com/)
 - [Very Veganish](https://veryveganish.com/)
 - [Very Vegan Val](https://veryveganval.com/)
@@ -1320,7 +1330,9 @@
 ### Vegetarian
 - (all websites in the vegan section)
 - [101 Cookbooks](https://www.101cookbooks.com/)
+- [**Actual Veggies**](https://actualveggies.com/pages/recipes)
 - [Aline Made](https://www.aline-made.com/)
+- [**Amy's**](https://www.amys.com/eating-well/recipes)
 - [Baking Hermann](https://bakinghermann.com/)
 - [Baking Like a Chef](https://www.bakinglikeachef.com/)
 - [Baking Magique](http://www.bakingmagique.com/)
@@ -1337,6 +1349,7 @@
 - [The Fiery Vegetarian](https://www.thefieryvegetarian.com/)
 - [Gluten-Free Vegetarian](https://gf-veg.com/)
 - [Gourmet Vegetarians](https://gourmetvegetarians.com/)
+- [I Heart Vegetables](https://iheartvegetables.com/)
 - [Indian Veggie Delight](https://www.indianveggiedelight.com/)
 - [Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)
 - [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
@@ -1346,6 +1359,7 @@
 - [Priya's Curry Nation](https://www.priyascurrynation.com/)
 - [Simply Vegetarian 777](https://simplyvegetarian777.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
+- [Sunny's Vegetarian Foodhunt](http://vegefoodhunt.blogspot.com/)
 - [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)
 - [Tin and Thyme](https://tinandthyme.uk/)
 - [Tomato Blues](https://www.tomatoblues.com/)
@@ -1357,6 +1371,7 @@
 - [Vegetarian Times](https://www.vegetariantimes.com/)
 - [Vegetarian Ventures](https://www.vegetarianventures.com/)
 - [Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/?m=1)
+- [**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)
 - [The Wimpy Vegetarian](https://thewimpyvegetarian.com/)
 
 ## Easy
@@ -1368,6 +1383,7 @@
 - [All Easy Recipes](http://www.alleasyrecipes.com/)
 - [All Things Mamma](https://www.allthingsmamma.com/)
 - [Amazing Food Made Easy](https://www.amazingfoodmadeeasy.com/)
+- [Amy Lynn's Kitchen](https://www.amylynnskitchen.com/)
 - [Andi Anne](https://www.andianne.com/)
 - [Anncoo Journal](https://www.anncoojournal.com/)
 - [Ann's Entitled Life](https://www.annsentitledlife.com/)
@@ -1621,9 +1637,11 @@
 #### Turkey
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
 - [National Turkey Federation](https://www.eatturkey.org/recipes/)
-### Meat Alternatives
+### Meat Alternative
+- [**Actual Veggies**](https://actualveggies.com/pages/recipes)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 - [**The Plant Based Seafood Co.**](https://plantbasedseafoodco.com/blogs/recipes)
+- [**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)
 ### Oil
 - [Bodo Oil](https://bodo-oil.com/)
 - [Olive Oils from Spain](https://www.oliveoilsfromspain.org/)
@@ -1690,6 +1708,7 @@
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
 - [Australian Onions](https://australianonions.com.au/)
 - [**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)
+- [**Maine Coast Sea Vegetables**](https://seaveg.com/blogs/recipes)
 - [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
 ### Yogurt
 - [Icelandic Provisions](https://www.icelandicprovisions.com/skyr-recipes/)
@@ -1836,6 +1855,8 @@
 - [Amanda's Cookin](https://amandascookin.com/)
 - [Ambitious Kitchen](https://www.ambitiouskitchen.com/)
 - [Ambs Loves Foods](https://www.ambslovesfood.com/)
+- [Amy Myers MD](https://www.amymyersmd.com/recipe/)
+- [Amy vs. Food](https://www.amyvsfood.com/)
 - [Analida's Ethnic Spoon](https://ethnicspoon.com/)
 - [Anina's Recipes](https://www.aninas-recipes.com/)
 - [Annabel Langbein](https://www.langbein.com/)
@@ -1892,6 +1913,7 @@
 - [Passionate About Baking](https://passionateaboutbaking.com/)
 - [A Pinch of Healthy](https://www.apinchofhealthy.com/)
 - [Season and Thyme](https://seasonandthyme.com/)
+- [Seasoned Vegetable](https://www.seasonedvegetable.com/)
 - [A Simple Palate](https://asimplepalate.com/)
 - [Sweat Tea and Thyme](https://www.sweetteaandthyme.com/)
 - [A Sweet Pea Chef](https://www.asweetpeachef.com/)
@@ -1923,6 +1945,7 @@
 - [Alex Guarnaschelli](https://alexguarnaschelli.com/recipes/)
 - [Alton Brown](https://altonbrown.com/)
 - [Andrew Zimmern](https://andrewzimmern.com/)
+- [Diane Kochilas](https://www.dianekochilas.com/)
 
 ### Community
 - [12 Tomatoes](https://12tomatoes.com/)
