@@ -35,10 +35,14 @@
 - [West Africa Cooks](https://www.westafricacooks.com/africa/)
 
 #### Burkina Faso
-- [Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)
+|     |
+| --- |
+|[Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)|
 
 #### Cameroon
-- [Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)
+|     |
+| --- |
+|[Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)|
 
 #### Egypt
 - [Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)
@@ -46,14 +50,19 @@
 - [Scarf Gal Food](https://scarfgalfood.com/)
 
 #### Ethiopia
-- [**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)
+|     |
+| --- |
+|[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|
 
 #### Ghana
-- [Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)
+|     |
+| --- |
+|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
 #### Kenya
-- [All Kenyan Recipes](https://allkenyanrecipes.com/)
-- [Grubbys](https://grubbys.africa/)
+|     |     |
+| --- | --- |
+|[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|
 
 #### Liberia
 - [Liberian Forum](http://www.liberianforum.com/recipe.htm)
@@ -585,8 +594,23 @@
 - [Diane Kochilas](https://www.dianekochilas.com/)
 - [Eat Yourself Greek](https://eatyourselfgreek.com/)
 - [Greece High Definition](https://www.greecehighdefinition.com/recipes)
+- [The Greek Chef](https://thegreekchef.us/recipes/)
+- [Greek City Times](https://greekcitytimes.com/greek-lifestyle-and-events-from-around-the-world/recipes/)
+- [Greek Cooking Sisters](https://greeksisters.com/)
+- [Greeker Than Greeks](https://greekerthanthegreeks.com/category/greek-cuisine)
+- [Greek Food Alchemist](https://greekfoodalchemist.com/)
+- [The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)
+- [The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)
+- [Greek Reporter](https://greekreporter.com/greek-food/)
 - [The Greek Vegan](https://thegreekvegan.com/)
+- [Heart Healthy Greek](https://www.hearthealthygreek.com/)
+- [iCookGreek](https://en.icookgreek.com/)
+- [Mostly Greek](https://mostly-greek.com/)
+- [My Greek Dish](https://www.mygreekdish.com/)
 - [My Greek Salad](https://www.mygreeksalad.com/)
+- [Real Greek Recipes](https://www.realgreekrecipes.com/)
+- [Sweet Greek](https://mysweetgreek.com/recipe-index/)
+- [Vicki's Greek Recipes](https://www.vickisgreekrecipes.com/)
 
 #### Iceland
 - [Guide to Iceland](https://guidetoiceland.is/best-of-iceland/delicious-icelandic-recipes)
@@ -910,6 +934,7 @@
 
 #### Guam
 - [Annie's Chamorro Kitchen](https://www.annieschamorrokitchen.com/)
+- [Guampedia](https://www.guampedia.com/chamorro-food/chamorro-recipes/)
 
 #### Samoa
 - [American Aiga](https://www.americanaiga.com/)
@@ -1661,6 +1686,7 @@
 ### Seafood
 - [**Alabama Gulf Seafood**](https://eatalabamaseafood.com/recipes)
 - [**Alaskan Leader**](https://alaskanleader.com/recipes)
+- [**Alaskan Salmon Co.**](https://aksalmonco.com/blogs/recipes)
 - [Alaska Seafood](https://www.alaskaseafood.org/recipes/)
 - [Australian Prawns](https://australianprawns.com.au/)
 - [**Bela Brand Seafood**](https://www.belabrandseafood.com/recipes)
@@ -1672,14 +1698,18 @@
 - [**Global Seafoods**](https://globalseafoods.com/blogs/news)
 - [**Gorton's**](https://www.gortons.com/recipe-categories/)
 - [**King & Prince Seafood**](https://www.kpseafood.com/recipes/)
+- [**Kvaroy Arctic**](https://www.kvaroyarctic.com/blog?tag=Kvaroy%20Arctic%20Salmon%20Recipes)
 - [**Louisiana Seafood**](https://www.louisianaseafood.com/)
 - [**Pacific Seafood**](https://www.pacificseafood.com/recipes/)
+- [**Planet Shrimp**](https://www.planetshrimpcompany.com/recipes/)
 - [**Prince Edward Island Seafood**](https://princeedwardislandseafood.com/portfolio-type/recipes/)
 - [Seafood from Norway](https://fromnorway.com/recipes/)
 - [**Stonington Seafood**](https://www.stoningtonseafood.com/)
 - [**Today's Catch Seafood**](https://todayscatchseafood.com/)
 - [**Tom's Awesome Seafood**](https://www.tomsawesomeseafood.com/)
 - [**Trident Seafoods**](https://www.tridentseafoods.com/recipes/)
+- [Tuna Australia](https://tunaaustralia.org.au/news/category/recipes/)
+- [**Wild for Salmon**](https://www.wildforsalmon.com/blogs/recipes)
 ### Snacks
 - [**Whisps**](https://whisps.com/blogs/recipes)
 ### Sushi
@@ -1897,6 +1927,7 @@
 - [A Pinch of Healthy](https://www.apinchofhealthy.com/)
 - [Season and Thyme](https://seasonandthyme.com/)
 - [Seasoned Vegetable](https://www.seasonedvegetable.com/)
+- [Shrimp Salad Circus](https://www.shrimpsaladcircus.com/category/recipe-ideas/)
 - [A Simple Palate](https://asimplepalate.com/)
 - [Sweat Tea and Thyme](https://www.sweetteaandthyme.com/)
 - [A Sweet Pea Chef](https://www.asweetpeachef.com/)
