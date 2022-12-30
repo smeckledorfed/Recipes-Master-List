@@ -1756,6 +1756,7 @@
 - [1000 World Recipes](https://1000worldrecipes.com/)
 - [Allrecipes](https://www.allrecipes.com/)
 - [BBC Food](https://www.bbc.co.uk/food)
+- [Bon Appetit](https://www.bonappetit.com/)
 - [Gourmand Asia](https://www.gourmandasia.com/)
 - [Life and Thyme](https://lifeandthyme.com/category/recipes/)
 - [New York Times Cooking](https://cooking.nytimes.com/)
