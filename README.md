@@ -65,19 +65,24 @@
 |[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|
 
 #### Liberia
-- [Liberian Forum](http://www.liberianforum.com/recipe.htm)
-- [Okra Pantry](https://www.okrapantry.com/)
+|     |     |
+| --- | --- |
+|[Liberian Forum](http://www.liberianforum.com/recipe.htm)|[Okra Pantry](https://www.okrapantry.com/)|
 
 #### Libya
-- [The Libyan Kitchen](https://www.thelibyankitchen.com/)
+|     |
+| --- |
+|[The Libyan Kitchen](https://www.thelibyankitchen.com/)|
 
 #### Mauritius
-- [Mauritian Cuisine](https://mauritian-cuisine.com/)
-- [Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)
+|     |     |
+| --- | --- |
+|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
 #### Morocco
-- [Moroccanzest](https://moroccanzest.com/)
-- [My Moroccan Food](http://www.mymoroccanfood.com/)
+|     |     |
+| --- | --- |
+|[Moroccanzest](https://moroccanzest.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 
 #### Nigeria
 - [All Nigerian Recipes](https://www.allnigerianrecipes.com/)
