@@ -925,6 +925,15 @@
 - [A Southern Soul](https://www.asouthernsoul.com/)
 - [Back to my Southern Roots](https://www.backtomysouthernroots.com/)
 - [Basil and Bubbly](https://basilandbubbly.com/)
+- [Fueling a Southern Soul](https://www.fuelingasouthernsoul.com/)
+- [Julia's Simply Southern](https://juliassimplysouthern.com/)
+- [The Local Palate](https://thelocalpalate.com/recipes/)
+- [Southern Kissed](https://www.southernkissed.com/)
+- [Southern Living](https://www.southernliving.com/recipes)
+- [The Southern Lady Cooks](https://thesouthernladycooks.com/)
+- [Southern Plate](https://www.southernplate.com/)
+- [Spicy Southern Kitchen](https://spicysouthernkitchen.com/)
+- [A Yummy Bite](https://ayummybite.net/)
 
 ##### South Carolina
 - [Pinch Me I'm Eating](https://www.pinchmeimeating.com/)
@@ -1116,6 +1125,7 @@
 - [The Crooked Carrot](https://thecrookedcarrot.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
+- [kiyafries](https://kiyafries.com/category/recipes/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
 - [Salt in My Coffee](https://saltinmycoffee.com/)
 - [Thyme Herbal](https://www.thymeherbal.com/blog/)
@@ -1646,6 +1656,7 @@
 - [Eat Pork](http://www.eatpork.org/)
 - [**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)
 - [Pork.org](https://www.pork.org/cooking-techniques/)
+- [**Southern Recipe Small Batch**](https://www.southernrecipesmallbatch.com/recipes)
 - [**Wright Brand**](https://www.wrightbrand.com/recipes/)
 #### Turkey
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
@@ -1944,6 +1955,7 @@
 - [The Tipsy Housewife](https://thetipsyhousewife.org/)
 - [Unpeeled Journal](https://unpeeledjournal.com/)
 - [The Wicked Noodle](https://www.thewickednoodle.com/)
+- [World Local Food](http://worldlocalfood.blogspot.com/)
 - [Yellow Thyme](https://www.yellowthyme.com/)
 
 ### Brand
