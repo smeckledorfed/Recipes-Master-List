@@ -156,16 +156,19 @@
 - [Rownak's Kitchen](https://banglarecipes.com.au/)
 
 #### Bhutan
-- [The Bhutanese Food Site](https://thinley.tripod.com/recipe/)
-- [My Bhutan](https://blog.mybhutan.com/food)
+|     |     |
+| --- | --- |
+|[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[My Bhutan](https://blog.mybhutan.com/food)|
 
 #### Burma
-- [Burmalicious by Suu](https://www.theburmalicious.com/)
-- [Burmese Vegan](https://burmesevegan.com/)
+|     |     |
+| --- | --- |
+|[Burmalicious by Suu](https://www.theburmalicious.com/)|[Burmese Vegan](https://burmesevegan.com/)|
 
 #### Cambodia
-- [Cambodia Recipe](https://cambodiarecipe.com/)
-- [Chef Nak](https://www.chefnak.com/recipes)
+|     |     |
+| --- | --- |
+|[Cambodia Recipe](https://cambodiarecipe.com/)|[Chef Nak](https://www.chefnak.com/recipes)|
 
 #### China
 - [Asian Cooking Mom](https://www.asiancookingmom.com/)
@@ -195,19 +198,26 @@
 - [Yum Chinese Food](https://www.yumchinesefood.com/)
 - [Yum of China](https://www.yumofchina.com/)
 ##### Sichuan
-- [China Sichuan Food](https://www.chinasichuanfood.com/)
-- [Yi's Sichuan Kitchen](https://sichuankitchenrecipes.com/)
+|     |     |
+| --- | --- |
+|[China Sichuan Food](https://www.chinasichuanfood.com/)|[Yi's Sichuan Kitchen](https://sichuankitchenrecipes.com/)|
 ##### Shanghai
-- [Cook in Shanghai](https://www.cookinshanghai.com/recipes/)
-- [**The Mala Market**](https://blog.themalamarket.com/)
+|     |     |
+| --- | --- |
+|[Cook in Shanghai](https://www.cookinshanghai.com/recipes/)|[**The Mala Market**](https://blog.themalamarket.com/)|
 ##### Uyghur
-- [Dolan Chick](https://www.dolanchick.com/)
-- [Uyghur Collective](https://uyghurcollective.com/community?blogcategory=Food)
+|     |     |
+| --- | --- |
+|[Dolan Chick](https://www.dolanchick.com/)|[Uyghur Collective](https://uyghurcollective.com/community?blogcategory=Food)|
 ##### Xinjiang
-- [Far West China](https://www.farwestchina.com/cuisine/)
+|     |
+| --- |
+|[Far West China](https://www.farwestchina.com/cuisine/)|
 
 #### Hong Kong
-- [The Hong Kong Cookery](https://www.thehongkongcookery.com/)
+|     |
+| --- |
+|[The Hong Kong Cookery](https://www.thehongkongcookery.com/)|
 
 #### India
 - [Archana's Kitchen](https://www.archanaskitchen.com/)
