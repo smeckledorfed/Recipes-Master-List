@@ -14,8 +14,9 @@
 | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|
 |[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|
-|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|
-|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|
+|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|
+|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|
+|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|
 
 ## Cuisine
 
