@@ -12,9 +12,9 @@
 ## Budget
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|
-|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|
-|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|
+|[5 Dollar Dinners](https://www.5dollardinners.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|
+|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|
+|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|
 |[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|
 
 ## Cuisine
@@ -111,6 +111,7 @@
 - [Naturally Zimbabwean](https://naturallyzimbabwean.com/)
 
 ### Asia
+- [3than Wong](https://www.3thanwong.com/)
 - [Amazing Asian Food](https://amazingasianfood.com/)
 - [Angel Wong's Kitchen](https://www.angelwongskitchen.com/)
 - [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
@@ -219,6 +220,7 @@
 |[The Hong Kong Cookery](https://www.thehongkongcookery.com/)|
 
 #### India
+- [**24 Mantra Organic**](https://www.24mantra.com/blogs/)
 - [Archana's Kitchen](https://www.archanaskitchen.com/)
 - [Banglar Rannaghor](https://www.banglarrannaghor.com/)
 - [Bawarchi](https://www.bawarchi.com/)
@@ -1126,6 +1128,8 @@
 - [Yay Kosher](https://yaykosher.com/)
 
 ### Local
+- [**4 Earth Farms**](https://www.4earthfarms.com/our-produce/recipes/)
+- [**5 Dog Farm**](https://www.5dog.farm/category/eat/)
 - [Acadian Family Farm](https://www.acadianfamilyfarm.com/)
 - [Arkansas Local Food Network](https://arkansaslocalfoodnetwork.org/category/recipes/)
 - [Art of Natural Living](https://artofnaturalliving.com/)
@@ -1191,6 +1195,7 @@
 - [Happy Skin Kitchen](https://www.happyskinkitchen.com/)
 
 ### Sugar-Free
+- [28 By Sam Wood](https://recipes.28bysamwood.com/)
 - [Bakerita](https://www.bakerita.com/)
 - [Make Me Sugar-Free](https://www.makemesugarfree.com/)
 - [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
@@ -1407,8 +1412,9 @@
 - [The Wimpy Vegetarian](https://thewimpyvegetarian.com/)
 
 ## Easy
-- [100k Recipes](https://100krecipes.com/)
+- [3 Boys and a Dog](https://3boysandadog.com/simple-easy-recipes/)
 - [4 Sons R' Us](https://4sonrus.com/)
+- [100k Recipes](https://100krecipes.com/)
 - [Aileen Cooks](https://aileencooks.com/)
 - [Aina Yums](https://www.ainayums.com/)
 - [Air Fryer Eats](https://airfryereats.com/)
@@ -1617,6 +1623,7 @@
 ### Dairy
 - [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
 - [**Carnation**](https://www.verybestbaking.com/carnation/)
+- [**Fourth and Heart**](https://fourthandheart.com/blogs/recipes-and-more)
 - [**Turkey Hill**](https://www.turkeyhill.com/recipes)
 ### Dairy Alternatives
 - [**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)
@@ -1673,6 +1680,8 @@
 - [**Nature Nate's**](https://www.naturenates.com/category/honey-recipes/)
 - [**SoulBee**](https://www.soulbeehoney.com/blogs/recipes)
 ### Meat
+- [**3 Pigs**](https://3pigs.com/blogs/recipes-tips)
+- [**44 Steaks**](https://www.44steaks.com/blogs/all-recipes)
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
 - [**Armour Meats**](https://armourmeats.sfdbrands.com/en-us/recipes/)
 - [**Capital Fine Meats**](https://www.capitalfinemeats.ca/recipes/)
@@ -1788,6 +1797,7 @@
 - [**Wild for Salmon**](https://www.wildforsalmon.com/blogs/recipes)
 - [**Wulf's Fish**](https://wulfsfish.com/)
 ### Snacks
+- [**34 Degrees**](https://34-degrees.com/blogs/recipes)
 - [**Cape Cod**](https://www.capecodchips.com/recipes/)
 - [**Cheetos**](https://www.cheetos.com/)
 - [**Pretzel Crisps**](https://www.pretzelcrisps.com/recipes/)
@@ -1930,8 +1940,12 @@
 ## Miscellaneous
 
 ### Blogger
+- [2 Food Trippers](https://www.2foodtrippers.com/)
+- [2pots2cook](http://www.2pots2cook.com/)
 - [2 Sisters Recipes](https://2sistersrecipes.com/)
+- [3 Scoops of Sugar](https://3scoopsofsugar.com/)
 - [12 Recipe Book](http://www.12recipebook.com/)
+- [30 Day Gourmet](http://30daygourmet.com/)
 - [31 Daily](https://www.31daily.com)
 - [40 Aprons](https://40aprons.com/)
 - [196 Flavors](https://www.196flavors.com/)
@@ -2054,8 +2068,10 @@
 - [Diane Kochilas](https://www.dianekochilas.com/)
 
 ### Community
+- [4 All Taste](https://4alltaste.com/)
 - [12 Tomatoes](https://12tomatoes.com/)
 - [30 Seconds](https://30seconds.com/)
+- [360 Happy Kitchen](https://360happykitchen.com/)
 - [1000 World Recipes](https://1000worldrecipes.com/)
 - [Allrecipes](https://www.allrecipes.com/)
 - [BBC Food](https://www.bbc.co.uk/food)
