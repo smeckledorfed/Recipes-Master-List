@@ -85,10 +85,9 @@
 |[Moroccanzest](https://moroccanzest.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 
 #### Nigeria
-- [All Nigerian Recipes](https://www.allnigerianrecipes.com/)
-- [Nigerian Food TV](https://www.nigerianfoodtv.com/)
-- [Nigerian Lazy Chef](https://www.nigerianlazychef.com/)
-- [Vegan Nigerian](https://www.vegannigerian.com/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
 
 #### South Africa
 - [The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)
