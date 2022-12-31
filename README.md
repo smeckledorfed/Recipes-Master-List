@@ -1232,6 +1232,7 @@
 - [Cooking for Peanuts](https://cookingforpeanuts.com/)
 - [**Dandie's**](https://dandies.com/recipes)
 - [Dash of Danielle](https://www.dashofdanielle.com/)
+- [Daughter of Seitan](https://daughterofseitan.com/)
 - [Da Vina Vegan](http://davinadavegan.com/)
 - [deliciously ella](https://deliciouslyella.com/)
 - [Delightful Vegans](https://delightfulvegans.com/)
@@ -1295,6 +1296,8 @@
 - [Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/)
 - [Sarah's Vegan Recipes](https://www.sarahsveganrecipes.co.uk/)
 - [School Night Vegan](https://schoolnightvegan.com/)
+- [Seitan Beats Your Meat](https://seitanbeatsyourmeat.com/)
+- [Seitan is My Motor](https://www.seitanismymotor.com/)
 - [Simply Bakings](https://simplybakings.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [Simple Veganista](https://simple-veganista.com/)
@@ -1503,7 +1506,15 @@
 ## Ingredient
 ### Alcohol
 - [1001 Cocktails](https://en.1001cocktails.com/)
+- [Art of Drink](https://www.artofdrink.com/category/recipe)
+- [Cocktail Party](https://cocktailpartyapp.com/drinks/)
+- [Drink Boy](https://www.drinkboy.com/Cocktails/)
+- [Drink Existence](https://www.drinkexistence.com/)
+- [The Drink Kings](https://www.thedrinkkings.com/)
 - [**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)
+- [**San Pellegrino**](https://www.sanpellegrino.com/uk/sparkling-drinks/zesty-food)
+- [Shake Drink Repeat](https://www.shakedrinkrepeat.com/)
+- [ShakeIt DrinkIt](https://www.shakeitdrinkit.com/)
 #### Beer
 - [**Anchor Brewing**](https://www.anchorbrewing.com/blog/category/beer-food-pairings/)
 - [Beer Alien](https://beeralien.com/)
@@ -1539,6 +1550,7 @@
 - [**Tequila Calle 23**](https://www.tequilacalle23.com/site/#MixingRoom)
 - [**Tequila Ocho**](https://ochotequila.com/cocktails/)
 #### Vodka
+- [**Absolut**](https://www.absolutdrinks.com/en/learn/)
 - [**Belvedere Vodka**](https://www.belvederevodka.com/en-us/vodka-cocktails/)
 - [**Broken Shed**](https://brokenshed.com/the-recipes?offset=0)
 - [**Chopin Vodka**](https://chopinvodka.com/recipes/)
@@ -1552,6 +1564,9 @@
 - [**Skyy**](https://www.skyyvodka.com/us/cocktails/)
 - [**Stoli**](https://stoli.com/cocktail/)
 - [**Tito's**](https://www.titosvodka.com/recipes)
+#### Whiskey
+- [Black Velvet](https://www.blackvelvetwhisky.com/canadian-whisky-drinks.php)
+- [**Seagrams**](https://www.seagrams7.com/whiskey-drinks)
 ### Beans
 - [**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)
 - [**Camellia**](https://www.camelliabrand.com/)
@@ -1560,7 +1575,11 @@
 - [**Randall Beans**](https://randallbeans.com/recipes/)
 ### Beverages
 - [**7up**](https://www.7up.com/en/recipes)
+- [**Backyard Sodas**](https://www.backyardsodas.com/recipes/)
+- [**Bhakti Chai**](https://drinkbhakti.com/blogs/recipes)
 - [**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)
+- [**Iconic**](https://www.drinkiconic.com/blogs/recipes)
+- [**Waterloo Sparkling Water**](https://www.drinkwaterloo.com/recipes)
 ### Bread
 - [**Arnold Premium Breads**](https://arnoldbread.com/recipes)
 - [**Canyon Gluten-Free**](https://canyonglutenfree.com/recipes/)
@@ -1602,6 +1621,7 @@
 - [Coffee at Three](https://coffeeatthree.com/)
 - [**Coffee Cherry Co.**](https://coffeecherryco.com/recipes/)
 - [**Copper Cow Coffee**](https://coppercowcoffee.com/blogs/blog-posts)
+- [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
 - [**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)
 - [**Door County Coffee**](https://doorcountycoffee.com/recipes/)
 - [**Drink Super Coffee**](https://drinksupercoffee.com/blog/)
@@ -1774,12 +1794,16 @@
 ### Nuts
 - [**88 Acres**](https://88acres.com/pages/88-acres-blog)
 - [**Jif**](https://www.jif.com/peanut-butter/recipes)
+- [**Mori-Nu**](https://morinaganutrition.com/pages/morinu-tofu-recipes)
 - [**Noosh**](https://nooshbrands.com/recipes/)
 - [NutStop](https://recipes.nutstop.com/)
 - [Peanut Butter Lovers](https://peanutbutterlovers.com/)
 - [**Sciara Pistacchio**](https://www.sciarapistacchio.com/en/recipes/)
 - [**Skippy**](https://www.peanutbutter.com/)
 - [**Setton Farms**](http://settonfarms.com/health-recipes/great-recipes/)
+- [**Tofu Bud**](https://tofubud.com/blogs/recipes)
+- [**Tofurky**](https://tofurky.com/recipes/)
+- [**Tofutti**](https://www.tofutti.com/recipe-blog)
 - [**Wonderful Pistachios**](https://www.wonderfulpistachios.com/recipes)
 - [**WW Traders Cashews**](https://wwcashews.com/blogs/blogs-and-recipes)
 ### Oil
@@ -1869,6 +1893,8 @@
 - [Ichi Sushi](https://ichisushi.com/category/recipes/)
 - [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
 - [Make Sushi](https://www.makesushi.com/)
+### Tea
+- [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
 ### Vegetables
 - [**Amore**](https://amorebrand.com/blogs/recipe)
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
