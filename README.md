@@ -92,25 +92,38 @@
 |[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
 
 #### South Africa
-- [The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)
+|     |
+| --- |
+|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
 ##### Cape Malay
-- [Cape Malay Cooking Delights](https://capemalaycookingdelights.com/)
-- [Fatima Sydow Cooks](https://fatimasydow.co.za/)
+|     |     |
+| --- | --- |
+|[Cape Malay Cooking Delights](https://capemalaycookingdelights.com/)|[Fatima Sydow Cooks](https://fatimasydow.co.za/)|
 
 #### South Sudan
-- [**Tales of South Sudan**](https://tasteofsouthsudan.com/category/recipes/)
+|     |
+| --- |
+|[**Tales of South Sudan**](https://tasteofsouthsudan.com/category/recipes/)|
 
 #### Sudan
-- [Tales of Jewish Sudan](https://www.talesofjewishsudan.com/recipes)
+|     |
+| --- |
+|[Tales of Jewish Sudan](https://www.talesofjewishsudan.com/recipes)|
 
 #### Tunisia
-- [Our Tunisian Table](https://www.ourtunisiantable.com/)
+|     |
+| --- |
+|[Our Tunisian Table](https://www.ourtunisiantable.com/)|
 
 #### Uganda
-- [A Kitchen in Uganda](https://akitcheninuganda.com/)
+|     |
+| --- |
+|[A Kitchen in Uganda](https://akitcheninuganda.com/)|
 
 #### Zimbabwe
-- [Naturally Zimbabwean](https://naturallyzimbabwean.com/)
+|     |
+| --- |
+|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|
 
 ### Asia
 - [3than Wong](https://www.3thanwong.com/)
@@ -273,21 +286,25 @@
 - [Zaiqa](https://www.zaiqa.com/)
 - [Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)
 ##### Anglo-Indian
-- [Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)
-- [Bridget White-Kumar](https://bridget-white.com/)
+|     |     |
+| --- | --- |
+|[Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)|[Bridget White-Kumar](https://bridget-white.com/)|
 ##### Assam
-- [RumiCooks](http://www.rumicooks.com/)
+|     |
+| --- |
+|[RumiCooks](http://www.rumicooks.com/)|
 ##### Chettinad
-- [Annam's Recipes](http://annamsrecipes.com/)
-- [Chettinad Cookbook](https://chettinadcookbook.org/)
-- [Chettinad Recipes](http://chettinadrecipesblog.blogspot.com/)
-- [Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Annam's Recipes](http://annamsrecipes.com/)|[Chettinad Cookbook](https://chettinadcookbook.org/)|[Chettinad Recipes](http://chettinadrecipesblog.blogspot.com/)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|
 ##### Garo
-- [Garo Recipes/Garo Food](https://tensanz2012.wordpress.com/)
-- [Mobsea](http://mobsea.com/what-to-eat-in-meghalaya/Garo-recipe)
+|     |     |
+| --- | --- |
+|[Garo Recipes/Garo Food](https://tensanz2012.wordpress.com/)|[Mobsea](http://mobsea.com/what-to-eat-in-meghalaya/Garo-recipe)|
 ##### Goa
-- [Aromatic Essence](https://aromaticessence.co/)
-- [Goan Food Recipes](https://www.goanfoodrecipes.com/)
+|     |     |
+| --- | --- |
+|[Aromatic Essence](https://aromaticessence.co/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|
 
 #### Indonesia
 - [Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)
@@ -300,7 +317,9 @@
 - [Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/?m=1)
 - [Recipes Indonesia](https://recipesindonesia.com/)
 ##### Bali
-- [Wil and Wayan's Bali Kitchen](https://wilandwayanskitchen.com/)
+|     |
+| --- |
+|[Wil and Wayan's Bali Kitchen](https://wilandwayanskitchen.com/)|
 
 #### Japan
 - [Cook & Meshiagare](https://meshiagare.tokyo/)
@@ -327,9 +346,9 @@
 - [We Love Japanese Food](https://welovejapanesefood.com/)
 
 #### Laos
-- [Food from Northern Laos](https://foodfromnorthernlaos.com/)
-- [Little Lao Kitchen](https://www.littlelaokitchen.com/)
-- [Vegan Lao Food](https://www.veganlaofood.com/)
+|     |     | --- |
+| --- | --- | --- |
+|[Food from Northern Laos](https://foodfromnorthernlaos.com/)||[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
 #### Malaysia
 - [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
