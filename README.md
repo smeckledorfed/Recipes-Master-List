@@ -197,6 +197,7 @@
 - [Chinese Foods Recipe](https://chinesefoodsrecipe.com/)
 - [Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)
 - [Chinese Recipes for All](https://chineserecipesforall.com/)
+- [A Daily Food](https://www.adailyfood.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
 - [Eating China](https://www.eatingchina.com/)
 - [Fun Chinese Cooking](https://fun-chinese-cooking.blogspot.com/)
@@ -348,7 +349,7 @@
 #### Laos
 |     |     | --- |
 | --- | --- | --- |
-|[Food from Northern Laos](https://foodfromnorthernlaos.com/)||[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
+|[A Dash of Doly](https://adashofdolly.com/)|[Food from Northern Laos](https://foodfromnorthernlaos.com/)||[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
 #### Malaysia
 - [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
@@ -898,6 +899,8 @@
 - [Jamaicans.com](https://jamaicans.com/)
 - [Jamaica Travel and Culture](https://www.jamaicatravelandculture.com/food_and_drink.htm)
 - [LifeHabi](https://www.lifehabi.com/recipes/jamaica/)
+##### Puerto Rico
+- [Mexican Appetizers and More](https://mexicanappetizersandmore.com/)
 ##### Trinidad & Tobago
 - [Simply Trini Cooking](https://www.simplytrinicooking.com/)
 - [We Trini Food](https://wetrinifood.com/)
@@ -907,8 +910,17 @@
 - [Artisan Bryan](https://www.artisanbryan.com/)
 
 #### Mexico
+- [Mexican Appetizers and More](https://mexicanappetizersandmore.com/)
+- [Mex Grocer](https://www.mexgrocer.com/mexican-recipes.html)
+- [Mexican Food Journal](https://mexicanfoodjournal.com/)
+- [Mexican Made Meat Less](https://mexicanmademeatless.com/)
+- [Mexican Please](https://www.mexicanplease.com/)
 - [Mexican Recipes.me](http://www.mexicanrecipes.me/)
+- [Mexico in My Kitchen](https://www.mexicoinmykitchen.com/)
+- [My Slice of Mexico](https://mysliceofmexico.ca/)
+- [Sabor Mexicano](https://sabormexicano.com/recipes)
 - [Thai Caliente](https://thaicaliente.com/)
+- [Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)
 
 #### Native American
 - [American Indian Health](https://aihd.ku.edu/)
@@ -958,8 +970,18 @@
 - [Louisiana Travel](https://www.louisianatravel.com/culinary/louisiana-recipes)
 - [Louisiana Woman Blog](https://louisianawomanblog.com/)
 
+##### New Mexico
+- [Edible New Mexico](https://www.ediblenm.com/category/recipes/)
+- [Made in New Mexico](https://madeinnewmexico.com/blogs/recipes)
+- [New Mexican Foodie](https://www.newmexicanfoodie.com/)
+- [New Mexico Nomad](https://newmexiconomad.com/resources/food/recipes/)
+- [New Mexico.org](https://www.newmexico.org/things-to-do/cuisine/recipes/)
+
 ##### Soul Food
 - [Black Foodie](https://www.blackfoodie.co/recipes/)
+- [Old School Soul Food](https://www.oldschoolsoulfood.com/)
+- [Sould Food Cooking 101](https://www.soulfoodcooking101.com/)
+- [The Soul Food Pot](https://thesoulfoodpot.com/)
 
 ##### South
 - [A Southern Soul](https://www.asouthernsoul.com/)
@@ -968,7 +990,15 @@
 - [Butter Be Ready](https://www.butterbeready.com/)
 - [Fueling a Southern Soul](https://www.fuelingasouthernsoul.com/)
 - [Julia's Simply Southern](https://juliassimplysouthern.com/)
+- [**Justin Wilson**](https://justinwilson.com/recipes/)
 - [The Local Palate](https://thelocalpalate.com/recipes/)
+- [Mama Sue's Southern Kitchen](https://www.mamasuessouthernkitchen.com/)
+- [Melissa's Southern Style Kitchen](https://www.melissassouthernstylekitchen.com/)
+- [Serving Up Southern](https://servingupsouthern.com/)
+- [Southern Bite](https://southernbite.com/)
+- [Southern Boy Dishes](https://southernboydishes.com/)
+- [**Southern Cast Iron**](https://southerncastiron.com/)
+- [Southern Discourse](https://southerndiscourse.com/)
 - [Southern Kissed](https://www.southernkissed.com/)
 - [Southern Living](https://www.southernliving.com/recipes)
 - [The Southern Lady Cooks](https://thesouthernladycooks.com/)
@@ -1303,6 +1333,7 @@
 - [Make It Dairy-Free](https://makeitdairyfree.com/)
 - [Making Thyme for Health](https://www.makingthymeforhealth.com/)
 - [Messy Vegan Cook](https://www.messyvegancook.com/)
+- [Mexican Made Meat Less](https://mexicanmademeatless.com/)
 - [Munchmeals by Janet](https://munchmealsbyjanet.com/)
 - [My Darling Vegan](https://www.mydarlingvegan.com/)
 - [My Vegan](https://www.myvegan.com/blog/recipes/)
@@ -1418,6 +1449,7 @@
 - [Burmese Vegan](https://burmesevegan.com/)
 - [Butter Baking](https://www.butterbaking.com/)
 - [Coffee & Quinoa](https://www.coffeeandquinoa.com/)
+- [A Cook Within](https://acookwithin.com/)
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)
 - [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
 - [The Fiery Vegetarian](https://www.thefieryvegetarian.com/)
@@ -1601,6 +1633,8 @@
 - [**Martell**](https://www.martell.com/en-us/cocktails/)
 - [**Paul Masson**](https://www.paulmasson.com/cocktails.php)
 - [**Remy Martin**](https://www.remymartin.com/en-us/cocktails/)
+#### Gin
+- [Aland Distillery](https://alanddistillery.com/recipes/)
 #### Rum
 - [**Bacardi**](https://www.bacardi.com/us/en/rum-cocktails/)
 - [**Brugal**](https://www.brugal-rum.com/en-us/cocktails)
@@ -1932,7 +1966,14 @@
 - [**WW Traders Cashews**](https://wwcashews.com/blogs/blogs-and-recipes)
 - [**Yum Butter**](https://www.yumbutter.com/blogs/recipes)
 ### Oil
+- [**Agrovim**](https://www.agrovim.gr/olive-oil-recipes/)
+- [**The Artisan Olive Oil Company**](https://www.artisanoliveoilcompany.co.uk/blogs/recipes)
 - [Bodo Oil](https://bodo-oil.com/)
+- [Canola Info](https://www.canolainfo.org/recipes/find-canola-oil-recipes.php)
+- [**Cave Creek**](https://cavecreekoliveoil.com/recipes/)
+- [European Olive Oil](https://oliveoileu.jp/en/)
+- [Fresh Pressed Olive Oil Club](https://freshpressedoliveoil.com/category/explore/recipes/)
+- [**The Oil Tree**](https://theoiltree.com/blogs/olive-co-original-recipes)
 - [Olive Oils from Spain](https://www.oliveoilsfromspain.org/)
 ### Pasta/Noodles
 - [**Asha Dry Noodle](https://ashadrynoodle.com/blogs/recipes)
@@ -2218,8 +2259,10 @@
 - [Chicken Fried Kitchen](https://chickenfriedkitchen.com/)
 - [Chorizo & Thyme](https://chorizoandthyme.wordpress.com/)
 - [A Classic Twist](https://aclassictwist.com/)
+- [A Communal Table](https://www.acommunaltable.com/)
 - [Clove Graden](https://clovegarden.com/)
 - [Cooking Chew](https://cookingchew.com/)
+- [A Cook Within](https://acupofcream.com/)
 - [A Couple Cooks](https://www.acouplecooks.com/)
 - [A Cozy Kitchen](https://www.acozykitchen.com/)
 - [Eats By Ramya](https://eatsbyramya.com/)
