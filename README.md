@@ -2286,6 +2286,8 @@
 - [Teak & Thyme](https://teakandthyme.com/)
 - [Texan Erin](https://www.texanerin.com/)
 - [typefoodie](https://www.typefoodie.com/)
+- [Ugly Duckling Bakery](https://uglyducklingbakery.com/) 
+- [Weekend Bakery](https://www.weekendbakery.com/)
 - [Wheel of Baking](https://wheelofbaking.com/)
 - [Whisk Averse Baking](https://whiskaversebaking.com/)
 - [White on Rice Couple](https://whiteonricecouple.com/)
