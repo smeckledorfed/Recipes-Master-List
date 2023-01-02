@@ -14,10 +14,12 @@
 | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|
 |[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|
-|[Delicious on a Dime](https://deliciousonadime.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Friendly Veg](https://friendlyveg.com/)|
-|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|
-|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|
-|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[Delicious on a Dime](https://deliciousonadime.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|
+
+|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|
+|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|
+|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|
+|[Two Dollar Eats](https://twodollareats.com/)|
 
 ## Cuisine
 
@@ -153,6 +155,7 @@
 - [Nom Nom Paleo](https://nomnompaleo.com/)
 - [**NutriAsia**](https://nutriasia.com/recipe/)
 - [Patterns of Humanity](https://patternsofhumanity.com/)
+- [RunAwayRice](https://runawayrice.com/)
 - [The Savory Chopstick](https://www.thesavorychopstick.com/)
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
@@ -210,9 +213,12 @@
 - [My Chinese Recipes](https://www.mychineserecipes.com/)
 - [My Chinese Soul Food](https://mychinesesoulfood.com/)
 - [Nicole Mones](https://nicolemones.com/food-lovers/recipes/)
+- [Rasa Malaysia](https://rasamalaysia.com/)
+- [The Rice Lover](https://www.thericelover.com/)
+- [Roti n' Rice](https://www.rotinrice.com/)
 - [Souper Diaries](https://souperdiaries.com/)
 - [South China Morning Post](https://www.scmp.com/cooking?)
-- [Rasa Malaysia](https://rasamalaysia.com/)
+- [Soy, Rice, Fire](https://soyricefire.com/)
 - [Unfamiliar China](https://www.unfamiliarchina.com/)
 - [Yan Can Cook](https://yancancook.com/home/)
 - [Yum Chinese Food](https://www.yumchinesefood.com/)
@@ -363,6 +369,7 @@
 - [New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)
 - [**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)
 - [Rasa Malaysia](https://rasamalaysia.com/)
+- [Roti n' Rice](https://www.rotinrice.com/)
 - [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
 
 #### Middle East
@@ -537,6 +544,7 @@
 - [Cuisine of Vietnam](https://cuisineofvietnam.com/)
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [A Peachy Plate](https://apeachyplate.com/)
+- [Rice n' Flour](http://www.ricenflour.com/)
 - [Simply Vietnamese](https://simplyvietnamese.wordpress.com/)
 - [Tasty Little Dumpling](https://tastylittledumpling.com/)
 - [Vietnamese Cuisines](https://vietnamesecuisines.com/)
@@ -1056,6 +1064,7 @@
 - [Chilean Food and Garden](https://www.chileanfoodandgarden.com/)
 
 #### Colombia
+- [Sweet y Salado](https://sweetysalado.com/en/)
 - [Vecina Vegeteriana](https://vecinavegetariana.com/)
 
 #### Peru
@@ -1083,6 +1092,7 @@
 - [Go Dairy-Free](https://www.godairyfree.org/)
 - [Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)
 - [Paleo Scaleo](https://www.paleoscaleo.com/)
+- [The Taste of Kosher](https://www.thetasteofkosher.com/)
 
 ### Egg-Free
 - (all websites in the vegan section)
@@ -1190,14 +1200,17 @@
 ### Kosher
 - (all websites in vegetarian & vegan sections)
 - [Batel's Kitchen](https://batelskitchen.com/)
+- [The Kosher Baker](https://thekosherbaker.com/)
 - [Kosher.com](https://www.kosher.com/)
 - [Kosher Cooking](http://www.koshercooking.com/)
+- [Kosher Cowboy](https://koshercowboy.com/)
 - [Kosher Delight](https://kosherdelight.com/)
 - [Kosher Everyday](https://koshereveryday.com/)
 - [Kosher Eye](https://koshereye.com/)
 - [Kosher in the Kitch](https://www.kosherinthekitch.com/)
-- [Leh Cooks Kosher](https://www.leahcookskosher.com/)
+- [Leah Cooks Kosher](https://www.leahcookskosher.com/)
 - [OU Kosher](https://oukosher.org/recipes/)
+- [The Taste of Kosher](https://www.thetasteofkosher.com/)
 - [**Western Kosher**](https://www.westernkosher.com/los-angeles-pico/recipes)
 - [Yay Kosher](https://yaykosher.com/)
 
@@ -1215,8 +1228,11 @@
 - [Ask the Food Geek](https://askthefoodgeek.com/)
 - [Beyond the Chicken Coop](https://www.beyondthechickencoop.com/)
 - [The Crooked Carrot](https://thecrookedcarrot.com/)
+- [A Day in the Life on the Farm](http://adayinthelifeonthefarm.blogspot.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
+- [A Frenchtown Kitchen & Garden](http://frenchkitcheninamerica.blogspot.com/)
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
+- [A Garden for the House](https://www.agardenforthehouse.com/)
 - [kiyafries](https://kiyafries.com/category/recipes/)
 - [Lemons + Anchovies](https://lemonsandanchovies.com/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
@@ -1547,8 +1563,10 @@
 - [Easy Weeknight Recipes](https://easyweeknightrecipes.com/)
 - [Easy Wrap Recipes](https://easywraprecipes.com/)
 - [Everyday Easy Eats](https://www.everydayeasyeats.com/)
+- [A Few Shortcuts](https://afewshortcuts.com/)
 - [A Fork's Tale](https://www.aforkstale.com/)
 - [Friend Cheap Menu](https://www.friendcheapmenu.com/)
+- [A Full Living](https://afullliving.com/)
 - [Fun Money Mom](https://funmoneymom.com/)
 - [Geoff's Baking Blog](https://geoffsbakingblog.com/)
 - [Ginger Snap's Baking Affair](https://gingersnapsbakingaffairs.com/)
@@ -1775,6 +1793,7 @@
 - [**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)
 #### Tea
 - [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
+- [**Salada**](https://salada.com/blogs/green-tea-recipes)
 - [**Sencha Tea Bar**](https://senchateabar.com/pages/tea-cocktails)
 - [**Steaz**](https://drinksteaz.com/blogs/news/recipes)
 - [**Wize**](https://drinkwize.com/pages/blog?filter=recipes)
@@ -1924,6 +1943,16 @@
 - [**True Citrus**](https://www.truelemon.com/blogs/recipes)
 - [**Washington Apples**](https://waapple.org/recipes/)
 - [**Yucatan Guacamole**](https://avocado.com/recipes/)
+### Grains
+- [**Carolina Rice**](https://carolinarice.com/)
+- [**European Rice**](https://www.europeanrice.eu/recipes/)
+- [**Lentils**](https://www.lentils.org/recipes-cooking/)
+- [**Minute Rice**](https://minuterice.com/recipes/)
+- [**Rice-a-Roni**](https://www.ricearoni.com/recipes)
+- [**Rice Select**](https://riceselect.com/recipes)
+- [**RightRice](https://rightrice.com/blogs/recipes)
+- [**Success Rice**](https://successrice.com/recipes/)
+- [**Tilda Rice**](https://www.tilda.com/recipes/)
 ### Herbs & Spices
 - [**Badia Spices**](https://badiaspices.com/recipes/)
 - [**Cedar Mountain Herbs**](https://cedarmountainherbs.com/topics/recipes/)
@@ -1932,6 +1961,7 @@
 - [Learning Herbs](https://learningherbs.com/free-herbal-remedies/#top)
 - [**Mountain Rose Herbs**](https://blog.mountainroseherbs.com/)
 - [**Organic India**](https://organicindiausa.com/blog/)
+- [**Watson's**](https://tastewatsons.com/blogs/recipes)
 - [**World Spice**](https://www.worldspice.com/recipes)
 ### Honey
 - [**Bee Seasonal**](https://beeseasonal.com/blogs/best-honey-recipes)
@@ -2063,13 +2093,9 @@
 - [**Sun Noodle**](https://sunnoodle.com/Recipes-1)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [**The Vite Ramen**](https://www.viteramen.com/all-recipes-1)
-### Rice
-- [**Carolina Rice**](https://carolinarice.com/)
-- [**Minute Rice**](https://minuterice.com/recipes/)
-- [**Rice-a-Roni**](https://www.ricearoni.com/recipes)
-- [**Rice Select**](https://riceselect.com/recipes)
-- [**Success Rice**](https://successrice.com/recipes/)
-- [**Tilda Rice**](https://www.tilda.com/recipes/)
+### Sandwiches
+- [Sandwich Tribunal](https://www.sandwichtribunal.com/)
+- [Something About Sandwiches](https://somethingaboutsandwiches.com/)
 ### Seafood
 - [**Alabama Gulf Seafood**](https://eatalabamaseafood.com/recipes)
 - [**Alaskan Leader**](https://alaskanleader.com/recipes)
@@ -2113,12 +2139,14 @@
 - [**Souper Cubes**](https://www.soupercubes.com/blogs/recipes)
 - [Soupalicious](https://soupalicious.kitchen/)
 - [Soup Song](http://soupsong.com/)
+- [**Zoup!**](https://www.zoupbroth.com/category/recipes/)
 ### Snacks
 - [**34 Degrees**](https://34-degrees.com/blogs/recipes)
 - [**505 Southwestern**](https://www.505southwestern.com/recipes)
 - [**Cape Cod**](https://www.capecodchips.com/recipes/)
 - [**Cheetos**](https://www.cheetos.com/)
 - [**Pretzel Crisps**](https://www.pretzelcrisps.com/recipes/)
+- [**Riceworks**](https://www.riceworks.com/recipes/)
 - [**Tostito's**](https://www.tostitos.com/recipes)
 - [**Trail Chips**](https://trailchips.com/recipes/)
 - [**Xochitl**](https://xochitlchipsandsalsa.com/recipes-2/)
@@ -2133,13 +2161,18 @@
 - [**Amore**](https://amorebrand.com/blogs/recipe)
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
 - [Australian Onions](https://australianonions.com.au/)
+- [The Devil Wears Salad](https://thedevilwearssalad.com/)
 - [Far West Fungi](https://farwestfungi.com/pages/mushroom-recipes)
 - [**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)
 - [Kitchen Pride Mushrooms](https://www.kitchenpride.com/our-recipes)
+- [Love My Salad](https://www.lovemysalad.com/)
 - [**Maine Coast Sea Vegetables**](https://seaveg.com/blogs/recipes)
 - [**Mycopia Mushrooms**](https://www.mycopia.com/recipes)
 - [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
 - [**Om Mushrooms**](https://ommushrooms.com/blogs/blog/tagged/recipes)
+- [saladBURNET](https://saladburnet.org/index.php/recipes/)
+- [**Salad Cosmo**](https://www.saladcosmo.com/recipes)
+- [Salad Girl](https://www.saladgirl.com/)
 ### Yogurt
 - [**Dannon**](https://www.dannon.com/recipes/)
 - [**Greek Gods**](https://www.greekgodsyogurt.com/list-of-recipes/)
@@ -2221,6 +2254,7 @@
 - [Gretchen's Vegan Bakery](https://www.gretchensveganbakery.com/)
 - [Jenny Is Baking](https://jennyisbaking.com/)
 - [Kim and Jake's Cakes](http://kimandjakescakes.com/recipes)
+- [The Kosher Baker](https://www.thetasteofkosher.com/)
 - [A Latte Food](https://www.alattefood.com/)
 - [The Lazy Vegan Baker](https://www.thelazyveganbaker.com/)
 - [**Libby's**](https://www.verybestbaking.com/libbys/recipes/)
@@ -2280,6 +2314,10 @@
 ### Small-Batch
 - [1-2 Cook](https://www.1-2-cook.com/)
 - [101 Cooking for Two](https://www.101cookingfortwo.com/)
+- [A Flavor Journal](https://aflavorjournal.com/)
+
+### Sous Vide
+- [A Duck's Oven](https://aducksoven.com/)
 
 ## Miscellaneous
 
@@ -2354,21 +2392,27 @@
 - [A Couple Cooks](https://www.acouplecooks.com/)
 - [A Cozy Kitchen](https://www.acozykitchen.com/)
 - [Don't Go Bacon My Heart](https://www.dontgobaconmyheart.co.uk/)
+- [A Dynamic Life](https://adynamiclife.co.za/recipes/)
 - [Eats By Ramya](https://eatsbyramya.com/)
 - [Fairy Burger](https://www.fairyburger.com/recipes/)
 - [A Family Feast](https://www.afamilyfeast.com/)
 - [A Farmgirl's Dabbles](https://www.afarmgirlsdabbles.com/)
 - [Foodtasia](https://foodtasia.com/)
+- [A Fork and a Pencil](https://aforkandapencil.com/)
 - [Foxes Love Lemons](https://foxeslovelemons.com/)
 - [Garnish with Lemon](https://www.garnishwithlemon.com/)
+- [Green Tea Over Rice](https://greenteaoverrice.com/)
 - [A Hint of Rosemary](https://ahintofrosemary.com/)
 - [The Hint of Rosemary](https://thehintofrosemary.com/)
 - [**Immaculate Baking**](https://www.immaculatebaking.com/new-recipes/)
 - [Immaculate Bites](https://www.africanbites.com/)
 - [Immigrant's Table](https://immigrantstable.com/)
+- [Inspired By Charm](https://inspiredbycharm.com/category/recipes/)
 - [International Menu](https://internationalmenu.com/)
 - [It's Thyme 2 Cook](https://itsthyme2cook.com/)
+- [Jabberwocky Stew](https://jabberwockystew.net/)
 - [Jar of Lemons](https://www.jaroflemons.com/)
+- [Jenny Can Cook](https://www.jennycancook.com/)
 - [Joy of Baking](https://www.joyofbaking.com/)
 - [Just a Little Bit of Bacon](https://www.justalittlebitofbacon.com/)
 - [Lemon Blossoms](https://www.lemonblossoms.com/)
@@ -2402,6 +2446,8 @@
 - [Out of the Box Baking](https://outoftheboxbaking.com/)
 - [Passionate About Baking](https://passionateaboutbaking.com/)
 - [A Pinch of Healthy](https://www.apinchofhealthy.com/)
+- [Salad in a Jar](https://saladinajar.com/)
+- [Salad Master](https://recipes.saladmaster.com/)
 - [Salty Lemon Sister](https://www.saltylemonsister.com/)
 - [Season and Thyme](https://seasonandthyme.com/)
 - [Seasoned Vegetable](https://www.seasonedvegetable.com/)
@@ -2410,6 +2456,7 @@
 - [A Simple Palate](https://asimplepalate.com/)
 - [Spinach and Bacon](https://spinachandbacon.com/)
 - [Spoon Fork Bacon](https://www.spoonforkbacon.com/)
+- [Sugar, Spice, Biriyani Rice!](https://sugarspicebiriyanirice.com/)
 - [Sweat Tea and Thyme](https://www.sweetteaandthyme.com/)
 - [A Sweet Pea Chef](https://www.asweetpeachef.com/)
 - [Tamarind & Thyme](https://www.tamarindnthyme.com/)
@@ -2418,6 +2465,7 @@
 - [Tasty Arbuz](https://arbuz.com/)
 - [Thyme and Love](https://thymeandlove.com/)
 - [The Tipsy Housewife](https://thetipsyhousewife.org/)
+- [Tom Walton](https://tomwalton.adash.me/recipes)
 - [The Two Bananas](https://thetwobananas.com/)
 - [Unpeeled Journal](https://unpeeledjournal.com/)
 - [The Wicked Noodle](https://www.thewickednoodle.com/)
@@ -2445,6 +2493,7 @@
 - [Andrew Zimmern](https://andrewzimmern.com/)
 - [Barefoot Contessa](https://barefootcontessa.com/)
 - [Diane Kochilas](https://www.dianekochilas.com/)
+- [Martha Stewart](https://www.marthastewart.com/1509043/food-cooking)
 
 ### Community
 - [4 All Taste](https://4alltaste.com/)
