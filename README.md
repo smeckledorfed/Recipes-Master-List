@@ -2158,6 +2158,7 @@
 - [**Cheetos**](https://www.cheetos.com/)
 - [**Pretzel Crisps**](https://www.pretzelcrisps.com/recipes/)
 - [**Riceworks**](https://www.riceworks.com/recipes/)
+- [**Sunbelt Bakery**](https://www.sunbeltbakery.com/www/recipe-items/view/1/sunbelt-bakery-chewy-granola-bars-recipes)
 - [**Tostito's**](https://www.tostitos.com/recipes)
 - [**Trail Chips**](https://trailchips.com/recipes/)
 - [**Xochitl**](https://xochitlchipsandsalsa.com/recipes-2/)
