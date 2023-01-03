@@ -1,6 +1,6 @@
 # Recipe Websites Master List
 - This has been a long time coming! I've been collecting recipe websites for forever and I'm finally getting them organized. 
-- Every website will be in 1-3 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
+- Every website will be in 1-4 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
 - Websites in a particular category do not ONLY offer recipes of that kind; that German website might have some delicious keto stuff. I don't know, I haven't looked through them all, but you can. Life is all about exploration. 
 - If a website doesn't seem to have a particular focus on anything, it will be in the **Miscellaneous** section.
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it (if they self-describe as Easy, etc).
@@ -996,6 +996,9 @@
 - [Louisiana Travel](https://www.louisianatravel.com/culinary/louisiana-recipes)
 - [Louisiana Woman Blog](https://louisianawomanblog.com/)
 
+##### Midwest
+- [Accidental Happy Baker](https://www.accidentalhappybaker.com/)
+
 ##### New Mexico
 - [Edible New Mexico](https://www.ediblenm.com/category/recipes/)
 - [Made in New Mexico](https://madeinnewmexico.com/blogs/recipes)
@@ -1154,6 +1157,7 @@
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [Texan Erin](https://www.texanerin.com/)
 - [Three Bakers](https://threebakers.com/category/gluten-free-recipes/)
+- [Unconventional Baker](https://www.unconventionalbaker.com/)
 - [**XO Baking Co.**](https://xobakingco.com/recipes/)
 
 ### Halal
@@ -1305,6 +1309,7 @@
 - [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
 - [My Sugar-Free Journey](https://mysugarfreejourney.com/)
 - [My Sugar-Free Kitchen](https://www.mysugarfreekitchen.com/)
+- [Unconventional Baker](https://www.unconventionalbaker.com/)
 
 ### Vegan
 - [101 Cookbooks](https://www.101cookbooks.com/)
@@ -1420,6 +1425,7 @@
 - [Thriving on Plants](https://www.cherietu.com/)
 - [Tolerant Vegan](https://thetolerantvegan.com/)
 - [Turnip Vegan](https://turnipvegan.com/)
+- [Unconventional Baker](https://www.unconventionalbaker.com/)
 - [Varada's Kitchen](https://varadaskitchen.blogspot.com/)
 - [Vecina Vegetariana](https://vecinavegetariana.com/)
 - [The Vegan 8](https://thevegan8.com/)
@@ -1758,6 +1764,7 @@
 - [**Robinette's**](https://robinettes.com/category/recipes)
 - [**Wine Dharma**](https://winedharma.com/en/recipes/)
 - [Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)
+
 ### Beans
 - [**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)
 - [**Camellia**](https://www.camelliabrand.com/)
@@ -1765,6 +1772,7 @@
 - [Lorin Cooks Legumes](https://lorincookslegumes.com/)
 - [**The Only Bean**](https://theonlybean.com/blogs/recipes)
 - [**Randall Beans**](https://randallbeans.com/recipes/)
+
 ### Beverages
 - [**7up**](https://www.7up.com/en/recipes)
 - [**Backyard Sodas**](https://www.backyardsodas.com/recipes/)
@@ -1811,23 +1819,8 @@
 - [**Sencha Tea Bar**](https://senchateabar.com/pages/tea-cocktails)
 - [**Steaz**](https://drinksteaz.com/blogs/news/recipes)
 - [**Wize**](https://drinkwize.com/pages/blog?filter=recipes)
-### Chocolate
-- [**Aero**](https://www.aerochocolate.co.uk/recipes)
-- [Best With Chocolate](https://bestwithchocolate.com/)
-- [**Blommer**](https://www.blommer.com/services-recipe-library.php)
-- [**Divine Chocolate**](https://www.divinechocolate.com/divine-world/recipes/)
-- [Eat More Chocolate](https://eatmorechocolate.com/)
-- [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
-- [**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)
-- [Mission Chocolate](https://missionchocolaterecipes.com/)
-- [**Moody Girl**](https://moody-girl.com/pages/recipes-1)
-- [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
-- [**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)
-- [**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/)
-- [**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)
-- [**Theo Chocolate**](https://theochocolate.com/blog/tag/Recipes)
-- [**Verse Chocolate**](https://versechocolate.com/blogs/news)
-- [**Vosges Chocolate**](https://www.vosgeschocolate.com/pages/recipes)
+- [**Zevia**](https://www.zevia.com/blogs/recipes)
+
 ### Bread
 - [**Arnold Premium Breads**](https://arnoldbread.com/recipes)
 - [**Ben's**](https://www.bensbakery.ca/)
@@ -1844,19 +1837,44 @@
 - [**Silver Hills Bakery**](https://silverhillsbakery.ca/blog/)
 - [**Thomas Breads**](https://thomasbreads.com/recipes)
 - [**Wonder Bread**](https://www.wonderbread.com/recipes)
+
 ### Candy
 - [**Dandie's**](https://dandies.com/recipes)
+
 ### Cereal
 - [**Grape Nuts**](https://www.grapenuts.com/recipes/)
+
 ### Cheese
 - [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
 - [**Proudly Wisconsin**](https://www.wisconsincheese.com/recipes)
 - [**Rigoni di Asiago**](https://www.rigonidiasiago-usa.com/)
 - [**Treeline Cheese**](https://www.treelinecheese.com/blogs/recipes)
 - [**Valbreso**](https://valbresocheese.com/recipes/)
+
+### Chocolate
+- [**Abuelita**](https://www.goodnes.com/abuelita/recipes/)
+- [**Aero**](https://www.aerochocolate.co.uk/recipes)
+- [Best With Chocolate](https://bestwithchocolate.com/)
+- [**Blommer**](https://www.blommer.com/services-recipe-library.php)
+- [**Divine Chocolate**](https://www.divinechocolate.com/divine-world/recipes/)
+- [Eat More Chocolate](https://eatmorechocolate.com/)
+- [**Hershey**](https://www.hersheyland.com/recipes-and-crafts)
+- [**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)
+- [Mission Chocolate](https://missionchocolaterecipes.com/)
+- [**Moody Girl**](https://moody-girl.com/pages/recipes-1)
+- [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
+- [**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)
+- [**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/)
+- [**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)
+- [**Theo Chocolate**](https://theochocolate.com/blog/tag/Recipes)
+- [**Verse Chocolate**](https://versechocolate.com/blogs/news)
+- [**Vosges Chocolate**](https://www.vosgeschocolate.com/pages/recipes)
+
 ### Condiment
+- [**ABC Sauces**](https://www.abcsauces.com/recipes/)
 - [**Acadian Maple**](https://acadianmaple.com/blogs/recipes)
 - [**Curry Culture*](https://curryculture.co.uk/category/curry-recipes/)
+- [**D'Arbp**](https://www.darbo.at/en/delicious-recipes)
 - [**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)
 - [**Fun Sesames**](https://www.funsesames.com/fun-recipes)
 - [**Maple from Canada**](https://www.maplefromcanada.co.uk/)
@@ -1864,8 +1882,11 @@
 - [**Pure Maple from Canada**](https://www.puremaplefromcanada.com/recipes/)
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
+- [**Zubi**](https://eatzubi.com/blogs/recipes)
+
 ### Dairy
 - [**A2 Milk**](https://a2milk.com/recipes)
+- [**Advik Foos**](https://aadvikfoods.com/blogs/recipes)
 - [**Arizona Milk**](https://arizonamilk.org/nutrition-and-recipes/recipes/)
 - [**Banana Wave**](https://bananawave.love/recipes)
 - [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
@@ -1915,6 +1936,7 @@
 - [**Sweet Tree Creamery**](https://sweettreecreamery.com/ideas-and-recipes)
 - [**Turkey Hill**](https://www.turkeyhill.com/recipes)
 - [**Vermont Creamery**](https://www.vermontcreamery.com/collections/recipes)
+
 ### Dairy Alternatives
 - [**Better Than Milk**](https://btmsoymilk.com/recipes/)
 - [**Field Roast**](https://fieldroast.com/recipes/)
@@ -1927,6 +1949,7 @@
 - [**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)
 - [**West Soy**](https://www.westsoymilk.com/recipes/)
 - [**Willa's Oat Milk**](https://willaskitchen.com/blogs/oat-milk-recipes)
+
 ### Eggs
 - [American Egg Board](https://www.incredibleegg.org/)
 - [**Egg Info**](https://www.egginfo.co.uk/)
@@ -1935,12 +1958,14 @@
 - [**NestFresh**](https://nestfresh.com/recipes/)
 - [**Peggs**](https://peggs.us/blogs/recipes)
 - [**Pete and Gerry's**](https://www.peteandgerrys.com/egg-recipes)
+
 ### Flour
 - [**Gold Medal Flour**](https://www.goldmedalflour.com/recipes/)
 - [**India Gate Flours**](https://indiagateflours.com/recipe.php)
 - [**King Arthur Flour**](https://www.kingarthurbaking.com/recipes)
 - [**Robin Hood Flour**](https://www.robinhood.ca/En/Home)
 - [**Sunflour Flour**](http://www.sunflourflour.com/recipes.html)
+
 ### Fruit
 - [**Acai Roots**](https://www.acairoots.com/blogs/recipes)
 - [**Aveyo**](https://www.aveyolife.com/recipe-page)
@@ -1964,6 +1989,7 @@
 - [**True Citrus**](https://www.truelemon.com/blogs/recipes)
 - [**Washington Apples**](https://waapple.org/recipes/)
 - [**Yucatan Guacamole**](https://avocado.com/recipes/)
+
 ### Grains
 - [**Carolina Rice**](https://carolinarice.com/)
 - [**European Rice**](https://www.europeanrice.eu/recipes/)
@@ -1974,6 +2000,7 @@
 - [**RightRice](https://rightrice.com/blogs/recipes)
 - [**Success Rice**](https://successrice.com/recipes/)
 - [**Tilda Rice**](https://www.tilda.com/recipes/)
+
 ### Herbs & Spices
 - [**Badia Spices**](https://badiaspices.com/recipes/)
 - [**Cedar Mountain Herbs**](https://cedarmountainherbs.com/topics/recipes/)
@@ -1984,6 +2011,8 @@
 - [**Organic India**](https://organicindiausa.com/blog/)
 - [**Watson's**](https://tastewatsons.com/blogs/recipes)
 - [**World Spice**](https://www.worldspice.com/recipes)
+- [**Zestyz**](https://zestyz.com/blogs/recipes)
+
 ### Honey
 - [**Bee Seasonal**](https://beeseasonal.com/blogs/best-honey-recipes)
 - [**BKS Honey**](https://bkshoney.com/blogs/news)
@@ -1994,6 +2023,7 @@
 - [National Honey Board](https://honey.com/recipes)
 - [**Nature Nate's**](https://www.naturenates.com/category/honey-recipes/)
 - [**SoulBee**](https://www.soulbeehoney.com/blogs/recipes)
+
 ### Meat
 - [**3 Pigs**](https://3pigs.com/blogs/recipes-tips)
 - [**44 Steaks**](https://www.44steaks.com/blogs/all-recipes)
@@ -2044,13 +2074,16 @@
 - [**Butterball**](https://www.butterball.com/recipes)
 - [**Diestel Turkey**](https://diestelturkey.com/recipes/)
 - [National Turkey Federation](https://www.eatturkey.org/recipes/)
+
 ### Meat Alternative
+- [**Abbot's Butcher**](https://abbotsbutcher.com/recipes)
 - [**Actual Veggies**](https://actualveggies.com/pages/recipes)
 - [**Field Roast**](https://fieldroast.com/recipes/)
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 - [**No Bull Burger**](https://nobullburger.com/recipes/)
 - [**The Plant Based Seafood Co.**](https://plantbasedseafoodco.com/blogs/recipes)
 - [**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)
+
 ### Nuts
 - [**88 Acres**](https://88acres.com/pages/88-acres-blog)
 - [**Barney Butter**](https://barneybutter.com/blogs/recipes)
@@ -2073,6 +2106,7 @@
 - [**Wonderful Pistachios**](https://www.wonderfulpistachios.com/recipes)
 - [**WW Traders Cashews**](https://wwcashews.com/blogs/blogs-and-recipes)
 - [**Yum Butter**](https://www.yumbutter.com/blogs/recipes)
+
 ### Oil
 - [**Agrovim**](https://www.agrovim.gr/olive-oil-recipes/)
 - [**The Artisan Olive Oil Company**](https://www.artisanoliveoilcompany.co.uk/blogs/recipes)
@@ -2089,6 +2123,7 @@
 - [Rapeseed Oil Benefits](https://rapeseedoilbenefits.com/recipes/)
 - [**Salute Sante!**](https://grapeseedoil.com/)
 - [**Wesson**](https://www.purewesson.com/recipes-ideas/)
+
 ### Pasta/Noodles
 - [**Asha Dry Noodle](https://ashadrynoodle.com/blogs/recipes)
 - [**Barilla**](https://www.barilla.com/en-us/recipes)
@@ -2114,9 +2149,11 @@
 - [**Sun Noodle**](https://sunnoodle.com/Recipes-1)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [**The Vite Ramen**](https://www.viteramen.com/all-recipes-1)
+
 ### Sandwiches
 - [Sandwich Tribunal](https://www.sandwichtribunal.com/)
 - [Something About Sandwiches](https://somethingaboutsandwiches.com/)
+
 ### Seafood
 - [**Alabama Gulf Seafood**](https://eatalabamaseafood.com/recipes)
 - [**Alaskan Leader**](https://alaskanleader.com/recipes)
@@ -2154,6 +2191,7 @@
 - [**Wellfleet**](https://www.wellfleetshellfishermen.org/blogs/shellfish-recipes)
 - [**Wild for Salmon**](https://www.wildforsalmon.com/blogs/recipes)
 - [**Wulf's Fish**](https://wulfsfish.com/)
+
 ### Soup
 - [**Campbell's Soup Company**](https://www.campbells.com/recipes/)
 - [**Campbell's Canada**](https://www.cookwithcampbells.ca/collections/)
@@ -2161,11 +2199,14 @@
 - [Soupalicious](https://soupalicious.kitchen/)
 - [Soup Song](http://soupsong.com/)
 - [**Zoup!**](https://www.zoupbroth.com/category/recipes/)
+
 ### Snacks
 - [**34 Degrees**](https://34-degrees.com/blogs/recipes)
 - [**505 Southwestern**](https://www.505southwestern.com/recipes)
+- [**Baker Boy**](https://bakerboy.com/)
 - [**Cape Cod**](https://www.capecodchips.com/recipes/)
 - [**Cheetos**](https://www.cheetos.com/)
+- [**Kodiak Cakes**](https://kodiakcakes.com/blogs/recipes)
 - [**Pretzel Crisps**](https://www.pretzelcrisps.com/recipes/)
 - [**Riceworks**](https://www.riceworks.com/recipes/)
 - [**Sugar Bowl Bakery**](https://sugarbowlbakery.com/blogs/recipes)
@@ -2174,12 +2215,17 @@
 - [**Trail Chips**](https://trailchips.com/recipes/)
 - [**Xochitl**](https://xochitlchipsandsalsa.com/recipes-2/)
 - [**Whisps**](https://whisps.com/blogs/recipes)
+- [**Zestyz**](https://zestyz.com/blogs/recipes)
+
 ### Sushi
 - [Ichi Sushi](https://ichisushi.com/category/recipes/)
 - [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
 - [Make Sushi](https://www.makesushi.com/)
+
 ### THC/CBD
+- [Good and Baked](http://goodandbaked.com/)
 - [**Levo Oil**](https://levooil.com/blogs/recipes)
+
 ### Vegetables
 - [**Amore**](https://amorebrand.com/blogs/recipe)
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
@@ -2187,6 +2233,7 @@
 - [The Devil Wears Salad](https://thedevilwearssalad.com/)
 - [Far West Fungi](https://farwestfungi.com/pages/mushroom-recipes)
 - [**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)
+- [Hatch Green Chiles](https://ziahatchchileco.com/blogs/recipes)
 - [Kitchen Pride Mushrooms](https://www.kitchenpride.com/our-recipes)
 - [Love My Salad](https://www.lovemysalad.com/)
 - [**Maine Coast Sea Vegetables**](https://seaveg.com/blogs/recipes)
@@ -2196,6 +2243,7 @@
 - [saladBURNET](https://saladburnet.org/index.php/recipes/)
 - [**Salad Cosmo**](https://www.saladcosmo.com/recipes)
 - [Salad Girl](https://www.saladgirl.com/)
+
 ### Yogurt
 - [**Dannon**](https://www.dannon.com/recipes/)
 - [**Greek Gods**](https://www.greekgodsyogurt.com/list-of-recipes/)
@@ -2205,6 +2253,7 @@
 - [**Noun's Creamery**](https://www.nounoscreamery.com/blog)
 - [**Oikos**](https://www.oikosyogurt.com/greek-yogurt-recipes/)
 - [**Wallaby Organics**](https://wallabyyogurt.com/recipes/)
+- [**Zott Primo**](https://www.zott-primo.com/en/recipes/)
 
 ## Method
 
@@ -2314,6 +2363,7 @@
 - [Texan Erin](https://www.texanerin.com/)
 - [typefoodie](https://www.typefoodie.com/)
 - [Ugly Duckling Bakery](https://uglyducklingbakery.com/) 
+- [Unconventional Baker](https://www.unconventionalbaker.com/)
 - [Weekend Bakery](https://www.weekendbakery.com/)
 - [What Jessica Baked Next](https://whatjessicabakednext.com/)
 - [Wheel of Baking](https://wheelofbaking.com/)
@@ -2409,6 +2459,7 @@
 - [Betty Liu](https://bettysliu.com/)
 - [Bacon Fatte](https://baconfatte.com/)
 - [Bacon is Magic](https://www.baconismagic.ca/)
+- [Bake It After All](https://bakeitafterall.com/)
 - [bakereeve](https://bakereeve.com/)
 - [Barley & Sage](https://www.barleyandsage.com/)
 - [BBOnline](https://www.bbonline.com/recipes/)
@@ -2445,6 +2496,7 @@
 - [Garnish with Lemon](https://www.garnishwithlemon.com/)
 - [A Gouda Life](https://www.agoudalife.com/a-gouda-life/)
 - [Green Tea Over Rice](https://greenteaoverrice.com/)
+- [Half-Baked Harvest](https://www.halfbakedharvest.com/)
 - [A Hint of Rosemary](https://ahintofrosemary.com/)
 - [The Hint of Rosemary](https://thehintofrosemary.com/)
 - [**Immaculate Baking**](https://www.immaculatebaking.com/new-recipes/)
@@ -2491,6 +2543,7 @@
 - [Onion Rings and Things](https://www.onionringsandthings.com/)
 - [Out of the Box Baking](https://outoftheboxbaking.com/)
 - [A Paige of Positivity](https://apaigeofpositivity.com/)
+- [Pierre Franey](https://www.pierrefraney.com/)
 - [Passionate About Baking](https://passionateaboutbaking.com/)
 - [A Pinch of Healthy](https://www.apinchofhealthy.com/)
 - [A Pinch of Saffron](https://apinchofsaffron.nl/)
@@ -2522,6 +2575,7 @@
 - [The Wicked Noodle](https://www.thewickednoodle.com/)
 - [World Local Food](http://worldlocalfood.blogspot.com/)
 - [Yellow Thyme](https://www.yellowthyme.com/)
+- [Zonya](https://zonya.com/recipes/)
 
 ### Brand
 - [**Ancient Cookware**](https://ancientcookware.com/recipes#)
@@ -2537,6 +2591,7 @@
 - [**Ortega**](https://ortega.com/recipes/)
 - [**Spice Tree Organics**](http://www.spicetreeorganics.com/recipes)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
+- [**Zoe**](https://joinzoe.com/learn/category/nutrition/recipes)
 
 ### Celebrity Chef
 - [Alex Guarnaschelli](https://alexguarnaschelli.com/recipes/)
