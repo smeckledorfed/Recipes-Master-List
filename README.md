@@ -487,6 +487,7 @@
 - [Pinoy Hapagkainan](https://www.pinoyhapagkainan.com/)
 - [Pinoy Recipe](https://www.pinoyrecipe.net/)
 - [Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/)
+- [Reel and Grill](http://reelandgrill.blogspot.com/)
 - [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
 - [Savor Filipino Food](https://savorfilipino.food.blog/)
 - [Simply Bakings](https://simplybakings.com/)
@@ -1675,6 +1676,7 @@
 - [A Gluten-Free Plate](https://aglutenfreeplate.com/)
 - [Good Things Baking](https://goodthingsbaking.com/)
 - [A Grateful Meal](https://agratefulmeal.com/)
+- [Grilled Cheese Social](https://grilledcheesesocial.com/)
 - [Grumpy's Honey Bunch](https://grumpyshoneybunch.com/)
 - [A Hint Of Wine](https://ahintofwine.com/)
 - [Home Baking](https://www2.homebaking.org/)
@@ -1717,6 +1719,7 @@
 - [Historical Italian Cooking](https://historicalitaliancooking.home.blog/)
 - [History at Home](https://history-at-home.com/en/rezepte?)
 - [History Extra](https://www.historyextra.com/tag/recipes/)
+- [Medieval Cookery](https://www.medievalcookery.com/)
 - [A Taste of History with Joyce White](https://atasteofhistorywithjoycewhite.blogspot.com/)
 - [Vintage American Cocktails](https://vintageamericancocktails.com/)
 - [Vintage Dish and Tell](https://www.vintagedishandtell.com/)
@@ -2226,6 +2229,7 @@
 - [**Gaia Herbs**](https://www.gaiaherbs.com/blogs/seeds-of-knowledge/tagged/category-recipes)
 - [**Gimme Some Grilling**](https://gimmesomegrilling.com/)
 - [**Grill Mates**](https://www.mccormick.com/grill-mates/recipes)
+- [**Hey Grill Hey**](https://heygrillhey.com/)
 - [**Infinite Herbs**](https://infiniteherbs.com/category/recipes/)
 - [**Kent Rollins**](https://kentrollins.com/)
 - [Learning Herbs](https://learningherbs.com/free-herbal-remedies/#top)
@@ -2234,6 +2238,7 @@
 - [**Montana Mex**](https://www.montanamex.com/blogs/recipes)
 - [**Watson's**](https://tastewatsons.com/blogs/recipes)
 - [**World Spice**](https://www.worldspice.com/recipes)
+- [**Wright's Liquid Smoke**](https://wrightsliquidsmoke.com/recipes/)
 - [**Zestyz**](https://zestyz.com/blogs/recipes)
 
 ### Honey
@@ -2257,11 +2262,13 @@
 - [**Farmison & Co.**](https://www.farmison.com/community/)
 - [Kentucky Legend](https://kentuckylegend.com/recipes/)
 - [**Lake Geneva Country Meats**](https://lakegenevacountrymeats.com/recipes)
+- [**Market Basket Smokehouse**](https://mbsmokehouse.com/recipes/)
 - [**The Meat Eater**](https://www.themeateater.com/)
 - [Meats and Sausages](https://www.meatsandsausages.com/)
 - [The Meatwave](https://meatwave.com/)
 - [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
 - [**Niman Ranch**](https://www.nimanranch.com/recipes/)
+- [**North Country Smokehouse**](https://ncsmokehouse.com/blog/category/recipes)
 - [**Seemore Sausage**](https://eatseemore.com/blogs/recipe)
 - [Zappfresh](https://www.zappfresh.com/blog/recipes/)
 #### Beef
@@ -2451,6 +2458,7 @@
 - [Australian Onions](https://australianonions.com.au/)
 - [The Devil Wears Salad](https://thedevilwearssalad.com/)
 - [Far West Fungi](https://farwestfungi.com/pages/mushroom-recipes)
+- [**Grillo's Pickles**](https://www.grillospickles.com/recipes/)
 - [**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)
 - [**Grown in Idaho**](https://growninidaho.com/recipes/)
 - [Hatch Green Chiles](https://ziahatchchileco.com/blogs/recipes)
@@ -2603,18 +2611,24 @@
 - [Better Grills](https://bettergrills.com/)
 - [Burger Artist](https://www.burgerartist.com/)
 - [Burgers Here and There](https://burgershereandthere.com/)
+- [Chiles and Smoke](https://www.chilesandsmoke.com/)
 - [**Dimply's**](https://www.dimplys.com/recipes/)
 - [Foreman Grill Recipes](https://foremangrillrecipes.com/)
 - [**Gimme Some Grilling**](https://gimmesomegrilling.com/)
 - [Girls Can Grill](https://girlscangrill.com/)
+- [Grilling 24x7](https://grilling24x7.com/)
 - [Grilling Montana](https://grillingmontana.com/)
 - [**Grill Mates**](https://www.mccormick.com/grill-mates/recipes)
 - [Grill on a Dime](https://grillonadime.com/)
 - [Grill Seeker](https://www.grillseeker.com/)
+- [**Hey Grill Hey**](https://heygrillhey.com/)
 - [**Lillie's**](https://lilliesq.com/blogs/bbq-recipes)
 - [My BBQ Recipe](https://mybbqrecipe.com/all-recipes/)
+- [The Online Grill](https://theonlinegrill.com/)
 - [**Postal Barbecue**](https://postalbarbecue.com/)
+- [Smokin' and Grillin' wit AB](https://www.smokinandgrillinwitab.com/recipes/)
 - [Steven Raichlen's Barbecue Bible](https://barbecuebible.com/recipes/)
+- [That Guy Who Grills](https://thatguywhogrills.com/)
 - [**Traeger Grills**](https://www.traeger.com/)
 
 ### Preserving
@@ -2642,8 +2656,18 @@
 - [A Flavor Journal](https://aflavorjournal.com/)
 - [A Weekend Cook](https://aweekendcook.com/)
 
+### Smoking
+- [Smoked Fine Food](https://smokedfinefood.co.uk/recipes/)
+- [Smoking Meat](https://www.smoking-meat.com/)
+- [WhatSmoking](https://whatsmoking.com/)
+
 ### Sous Vide
+- [Anova](https://recipes.anovaculinary.com/)
 - [A Duck's Oven](https://aducksoven.com/)
+- [Sous Vide Australia](https://www.sousvideaustralia.com/category/blog/recipes/)
+- [Sous Vide Chef](https://www.sousvidechef.com.au/blogs/sousvidechef)
+- [Sous Vide Life](https://www.sousvidelife.com/)
+- [Sous Vide Tools](https://www.sousvidetools.com/toolshed/category/recipes/)
 
 ## Miscellaneous
 
@@ -2747,6 +2771,7 @@
 - [A Gouda Life](https://www.agoudalife.com/a-gouda-life/)
 - [Green Tea Over Rice](https://greenteaoverrice.com/)
 - [Half-Baked Harvest](https://www.halfbakedharvest.com/)
+- [High Heels and Grills](https://www.highheelsandgrills.com/)
 - [A Hint of Rosemary](https://ahintofrosemary.com/)
 - [The Hint of Rosemary](https://thehintofrosemary.com/)
 - [Honey Bunch Hunts](https://honeybunchhunts.com/)
