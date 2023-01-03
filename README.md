@@ -18,7 +18,7 @@
 |[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|
 |[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|
 |[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|
-|[Spend with Pennies](https://www.spendwithpennies.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[Two Dollar Eats](https://twodollareats.com/)|
 
 ## Cuisine
 
@@ -615,8 +615,10 @@
 - [Cook Like Czechs](https://www.cooklikeczechs.com/)
 
 #### Denmark
+- [Almost Nordic](https://almostnordic.com/)
 - [Danish Food Lovers](https://www.danishfoodlovers.com/)
 - [Danish Net.com](https://www.danishnet.com/food/)
+- [Nordic Food Living](https://nordicfoodliving.com/)
 - [Skandibaking](https://skandibaking.com/)
 
 #### Finland
@@ -780,6 +782,10 @@
 #### The Netherlands
 - [Dutch Food Heritage](https://www.dutchfoodheritage.com/)
 - [Vega Recepten](https://vegarecepten.com/en/)
+
+#### Nordic
+- [My Nordic Kitchen](https://www.mynordickitchen.no/)
+- [Nordic Food Living](https://nordicfoodliving.com/)
 
 #### Norway
 - [Arctic Grub](https://arcticgrub.com/)
@@ -1274,16 +1280,27 @@
 - [918 Plate](https://www.918plate.com/)
 - [Acadian Family Farm](https://www.acadianfamilyfarm.com/)
 - [Along the Grapevine](https://alongthegrapevine.wordpress.com/)
+- [An American Homestead](https://anamericanhomestead.com/category/inthekitchen/offgridrecipes/)
 - [Arkansas Local Food Network](https://arkansaslocalfoodnetwork.org/category/recipes/)
 - [Art of Natural Living](https://artofnaturalliving.com/)
 - [Ask the Food Geek](https://askthefoodgeek.com/)
 - [Beyond the Chicken Coop](https://www.beyondthechickencoop.com/)
+- [Big Family Homestead](https://www.bigfamilyhomestead.com/recipes-1)
+- [Cedar Swamp Homestead](https://cedarswamphomestead.com/blog/)
 - [The Crooked Carrot](https://thecrookedcarrot.com/)
 - [A Day in the Life on the Farm](http://adayinthelifeonthefarm.blogspot.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [A Frenchtown Kitchen & Garden](http://frenchkitcheninamerica.blogspot.com/)
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
 - [A Garden for the House](https://www.agardenforthehouse.com/)
+- [Halfway Homesteaders](https://halfwayhomesteaders.com/)
+- [Hidden Springs Homestead](https://www.hiddenspringshomestead.com/category/in-the-kitchen/)
+- [Hillsborough Homesteading](https://hillsborough-homesteading.com/)
+- [Homestead Acres](https://www.homestead-acres.com/recipeindex/)
+- [Homesteaders of America](https://homesteadersofamerica.com/category/food-recipes/)
+- [Homestead Honey](https://homestead-honey.com/category/inthekitchen/)
+- [Homestead Survival Site](https://homesteadsurvivalsite.com/food/recipes/)
+- [Home to Homestead](https://hometohomestead.com/)
 - [Kale & Caramel](https://kaleandcaramel.com/)
 - [kiyafries](https://kiyafries.com/category/recipes/)
 - [Lemons + Anchovies](https://lemonsandanchovies.com/)
@@ -1382,6 +1399,7 @@
 - [Cheap and Cheerful Cooking](https://cheapandcheerfulcooking.com/en/)
 - [The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)
 - [Cooking for Peanuts](https://cookingforpeanuts.com/)
+- [Courtney's Homestead](https://courtneyshomestead.com/)
 - [Cupful of Kale](https://cupfulofkale.com/)
 - [**Dandie's**](https://dandies.com/recipes)
 - [Dash of Danielle](https://www.dashofdanielle.com/)
@@ -1877,9 +1895,25 @@
 - [**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)
 #### Tea
 - [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
+- [**Lipton**](https://www.lipton.com/us/en/world-of-tea/recipes/)
+- [**Millennia TEA**](https://millenniatea.com/blogs/news)
+- [**Mizuba**](https://mizubatea.com/blogs/recipes)
+- [**Paromi**](https://paromi.com/blogs/recipes)
+- [**The Republic of Tea**](https://the.republicoftea.com/tea-recipes/)
+- [**Revolution**](https://www.revolutiontea.com/blogs/recipes)
+- [**Rishi**](https://journal.rishi-tea.com/tea-recipes/)
+- [Rosie Loves Tea](https://www.rosielovestea.com/recipes-categories)
 - [**Salada**](https://salada.com/blogs/green-tea-recipes)
 - [**Sencha Tea Bar**](https://senchateabar.com/pages/tea-cocktails)
+- [**Stash**](https://www.stashtea.com/blogs/recipes)
 - [**Steaz**](https://drinksteaz.com/blogs/news/recipes)
+- [**Tazo**](https://www.tazo.com/us/en/tea-recipes.html)
+- [**Tea Forte**](https://teaforte.com/blogs/tea-notes)
+- [**teapigs**](https://teapigs.com/blogs/news/tagged/recipes)
+- [**Teatulia**](https://www.teatulia.com/cooking-with-tea.htm)
+- [**TeaWea**](https://www.teawea.com/)
+- [**Twinings**](https://twiningsusa.com/blogs/twinings-recipes)
+- [**Two Leaves and a Bud**](https://twoleavestea.com/blogs/twoleaves/tagged/recipe)
 - [**Wize**](https://drinkwize.com/pages/blog?filter=recipes)
 - [**Yogi**](https://yogiproducts.com/tea-talk-blog/)
 - [**Zevia**](https://www.zevia.com/blogs/recipes)
@@ -1888,6 +1922,7 @@
 - [**Dandie's**](https://dandies.com/recipes)
 - [**Maltesers**](https://www.maltesers.co.uk/recipes?)
 - [**Tootsie**](https://tootsie.com/recipes/)
+- [**Twix**](https://www.twix.com/recipes)
 
 ### Chocolate
 - [**Abuelita**](https://www.goodnes.com/abuelita/recipes/)
@@ -2069,6 +2104,7 @@
 ### Grains
 - [**Community Grains**](https://www.communitygrains.com/recipes/)
 - [**Cream of Wheat**](https://creamofwheat.com/recipes/)
+- [**Homestead Gristmill**](https://www.homesteadgristmill.com/recipes/)
 - [**Lentils**](https://www.lentils.org/recipes-cooking/)
 #### Bread
 - [**Arnold Premium Breads**](https://arnoldbread.com/recipes)
@@ -2312,6 +2348,7 @@
 - [**Real Good Fish**](https://www.realgoodfish.com/recipes)
 - [Seafood from Norway](https://fromnorway.com/recipes/)
 - [**Stonington Seafood**](https://www.stoningtonseafood.com/)
+- [**Tai Foong USA**](https://www.northernchef.com/recipes/)
 - [**Today's Catch Seafood**](https://todayscatchseafood.com/)
 - [**Tom's Awesome Seafood**](https://www.tomsawesomeseafood.com/)
 - [**Trident Seafoods**](https://www.tridentseafoods.com/recipes/)
@@ -2383,6 +2420,7 @@
 - [Air Fryer World](https://airfryerworld.com/)
 - [Air Frying Foodie](https://airfryingfoodie.com/)
 - [Air Fry with Me](https://airfrywithme.com/)
+- [Hollis Homestead](https://www.hollishomestead.com/)
 - [Hot Air Frying](https://www.hotairfrying.com/)
 
 ### Baking
@@ -2485,6 +2523,7 @@
 - [**St. Pierre Bakery**](https://stpierrebakery.co.uk/recipes/)
 - [Stress Baking](https://stressbaking.com/)
 - [Tasting Thyme](https://tasting-thyme.com/)
+- [Tea Collection](https://blog.teacollection.com/category/global-dishes/)
 - [Teak & Thyme](https://teakandthyme.com/)
 - [Texan Erin](https://www.texanerin.com/)
 - [A Treat's Affair](http://atreatsaffair.com/)
@@ -2521,6 +2560,7 @@
 - [Amy + Jacky](https://www.pressurecookrecipes.com/)
 - [Eating in an Instant](https://eatinginaninstant.com/)
 - [Hip Pressure Cooking](https://www.hippressurecooking.com/)
+- [Hollis Homestead](https://www.hollishomestead.com/)
 - [**Instant Pot**](https://recipes.instantpot.com/)
 - [Instant Pot Eats](https://instantpoteats.com/)
 - [Lana Under Pressure](https://lanaunderpressure.com/)
@@ -2729,6 +2769,7 @@
 - [Thyme and Love](https://thymeandlove.com/)
 - [The Tipsy Housewife](https://thetipsyhousewife.org/)
 - [Tom Walton](https://tomwalton.adash.me/recipes)
+- [The Twin Cooking Project](https://thetwincookingproject.net/)
 - [The Two Bananas](https://thetwobananas.com/)
 - [University of Idaho](https://www.uidaho.edu/extension/seafood-at-its-best/recipes)
 - [Unpeeled Journal](https://unpeeledjournal.com/)
@@ -2749,10 +2790,12 @@
 - [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
 - [**Food Ireland**](https://www.foodireland.com/recipes/)
 - [**Hairy Bikers**](https://www.hairybikers.com/recipes)
+- [**Homestead 1870**](https://www.homestead1870.com/recipes/)
 - [**Judee's**](https://www.judeesfromscratch.com/blogs/recipes)
 - [**Karma Community**](https://karmacommunity.karmagroup.com/food-wine/)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**My Vega**](https://myvega.com/blogs/recipes)
+- [**Nordic Food Living**](https://nordicfoodliving.com/)
 - [**NutriAsia**](https://nutriasia.com/recipe/)
 - [**Ortega**](https://ortega.com/recipes/)
 - [**PCC Markets**](https://www.pccmarkets.com/)
