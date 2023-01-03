@@ -164,6 +164,7 @@
 - [Takes Two Eggs](https://takestwoeggs.com/)
 - [Taste Asian Food](https://tasteasianfood.com/)
 - [That Spicy Chick](https://thatspicychick.com/)
+- [Tiff Loves Tofu](https://tifflovestofu.com/)
 - [Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)
 - [**Wong She**](https://wongshe.com.au/category/recipe/)
 
@@ -519,6 +520,7 @@
 - [Love Korean Food](https://lovekoreanfood.com/)
 - [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
 - [My Korean Kitchen](https://mykoreankitchen.com/)
+- [Tofuify](https://tofuify.com/)
 - [Zen Kimchi](https://zenkimchi.com/)
 
 #### Taiwan
@@ -1498,6 +1500,8 @@
 - [That Vegan Babe](https://thatveganbabe.com/)
 - [This Savory Vegan](https://www.thissavoryvegan.com/)
 - [Thriving on Plants](https://www.cherietu.com/)
+- [Tiff Loves Tofu](- [Tiff Loves Tofu](https://tifflovestofu.com/))
+- [Tofuify](https://tofuify.com/)
 - [Tolerant Vegan](https://thetolerantvegan.com/)
 - [Turnip Vegan](https://turnipvegan.com/)
 - [Unconventional Baker](https://www.unconventionalbaker.com/)
@@ -2092,6 +2096,7 @@
 - [**Better Than Milk**](https://btmsoymilk.com/recipes/)
 - [**Field Roast**](https://fieldroast.com/recipes/)
 - [**Future of Cheese**](https://www.futureofcheese.com/copy-of-team)
+- [**Grillies**](https://www.grillies.com/recipes)
 - [**Milkadamia**](https://milkadamia.com/recipes/)
 - [**Milkman**](https://milkmanmilk.com/recipes/)
 - [**Miyoko's**](https://miyokos.com/pages/recipes-landing)
@@ -2216,8 +2221,11 @@
 - [**Badia Spices**](https://badiaspices.com/recipes/)
 - [**Cedar Mountain Herbs**](https://cedarmountainherbs.com/topics/recipes/)
 - [**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes/)
+- [**Dimply's**](https://www.dimplys.com/recipes/)
 - [**Frontier Co-op**](https://www.frontiercoop.com/community/articles/cooking-with-cardamom-0)
 - [**Gaia Herbs**](https://www.gaiaherbs.com/blogs/seeds-of-knowledge/tagged/category-recipes)
+- [**Gimme Some Grilling**](https://gimmesomegrilling.com/)
+- [**Grill Mates**](https://www.mccormick.com/grill-mates/recipes)
 - [**Infinite Herbs**](https://infiniteherbs.com/category/recipes/)
 - [**Kent Rollins**](https://kentrollins.com/)
 - [Learning Herbs](https://learningherbs.com/free-herbal-remedies/#top)
@@ -2427,6 +2435,15 @@
 - [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
 - [Make Sushi](https://www.makesushi.com/)
 
+### Tofu
+- [**Hodo**](https://www.hodofoods.com/recipes)
+- [**House Foods**](https://www.house-foods.com/recipes/)
+- [**Nasoya**](https://www.nasoya.com/recipes/)
+- [**Phoenix Bean**](https://www.phoenixbean.com/recipes.html)
+- [**Soy Boy**](https://soyboy.com/recipes/)
+- [**Sunrise Soya**](https://sunrise-soya.com/recipes/)
+- [**Wildwood**](https://wildwoodfoods.com/our-recipes/)
+
 ### Vegetables
 - [Abel and Cole](https://www.abelandcole.co.uk/recipes)
 - [**Amore**](https://amorebrand.com/blogs/recipe)
@@ -2579,17 +2596,26 @@
 - [Willow Bird Baking](http://willowbirdbaking.com/)
 - [**XO Baking Co.**](https://xobakingco.com/recipes/)
 
-### Barbecue
+### Barbecue/Grill
 - [All Things Barbecue](https://www.atbbq.com/)
 - [BBQ Heroes](https://bbq-heroes.com/)
 - [BBQing with the Nolands](https://bbqingwiththenolands.com/)
+- [Better Grills](https://bettergrills.com/)
 - [Burger Artist](https://www.burgerartist.com/)
 - [Burgers Here and There](https://burgershereandthere.com/)
+- [**Dimply's**](https://www.dimplys.com/recipes/)
+- [Foreman Grill Recipes](https://foremangrillrecipes.com/)
+- [**Gimme Some Grilling**](https://gimmesomegrilling.com/)
+- [Girls Can Grill](https://girlscangrill.com/)
 - [Grilling Montana](https://grillingmontana.com/)
+- [**Grill Mates**](https://www.mccormick.com/grill-mates/recipes)
+- [Grill on a Dime](https://grillonadime.com/)
+- [Grill Seeker](https://www.grillseeker.com/)
 - [**Lillie's**](https://lilliesq.com/blogs/bbq-recipes)
 - [My BBQ Recipe](https://mybbqrecipe.com/all-recipes/)
 - [**Postal Barbecue**](https://postalbarbecue.com/)
 - [Steven Raichlen's Barbecue Bible](https://barbecuebible.com/recipes/)
+- [**Traeger Grills**](https://www.traeger.com/)
 
 ### Preserving
 - [Food Preserving](http://www.foodpreserving.org/)
@@ -2844,6 +2870,7 @@
 - [**Ortega**](https://ortega.com/recipes/)
 - [**PCC Markets**](https://www.pccmarkets.com/)
 - [**Publix Black Community**](https://blackcommunity.publix.com/)
+- [**Pulmuone**](https://www.pulmuonefoodsusa.com/recipes/)
 - [**Spice Tree Organics**](http://www.spicetreeorganics.com/recipes)
 - [**The Sweet Potato**](https://thesweetpotato.ca/)
 - [**Thermomix Recipe Community**](https://www.recipecommunity.com.au/)
