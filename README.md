@@ -139,6 +139,7 @@
 - [Asian Top Recipes](https://asiantoprecipes.weebly.com/)
 - [Assorted Eats](https://www.assortedeats.com/)
 - [Belly Cheap Cook](https://www.bellycheapcook.com/)
+- [Bite My Bun](https://www.bitemybun.com/)
 - [Blue Apocalypse](http://www.blueapocalypse.com/p/asian.html)
 - [Cook Like Asian](https://cooklikeasian.com/)
 - [A Day in the Kitchen](https://www.adayinthekitchen.com/)
@@ -204,6 +205,7 @@
 - [Dumpling Connection](https://www.dumplingconnection.com/)
 - [Easy Chinese Recipes](https://www.easychineserecipes.com/)
 - [Eating China](https://www.eatingchina.com/)
+- [Everybunny Eats](https://www.everybunnyeats.com/)
 - [Fun Chinese Cooking](https://fun-chinese-cooking.blogspot.com/)
 - [Hello Tea Cup](https://helloteacup.com/category/chinese-food/)
 - [Lost Laowai](https://www.lostlaowai.com/)
@@ -247,6 +249,7 @@
 
 #### India
 - [**24 Mantra Organic**](https://www.24mantra.com/blogs/)
+- [Abby's Plate](https://abbysplate.com/)
 - [Archana's Kitchen](https://www.archanaskitchen.com/)
 - [Banglar Rannaghor](https://www.banglarrannaghor.com/)
 - [Bawarchi](https://www.bawarchi.com/)
@@ -314,6 +317,10 @@
 |     |     |
 | --- | --- |
 |[Aromatic Essence](https://aromaticessence.co/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|
+##### Konkani
+|     |     |
+| --- | --- |
+|[Aayi's Recipes](https://www.aayisrecipes.com/)|
 
 #### Indonesia
 - [Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)
@@ -399,6 +406,7 @@
 - [Georgian Recipes.net](https://georgianrecipes.net/)
 
 ##### Iran
+- [Aashpazi](https://www.aashpazi.com/)
 - [Iran Cuisine](https://iran-cuisine.com/)
 - [Show Me Iran](https://showmeiran.com/)
 
@@ -490,6 +498,7 @@
 - [Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)
 - [Singapore Food](https://singaporelocalfavourites.com/)
 - [Singapore Noodles](https://www.sgpnoodles.com/freerecipes)
+- [Tummy Troll](https://tummytroll.wordpress.com/)
 
 #### South Korea
 - [10000 Recipe](https://www.10000recipe.com/)
@@ -545,6 +554,7 @@
 - [**Yai's Thai**](https://www.yaisthai.com/blogs/recipes)
 
 #### Vietnam
+- [Bun Bo Bae](https://bunbobae.com/)
 - [Cuisine of Vietnam](https://cuisineofvietnam.com/)
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [A Peachy Plate](https://apeachyplate.com/)
@@ -935,6 +945,7 @@
 - [Jamaicans.com](https://jamaicans.com/)
 - [Jamaica Travel and Culture](https://www.jamaicatravelandculture.com/food_and_drink.htm)
 - [LifeHabi](https://www.lifehabi.com/recipes/jamaica/)
+- [A YouNique Journey](https://ayouniquejourney.com/)
 ##### Puerto Rico
 - [Mexican Appetizers and More](https://mexicanappetizersandmore.com/)
 ##### Trinidad & Tobago
@@ -1139,6 +1150,7 @@
 - [24 Carrot Kitchen](https://24carrotkitchen.com/)
 - [Bakerita](https://www.bakerita.com/)
 - [Brown Girl Vegan](https://browngirlveganeats.com/)
+- [Bunny's Bite](https://bunnysbite.com/)
 - [Calm Eats](https://calmeats.com/)
 - [**Canyon Gluten-Free**](https://canyonglutenfree.com/recipes/)
 - [Carla's Gluten-Free Recipe Box](https://glutenfreerecipebox.com/)
@@ -1351,6 +1363,7 @@
 - [Avant Gard Vegan](https://www.avantgardevegan.com/)
 - [Avocado Pesto](https://avocadopesto.com/)
 - [Avocado Skillet](https://avocadoskillet.com/)
+- [A. Vogel](https://www.avogel.ca/en/food/recipes/)
 - [The Banana Diaries](https://thebananadiaries.com/)
 - [Basil and Vogue](https://www.basilandvogue.com/)
 - [Beaming Baker](https://beamingbaker.com/)
@@ -1362,6 +1375,7 @@
 - [Bree's Vegan Life](https://www.breesveganlife.com/)
 - [Broke Bank Vegan](https://brokebankvegan.com/)
 - [Brown Girl Vegan](https://browngirlveganeats.com/)
+- [Bunny's Bite](https://bunnysbite.com/)
 - [Thee Burger Dude](https://www.theeburgerdude.com/all-recipes)
 - [Carrots and Flowers](https://www.carrotsandflowers.com/)
 - [Celestial Peach](https://www.celestialpeach.com/blog/category/Recipes)
@@ -1494,6 +1508,7 @@
 - [Vegan Recipe Club](https://www.veganrecipeclub.org.uk/)
 - [Vegan Richa](https://www.veganricha.com/)
 - [The Vegan Roamer](https://theveganroamer.com/)
+- [A Veg Taste from A to Z](https://avegtastefromatoz.com/en/)
 - [Vegan Travel Eats](https://vegantraveleats.com/)
 - [Veganuary](https://veganuary.com/en-us/recipes/)
 - [A Vegan Visit](https://www.aveganvisit.com/)
@@ -1628,6 +1643,7 @@
 - [A Gluten-Free Plate](https://aglutenfreeplate.com/)
 - [Good Things Baking](https://goodthingsbaking.com/)
 - [A Grateful Meal](https://agratefulmeal.com/)
+- [Grumpy's Honey Bunch](https://grumpyshoneybunch.com/)
 - [A Hint Of Wine](https://ahintofwine.com/)
 - [Home Baking](https://www2.homebaking.org/)
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
@@ -1651,6 +1667,7 @@
 - [Simply Bakings](https://simplybakings.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [A Spicy Perspective](https://www.aspicyperspective.com/)
+- [A Table Full of Joy](https://www.atablefullofjoy.com/)
 - [A Taste of Madness](https://www.atasteofmadness.com/)
 - [A Turtle's Life For Me](https://aturtleslifeforme.com/category/recipes/)
 - [Vegan Cocotte](https://vegancocotte.com/)
@@ -1870,6 +1887,7 @@
 ### Candy
 - [**Dandie's**](https://dandies.com/recipes)
 - [**Maltesers**](https://www.maltesers.co.uk/recipes?)
+- [**Tootsie**](https://tootsie.com/recipes/)
 
 ### Chocolate
 - [**Abuelita**](https://www.goodnes.com/abuelita/recipes/)
@@ -1891,6 +1909,7 @@
 - [**Vosges Chocolate**](https://www.vosgeschocolate.com/pages/recipes)
 
 ### Condiment
+- [**Aagrah Foods**](https://aagrahfoods.com/)
 - [**ABC Sauces**](https://www.abcsauces.com/recipes/)
 - [**Acadian Maple**](https://acadianmaple.com/blogs/recipes)
 - [**Bragg**](https://www.bragg.com/pages/community-cookbook)
@@ -2066,10 +2085,12 @@
 - [**Sara Lee Bread**](https://saraleebread.com/recipes)
 - [**Silver Hills Bakery**](https://silverhillsbakery.ca/blog/)
 - [**Thomas Breads**](https://thomasbreads.com/recipes)
+- [**Unbun Foods**](https://unbunfoods.com/blogs/latest)
 - [**Wonder Bread**](https://www.wonderbread.com/recipes)
 #### Cereal
 - [**Grape Nuts**](https://www.grapenuts.com/recipes/)
 - [**Great Grains**](https://www.greatgrains.com/recipes/)
+- [**Honey Bunches of Oats**](https://www.honeybunchesofoats.com/recipes/)
 - [**Kix**](https://www.kixcereal.com/category/kid_recipe/)
 - [**Mom's Best Cereal**](https://www.momsbestcereals.com/recipes/)
 - [**Pebbles**](https://www.postpebblescereal.com/recipes/)
@@ -2081,6 +2102,7 @@
 - [**Robin Hood Flour**](https://www.robinhood.ca/En/Home)
 - [**Sunflour Flour**](http://www.sunflourflour.com/recipes.html)
 #### Pasta/Noodles
+- [**Academia Barilla**](https://www.academiabarilla.it/en/)
 - [**Asha Dry Noodle](https://ashadrynoodle.com/blogs/recipes)
 - [**Barilla**](https://www.barilla.com/en-us/recipes)
 - [**Buitoni**](https://buitoni.com/pasta-recipes/)
@@ -2125,6 +2147,7 @@
 - [**Frontier Co-op**](https://www.frontiercoop.com/community/articles/cooking-with-cardamom-0)
 - [**Gaia Herbs**](https://www.gaiaherbs.com/blogs/seeds-of-knowledge/tagged/category-recipes)
 - [**Infinite Herbs**](https://infiniteherbs.com/category/recipes/)
+- [**Kent Rollins**](https://kentrollins.com/)
 - [Learning Herbs](https://learningherbs.com/free-herbal-remedies/#top)
 - [**Mountain Rose Herbs**](https://blog.mountainroseherbs.com/)
 - [**Organic India**](https://organicindiausa.com/blog/)
@@ -2206,6 +2229,7 @@
 - [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
 - [**No Bull Burger**](https://nobullburger.com/recipes/)
 - [**The Plant Based Seafood Co.**](https://plantbasedseafoodco.com/blogs/recipes)
+- [**Rollin' Greens**](https://rollingreens.com/blogs/recipes)
 - [**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)
 
 ### Medicinals
@@ -2254,6 +2278,7 @@
 - [**Wesson**](https://www.purewesson.com/recipes-ideas/)
 
 ### Sandwiches
+- [Bounded by Buns](https://boundedbybuns.com/)
 - [Sandwich Tribunal](https://www.sandwichtribunal.com/)
 - [Something About Sandwiches](https://somethingaboutsandwiches.com/)
 
@@ -2326,6 +2351,7 @@
 - [Make Sushi](https://www.makesushi.com/)
 
 ### Vegetables
+- [Abel and Cole](https://www.abelandcole.co.uk/recipes)
 - [**Amore**](https://amorebrand.com/blogs/recipe)
 - [Australian Mushrooms](https://australianmushrooms.com.au/)
 - [Australian Onions](https://australianonions.com.au/)
@@ -2445,6 +2471,7 @@
 - [Nestle Toll House](https://www.verybestbaking.com/toll-house/)
 - [Olives + Thyme](https://olivesnthyme.com/)
 - [**Ozery Bakery**](https://ozerybakery.com/us-en/)
+- [Panko Bunny](https://www.pankobunny.com/)
 - [Pint-Size Bakery](https://www.pintsizebakery.com/recipes)
 - [Project Vegan Baking](https://projectveganbaking.com/)
 - [Real Irish Desserts](https://realirishdesserts.com/)
@@ -2460,6 +2487,7 @@
 - [Tasting Thyme](https://tasting-thyme.com/)
 - [Teak & Thyme](https://teakandthyme.com/)
 - [Texan Erin](https://www.texanerin.com/)
+- [A Treat's Affair](http://atreatsaffair.com/)
 - [typefoodie](https://www.typefoodie.com/)
 - [Ugly Duckling Bakery](https://uglyducklingbakery.com/) 
 - [Unconventional Baker](https://www.unconventionalbaker.com/)
@@ -2506,6 +2534,7 @@
 - [1-2 Cook](https://www.1-2-cook.com/)
 - [101 Cooking for Two](https://www.101cookingfortwo.com/)
 - [A Flavor Journal](https://aflavorjournal.com/)
+- [A Weekend Cook](https://aweekendcook.com/)
 
 ### Sous Vide
 - [A Duck's Oven](https://aducksoven.com/)
@@ -2525,7 +2554,10 @@
 - [500 Sandwiches](https://500sandwiches.com/)
 - [500 Spatulas](https://500spatulas.com/)
 - [1001 Voyages Gourmands](https://1001voyagesgourmands.com/)
+- [Aarti Sequiera](https://aartisequeira.com/recipes/)
 - [Abbey's Kitchen](https://www.abbeyskitchen.com/)
+- [Aberdeen's Kitchen](https://www.aberdeenskitchen.com/)
+- [About Eating](https://abouteating.com/)
 - [Adamant Kitchen](https://adamantkitchen.com/)
 - [Adam Liaw](https://adamliaw.com/)
 - [Add a Pinch](https://addapinch.com/)
@@ -2569,6 +2601,9 @@
 - [The Boy Who Ate The World](https://theboywhoatetheworld.com/)
 - [Bread Booze Bacon](https://breadboozebacon.com/)
 - [A Bright Moment](https://www.abrightmoment.com/)
+- [Bungered](http://bungered.blogspot.com/?m=1)
+- [Bunny's Warm Oven](https://bunnyswarmoven.net/)
+- [Buns in My Oven](https://www.bunsinmyoven.com/)
 - [Burnt My Fingers](https://burntmyfingers.com/)
 - [The Buttered Gnocchi](https://thebutteredgnocchi.com/)
 - [Buttered Side Up](https://www.butteredsideupblog.com/)
@@ -2578,6 +2613,7 @@
 - [Cakes to Kale](https://www.cakestokale.com/)
 - [Canada Beef](https://canadabeef.ca/recipes/)
 - [A Ceder Spoon](https://www.acedarspoon.com/)
+- [Chicago Tribune](https://www.chicagotribune.com/dining/recipes/)
 - [Chicken Fried Kitchen](https://chickenfriedkitchen.com/)
 - [Chipa by the Dozen](https://chipabythedozen.com/en/)
 - [Chorizo & Thyme](https://chorizoandthyme.wordpress.com/)
@@ -2589,6 +2625,7 @@
 - [A Couple Cooks](https://www.acouplecooks.com/)
 - [A Cozy Kitchen](https://www.acozykitchen.com/)
 - [Culinary Butterfly](https://culinarybutterfly.com/)
+- [Dishes and Dust Bunnies](https://dishesanddustbunnies.com/)
 - [Don't Go Bacon My Heart](https://www.dontgobaconmyheart.co.uk/)
 - [A Dynamic Life](https://adynamiclife.co.za/recipes/)
 - [Eats By Ramya](https://eatsbyramya.com/)
@@ -2604,6 +2641,7 @@
 - [Half-Baked Harvest](https://www.halfbakedharvest.com/)
 - [A Hint of Rosemary](https://ahintofrosemary.com/)
 - [The Hint of Rosemary](https://thehintofrosemary.com/)
+- [Honey Bunch Hunts](https://honeybunchhunts.com/)
 - [**Immaculate Baking**](https://www.immaculatebaking.com/new-recipes/)
 - [Immaculate Bites](https://www.africanbites.com/)
 - [Immigrant's Table](https://immigrantstable.com/)
@@ -2624,6 +2662,7 @@
 - [The Kitchen Scholar](https://www.thekitchenscholar.com/recipes)
 - [Kitchen With Amna](http://www.kitchenwithamna.com/)
 - [Kimchi and Beans](http://www.kimchiandbeans.com/)
+- [Kroll's Korner](https://krollskorner.com/)
 - [Lemon Blossoms](https://www.lemonblossoms.com/)
 - [The Lemon Bowl](https://thelemonbowl.com/)
 - [Lemons for Lulu](https://www.lemonsforlulu.com/)
@@ -2664,6 +2703,7 @@
 - [Plays Well With Butter](https://playswellwithbutter.com/)
 - [A Pretty Life in the Suburbs](https://aprettylifeinthesuburbs.com/)
 - [A Reinvented Mom](https://www.areinventedmom.com/recipe-index/)
+- [Rock and Roll Kitchen](https://rockandrollkitchen.com/)
 - [Salad in a Jar](https://saladinajar.com/)
 - [Salad Master](https://recipes.saladmaster.com/)
 - [Salty Lemon Sister](https://www.saltylemonsister.com/)
@@ -2672,12 +2712,14 @@
 - [Serving Dumplings](https://www.servingdumplings.com/)
 - [Shrimp Salad Circus](https://www.shrimpsaladcircus.com/category/recipe-ideas/)
 - [A Simple Palate](https://asimplepalate.com/)
+- [A Spectacled Owl](https://aspectacledowl.com/)
 - [Spinach and Bacon](https://spinachandbacon.com/)
 - [Spoon Fork Bacon](https://www.spoonforkbacon.com/)
 - [Sturbridge Bakery](https://sturbridgebakery.com/)
 - [Sugar, Spice, Biriyani Rice!](https://sugarspicebiriyanirice.com/)
 - [Sweat Tea and Thyme](https://www.sweetteaandthyme.com/)
 - [A Sweet Pea Chef](https://www.asweetpeachef.com/)
+- [A Sweet Spoonful](https://asweetspoonful.com/)
 - [Tamarind & Thyme](https://www.tamarindnthyme.com/)
 - [Taming of the Spoon](https://tamingofthespoon.com/)
 - [A Taste of Koko](https://www.atasteofkoko.com/)
@@ -2690,10 +2732,13 @@
 - [The Two Bananas](https://thetwobananas.com/)
 - [University of Idaho](https://www.uidaho.edu/extension/seafood-at-its-best/recipes)
 - [Unpeeled Journal](https://unpeeledjournal.com/)
+- [A Well Read Tart](http://www.wellreadtart.com/)
 - [Whip It Like Butter](https://whipitlikebutter.com/)
 - [The Wicked Noodle](https://www.thewickednoodle.com/)
 - [World Local Food](http://worldlocalfood.blogspot.com/)
+- [A Year Cooking the World](https://ayearcookingtheworld.com/)
 - [Yellow Thyme](https://www.yellowthyme.com/)
+- [Yummy Notes](https://yummynotes.net/)
 - [**Zrn Sweet**](https://www.zensweet.com/blogs/recipes)
 - [Zonya](https://zonya.com/recipes/)
 
@@ -2745,6 +2790,7 @@
 - [New York Times Cooking](https://cooking.nytimes.com/)
 - [Plain Chicken](https://www.plainchicken.com/)
 - [The Singapore Women's Weekly](https://www.womensweekly.com.sg/food/)
+- [Taste of Harmony](https://www.tasteofharmony.org.au/recipes/)
 - [Very Good Recipes](https://verygoodrecipes.com/)
 - [Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)
 - [ZeeZest](https://zeezest.com/recipes)
