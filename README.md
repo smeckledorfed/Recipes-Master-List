@@ -414,6 +414,7 @@
 - [Food Fusion](https://www.foodfusion.com/)
 - [Pakistan Eats](https://www.pakistaneats.com/)
 - [Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)
+- [Sakeenah Begum](http://sakeenahbegum.com/category/food/)
 - [Zaiqa](https://www.zaiqa.com/)
 
 ##### Palestine
@@ -427,6 +428,7 @@
 - [Turkish Food Chef](https://turkishfoodchef.com/)
 - [Turkish Food Travel](https://www.turkishfoodtravel.com/)
 - [Turkish Style Cooking](https://turkishstylecooking.com/)
+- [Vidar Bergum](https://vidarbergum.com/all-recipes/)
 
 ##### Uzbekistan
 - [Uzbek Cooking](http://uzbekcooking.blogspot.com/)
@@ -752,6 +754,7 @@
 #### Mediterranean
 - [Aegean Delight](https://aegeandelight.com/)
 - [Amira's Pantry](https://amiraspantry.com/)
+- [Maltese History and Heritage](https://vassallohistory.wordpress.com/traditional-recipies/)
 - [The Matbakh](https://thematbakh.com/)
 - [My Greek Salad](https://www.mygreeksalad.com/)
 - [The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)
@@ -982,11 +985,17 @@
 - [NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)
 - [**Tony Chachere's**](https://www.tonychachere.com/recipes/)
 
+##### Florida
+- [Edible South Florida](https://ediblesouthflorida.ediblecommunities.com/)
+
 ##### Hawaii
 - [Ono Hawaiian Recipes](https://onohawaiianrecipes.com/)
 
 ##### Illinois
 - [Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)
+
+##### Iowa
+- [Let's Go Iowa](https://www.letsgoiowa.com/iowa-food/)
 
 ##### Louisiana
 - [225 Baton Rouge](https://www.225batonrouge.com/food-drink/recipes)
@@ -998,6 +1007,7 @@
 
 ##### Midwest
 - [Accidental Happy Baker](https://www.accidentalhappybaker.com/)
+- [Midwest Life and Style](https://www.midwestlifeandstyle.com/category/recipes/)
 
 ##### New Mexico
 - [Edible New Mexico](https://www.ediblenm.com/category/recipes/)
@@ -1005,6 +1015,9 @@
 - [New Mexican Foodie](https://www.newmexicanfoodie.com/)
 - [New Mexico Nomad](https://newmexiconomad.com/resources/food/recipes/)
 - [New Mexico.org](https://www.newmexico.org/things-to-do/cuisine/recipes/)
+
+##### Ohio
+- [Akron Ohio Moms](https://www.akronohiomoms.com/recipe/)
 
 ##### Soul Food
 - [Black Foodie](https://www.blackfoodie.co/recipes/)
@@ -1135,6 +1148,7 @@
 - [Gluten-Free Vegetarian](https://gf-veg.com/)
 - [**Good for You Gluten-Free**](https://www.goodforyouglutenfree.com/)
 - [Health Gluten-Free Asian](https://www.healthygfasian.com/)
+- [Iowa Girl Eats](https://iowagirleats.com/)
 - [It's All Good Vegan](https://itsallgoodvegan.com/)
 - [**Josie's Best**](https://josiesbestgf.com/gluten-free-recipes/)
 - [**Judee's**](https://www.judeesfromscratch.com/blogs/recipes)
@@ -1364,6 +1378,7 @@
 - [Happy Skin Kitchen](https://www.happyskinkitchen.com/)
 - [Happy Vegannie](https://happyvegannie.com/en/)
 - [HealthyGirl Kitchen](https://healthygirlkitchen.com/)
+- [The Healthy Malteser](https://thehealthymalteser.com/)
 - [Holy Cow Vegan](https://holycowvegan.net/)
 - [The Indigo Kitchen](https://theindigokitchen.com/)
 - [The Irritable Vegan](https://www.theirritablevegan.com/)
@@ -1632,6 +1647,10 @@
 - [History Extra](https://www.historyextra.com/tag/recipes/)
 - [A Taste of History with Joyce White](https://atasteofhistorywithjoycewhite.blogspot.com/)
 - [Vintage American Cocktails](https://vintageamericancocktails.com/)
+- [Vintage Dish and Tell](https://www.vintagedishandtell.com/)
+- [Vintage Recipe Cards](https://vintagerecipecards.com/)
+- [Vintage Recipe Project](https://vintagerecipeproject.com/)
+- [Vintage Recipes and Cookery](https://vintagerecipesandcookery.com/)
 
 ## Ingredient
 ### Alcohol
@@ -1760,6 +1779,7 @@
 #### Wine
 - [**Cava**](https://www.cava.wine/en/discover/recipes-world-cava/)
 - [**Diadema Wine**](https://en.diadema-wine.com/blog/tags/recipe)
+- [Minnesota Uncorked](https://www.minnesotauncorked.com/)
 - [**RayZyn**](https://rayzyn.com/blogs/recipes)
 - [**Robinette's**](https://robinettes.com/category/recipes)
 - [**Wine Dharma**](https://winedharma.com/en/recipes/)
@@ -1840,6 +1860,7 @@
 
 ### Candy
 - [**Dandie's**](https://dandies.com/recipes)
+- [**Maltesers**](https://www.maltesers.co.uk/recipes?)
 
 ### Cereal
 - [**Grape Nuts**](https://www.grapenuts.com/recipes/)
@@ -1882,6 +1903,7 @@
 - [**Pure Maple from Canada**](https://www.puremaplefromcanada.com/recipes/)
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
+- [**Yun Hai**](https://yunhai.shop/blogs/recipes)
 - [**Zubi**](https://eatzubi.com/blogs/recipes)
 
 ### Dairy
@@ -1973,6 +1995,7 @@
 - [**Bella SunLuci**](https://bellasunluci.com/recipes)
 - [**Bjorn's Colorado Honey**](https://bjornscoloradohoney.com/blogs/news/tagged/recipes)
 - [**California Strawberries**](https://www.californiastrawberries.com/)
+- [**Florida Citrus**](https://www.floridacitrus.ca/oj/recipes/)
 - [**Holland Bottom Farm**](https://www.hollandbottomfarmllc.com/recipes)
 - [**The Jackfruit Company**](https://thejackfruitcompany.com/recipes/)
 - [**Libby's**](https://www.verybestbaking.com/libbys/recipes/)
@@ -2001,6 +2024,7 @@
 - [**RightRice](https://rightrice.com/blogs/recipes)
 - [**Success Rice**](https://successrice.com/recipes/)
 - [**Tilda Rice**](https://www.tilda.com/recipes/)
+- [**Zatarain's**](https://www.mccormick.com/zatarains/recipes)
 
 ### Herbs & Spices
 - [**Badia Spices**](https://badiaspices.com/recipes/)
@@ -2039,6 +2063,7 @@
 - [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
 - [**Niman Ranch**](https://www.nimanranch.com/recipes/)
 - [**Seemore Sausage**](https://eatseemore.com/blogs/recipe)
+- [Zappfresh](https://www.zappfresh.com/blog/recipes/)
 #### Beef
 - [Arkansas Beef](https://www.arkansasbeef.org/recipes)
 - [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
@@ -2247,6 +2272,7 @@
 - [saladBURNET](https://saladburnet.org/index.php/recipes/)
 - [**Salad Cosmo**](https://www.saladcosmo.com/recipes)
 - [Salad Girl](https://www.saladgirl.com/)
+- [**Yummy Hunts**](https://www.yummyhunts.com/recipes)
 
 ### Yogurt
 - [**Dannon**](https://www.dannon.com/recipes/)
