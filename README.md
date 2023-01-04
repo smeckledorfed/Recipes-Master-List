@@ -15,10 +15,10 @@
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|
 |[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|
 |[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|
-|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|
-|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|
-|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|
-|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|
+|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|
+|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|
+|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[Two Dollar Eats](https://twodollareats.com/)|
 
 ## Cuisine
 
@@ -1305,6 +1305,7 @@
 - [Cedar Swamp Homestead](https://cedarswamphomestead.com/blog/)
 - [The Crooked Carrot](https://thecrookedcarrot.com/)
 - [A Day in the Life on the Farm](http://adayinthelifeonthefarm.blogspot.com/)
+- [The Elliott Homestead](https://theelliotthomestead.com/category/recipes/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [A Frenchtown Kitchen & Garden](http://frenchkitcheninamerica.blogspot.com/)
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
@@ -1316,15 +1317,30 @@
 - [Homestead Acres](https://www.homestead-acres.com/recipeindex/)
 - [Homesteaders of America](https://homesteadersofamerica.com/category/food-recipes/)
 - [Homestead Honey](https://homestead-honey.com/category/inthekitchen/)
+- [Homesteading Family](https://homesteadingfamily.com/cook/)
+- [The Homesteading Hippy](https://thehomesteadinghippy.com/)
 - [Homestead Survival Site](https://homesteadsurvivalsite.com/food/recipes/)
 - [Home to Homestead](https://hometohomestead.com/)
+- [The House and Homestead](https://thehouseandhomestead.com/)
 - [Kale & Caramel](https://kaleandcaramel.com/)
 - [kiyafries](https://kiyafries.com/category/recipes/)
 - [Lemons + Anchovies](https://lemonsandanchovies.com/)
+- [Life is Just Ducky](https://www.lifeisjustducky.com/homestead-recipes/)
+- [Melissa K. Norris](https://melissaknorris.com/)
+- [New Life on a Homestead](https://www.newlifeonahomestead.com/the-homestead-kitchen/recipes/)
+- [Not So Modern](https://www.notsomodern.com/category/homestead-recipes/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
+- [Our Homestead Adventures](https://www.ourhomesteadadventures.com/recipes/)
+- [Our Little Homestead](https://ourlittlehomestead.org/recipes/)
+- [Our Simple Homestead](https://oursimplehomestead.com/)
+- [The Prairie Homestead](https://www.theprairiehomestead.com/category/real-food-recipes-tutorials)
+- [Rosevine Cottage Girls](https://rosevinecottagegirls.com/tag/homestead-recipes/)
 - [Salt in My Coffee](https://saltinmycoffee.com/)
+- [The Seasonal Homestead](https://www.theseasonalhomestead.com/category/all-recipes/)
+- [Simply Made Homestead](https://simplymadehomestead.com/)
 - [Texas Homesteader](https://texashomesteader.com/)
 - [Thyme Herbal](https://www.thymeherbal.com/blog/)
+- [Urban Overalls](https://urbanoveralls.net/category/homestead-recipes/)
 - [use real butter](http://userealbutter.com/)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 
@@ -2569,6 +2585,7 @@
 - [Elisabeth and Butter](https://www.elisabethandbutter.com/)
 - [Feliz Em Gluten](https://felizsemgluten.com.br/en/)
 - [Gretchen's Vegan Bakery](https://www.gretchensveganbakery.com/)
+- [I Am Homesteader](https://iamhomesteader.com/)
 - [Jenny Is Baking](https://jennyisbaking.com/)
 - [Kim and Jake's Cakes](http://kimandjakescakes.com/recipes)
 - [The Kosher Baker](https://www.thetasteofkosher.com/)
@@ -2832,6 +2849,8 @@
 - [Margot Dreams Of Baking](https://margotdreamsofbaking.ca/)
 - [Marsha's Baking Addiction](https://marshasbakingaddiction.com/)
 - [Matching Food and Wine](https://www.matchingfoodandwine.com/news/recipes/)
+- [Melissa d'Arabian](https://melissadarabian.net/recipes/)
+- [Melissa Noel Renzi](https://melissanoelrenzi.com/category/food-recipes/)
 - [**Miss Jones**](https://missjones.co/blogs/recipes)
 - [A Modern Homestead](https://www.amodernhomestead.com/recipes-index/)
 - [Mogwai Soup](https://mogwaisoup.com/)
@@ -2847,6 +2866,7 @@
 - [Oh Sweet Basil](https://ohsweetbasil.com/)
 - [Olive Oil and Lemons](https://oliveoilandlemons.com/)
 - [Onion Rings and Things](https://www.onionringsandthings.com/)
+- [Original Homesteading](https://originalhomesteading.com/category/recipes/)
 - [Out of the Box Baking](https://outoftheboxbaking.com/)
 - [A Paige of Positivity](https://apaigeofpositivity.com/)
 - [Pierre Franey](https://www.pierrefraney.com/)
@@ -2891,6 +2911,7 @@
 - [Unpeeled Journal](https://unpeeledjournal.com/)
 - [A Well Read Tart](http://www.wellreadtart.com/)
 - [Whip It Like Butter](https://whipitlikebutter.com/)
+- [Whole New Mom](https://wholenewmom.com/)
 - [The Wicked Noodle](https://www.thewickednoodle.com/)
 - [World Local Food](http://worldlocalfood.blogspot.com/)
 - [A Year Cooking the World](https://ayearcookingtheworld.com/)
@@ -2915,6 +2936,7 @@
 - [**Judee's**](https://www.judeesfromscratch.com/blogs/recipes)
 - [**Karma Community**](https://karmacommunity.karmagroup.com/food-wine/)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
+- [**Melissa's**](https://www.melissas.com/)
 - [**My Vega**](https://myvega.com/blogs/recipes)
 - [**Nordic Food Living**](https://nordicfoodliving.com/)
 - [**NutriAsia**](https://nutriasia.com/recipe/)
