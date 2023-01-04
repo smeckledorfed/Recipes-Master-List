@@ -252,10 +252,12 @@
 #### India
 - [**24 Mantra Organic**](https://www.24mantra.com/blogs/)
 - [Abby's Plate](https://abbysplate.com/)
+- [Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)
 - [Archana's Kitchen](https://www.archanaskitchen.com/)
 - [Banglar Rannaghor](https://www.banglarrannaghor.com/)
 - [Bawarchi](https://www.bawarchi.com/)
 - [Be ExtraVegant](https://beextravegant.com/)
+- [Bridget White-Kumar](https://bridget-white.com/)|
 - [Caramel Tinted Life](https://carameltintedlife.com/)
 - [Chitra's Foodbook](https://www.chitrasfoodbook.com/)
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)
@@ -299,10 +301,6 @@
 - [Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)
 - [Zaiqa](https://www.zaiqa.com/)
 - [Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)
-##### Anglo-Indian
-|     |     |
-| --- | --- |
-|[Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)|[Bridget White-Kumar](https://bridget-white.com/)|
 ##### Assam
 |     |
 | --- |
@@ -319,9 +317,13 @@
 |     |     |
 | --- | --- |
 |[Aromatic Essence](https://aromaticessence.co/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|
+##### Gujarati
+|     |
+| --- |
+|[Gujarati Rasoi](https://www.gujrasoi.com/)|
 ##### Konkani
-|     |     |
-| --- | --- |
+|     |
+| --- |
 |[Aayi's Recipes](https://www.aayisrecipes.com/)|
 
 #### Indonesia
@@ -789,6 +791,7 @@
 - [Vega Recepten](https://vegarecepten.com/en/)
 
 #### Nordic
+- [The Adagio Blog](https://www.adagioblog.com/)
 - [My Nordic Kitchen](https://www.mynordickitchen.no/)
 - [Nordic Food Living](https://nordicfoodliving.com/)
 
@@ -1288,6 +1291,7 @@
 ### Local
 - [**4 Earth Farms**](https://www.4earthfarms.com/our-produce/recipes/)
 - [**5 Dog Farm**](https://www.5dog.farm/category/eat/)
+- [The 104 Homestead](https://104homestead.com/topics/real-food/)
 - [918 Plate](https://www.918plate.com/)
 - [Acadian Family Farm](https://www.acadianfamilyfarm.com/)
 - [Along the Grapevine](https://alongthegrapevine.wordpress.com/)
@@ -1305,6 +1309,7 @@
 - [A Frenchtown Kitchen & Garden](http://frenchkitcheninamerica.blogspot.com/)
 - [Frigot Europe](https://fricoteurope.wordpress.com/)
 - [A Garden for the House](https://www.agardenforthehouse.com/)
+- [Goats and Greens](https://goatsandgreens.wordpress.com/)
 - [Halfway Homesteaders](https://halfwayhomesteaders.com/)
 - [Hidden Springs Homestead](https://www.hiddenspringshomestead.com/category/in-the-kitchen/)
 - [Hillsborough Homesteading](https://hillsborough-homesteading.com/)
@@ -1548,6 +1553,7 @@
 - [Vegan Vocals](https://veganvvocals.com/)
 - [Vegan With Curves](https://veganwithcurves.com/)
 - [Vegan With Gusto](https://veganwithgusto.com/)
+- [The V Word](http://thevword.net/)
 - [Vegan Yack Attack](https://veganyackattack.com/)
 - [Vegan Yumminess](https://veganyumminess.com/)
 - [Vegetarian Cooking Recipes Tips](https://www.vegetarian-cooking-recipes-tips.com/)
@@ -1711,6 +1717,7 @@
 
 ## Historical
 - [18thC Cuisine](http://18thccuisine.blogspot.com/)
+- [The 1940s Experiment](https://the1940sexperiment.com/100-wartime-recipes/)
 - [Ancient Recipes](https://www.ancientrecipes.org/)
 - [Anthrochef](https://anthrochef.com/)
 - [**Beatrice Co.**](https://www.beatriceco.com/history/historical_recipes/)
@@ -1871,6 +1878,7 @@
 
 ### Beverages
 - [**7up**](https://www.7up.com/en/recipes)
+- [**Ace Canning**](http://www.acecanning.com/web/recipes/)
 - [**Backyard Sodas**](https://www.backyardsodas.com/recipes/)
 - [**Bhakti Chai**](https://drinkbhakti.com/blogs/recipes)
 - [**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)
@@ -2046,6 +2054,7 @@
 - [**Crave Brothers**](https://www.cravecheese.com/recipes)
 - [Culture](https://culturecheesemag.com/recipes/)
 - [**Deer Creek**](https://deercreekcheese.com/recipes)
+- [**Jarlsberg**](https://www.jarlsberg.com/us/recipes)
 - [**Montchevre**](https://www.montchevre.com/en/recipes)
 - [**Old Croc Cheese**](https://oldcroccheese.com/recipes/)
 - [**President**](https://presidentcheese.com/recipes/)
@@ -2631,6 +2640,14 @@
 - [That Guy Who Grills](https://thatguywhogrills.com/)
 - [**Traeger Grills**](https://www.traeger.com/)
 
+### Camping
+- [The Adventure Bite](https://theadventurebite.com/)
+- [Beyond the Tent](https://www.beyondthetent.com/category/camping-food/)
+- [Camping for Foodies](https://www.campingforfoodies.com/camping-food/)
+- [**Eureka!**](https://www.eurekacamping.com/recipes)
+- [**Koa**](https://koa.com/camping-recipes/)
+- [**REI**](https://www.rei.com/learn/c/camping/t/recipes)
+
 ### Preserving
 - [Food Preserving](http://www.foodpreserving.org/)
 - [An Oregon Cottage](https://anoregoncottage.com/)
@@ -2679,6 +2696,7 @@
 - [12 Recipe Book](http://www.12recipebook.com/)
 - [30 Day Gourmet](http://30daygourmet.com/)
 - [31 Daily](https://www.31daily.com)
+- [The 36th Avenue](https://www.the36thavenue.com/category/recipes/)
 - [40 Aprons](https://40aprons.com/)
 - [196 Flavors](https://www.196flavors.com/)
 - [500 Sandwiches](https://500sandwiches.com/)
@@ -2692,6 +2710,7 @@
 - [Adam Liaw](https://adamliaw.com/)
 - [Add a Pinch](https://addapinch.com/)
 - [Adore Foods](https://adorefoods.com/)
+- [The Adult Kitchen](https://adultkitchen.com/)
 - [An Affair from the Heart](https://anaffairfromtheheart.com/)
 - [Aggie's Kitchen](https://aggieskitchen.com/)
 - [Ahead of Thyme](https://www.aheadofthyme.com/)
@@ -2751,6 +2770,7 @@
 - [Clove Graden](https://clovegarden.com/)
 - [A Communal Table](https://www.acommunaltable.com/)
 - [Cooking Chew](https://cookingchew.com/)
+- [Cooking Goals](https://www.cookinggoals.com/)
 - [A Cook Within](https://acupofcream.com/)
 - [A Couple Cooks](https://www.acouplecooks.com/)
 - [A Cozy Kitchen](https://www.acozykitchen.com/)
@@ -2857,6 +2877,7 @@
 - [A Sweet Spoonful](https://asweetspoonful.com/)
 - [Tamarind & Thyme](https://www.tamarindnthyme.com/)
 - [Taming of the Spoon](https://tamingofthespoon.com/)
+- [Tango and Rakija](https://www.tangoandrakija.com/)
 - [A Taste of Koko](https://www.atasteofkoko.com/)
 - [Tasty Arbuz](https://arbuz.com/)
 - [Teti's Flakes](https://tetisflakes.com/)
@@ -2879,10 +2900,15 @@
 - [Zonya](https://zonya.com/recipes/)
 
 ### Brand
+- [**Ace Fitness**](https://www.acefitness.org/resources/everyone/healthy-recipes/)
+- [**Aceline**](https://aceline.media/recipes/)
 - [**Ancient Cookware**](https://ancientcookware.com/recipes#)
 - [**Anthony's Goods**](https://anthonysgoods.com/pages/recipes)
 - [**Back of the Box Recipes**](http://www.backofthebox.com/)
+- [**Ball Mason Jars**](https://www.ballmasonjars.com/recipes?fdid=recipes)
+- [**Canned Food Alliance**](https://www.mealtime.org/)
 - [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
+- [**Durango Artisan Foods**](https://durangoartisanfoods.com/recipes/)
 - [**Food Ireland**](https://www.foodireland.com/recipes/)
 - [**Hairy Bikers**](https://www.hairybikers.com/recipes)
 - [**Homestead 1870**](https://www.homestead1870.com/recipes/)
@@ -2916,6 +2942,7 @@
 - [30 Seconds](https://30seconds.com/)
 - [360 Happy Kitchen](https://360happykitchen.com/)
 - [1000 World Recipes](https://1000worldrecipes.com/)
+- [Academy of Culinary Nutrition](https://www.culinarynutrition.com/category/recipes/)
 - [Allrecipes](https://www.allrecipes.com/)
 - [BBC Food](https://www.bbc.co.uk/food)
 - [Better Butter](https://www.betterbutter.in/recipes)
