@@ -2833,6 +2833,7 @@
 - [Canada Beef](https://canadabeef.ca/recipes/)
 - [A Ceder Spoon](https://www.acedarspoon.com/)
 - [Charloee Fashion Plate](https://www.charlottefashionplate.com/recipes/)
+- [Cheese Curd in Paradise](https://cheesecurdinparadise.com/)
 - [Chef John Besh](https://www.chefjohnbesh.com/recipes2)
 - [Chef Kelly Cahoon](https://chefkellycahoon.com/)
 - [Chicago Tribune](https://www.chicagotribune.com/dining/recipes/)
@@ -2912,6 +2913,7 @@
 - [Love & Lemons](https://www.loveandlemons.com/)
 - [Love Potatoes](https://www.lovepotatoes.co.uk/)
 - [Lynn and Russ](https://lynnandruss.com/)
+- [Mak and Her Cheese](http://www.makandhercheese.com/)
 - [Margot Dreams Of Baking](https://margotdreamsofbaking.ca/)
 - [Marsha's Baking Addiction](https://marshasbakingaddiction.com/)
 - [Matching Food and Wine](https://www.matchingfoodandwine.com/news/recipes/)
@@ -3020,6 +3022,7 @@
 - [**Spice Tree Organics**](http://www.spicetreeorganics.com/recipes)
 - [**The Sweet Potato**](https://thesweetpotato.ca/)
 - [**Thermomix Recipe Community**](https://www.recipecommunity.com.au/)
+- [**Tropical**](https://tropicalcheese.com/recipes)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 - [**Zoe**](https://joinzoe.com/learn/category/nutrition/recipes)
 
