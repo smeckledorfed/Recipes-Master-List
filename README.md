@@ -15,10 +15,13 @@
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|
 |[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|
 |[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|
-|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|
-|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[No Money, No Time](https://nomoneynotime.com.au/)|
-|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|
-|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Frugal Farm Wife](https://www.frugalfarmwife.com/)|
+|[The Frugal Girls](https://thefrugalgirls.com/)|[Frugal Hausfrau](https://frugalhausfrau.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Frugal Living NW](https://www.frugallivingnw.com/recipes/)|[The Frugal Navy Wife](https://www.thefrugalnavywife.com/quick-and-easy-recipes-from-the-frugal-navy-wife/)|
+|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|
+|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|
+|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Tasty Thrifty Timely](https://tastythriftytimely.com/)|
+|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[That Frugal Foodie](https://thatfrugalfoodie.com/)|[Thrift & Spice](https://thriftandspice.com/)|[The Thrifty Couple](https://thethriftycouple.com/all-recipes/)|[Thrify Frugal Mom](https://www.thriftyfrugalmom.com/category/recipes/)|
+|[Thrifty Fun](https://www.thriftyfun.com/tf/Food_and_Recipes/index.html)|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|
 
 ## Cuisine
 
@@ -535,6 +538,9 @@
 - [Tofuify](https://tofuify.com/)
 - [Zen Kimchi](https://zenkimchi.com/)
 
+#### Sri Lanka
+- [Top Sri Lankan Recipe](https://www.topsrilankanrecipe.com/)
+
 #### Taiwan
 - [Angel Wong's Kitchen](https://www.angelwongskitchen.com/)
 - [Baking Taitai](https://www.bakingtaitai.com/)
@@ -765,6 +771,7 @@
 - [Spaghetti Sauce and Meatballs](https://saucesnlove.com/recipes/)
 - [Sugar Love Spices](https://www.sugarlovespices.com/)
 - [The Tiny Italian](https://thetinyitalian.com/)
+- [Very EATalian](http://www.veryeatalian.com/)
 - [What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/)
 - [Your Guardian Chef](https://yourguardianchef.com/)
 ##### Abruzzo
@@ -998,6 +1005,7 @@
 - [My Slice of Mexico](https://mysliceofmexico.ca/)
 - [Sabor Mexicano](https://sabormexicano.com/recipes)
 - [Thai Caliente](https://thaicaliente.com/)
+- [Thrift & Spice](https://thriftandspice.com/)
 - [Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)
 
 #### USA
@@ -1313,6 +1321,7 @@
 - [OU Kosher](https://oukosher.org/recipes/)
 - [The Taste of Kosher](https://www.thetasteofkosher.com/)
 - [**Western Kosher**](https://www.westernkosher.com/los-angeles-pico/recipes)
+- [What Jew Wanna Eat](https://whatjewwannaeat.com/)
 - [Yay Kosher](https://yaykosher.com/)
 
 ### Lactose-Free
@@ -1565,6 +1574,7 @@
 - [Sweet Green's Vegan](https://www.sweetgreensvegan.com/)
 - [Sweet Simple Vegan](https://sweetsimplevegan.com/)
 - [Tasty Simply Vegan](https://tastysimplyvegan.com/)
+- [Tasty Thrifty Timely]([Tasty Thrifty Timely](https://tastythriftytimely.com/))
 - [That Vegan Babe](https://thatveganbabe.com/)
 - [This Savory Vegan](https://www.thissavoryvegan.com/)
 - [Thriving on Plants](https://www.cherietu.com/)
@@ -2079,6 +2089,7 @@
 - [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
 - [**Spirit & Co.**](https://spiritsauces.com/blogs/recipes)
 - [**Stokes**](https://www.stokessauces.co.uk/recipes/)
+- [**TOP Vinegar**](https://vinegartop.com/en/recipes/)
 - [**Woeber's Mustard**](https://www.woebermustard.com/recipes/)
 - [**Yellowbird**](https://www.yellowbirdfoods.com/blogs/lost-in-the-sauce/tagged/recipes)
 - [**Yo Pitts!**](https://yopittsfoods.com/recipes/)
@@ -2229,6 +2240,7 @@
 - [**Stemilt**](https://www.stemilt.com/fruit-recipes/)
 - [**Swapples**](https://swapfoods.com/blogs/recipes)
 - [**True Citrus**](https://www.truelemon.com/blogs/recipes)
+- [**USA Pears**](https://usapears.org/recipe/)
 - [**Washington Apples**](https://waapple.org/recipes/)
 - [**Yucatan Guacamole**](https://avocado.com/recipes/)
 - [**Zespri**](https://www.zespri.com/en-US/recipes)
@@ -2551,18 +2563,19 @@
 - [**Whisps**](https://whisps.com/blogs/recipes)
 - [**Zestyz**](https://zestyz.com/blogs/recipes)
 
-### Sugar
+### Sushi
+- [Ichi Sushi](https://ichisushi.com/category/recipes/)
+- [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
+- [Make Sushi](https://www.makesushi.com/)
+
+### Sweeteners
 - [**Chelsea Sugar**](https://www.chelsea.co.nz/)
 - [**Domino**](https://www.dominosugar.com/recipes)
 - [**Fuller's Sugarhouse**](https://www.fullerssugarhouse.com/recipe-categories/)
 - [**Imperial**](https://www.imperialsugar.com/recipes)
 - [**Redpath**](https://www.redpathsugar.com/recipes)
 - [**RxSugar**](https://rxsugar.com/blogs/recipes)
-
-### Sushi
-- [Ichi Sushi](https://ichisushi.com/category/recipes/)
-- [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
-- [Make Sushi](https://www.makesushi.com/)
+- [**Truvia**](https://www.truvia.com/all-recipes)
 
 ### Tofu
 - [**Hodo**](https://www.hodofoods.com/recipes)
@@ -3117,6 +3130,9 @@
 - [**The Sweet Potato**](https://thesweetpotato.ca/)
 - [**Thermomix Recipe Community**](https://www.recipecommunity.com.au/)
 - [**Tropical**](https://tropicalcheese.com/recipes)
+- [**Unilever.co.uk**](https://www.unileverfoodsolutions.co.uk/recipes.html)
+- [**Unilver Food Solutions**](https://www.unileverfoodsolutions.com.ph/recipes.html)
+- [**Weight Watchers**](https://www.weightwatchers.com/us/recipe)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 - [**Zoe**](https://joinzoe.com/learn/category/nutrition/recipes)
 
@@ -3132,6 +3148,7 @@
 - [Martha Stewart](https://www.marthastewart.com/1509043/food-cooking)
 - [Robert St. John](https://robertstjohn.com/recipes/)
 - [Stephanie Alexander](https://www.stephaniealexander.com.au/)
+- [Wolfgang Puck Cooking School](https://www.wolfgangpuckcookingschool.com/recipes/wolfgangs-signature-recipes/)
 
 ### Community
 - [4 All Taste](https://4alltaste.com/)
@@ -3159,4 +3176,5 @@
 - [Taste of Harmony](https://www.tasteofharmony.org.au/recipes/)
 - [Very Good Recipes](https://verygoodrecipes.com/)
 - [Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)
+- [Yummly](https://www.yummly.com/)
 - [ZeeZest](https://zeezest.com/recipes)
