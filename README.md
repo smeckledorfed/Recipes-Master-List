@@ -18,10 +18,10 @@
 |[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Frugal Farm Wife](https://www.frugalfarmwife.com/)|
 |[The Frugal Girls](https://thefrugalgirls.com/)|[Frugal Hausfrau](https://frugalhausfrau.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Frugal Living NW](https://www.frugallivingnw.com/recipes/)|[The Frugal Navy Wife](https://www.thefrugalnavywife.com/quick-and-easy-recipes-from-the-frugal-navy-wife/)|
 |[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|
-|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|
-|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Tasty Thrifty Timely](https://tastythriftytimely.com/)|
-|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[That Frugal Foodie](https://thatfrugalfoodie.com/)|[Thrift & Spice](https://thriftandspice.com/)|[The Thrifty Couple](https://thethriftycouple.com/all-recipes/)|[Thrify Frugal Mom](https://www.thriftyfrugalmom.com/category/recipes/)|
-|[Thrifty Fun](https://www.thriftyfun.com/tf/Food_and_Recipes/index.html)|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|
+|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|
+|[Tasty Thrifty Timely](https://tastythriftytimely.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[That Frugal Foodie](https://thatfrugalfoodie.com/)|[Thrift & Spice](https://thriftandspice.com/)|[The Thrifty Couple](https://thethriftycouple.com/all-recipes/)|
+|[Thrify Frugal Mom](https://www.thriftyfrugalmom.com/category/recipes/)|[Thrifty Fun](https://www.thriftyfun.com/tf/Food_and_Recipes/index.html)|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|
 
 ## Cuisine
 
@@ -142,6 +142,7 @@
 - [Asian Test Kitchen](https://asiantestkitchen.com/)
 - [Asian Top Recipes](https://asiantoprecipes.weebly.com/)
 - [Assorted Eats](https://www.assortedeats.com/)
+- [Belated Brewery](https://www.belatedbrewery.com/)
 - [Belly Cheap Cook](https://www.bellycheapcook.com/)
 - [Bite My Bun](https://www.bitemybun.com/)
 - [Blue Apocalypse](http://www.blueapocalypse.com/p/asian.html)
@@ -1191,6 +1192,7 @@
 - (all websites in the vegan section)
 - [24 Carrot Kitchen](https://24carrotkitchen.com/)
 - [Bakerita](https://www.bakerita.com/)
+- [Belated Brewery](https://www.belatedbrewery.com/)
 - [Calm Eats](https://calmeats.com/)
 - [Go Dairy-Free](https://www.godairyfree.org/)
 - [Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)
@@ -1206,6 +1208,7 @@
 - [24 Carrot Kitchen](https://24carrotkitchen.com/)
 - [Against All Grain](https://againstallgrain.com/)
 - [Bakerita](https://www.bakerita.com/)
+- [Belated Brewery](https://www.belatedbrewery.com/)
 - [Brown Girl Vegan](https://browngirlveganeats.com/)
 - [Bunny's Bite](https://bunnysbite.com/)
 - [Calm Eats](https://calmeats.com/)
@@ -1844,6 +1847,7 @@
 - [**Fever Tree**](https://fever-tree.com/en_US/cocktails)
 - [Food Viva](https://cocktails.foodviva.com/)
 - [Have a Cocktail](https://www.haveacocktail.com/)
+- [Home Brewer's Association](https://www.homebrewersassociation.org/homebrew-recipes/)
 - [Home Drink Menu](https://homedrinkmenu.com/)
 - [Inshaker](https://us.inshaker.com/cocktails)
 - [Liquor](https://www.liquor.com/cocktail-and-other-recipes-4779343)
@@ -1865,9 +1869,14 @@
 - [Beer Alien](https://beeralien.com/)
 - [Beer and Brewing](https://beerandbrewing.com/beer-recipes/)
 - [Beers With Mandy](https://beerswithmandy.com/)
+- [Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)
 - [Brew Dudes](https://www.brew-dudes.com/beer-recipes)
+- [Brewer's Friend](https://www.brewersfriend.com/homebrew-recipes/)
+- [Craft Beering](https://www.craftbeering.com/)
 - [Homebrew Academy](https://homebrewacademy.com/beer-recipes/)
+- [Homebrew Answers](https://homebrewanswers.com/)
 - [Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)
+- [Renegade Brewing](https://renegadebrewing.com/category/recipes/)
 #### Bourbon
 - [**Evan Williams Bourbon**](https://evanwilliams.com/recipes)
 - [**Four Roses Bourbon**](https://cocktails.fourrosesbourbon.com/)
@@ -1891,6 +1900,7 @@
 - [**Don Q**](https://donq.com/recipes/)
 - [**Dos Maderas**](https://dosmaderas.com/easy-dark-rum-cocktail-recipes/)
 - [**Element Rhum**](https://www.rhumclementusa.com/cocktails)
+- [**Guavaberry**](https://guavaberry.com/recipes)
 - [**Malibu**](https://www.maliburumdrinks.com/us/rum-drinks/)
 - [**Mount Gay**](https://www.mountgayrum.com/cocktails/)
 - [**Plantation Rum**](https://www.plantationrum.com/cocktails-plantation)
@@ -1933,6 +1943,7 @@
 - [**Bulleit**](https://www.bulleit.com/cocktail-food-pairings/)
 - [**Canadian Club**](https://www.canadianclub.com/us/us/us/recipes/)
 - [**Crown Royal**](https://www.crownroyal.com/whisky-cocktails/)
+- [**Fireball**](https://www.fireballwhisky.com/recipes.html)
 - [**The Glenlivet**](https://www.theglenlivet.com/en-us/cocktail-collection/)
 - [**Jameson**](https://www.jamesonwhiskey.com/en/cocktail-recipes/)
 - [**Johnnie Walker**](https://www.johnniewalker.com/en-us/whisky-cocktails/)
@@ -1943,11 +1954,18 @@
 - [The Whiskey Land](https://thewhiskeyland.com/)
 - [**Woodford Reserve**](https://www.woodfordreserve.com/lifestyle/cocktails/)
 #### Wine
+- [Arish Tam](https://www.arishtam.com/home-brew-recipes/)
 - [**Cava**](https://www.cava.wine/en/discover/recipes-world-cava/)
+- [**Chaucer's**](https://chaucerswine.com/recipes-pairings/our-recipes-and-pairings/)
 - [**Diadema Wine**](https://en.diadema-wine.com/blog/tags/recipe)
+- [**Get Brewsy**](https://getbrewsy.com/pages/recipes)
+- [Homebrew Answers](https://homebrewanswers.com/)
 - [Minnesota Uncorked](https://www.minnesotauncorked.com/)
+- [**Moonlight Meadery**](https://www.moonlightmeadery.com/cooking-with-mead/)
+- [**Oliver Winery**](https://www.oliverwinery.com/blog/categories/wine-cocktails)
 - [**Qantas Wine**](https://wine.qantas.com/recipes/)
 - [**RayZyn**](https://rayzyn.com/blogs/recipes)
+- [**Redstone Meadery**](https://www.redstonemeadery.com/about/#Cocktails)
 - [**Robinette's**](https://robinettes.com/category/recipes)
 - [**Wine Dharma**](https://winedharma.com/en/recipes/)
 - [Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)
@@ -1971,6 +1989,7 @@
 - [**Iconic**](https://www.drinkiconic.com/blogs/recipes)
 - [**LaCroix**](https://www.lacroixwater.com/recipes/)
 - [**Lori's Original Lemonade**](https://lorisoriginallemonade.com/category/recipes/)
+- [**Oliko Ginger Beer**](https://www.olikogingerbeer.com/recipes)
 - [**Perrier**](https://www.perrier.com/us/drink-recipes)
 - [**Pom**](https://www.pomwonderful.com/recipes/drinks)
 - [**Reed's**](https://drinkreeds.com/recipes/)
@@ -1983,6 +2002,7 @@
 - [Coffee at Three](https://coffeeatthree.com/)
 - [**Coffee Cherry Co.**](https://coffeecherryco.com/recipes/)
 - [**Copper Cow Coffee**](https://coppercowcoffee.com/blogs/blog-posts)
+- [**Craft Beering**](https://risebrewingco.com/blogs/recipe)
 - [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
 - [**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)
 - [**Door County Coffee**](https://doorcountycoffee.com/recipes/)
@@ -1999,6 +2019,7 @@
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)
 - [**Peet's Coffee**](https://www.peets.com/blogs/peets)
+- [Perfect Brew](https://www.perfectbrew.com/)
 - [**Seattle's Best Coffee**](https://www.seattlesbest.com/recipes-crafts)
 - [**Starbucks**](https://athome.starbucks.com/recipe)
 - [**Tuyyo Foods**](https://tuyyofoods.com/)
@@ -2009,6 +2030,7 @@
 - [**Millennia TEA**](https://millenniatea.com/blogs/news)
 - [**Mizuba**](https://mizubatea.com/blogs/recipes)
 - [**Paromi**](https://paromi.com/blogs/recipes)
+- [Perfect Brew](https://www.perfectbrew.com/)
 - [**The Republic of Tea**](https://the.republicoftea.com/tea-recipes/)
 - [**Revolution**](https://www.revolutiontea.com/blogs/recipes)
 - [**Rishi**](https://journal.rishi-tea.com/tea-recipes/)
@@ -2118,6 +2140,7 @@
 - [**La Clare**](https://recipes.laclarefamilycreamery.com/recipes/)
 - [**Lewis Road Creamery**](https://lewisroadcreamery.co.nz/blogs/recipes)
 - [**Mammoth Creameries**](https://www.mammothcreameries.com/blogs/recipes)
+- [**Meadow Gold Dairy**](https://meadowgolddairy.com/recipes/)
 - [**Meyenberg Goat Milk**](https://www.meyenberg.com/recipes)
 - [**Vermont Creamery**](https://www.vermontcreamery.com/collections/recipes)
 - [**Washington Dairy**](https://www.wadairy.org/)
@@ -2200,6 +2223,7 @@
 
 ### Dairy Alternatives
 - [**Better Than Milk**](https://btmsoymilk.com/recipes/)
+- [**Craft Beering**](https://risebrewingco.com/blogs/recipe)
 - [**Eat Parma**](https://eatparma.com/category/recipes/)
 - [**Field Roast**](https://fieldroast.com/recipes/)
 - [**Future of Cheese**](https://www.futureofcheese.com/copy-of-team)
@@ -2933,6 +2957,7 @@
 - [Cheese Curd in Paradise](https://cheesecurdinparadise.com/)
 - [Chef John Besh](https://www.chefjohnbesh.com/recipes2)
 - [Chef Kelly Cahoon](https://chefkellycahoon.com/)
+- [Chef's Table](https://chefs-table.homebrewchef.com/)
 - [Chicago Tribune](https://www.chicagotribune.com/dining/recipes/)
 - [Chicken Fried Kitchen](https://chickenfriedkitchen.com/)
 - [Chipa by the Dozen](https://chipabythedozen.com/en/)
@@ -3134,6 +3159,7 @@
 - [**Judee's**](https://www.judeesfromscratch.com/blogs/recipes)
 - [**Karma Community**](https://karmacommunity.karmagroup.com/food-wine/)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
+- [**Maggie Beer**](https://www.maggiebeer.com.au/recipes)
 - [**Melissa's**](https://www.melissas.com/)
 - [**My Vega**](https://myvega.com/blogs/recipes)
 - [**Nordic Food Living**](https://nordicfoodliving.com/)
