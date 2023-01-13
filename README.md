@@ -14,14 +14,14 @@
 | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|
 |[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|
-|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|
-|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Frugal Farm Wife](https://www.frugalfarmwife.com/)|
-|[The Frugal Girls](https://thefrugalgirls.com/)|[Frugal Hausfrau](https://frugalhausfrau.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Frugal Living NW](https://www.frugallivingnw.com/recipes/)|[The Frugal Navy Wife](https://www.thefrugalnavywife.com/quick-and-easy-recipes-from-the-frugal-navy-wife/)|
-|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|
-|[My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|
-|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|[Taming Twins](https://www.tamingtwins.com/)|
-|[Tasty Thrifty Timely](https://tastythriftytimely.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[That Frugal Foodie](https://thatfrugalfoodie.com/)|[Thrift & Spice](https://thriftandspice.com/)|[The Thrifty Couple](https://thethriftycouple.com/all-recipes/)|
-|[Thrify Frugal Mom](https://www.thriftyfrugalmom.com/category/recipes/)|[Thrifty Fun](https://www.thriftyfun.com/tf/Food_and_Recipes/index.html)|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|[Don't Waste the Crumbs](https://dontwastethecrumbs.com/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|
+|[Eating on a Dime](https://www.eatingonadime.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|
+|[Frugal Farm Wife](https://www.frugalfarmwife.com/)|[The Frugal Girls](https://thefrugalgirls.com/)|[Frugal Hausfrau](https://frugalhausfrau.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Frugal Living NW](https://www.frugallivingnw.com/recipes/)|
+|[The Frugal Navy Wife](https://www.thefrugalnavywife.com/quick-and-easy-recipes-from-the-frugal-navy-wife/)|[Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)|[Good Cheap Eats](https://goodcheapeats.com/)|[Happy Money Saver](https://happymoneysaver.com/)|[Hip2Save](https://hip2save.com/recipes/)|
+|[Hot, Cheap, Easy](https://hotcheapeasy.com/)|[My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)|[No Money, No Time](https://nomoneynotime.com.au/)|[Passionate Penny Pincher](https://passionatepennypincher.com/category/recipes/)|[The PennyWiseMama](https://thepennywisemama.com/)|
+|[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Spend with Pennies](https://www.spendwithpennies.com/)|
+|[Taming Twins](https://www.tamingtwins.com/)|[Tasty Thrifty Timely](https://tastythriftytimely.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[That Frugal Foodie](https://thatfrugalfoodie.com/)|[Thrift & Spice](https://thriftandspice.com/)|
+|[The Thrifty Couple](https://thethriftycouple.com/all-recipes/)|[Thrify Frugal Mom](https://www.thriftyfrugalmom.com/category/recipes/)|[Thrifty Fun](https://www.thriftyfun.com/tf/Food_and_Recipes/index.html)|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|
 
 ## Cuisine
 
@@ -50,6 +50,11 @@
 |     |
 | --- |
 |[Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)|
+
+#### Cape Verde
+|     |
+| --- |
+|[Crumb-Snatched](https://www.crumbsnatched.com/)|
 
 #### Egypt
 |     |     |     |
@@ -126,9 +131,9 @@
 |[A Kitchen in Uganda](https://akitcheninuganda.com/)|
 
 #### Zimbabwe
-|     |
-| --- |
-|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|
+|     |     |
+| --- | --- |
+|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|[Zimbo Kitchen](https://www.zimbokitchen.com/)|
 
 ### Asia
 - [3than Wong](https://www.3thanwong.com/)
@@ -712,6 +717,11 @@
 - [Real Greek Recipes](https://www.realgreekrecipes.com/)
 - [Sweet Greek](https://mysweetgreek.com/recipe-index/)
 - [Vicki's Greek Recipes](https://www.vickisgreekrecipes.com/)
+- [Zorba Book](https://www.zorbabook.com/recipe-home)
+
+#### Hungary
+- [Zserbo](https://zserbo.com/)
+- [Zsuzsa in the Kitchen](https://zsuzsaisinthekitchen.blogspot.com/)
 
 #### Iceland
 - [Guide to Iceland](https://guidetoiceland.is/best-of-iceland/delicious-icelandic-recipes)
@@ -944,6 +954,7 @@
 - [Butter Be Ready](https://www.butterbeready.com/)
 - [Caribbean Lifestyle](https://caribbeanlifestyle.com/)
 - [Caribbean Pot](https://caribbeanpot.com/)
+- [Crumb-Snatched](https://www.crumbsnatched.com/)
 - [Jehan Can Cook](https://jehancancook.com/)
 - [Jirie Caribbean](https://jiriecaribbean.com/indexes/recipe-index/)
 - [**Nestle Recipes Caribbean**](https://www.nestlerecipescaribbean.com/)
@@ -1254,6 +1265,7 @@
 - [**Promise Gluten-Free**](https://www.promiseglutenfree.com/recipes/)
 - [The Roasted Root](https://www.theroastedroot.net/)
 - [A Saucy Kitchen](https://www.asaucykitchen.com/)
+- [Science & Crumbs](https://www.scienceandcrumbs.com/)
 - [**Shipetaukin**](https://www.shipetaukin.com/natural-recipes-gluten-free-recipes-healthy-recipes/)
 - [**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)
 - [Texan Erin](https://www.texanerin.com/)
@@ -1489,6 +1501,7 @@
 - [The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)
 - [Cooking for Peanuts](https://cookingforpeanuts.com/)
 - [Courtney's Homestead](https://courtneyshomestead.com/)
+- [Crumbs & Caramel](https://crumbsandcaramel.com/)
 - [Cupful of Kale](https://cupfulofkale.com/)
 - [**Dandie's**](https://dandies.com/recipes)
 - [Dash of Danielle](https://www.dashofdanielle.com/)
@@ -1650,6 +1663,7 @@
 - [The Yummy Vegan](https://theyummyvegan.com/)
 - [Yum Vegan Food](https://yumveganlunchideas.com/)
 - [Yup.. It's Vegan](https://yupitsvegan.com/)
+- [Zucker & Jagdwurst](https://www.zuckerjagdwurst.com/en)
 - [Zsu's Vegan Pantry](http://www.zsusveganpantry.com/)
 
 ### Vegetarian
@@ -1737,6 +1751,7 @@
 - [Beyond the Butter](https://beyondthebutter.com/)
 - [A Blissful Nook](https://ablissfulnook.com/)
 - [Confessions of a Baking Queen](https://confessionsofabakingqueen.com/)
+- [Cooking and Cooking](https://www.cookingandcooking.com/)
 - [Cook Like Asian](https://cooklikeasian.com/)
 - [Crafty Baking](https://www.craftybaking.com/)
 - [Crunchy Creamy Sweet](https://www.crunchycreamysweet.com/)
@@ -1792,6 +1807,7 @@
 - [Simply Bakings](https://simplybakings.com/)
 - [Simple Vegan Blog](https://simpleveganblog.com/)
 - [A Spicy Perspective](https://www.aspicyperspective.com/)
+- [Sweet Caramel Sunday](https://sweetcaramelsunday.com/)
 - [A Table Full of Joy](https://www.atablefullofjoy.com/)
 - [A Taste of Madness](https://www.atasteofmadness.com/)
 - [The Tortilla Channel](https://thetortillachannel.com/)
@@ -1800,6 +1816,7 @@
 - [Wholesome Made Easy](https://wholesomemadeeasy.com/)
 - [Yay Kosher](https://yaykosher.com/)
 - [Yummy Healthy Easy](https://www.yummyhealthyeasy.com/)
+- [Zona Cooks](https://zonacooks.com/)
 
 ## Historical
 - [18thC Cuisine](http://18thccuisine.blogspot.com/)
@@ -2529,6 +2546,7 @@
 - [Rapeseed Oil Benefits](https://rapeseedoilbenefits.com/recipes/)
 - [**Salute Sante!**](https://grapeseedoil.com/)
 - [**Wesson**](https://www.purewesson.com/recipes-ideas/)
+- [**Zongle Therapeutics**](https://www.zongletherapeutics.com/blogs/food-recipe-ideas)
 
 ### Pizza
 - [**Home Run Inn**](https://www.homeruninnpizza.com/frozen-pizza/recipes/)
@@ -2754,6 +2772,7 @@
 - [Charlotte's Lively Kitchen](https://charlotteslivelykitchen.com/)
 - [Cinnamon & Sugar and a Little Bit of Murder](https://cinnamonsugarandalittlebitofmurder.com/)
 - [Cleo Buttera](https://cleobuttera.com/)
+- [The Crumb Stories](https://www.thecrumbstories.com/)
 - [Easy Sugar-Free](https://www.easy-sugarfree.com/)
 - [Elisabeth and Butter](https://www.elisabethandbutter.com/)
 - [Emily Luchetti](http://www.emilyluchetti.com/recipes-introduction)
@@ -2779,6 +2798,7 @@
 - [Modern Asian Baking](https://www.modernasianbaking.com/)
 - [Nestle Toll House](https://www.verybestbaking.com/toll-house/)
 - [Olives + Thyme](https://olivesnthyme.com/)
+- [Only Crumbs Remain](https://onlycrumbsremain.com/)
 - [**Ozery Bakery**](https://ozerybakery.com/us-en/)
 - [Panko Bunny](https://www.pankobunny.com/)
 - [Pint-Size Bakery](https://www.pintsizebakery.com/recipes)
@@ -2817,6 +2837,7 @@
 - [White on Rice Couple](https://whiteonricecouple.com/)
 - [Willow Bird Baking](http://willowbirdbaking.com/)
 - [**XO Baking Co.**](https://xobakingco.com/recipes/)
+- [Zoe Bakes](https://zoebakes.com/)
 
 ### Barbecue/Grill
 - [All Things Barbecue](https://www.atbbq.com/)
@@ -2991,12 +3012,21 @@
 - [A Classic Twist](https://aclassictwist.com/)
 - [Clove Graden](https://clovegarden.com/)
 - [A Communal Table](https://www.acommunaltable.com/)
+- [Cooking & Cats](https://www.cookingandcats.com/recipe-card)
+- [Cooking Better](https://www.cooking-better.com/)
 - [Cooking Chew](https://cookingchew.com/)
 - [Cooking Goals](https://www.cookinggoals.com/)
+- [Cooking on the Weekends](https://cookingontheweekends.com/)
+- [Cooking Perfected](https://cookingperfected.com/)
+- [Cooking Professionally](https://cookingprofessionally.com/)
+- [Cooking the Globe](https://cookingtheglobe.com/)
 - [A Cook Within](https://acupofcream.com/)
 - [A Couple Cooks](https://www.acouplecooks.com/)
 - [A Cozy Kitchen](https://www.acozykitchen.com/)
 - [Crawfish and Caramel](http://crawfishandcaramel.com/)
+- [Creme de la Crumb](https://www.lecremedelacrumb.com/)
+- [Crumb Blog](https://www.crumbblog.com/)
+- [The Crumby Kitchen](https://thecrumbykitchen.com/)
 - [Culinary Butterfly](https://culinarybutterfly.com/)
 - [Dishes and Dust Bunnies](https://dishesanddustbunnies.com/)
 - [Don't Go Bacon My Heart](https://www.dontgobaconmyheart.co.uk/)
@@ -3027,6 +3057,7 @@
 - [The Hint of Rosemary](https://thehintofrosemary.com/)
 - [Home at Cedar Springs Farm](https://homeatcedarspringsfarm.com/)
 - [Honey Bunch Hunts](https://honeybunchhunts.com/)
+- [Humble Crumble](http://www.humblecrumble.com/)
 - [**Immaculate Baking**](https://www.immaculatebaking.com/new-recipes/)
 - [Immaculate Bites](https://www.africanbites.com/)
 - [Immigrant's Table](https://immigrantstable.com/)
@@ -3055,6 +3086,7 @@
 - [Lemon Stripes](https://lemonstripes.com/category/recipes/)
 - [Lemon Tree Dwelling](https://www.lemontreedwelling.com/)
 - [Let the Baking Begin](https://letthebakingbegin.com/)
+- [Leviathan Food](https://www.leviathanfood.com/)
 - [Life of Spice](https://www.lifeofspiceboulder.com/recipes)
 - [Life's a Tomato](https://www.lifesatomato.com/)
 - [Lily in Kitchen](https://www.lilyinkitchen.com/)
@@ -3071,6 +3103,7 @@
 - [Melissa d'Arabian](https://melissadarabian.net/recipes/)
 - [Melissa Noel Renzi](https://melissanoelrenzi.com/category/food-recipes/)
 - [**Miss Jones**](https://missjones.co/blogs/recipes)
+- [Modern Crumb](https://moderncrumb.com/)
 - [A Modern Homestead](https://www.amodernhomestead.com/recipes-index/)
 - [Mogwai Soup](https://mogwaisoup.com/)
 - [Mom Loves Baking](https://www.momlovesbaking.com/)
@@ -3160,7 +3193,13 @@
 - [A Year Cooking the World](https://ayearcookingtheworld.com/)
 - [Yellow Thyme](https://www.yellowthyme.com/)
 - [Yummy Notes](https://yummynotes.net/)
-- [**Zrn Sweet**](https://www.zensweet.com/blogs/recipes)
+- [Zenbelly](https://www.zenbelly.com/)
+- [Zen Can Cook](http://www.zencancook.com/)
+- [Zenhealth](https://zenhealth.net/recipe-index/)
+- [**Zen Sweet**](https://www.zensweet.com/blogs/recipes)
+- [Zestful Kitchen](https://zestfulkitchen.com/)
+- [Zestuous](https://www.zestuous.com/)
+- [Ziba Kitchen](https://zibakitchen.com/)
 - [Zonya](https://zonya.com/recipes/)
 - [Zuranaz Recipe](https://zuranazrecipe.com/)
 
@@ -3201,6 +3240,7 @@
 - [**Weight Watchers**](https://www.weightwatchers.com/us/recipe)
 - [**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)
 - [**Zoe**](https://joinzoe.com/learn/category/nutrition/recipes)
+- [**Zojirushi**](https://www.zojirushi.com/)
 
 ### Celebrity Chef
 - [Adan Medrano](https://adanmedrano.com/)
@@ -3228,6 +3268,7 @@
 - [BBC Food](https://www.bbc.co.uk/food)
 - [Better Butter](https://www.betterbutter.in/recipes)
 - [Bon Appetit](https://www.bonappetit.com/)
+- [Cooking Bites](https://www.cookingbites.com/)
 - [Dreaming of Butterflies](https://www.dreamingofbutterflies.co/category/lifestyle/delicious-recipes/)
 - [Gourmand Asia](https://www.gourmandasia.com/)
 - [Kitchen Nine](https://kitchen.nine.com.au/recipes)
