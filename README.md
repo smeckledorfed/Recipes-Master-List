@@ -2573,6 +2573,8 @@
 - [**Sunflour Flour**](http://www.sunflourflour.com/recipes.html)
 #### Pasta/Noodles
 - [**Academia Barilla**](https://www.academiabarilla.it/en/)
+- [**American Beauty**](https://www.americanbeauty.com/)
+- [**Annie's**](https://www.annies.com/recipes)
 - [**Asha Dry Noodle](https://ashadrynoodle.com/blogs/recipes)
 - [**Barilla**](https://www.barilla.com/en-us/recipes)
 - [**Buitoni**](https://buitoni.com/pasta-recipes/)
@@ -2614,7 +2616,10 @@
 
 ### Herbs & Spices
 - [**Adventure Kitchen**](https://www.adventurekitchen.com/collections/all-the-recipes)
+- [**Arcane Herb**](https://arcaneherb.com/learn/)
+- [**A-Z Spice Co.**](https://www.azspiceco.com/recipes-list/)
 - [**Badia Spices**](https://badiaspices.com/recipes/)
+- [**B-Garlic**](https://www.b-garlic.com/how-to-use)
 - [**Cedar Mountain Herbs**](https://cedarmountainherbs.com/topics/recipes/)
 - [**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes/)
 - [**Dimply's**](https://www.dimplys.com/recipes/)
@@ -2650,6 +2655,7 @@
 - [**3 Pigs**](https://3pigs.com/blogs/recipes-tips)
 - [**44 Steaks**](https://www.44steaks.com/blogs/all-recipes)
 - [**4505 Meats**](https://4505meats.com/blogs/recipes)
+- [**Aidell's**](https://www.aidells.com/recipes/)
 - [**Alexian Pate**](https://alexianpate.com/serving-ideas/)
 - [**Armour Meats**](https://armourmeats.sfdbrands.com/en-us/recipes/)
 - [**Capital Fine Meats**](https://www.capitalfinemeats.ca/recipes/)
@@ -2699,7 +2705,10 @@
 - [**Miller Poultry**](https://millerpoultry.com/recipes/)
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
 - [**Tyson**](https://www.tyson.com/recipes/)
+#### Lamb
+- [**Atkin's Ranch**](https://recipes.atkinsranch.com/)
 #### Pork
+- [**Applegate**](https://applegate.com/recipes)
 - [**Bavarian Meats**](https://bavarianmeats.com/)
 - [Bensa Bacon Lovers](https://bensabaconlovers.com/)
 - [**Bierman Bacon**](https://biermanbacon.com/blogs/news)
@@ -2738,6 +2747,7 @@
 
 ### Nuts
 - [**88 Acres**](https://88acres.com/pages/88-acres-blog)
+- [**Americano**](*https://eatamericano.com/blogs/recipes)
 - [**Barney Butter**](https://barneybutter.com/blogs/recipes)
 - [**Jif**](https://www.jif.com/peanut-butter/recipes)
 - [**Jobbie Nut Butter**](https://www.jobbienutbutter.com/blogs/recipe)
@@ -2783,6 +2793,7 @@
 - [Pala Pizza](https://palapizza.com/recipes/)
 - [Pizza Making](https://www.pizzamaking.com/pizza-recipes.html)
 - [Pizza Today](https://pizzatoday.com/recipes/)
+- [**Pizzeria Ora**](https://www.pizzeriaora.com/recipes)
 - [Thursday Night Pizza](https://www.thursdaynightpizza.com/recipe-index/)
 
 ### Sandwiches
@@ -2795,6 +2806,8 @@
 - [**Alaskan Leader**](https://alaskanleader.com/recipes)
 - [**Alaskan Salmon Co.**](https://aksalmonco.com/blogs/recipes)
 - [Alaska Seafood](https://www.alaskaseafood.org/recipes/)
+- [**Aqua Star**](https://www.aquastar.com/recipes/)
+- [**Arroyabe**](https://www.arroyabe.com/recipes/)
 - [Australian Prawns](https://australianprawns.com.au/)
 - [Baranof Fishing Excursions](https://exclusivealaska.com/alaska-recipes)
 - [**Bela Brand Seafood**](https://www.belabrandseafood.com/recipes)
@@ -2835,6 +2848,7 @@
 - [**Wulf's Fish**](https://wulfsfish.com/)
 
 ### Soup
+- [**Ali Made Food**](https://www.alimadefood.com/)
 - [**Bare Bones Broth**](https://www.barebonesbroth.com/blogs/recipes)
 - [**Campbell's Soup Company**](https://www.campbells.com/recipes/)
 - [**Campbell's Canada**](https://www.cookwithcampbells.ca/collections/)
@@ -2846,7 +2860,11 @@
 ### Snacks
 - [**34 Degrees**](https://34-degrees.com/blogs/recipes)
 - [**505 Southwestern**](https://www.505southwestern.com/recipes)
+- [**AmaziFoods**](https://amazifoods.com/blogs/recipes)
+- [**Amrita Health Foods**](https://www.amritahealthfoods.com/blogs/recipes)
+- [**Appleton's Market**](https://appletonsmarket.com/blogs/recipes)
 - [**Baker Boy**](https://bakerboy.com/)
+- [**B Fine Foods**](https://b-finefoods.com/blogs/recipes)
 - [**Cape Cod**](https://www.capecodchips.com/recipes/)
 - [**Cheetos**](https://www.cheetos.com/)
 - [**Effie's Homemade**](https://effieshomemade.com/blogs/recipes)
@@ -2861,6 +2879,7 @@
 - [**Tostito's**](https://www.tostitos.com/recipes)
 - [**Trail Chips**](https://trailchips.com/recipes/)
 - [**Xochitl**](https://xochitlchipsandsalsa.com/recipes-2/)
+- [**Walker's Shortbread**](https://us.walkersshortbread.com/media/recipes/)
 - [**Whisps**](https://whisps.com/blogs/recipes)
 - [**Zestyz**](https://zestyz.com/blogs/recipes)
 
@@ -3073,6 +3092,7 @@
 - [Lily's Sweets](https://lilys.com/blogs/live)
 - [Lion's Bread](https://www.lionsbread.com/)
 - [Little Sugar Snaps](https://www.littlesugarsnaps.com/)
+- [**Lo Dough**](https://lodough.co/blogs/recipes)
 - [Love and Olive Oil](https://www.loveandoliveoil.com/)
 - [Marga](https://www.marga.org/food/int/)
 - [Modern Asian Baking](https://www.modernasianbaking.com/)
@@ -3547,6 +3567,7 @@
 - [**Canned Food Alliance**](https://www.mealtime.org/)
 - [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
 - [**Chef ME at Home**](https://chefmeathome.com/blogs/recipes)
+- [**Curated Kitchenware**](https://curatedkitchenware.com/blogs/soupeduprecipes)
 - [**Durango Artisan Foods**](https://durangoartisanfoods.com/recipes/)
 - [**Epicure**](https://epicure.com/en-us/recipes)
 - [**Fine and Wild**](https://www.fineandwild.com/)
@@ -3641,3 +3662,6 @@
 - [Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)
 - [Yummly](https://www.yummly.com/)
 - [ZeeZest](https://zeezest.com/recipes)
+
+### Fiction
+- [Wonderland Recipes](https://wonderlandrecipes.com/)
