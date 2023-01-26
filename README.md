@@ -2382,6 +2382,8 @@
 - [**Majestic Butter**](https://majesticbutter.com/pages/recipes)
 
 #### Cheese
+- [**Andrew and Everett**](https://andrewandeverett.com/recipes/)
+- [**Arla USA**](https://www.arlausa.com/recipes/)
 - [**Beecher's Handmade Cheese**](https://beechershandmadecheese.com/blogs/recipes)
 - [**Beehive Cheese**](https://beehivecheese.com/blogs/recipes)
 - [**BelGioiso**](https://www.belgioioso.com/recipes/)
@@ -2451,6 +2453,8 @@
 - [**Zott Primo**](https://www.zott-primo.com/en/recipes/)
 
 ### Dairy Alternatives
+- [**Alpro**](https://www.alpro.com/uk/recipes/)
+- [**Arctic Zero**](https://www.arcticzero.com/recipes/)
 - [**Better Than Milk**](https://btmsoymilk.com/recipes/)
 - [**Blue Stripes**](https://www.bluestripes.com/recipes/)
 - [**Craft Beering**](https://risebrewingco.com/blogs/recipe)
@@ -2470,6 +2474,7 @@
 
 ### Eggs
 - [American Egg Board](https://www.incredibleegg.org/)
+- [AviFom](https://avifom.com/en/recipes/)
 - [**Egg Info**](https://www.egginfo.co.uk/)
 - [Eggs.ca](https://www.eggs.ca/)
 - [I Love Eggs](https://eggs.org.nz/recipes/)
@@ -2481,6 +2486,7 @@
 - [**Acai Roots**](https://www.acairoots.com/blogs/recipes)
 - [**Aveyo**](https://www.aveyolife.com/recipe-page)
 - [**Avocados From Mexico**](https://avocadosfrommexico.com/)
+- [**Bailey Farms Inc.**](https://baileyfarmsinc.com/#recipes)
 - [**Bella SunLuci**](https://bellasunluci.com/recipes)
 - [**Bjorn's Colorado Honey**](https://bjornscoloradohoney.com/blogs/news/tagged/recipes)
 - [**California Strawberries**](https://www.californiastrawberries.com/)
@@ -2502,12 +2508,19 @@
 - [**Swapples**](https://swapfoods.com/blogs/recipes)
 - [**True Citrus**](https://www.truelemon.com/blogs/recipes)
 - [**USA Pears**](https://usapears.org/recipe/)
+- [**Valley Fig**](https://valleyfig.com/dried-fig-recipes/)
 - [**Washington Apples**](https://waapple.org/recipes/)
 - [**Yucatan Guacamole**](https://avocado.com/recipes/)
 - [**Zespri**](https://www.zespri.com/en-US/recipes)
 - [**Zuma Valley**](https://zumavalley.com/blogs/smoothies-bowls)
 
 ### Grains
+- [**Akmak Bakeries**](https://akmakbakeries.com/recipes/)
+- [**Ancient Harvest**](https://ancientharvest.com/recipes/)
+- [**Anson Mills**](https://ansonmills.com/recipes)
+- [**Argo Food Service**](https://www.argofoodservice.com/recipes/all)
+- [**Arrowhead Mills**](https://arrowheadmills.com/recipes/)
+- [**Athen's Foods**](https://athensfoods.com/recipes/)
 - [**Bluebird Grain Farms**](https://bluebirdgrainfarms.com/recipes/)
 - [**Community Grains**](https://www.communitygrains.com/recipes/)
 - [**Cream of Wheat**](https://creamofwheat.com/recipes/)
@@ -2522,6 +2535,7 @@
 - [The Whole Grains Council](https://wholegrainscouncil.org/recipes)
 - [**Wondergrain**](http://www.wondergrain.com/recipes/)
 #### Bread
+- [**Angelic Bakehouse**](https://www.angelicbakehouse.com/pages/blog)
 - [**Arnold Premium Breads**](https://arnoldbread.com/recipes)
 - [**Ben's**](https://www.bensbakery.ca/)
 - [**Berlin Natural Baker**](https://www.berlinnaturalbakery.com/blogs/recipes)
@@ -2530,6 +2544,7 @@
 - [**Clasen's Bakery**](https://www.clasensbakery.com/blogs/news/tagged/recipes)
 - [**COBs Bread**](https://www.cobsbread.com/us/)
 - [**Dave's Killer Bread**](https://www.daveskillerbread.com/recipes)
+- [**GG Bran Crisp Bread**](https://www.ggbrancrispbread.com/blogs/recipes)
 - [**Martin's Famous**](https://potatorolls.com/recipes/)
 - [**New York Bakery Co.**](https://www.newyorkbakeryco.com/recipes)
 - [**Pretzilla**](https://pretzilla.com/recipes/)
@@ -2541,6 +2556,7 @@
 - [**White Lily**](https://www.whitelily.com/recipes/)
 - [**Wonder Bread**](https://www.wonderbread.com/recipes)
 #### Cereal
+- [**Alpen USA**](https://www.alpenusa.com/recipes/)
 - [**Grape Nuts**](https://www.grapenuts.com/recipes/)
 - [**Great Grains**](https://www.greatgrains.com/recipes/)
 - [**Honey Bunches of Oats**](https://www.honeybunchesofoats.com/recipes/)
