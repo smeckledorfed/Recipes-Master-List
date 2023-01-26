@@ -1376,6 +1376,7 @@
 - [Gluten-Free Around the World](https://www.gluten-free-around-the-world.com/)
 - [Gluten-Free Cuppa Tea](https://glutenfreecuppatea.co.uk/)
 - [Gluten-Free and More](https://glutenfreeandmore.com/)
+- [Gluten-Free Fast](https://fromscratchfast.com/)
 - [Gluten-Free Homestead](https://glutenfreehomestead.com/)
 - [Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)
 - [Gluten-Free Palate](https://www.glutenfreepalate.com/)
@@ -2292,6 +2293,7 @@
 - [Mission Chocolate](https://missionchocolaterecipes.com/)
 - [**Moody Girl**](https://moody-girl.com/pages/recipes-1)
 - [**Murray Sugar-Free**](https://www.murraysugarfree.com/)
+- [**Pure Kakaw**](https://purekakaw.com/)
 - [**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)
 - [**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/)
 - [**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)
@@ -2743,9 +2745,22 @@
 - [**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)
 
 ### Medicinals
+- [Cannabis Cheri](https://www.cannabischeri.com/food/recipes/)
+- [The Cannabist](https://www.thecannabist.co/category/food/recipes/)
+- [Cannigma](https://cannigma.com/recipes/)
+- [CBD MD](https://www.cbdmd.com/recipes)
+- [**Charlotte's Web CBD**](https://www.charlottesweb.com/blog/category/cbd-recipes)
+- [Emily Kyle Nutrition](https://emilykylenutrition.com/)
+- [Flavor Fix](https://flavorfix.com/edible-recipes/)
 - [Good and Baked](http://goodandbaked.com/)
+- [Kitchen Toke](https://kitchentoke.com/how-to-make-cannabis-infused-recipes/)
 - [**Levo Oil**](https://levooil.com/blogs/recipes)
 - [**Magical Butter**](https://magicalbutter.com/pages/recipes)
+- [**Proof Cannabis**](https://proofcannabis.com/recipes)
+- [**Pure Kana**](https://purekana.com/blog/cooking-recipes/)
+- [**Rise Cannabis**](https://risecannabis.com/resources/recipes/)
+- [**Royal CBD**](https://royalcbd.com/cbd-oil-recipes/)
+- [**Shroomery**](https://www.shroomery.org/6226/Mushroom-Recipes)
 
 ### Nuts
 - [**88 Acres**](https://88acres.com/pages/88-acres-blog)
@@ -2891,6 +2906,7 @@
 - [**Kachava**](https://www.kachava.com/pages/kachava-kitchen)
 - [**Legion Athletics**](https://legionathletics.com/category/recipes/)
 - [**Naked Nutrition](https://nakednutrition.com/blogs/recipes)
+- [**Navitas Organics**](https://navitasorganics.com/blogs/recipes)
 - [**Optimum Nutrition**](https://www.optimumnutrition.com/en-us/recipes)
 
 ### Sushi
@@ -3571,6 +3587,7 @@
 - [**Cauldron**](https://www.cauldronfoods.co.uk/recipes/)
 - [**Center of the Plate**](https://center-of-the-plate.com/)
 - [**Chef ME at Home**](https://chefmeathome.com/blogs/recipes)
+- [**Chefs Mandala**](https://chefsmandala.com/recipe/)
 - [**Curated Kitchenware**](https://curatedkitchenware.com/blogs/soupeduprecipes)
 - [**Durango Artisan Foods**](https://durangoartisanfoods.com/recipes/)
 - [**Epicure**](https://epicure.com/en-us/recipes)
