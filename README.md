@@ -1,11 +1,8 @@
 # Recipe Websites Master List
-- This has been a long time coming! I've been collecting recipe websites for forever and I'm finally getting them organized. 
-- Every website will be in 1-4 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
+- Every website is in 1-4 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
 - Websites in a particular category do not ONLY offer recipes of that kind; that German website might have some delicious keto stuff. I don't know, I haven't looked through them all, but you can. Life is all about exploration. 
 - If a website doesn't seem to have a particular focus on anything, it will be in the *Miscellaneous* section.
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it (if they self-describe as Easy, etc).
-- These all have written recipes. Some may have accompanying videos, but the focus here is on text.
-- All of these websites are written in English and vary on whether they use metric vs. imperial measurements. 
 - Brands have been **bolded**.
 - Please alert me if there are any dead links or a website is miscategorized! I will try to update as soon as I can.
 
