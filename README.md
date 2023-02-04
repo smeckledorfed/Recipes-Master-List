@@ -138,10 +138,9 @@
 |[Moroccanzest](https://moroccanzest.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 
 #### Nigeria
-|     |     |     |     |
-| --- | --- | --- | --- |
-|[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Daddy's Nom](https://daddysnom.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|[Minjiba Cookey](https://minjibacookey.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|
-|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Daddy's Nom](https://daddysnom.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|[Minjiba Cookey](https://minjibacookey.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
 
 #### South Africa
 |     |
