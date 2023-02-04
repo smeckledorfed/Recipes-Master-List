@@ -1998,7 +1998,7 @@
 - [The Afropolitan Mom](https://www.theafropolitanmom.com/category/food-2)
 - [All Easy Recipes](http://www.alleasyrecipes.com/)
 - [All Things Mamma](https://www.allthingsmamma.com/)
-= [**Alvarado Street Bakery**](https://www.alvaradostreetbakery.com/Front/recipes)
+- [**Alvarado Street Bakery**](https://www.alvaradostreetbakery.com/Front/recipes)
 - [Always Use Butter](https://alwaysusebutter.com/)
 - [Amazing Food Made Easy](https://www.amazingfoodmadeeasy.com/)
 - [Amy Lynn's Kitchen](https://www.amylynnskitchen.com/)
