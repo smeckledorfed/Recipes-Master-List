@@ -3119,6 +3119,7 @@
 - [**Mike's Hot Honey**](https://mikeshothoney.com/blogs/recipes)
 - [National Honey Board](https://honey.com/recipes)
 - [**Nature Nate's**](https://www.naturenates.com/category/honey-recipes/)
+- [**Sioux Honey**](https://siouxhoney.com/content/categories/recipes/)
 - [**SoulBee**](https://www.soulbeehoney.com/blogs/recipes)
 - [**Zweigle's**](https://zweigles.com/recipes/)
 
@@ -4062,6 +4063,7 @@
 - [Books, Cooks, Looks](https://bookscookslooks.com/cooks/)
 - [Bottom Left of the Mitten](https://bottomleftofthemitten.com/)
 - [Bottomless Bites](http://www.bottomlessbites.com/)
+- [A Bountiful Kitchen](https://abountifulkitchen.com/)
 - [The Boy Who Ate The World](https://theboywhoatetheworld.com/)
 - [Brae's Bites](https://braesbites.com/)
 - [Bread Booze Bacon](https://breadboozebacon.com/)
