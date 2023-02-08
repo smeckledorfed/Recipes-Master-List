@@ -17,6 +17,7 @@
 - [Budget 101](https://www.budget101.com/)
 - [Budget Bytes](https://www.budgetbytes.com/)
 - [Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)
+- [Casually Peckish](https://casuallypeckish.com/)
 - [The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)
 - [Cheap Recipe Blog](https://www.cheaprecipeblog.com/)
 - [Cheapskate Cook](https://www.cheapskatecook.com/)
