@@ -39,6 +39,7 @@
 - [Getty Stewart](https://www.gettystewart.com/)
 - [Gluten-Free on a Shoestring](https://glutenfreeonashoestring.com/)
 - [Good Cheap Eats](https://goodcheapeats.com/)
+- [Graceful Little Honeybee](https://www.gracefullittlehoneybee.com/)
 - [Happy Money Saver](https://happymoneysaver.com/)
 - [Hip2Save](https://hip2save.com/recipes/)
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
@@ -51,6 +52,7 @@
 - [Plant-Based and Broke](https://plantbasedandbroke.com/)
 - [Plant-Based on a Budget](https://plantbasedonabudget.com/)
 - [Prudent Penny Pincher](https://www.prudentpennypincher.com/category/recipes/)
+- [Savvy Honey](https://www.savvyhoney.com/)
 - [Savvy Saving Couple](https://www.savvysavingcouple.net/)
 - [Six Dollar Family](https://sixdollarfamily.com/category/recipes)
 - [Spend with Pennies](https://www.spendwithpennies.com/)
@@ -139,23 +141,23 @@
 |[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
 #### Morocco
-|     |     |
-| --- | --- |
-|[Moroccanzest](https://moroccanzest.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
+|     |     |     |
+| --- | --- | --- |
+|[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Moroccanzest](https://moroccanzest.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 
 #### Nigeria
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Daddy's Nom](https://daddysnom.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|[Minjiba Cookey](https://minjibacookey.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|
-|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
+|[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Chef Lola's Kitchen](https://cheflolaskitchen.com/)|[Daddy's Nom](https://daddysnom.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|[Minjiba Cookey](https://minjibacookey.com/)|
+|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
 
 #### Somalia
 - [Xawaash](http://xawaash.com/)
 
 #### South Africa
-|     |
-| --- |
-|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
+|     | --- |
+| --- | --- |
+|[Just North of Cool](https://justnorthofcool.co.za/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
 ##### Cape Malay
 |     |     |
 | --- | --- |
@@ -203,7 +205,12 @@
 - [Belly Cheap Cook](https://www.bellycheapcook.com/)
 - [Bite My Bun](https://www.bitemybun.com/)
 - [Blue Apocalypse](http://www.blueapocalypse.com/p/asian.html)
+- [The Bowl Cut](https://thebowlcut.com/pages/the-special)
 - [But First Chai](https://butfirstchai.com/)
+- [Christie at Home](https://christieathome.com/)
+- [Chumkie's Kitchen](http://chumkieskitchen.blogspot.com/)
+- [Cicili](https://cicili.tv/)
+- [CJ Eats](https://cjeatsrecipes.com/)
 - [Cook Cook Go](https://cookcookgo.com/)
 - [Cook Like Asian](https://cooklikeasian.com/)
 - [Cook with Chung](https://cookwithchung.com/)
@@ -236,9 +243,11 @@
 - [Taste Asian Food](https://tasteasianfood.com/)
 - [That Spicy Chick](https://thatspicychick.com/)
 - [Tiff Loves Tofu](https://tifflovestofu.com/)
+- [Two Plaid Aprons](https://twoplaidaprons.com/)
 - [Veggie Anh](https://veggieanh.com/)
 - [Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)
 - [**Wong She**](https://wongshe.com.au/category/recipe/)
+- [Zhang Catherine](https://zhangcatherine.com/)
 
 #### Bangladesh
 - [Afelia's Kitchen](https://www.afeliaskitchen.com/)
@@ -279,6 +288,7 @@
 - [Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)
 - [Chinese Recipes for All](https://chineserecipesforall.com/)
 - [Chow Man](https://chowman.net/)
+- [Christine's Recipes](https://en.christinesrecipes.com/)
 - [Cinnamon Society](https://cinnamonsociety.com/)
 - [A Daily Food](https://www.adailyfood.com/)
 - [Dumpling Connection](https://www.dumplingconnection.com/)
@@ -305,6 +315,7 @@
 - [Soups Ahoy](https://soupsahoy.wordpress.com/)
 - [South China Morning Post](https://www.scmp.com/cooking?)
 - [Soy, Rice, Fire](https://soyricefire.com/)
+- [Two Red Bowls](https://tworedbowls.com/)
 - [Unfamiliar China](https://www.unfamiliarchina.com/)
 - [Yi Reservation](http://yireservation.com/)
 - [Yan Can Cook](https://yancancook.com/home/)
@@ -479,6 +490,7 @@
 - [Bebe Love Okazu](https://bebeloveokazu.com/)
 - [Chef Ja Cooks](https://chefjacooks.com/en/)
 - [Chef Sohum](https://www.chefsohum.com/)
+- [Chopstick Chronicles](https://www.chopstickchronicles.com/)
 - [Contemplating Sweets](https://www.contemplatingsweets.com/)
 - [Cook & Meshiagare](https://meshiagare.tokyo/)
 - [Cooking With Dog](https://cookingwithdog.com/)
@@ -536,6 +548,9 @@
 - [**Beit Sitti Shop**](https://beitsittishop.com/en/recipes/)
 - [But First Chai](https://butfirstchai.com/)
 - [Cardamom and Tea](https://cardamomandtea.com/)
+- [Chef in Disguise](https://chefindisguise.com/)
+- [Chef Tariq](https://www.cheftariq.com/)
+- [Chilli Talks](http://www.chillitalks.com/)
 - [Cooking with Zahra](https://cookingwithzahra.com/)
 - [Fufu's Kitchen](https://www.fufuskitchen.com/)
 - [Hungry Paprikas](https://www.hungrypaprikas.com/)
@@ -560,10 +575,14 @@
 
 ##### Georgia
 - [Advantour](https://www.advantour.com/georgia/dishes.html)
+- [Cafe Osharak](https://www.osharak.com/)
 - [Cookies and the Caucasus](https://cookiesandthecaucasus.wordpress.com/)
 - [Georgian Cook](https://georgiancook.com/)
 - [Georgian Recipes.com](https://georgianrecipes.com/)
 - [Georgian Recipes.net](https://georgianrecipes.net/)
+
+##### Hmong
+- [C.Hawj Creations](https://chawjcreations.com/)
 
 ##### Iran
 - [Aashpazi](https://www.aashpazi.com/)
@@ -585,6 +604,7 @@
 - [Zaatar and Zaytoun](https://zaatarandzaytoun.com/)
 
 ##### Pakistan
+- [Chai and Churros](https://chaiandchurros.com/)
 - [Chili to Choc](https://www.chilitochoc.com/)
 - [Diary of a PMP Mom](https://diaryofapmpmom.com/from-my-kitchen/)
 - [Fa's Kitchen](https://www.faskitchen.com/)
@@ -636,6 +656,7 @@
 - [Bertie Talimongan](https://bertietalimongan.wordpress.com/)
 - [Be With Mia](https://bewithmia.com/))
 - [Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)
+- [Chef Ron Bilaro](http://chefronbilaro.com/)
 - [Cooking Pinoy](https://www.cookingpinoy.com/)
 - [Easy to Make Meals](https://easytomakemeals.com/)
 - [Eat Like Pinoy](https://eatlikepinoy.com/)
@@ -673,6 +694,7 @@
 - [Recipes by Nora](https://www.recipesbynora.com/)
 - [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
 - [Savor Filipino Food](https://savorfilipino.food.blog/)
+- [**Seafood City**](https://www.seafoodcity.com/category/recipes/)
 - [Simply Bakings](https://simplybakings.com/)
 - [The Unlikely Baker](https://theunlikelybaker.com/)
 - [Yummy Food](https://yummyfood.ph/)
@@ -702,7 +724,11 @@
 - [Basic Sunday](https://basicsunday.com/category/recipes/)
 - [Beyond Kimchee](https://www.beyondkimchee.com/)
 - [**Bibigo**](https://www.bibigousa.com/recipes/)
+- [Cafe Maddy](https://www.cafemaddy.com/)
+- [Carving a Journey](https://www.carvingajourney.com/)
 - [Cathlyn's Korean Kitchen](https://koreancuisinerecipes.com/)
+- [Chef Atulya](https://chefatulya.com/)
+- [Chef Christ Cho](https://chefchrischo.com/)
 - [Chopsticks and Flour](https://www.chopsticksandflour.com/)
 - [Chow Divine](http://chowdivine.com/)
 - [Chrisse en Place](http://chrisseenplace.com/)
@@ -710,6 +736,7 @@
 - [Curious Kimchi](https://curiouskimchi.com/)
 - [Easy Korean Food](https://www.easykoreanfood.com/)
 - [Gilded Gingerbread](https://www.gildedgingerbread.com/)
+- [Judy Joo](https://www.judyjoo.com/recipes/)
 - [Kimchi Mari](https://kimchimari.com/)
 - [Kimchi Mom](https://kimchimom.com/)
 - [Kimchi Rules](https://www.kimchirules.com/blogs/video-recipes)
@@ -722,6 +749,7 @@
 - [My Korean Kitchen](https://mykoreankitchen.com/)
 - [Park Sun-Yeol](https://parksunyeol.wordpress.com/category/food/)
 - [Tofuify](https://tofuify.com/)
+- [Two Red Bowls](https://tworedbowls.com/)
 - [Zen Kimchi](https://zenkimchi.com/)
 
 #### Sri Lanka
@@ -735,6 +763,7 @@
 - [Taiwan Duck](http://taiwanduck.com/)
 
 #### Thailand
+- [Charinya's Kitchen](https://charinyaskitchen.com/)
 - [Eating Thai Food](https://www.eatingthaifood.com/)
 - [Ezy Thai Cooking](https://www.ezythaicooking.com/free_recipes.htm)
 - [Healthy Thai Recipes](https://healthythairecipes.com/)
@@ -778,6 +807,7 @@
 - [A Peachy Plate](https://apeachyplate.com/)
 - [Rice n' Flour](http://www.ricenflour.com/)
 - [Simply Vietnamese](https://simplyvietnamese.wordpress.com/)
+- [Spoonful of Yum](https://spoonfulofyum.com/)
 - [Tasty Little Dumpling](https://tastylittledumpling.com/)
 - [Vicky Pham](https://www.vickypham.com/)
 - [Vietnamese Cuisines](https://vietnamesecuisines.com/)
@@ -842,6 +872,7 @@
 - [Find Bulgarian Food](https://www.findbgfood.com/home)
 
 #### Croatia
+- [Chasing the Donkey](https://www.chasingthedonkey.com/croatian-recipes-in-english/)
 - [Croatia Honestly](https://travelhonestly.com/croatian-recipes/)
 - [Croatia Fest](http://www.croatiafest.org/recipes/)
 - [Croatian Food](https://croatianfood.eu/)
@@ -857,6 +888,7 @@
 
 #### Denmark
 - [Almost Nordic](https://almostnordic.com/)
+- [Chokomils](http://chokomils.com/en/)
 - [Danish Food Lovers](https://www.danishfoodlovers.com/)
 - [Danish Net.com](https://www.danishnet.com/food/)
 - [Nordic Food Living](https://nordicfoodliving.com/)
@@ -890,6 +922,7 @@
 - [Taste France](https://www.tastefrance.com/us/recipes)
 - [Traditional French Food](https://www.traditionalfrenchfood.com/)
 - [Virginie in Provence](https://www.virginieinprovence.com/blog/categories/recipes)
+- [Wind From the North](https://windfromthenorth.com/category/recipes/)
 - [Your Guardian Chef](https://yourguardianchef.com/)
 
 #### Germany
@@ -913,6 +946,7 @@
 - [California Greek Girl](https://www.californiagreekgirl.com/)
 - [Cook Like a Greek Blog](https://cooklikeagreekblog.com/)
 - [Diane Kochilas](https://www.dianekochilas.com/)
+- [Dimitra's Dishes](https://www.dimitrasdishes.com/)
 - [Eat Yourself Greek](https://eatyourselfgreek.com/)
 - [Greece High Definition](https://www.greecehighdefinition.com/recipes)
 - [The Greek Chef](https://thegreekchef.us/recipes/)
@@ -966,12 +1000,15 @@
 - [The Bella Vita](https://www.the-bella-vita.com/)
 - [Biancolievito](https://biancolievito.com/)
 - [**Bottega di Calabria**](https://www.bottegadicalabria.com/blog/recipes)
+- [Cafe Osharak](https://www.osharak.com/)
 - [Cerise Cherie](https://rebeccasherrow.com/)
+- [Chef Bikeski](https://www.chefbikeski.com/)
 - [Ciao Bella Kitchen](https://ciaobellakitchen.com/)
 - [Ciao Chow Bambina](https://ciaochowbambina.com/)
 - [Ciao Florentina](https://ciaoflorentina.com/)
 - [Ciao Italia](https://www.ciaoitalia.com/)
 - [Cilantro Parsley](https://www.cilantroparsley.com/)
+- [Clifford A. Wright](http://www.cliffordawright.com/caw/recipes/recipes.html)
 - [Coley Cooks](https://coleycooks.com/)
 - [Cookies from Italy](https://cookiesfromitaly.com/recipes.htm)
 - [Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)
@@ -982,6 +1019,7 @@
 - [Great Italian Chefs](https://www.greatitalianchefs.com/)
 - [Heart of Abruzzo](https://heartofabruzzo.com/category/abruzzo-recipes/)
 - [Historical Italian Cooking](https://historicalitaliancooking.home.blog/)
+- [Ita Food Baby Blog](https://ltafoodbabyblog.wordpress.com/)
 - [Italian Chef](https://italianchef.com/)
 - [Italian Cook](http://www.italiancook.ca/)
 - [Italian Food Forever](https://www.italianfoodforever.com/)
@@ -1034,6 +1072,7 @@
 - [Cooking in Tuscany](https://cookingintuscany.cc/all-recipes/)
 - [Tuscany in a Nutshell](http://tuscanyinanutshell.blogspot.com/)
 ##### Venice
+- [Cantinado Spade](https://cantinadospade.com/en/)
 - [Cook in Venice](https://www.cookinvenice.com/)
 - [Zaira Zarotti](https://www.zairazarotti.com/)
 
@@ -1053,6 +1092,7 @@
 - [Aegean Delight](https://aegeandelight.com/)
 - [Amira's Pantry](https://amiraspantry.com/)
 - [Apron and Whisk](https://apronandwhisk.com/)
+- [Clifford A. Wright](http://www.cliffordawright.com/caw/recipes/recipes.html)
 - [Maltese History and Heritage](https://vassallohistory.wordpress.com/traditional-recipies/)
 - [The Matbakh](https://thematbakh.com/)
 - [My Greek Salad](https://www.mygreeksalad.com/)
@@ -1070,10 +1110,12 @@
 - [The Adagio Blog](https://www.adagioblog.com/)
 - [My Nordic Kitchen](https://www.mynordickitchen.no/)
 - [Nordic Food Living](https://nordicfoodliving.com/)
+- [True North Kitchen](https://true-north-kitchen.com/)
 
 #### Norway
 - [Arctic Grub](https://arcticgrub.com/)
 - [Daughters of Norway](https://www.daughtersofnorway.org/heritage/nordic-foods/)
+- [North Wild Kitchen](https://northwildkitchen.com/)
 - [Norway Hei](https://www.norway-hei.com/norwegian-recipes.html)
 - [Norwegian American](https://www.norwegianamerican.com/category/food/)
 - [Outside Oslo](https://outside-oslo.com/)
@@ -1165,6 +1207,7 @@
 ##### Ukraine
 - [Anna Voloshyna](https://annavoloshyna.com/)
 - [Authentic Ukraine](https://authenticukraine.com.ua/en/food)
+- [Klopotenko](https://klopotenko.com/en/)
 - [Let the Baking Begin](https://letthebakingbegin.com/)
 - [Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)
 - [Ukraine Food](https://ukrainefood.info/)
@@ -1269,6 +1312,7 @@
 - [Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)
 - [Mexican Appetizers and More](https://mexicanappetizersandmore.com/)
 ##### Trinidad & Tobago
+- [Cariwak](https://cariwakdigitalmedia.wordpress.com/)
 - [Simply Trini Cooking](https://www.simplytrinicooking.com/)
 - [We Trini Food](https://wetrinifood.com/)
 
@@ -1276,6 +1320,7 @@
 - [Amigo Foods](https://www.amigofoods.com/)
 - [Artisan Bryan](https://www.artisanbryan.com/)
 - [Beyond Mere Sustenance](https://beyondmeresustenance.com/)
+- [Casa Comida](https://www.casacomida.com/)
 - [Chef Zee Cooks](https://www.chefzeecooks.com/)
 - [Cilantro Parsley](https://www.cilantroparsley.com/)
 - [Fat Girl Hedonist](https://fatgirlhedonist.com/)
@@ -1295,13 +1340,14 @@
 - [Mexico in My Kitchen](https://www.mexicoinmykitchen.com/)
 - [My Slice of Mexico](https://mysliceofmexico.ca/)
 - [Sabor Mexicano](https://sabormexicano.com/recipes)
+- [Taco Guy](https://tacoguy.com.au/recipes/)
 - [Thai Caliente](https://thaicaliente.com/)
 - [Thrift & Spice](https://thriftandspice.com/)
 - [Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)
 #### Maya
 - [Yucatan Adventure](http://www.yucatanadventure.com.mx/cookingrecipes.htm)
 
-#### USA
+#### United States
 - [The Historical Homemaker](https://thehistoricalhomemaker.com/historic-recipes/)
 - [World Turnd Upside Down](https://www.worldturndupsidedown.com/p/historical-recipes.html)
 
@@ -1323,18 +1369,26 @@
 - [Gumbo Pages](https://www.gumbopages.com/food/)
 - [NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)
 - [Real Cajun Recipes](https://www.realcajunrecipes.com/)
+- [Spoonful of NoLa](https://spoonfulofnola.com/)
 ##### Creole
 - [Acadiana Table](https://acadianatable.com/)
 - [Arnaud's Restaurant](https://www.arnaudsrestaurant.com/category/recipes)
 - [Creole Contessa](https://www.creolecontessa.com/)
 - [First... You Have a Beer](https://www.sweetdaddy-d.com/)
 - [Gumbo Pages](https://www.gumbopages.com/food/)
+- [Kolby Kash](http://www.kolbykash.com/)
 - [NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)
+- [Spoonful of NoLa](https://spoonfulofnola.com/)
 - [**Tony Chachere's**](https://www.tonychachere.com/recipes/)
 
 ##### Hawaii
 - [Contemplating Sweets](https://www.contemplatingsweets.com/)
+- [Cooking Hawaiian Style](https://cookinghawaiianstyle.com/)
+- [Hawaii Magazine](https://www.hawaiimagazine.com/where-to-eat/recipes/)
+- [Honey From Rock](http://honeyfromrock.blogspot.com/)
+- [**NOH Foods**](https://www.nohfoods.com/blogs/recipes)
 - [Ono Hawaiian Recipes](https://onohawaiianrecipes.com/)
+- [Onolicious Hawaii](https://onolicioushawaii.com/)
 
 ##### Midwest
 - [Accidental Happy Baker](https://www.accidentalhappybaker.com/)
@@ -1371,6 +1425,8 @@
 - [Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)
 - [A Coalcracker in the Kitchen](https://www.acoalcrackerinthekitchen.com/)
 - [Coal Region](https://www.coalregion.com/recipes.php)
+- [Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)
+- [New England](https://newengland.com/category/food/)
 
 ##### Soul Food
 - [Black Foodie](https://www.blackfoodie.co/recipes/)
@@ -1391,12 +1447,15 @@
 - [Basil and Bubbly](https://basilandbubbly.com/)
 - [Be With Mia](https://bewithmia.com/)
 - [Butter Be Ready](https://www.butterbeready.com/)
+- [Carving a Journey](https://www.carvingajourney.com/)
 - [Chef John Folse & Company](http://www.jfolse.com/newfindrecipe.html)
 - [Cooks with Soul](https://cookswithsoul.com/)
+- [Deep South Dish](https://www.deepsouthdish.com/)
 - [Discover South Carolina](https://discoversouthcarolina.com/recipes)
 - [Edible Kentucky](https://ediblekentucky.ediblecommunities.com/)
 - [Edible South Florida](https://ediblesouthflorida.ediblecommunities.com/)
 - [Fueling a Southern Soul](https://www.fuelingasouthernsoul.com/)
+- [Grandma Raised in the South](https://grandmaraisedinthesouth.com/)
 - [Homesick Texan](https://www.homesicktexan.com/)
 - [Jane Butel Cooking](https://www.janebutelcooking.com//home/index.cfm?)
 - [Julia's Simply Southern](https://juliassimplysouthern.com/)
@@ -1426,17 +1485,21 @@
 - [The Southern Lady Cooks](https://thesouthernladycooks.com/)
 - [Southern Plate](https://www.southernplate.com/)
 - [A Southern Soul](https://www.asouthernsoul.com/)
+- [South Your Mouth](https://www.southyourmouth.com/)
 - [Spicy Southern Kitchen](https://spicysouthernkitchen.com/)
+- [Spoonful of NoLa](https://spoonfulofnola.com/)
 - [A Taste of Kentucky](https://atasteofkentucky.com/)
 - [Texas Cooking](https://www.texascooking.com/)
 - [Texas de Brazil](https://texasdebrazil.com/recipes/)
 - [Texas Recipe Cookbook](https://www.recipeworkbook.com/recipes/)
 - [Texicureans](https://www.texicureans.com/)
+- [Two Red Bowls](https://tworedbowls.com/)
 - [A Yummy Bite](https://ayummybite.net/)
 
 ##### Southwest
 - [Denver Green Chili](https://denvergreenchili.com/recipes/)
 - [Edible New Mexico](https://www.ediblenm.com/category/recipes/)
+- [Everyday Southwest](https://www.everydaysouthwest.com/)
 - [Made in New Mexico](https://madeinnewmexico.com/blogs/recipes)
 - [New Mexican Foodie](https://www.newmexicanfoodie.com/)
 - [New Mexico Nomad](https://newmexiconomad.com/resources/food/recipes/)
@@ -1444,6 +1507,7 @@
 - [Sweet Life Bake](https://sweetlifebake.com/)
 
 ##### West
+- [California Grown](https://californiagrown.org/recipes)
 - [Denver Green Chili](https://denvergreenchili.com/)
 - [Idaho Food Bank](https://idahofoodbank.org/category/nutrition-education/recipes/)
 - [Idaho Humanities](https://www.idahohumanities.org/programs/recipe-roundup/)
@@ -1479,6 +1543,7 @@
 #### Brazil
 - [Best Brazilian Recipes](http://bestbrazilianrecipes.com/)
 - [Brazilian Kitchen Abroad](https://braziliankitchenabroad.com/)
+- [Cassia's Cuisine](https://cassiascuisine.com/)
 - [Easy Brazilian Food](https://easybrazilianfood.com/)
 - [Eat Rio](https://eatrio.net/brazilian-recipes)
 - [Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)
@@ -1498,6 +1563,7 @@
 - [Camila Made](https://camilamade.com/)
 
 #### Peru
+- [Canguro Criollo](https://cangurocriollo.com/)
 - [Chewing Happiness](https://chewinghappiness.com/)
 - [Eat Peru](https://www.eatperu.com/)
 - [Peru Delights](https://perudelights.com/)
@@ -1519,8 +1585,14 @@
 - [Eating with Food Allergies](https://www.eatingwithfoodallergies.com/)
 - [The Fit Cookie](https://thefitcookie.com/)
 - [Food Allergy P.I.](https://foodallergypi.com/)
+- [The Honest Spoonful](https://thehonestspoonful.com/)
 - [Living Beyond Allergies](https://www.livingbeyondallergies.com/)
 - [Petite Allergy Treats](https://petiteallergytreats.com/)
+
+### Catholic
+- [Catholic Cuisine](https://catholiccuisine.blogspot.com/)
+- [Catholic Culture](https://www.catholicculture.org/culture/liturgicalyear/recipes/)
+- [Catholic Foodie](https://www.catholicfoodie.com/)
 
 ### Dairy-Free
 - (all websites in the vegan section)
@@ -1530,6 +1602,7 @@
 - [Bakerita](https://www.bakerita.com/)
 - [Belated Brewery](https://www.belatedbrewery.com/)
 - [Calm Eats](https://calmeats.com/)
+- [Clean Plate Mama](https://cleanplatemama.com/)
 - [The Cookie Dough Diaries](https://thecookiedoughdiaries.com/)
 - [Freshwater Peaches](https://freshwaterpeaches.com/)
 - [Go Dairy-Free](https://www.godairyfree.org/)
@@ -4825,6 +4898,10 @@
 - [Brit](https://www.brit.co/)
 - [Bustle](https://www.bustle.com/food)
 - [Cardamom Magazine](https://cardamommagazine.com/)
+- [Chef's Pencil](https://www.chefspencil.com/)
+- [Chest of Books](https://chestofbooks.com/food/recipes/index.html)
+- [CKBK](https://app.ckbk.com/)
+- [Clean Eating Mag](https://www.cleaneatingmag.com/clean-eating-recipes/)
 - [Cook Eat Share](https://m.cookeatshare.com/)
 - [Cooking Bites](https://www.cookingbites.com/)
 - [Cooking Nook](https://www.cookingnook.com/)
@@ -4836,6 +4913,7 @@
 - [Fine Dining Lovers](https://www.finedininglovers.com/recipes)
 - [Forkly](https://m.forkly.com/recipes/)
 - [Gourmand Asia](https://www.gourmandasia.com/)
+- [Great British Chefs](https://www.greatbritishchefs.com/)
 - [Happy Forks](https://happyforks.com/)
 - [Kitchen Nine](https://kitchen.nine.com.au/recipes)
 - [Kiwi Limon](https://us.kiwilimon.com/)
@@ -4849,7 +4927,9 @@
 - [Punchfork](https://www.punchfork.com/)
 - [Secret Sauce](https://secretsauce.co.uk/)
 - [The Singapore Women's Weekly](https://www.womensweekly.com.sg/food/)
+- [Spoon University](https://spoonuniversity.com/recipe)
 - [Taste of Harmony](https://www.tasteofharmony.org.au/recipes/)
+- [Veg World Mag](https://vegworldmag.com/recipes/)
 - [Very Good Recipes](https://verygoodrecipes.com/)
 - [Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)
 - [Yummly](https://www.yummly.com/)
