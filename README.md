@@ -1543,7 +1543,6 @@
 - [Southern Living](https://www.southernliving.com/recipes)
 - [The Southern Lady Cooks](https://thesouthernladycooks.com/)
 - [Southern Plate](https://www.southernplate.com/)
-- [A Southern Soul](https://www.asouthernsoul.com/)
 - [South Your Mouth](https://www.southyourmouth.com/)
 - [Spicy Southern Kitchen](https://spicysouthernkitchen.com/)
 - [Spoonful of NoLa](https://spoonfulofnola.com/)
@@ -4132,6 +4131,13 @@
 - [**Koa**](https://koa.com/camping-recipes/)
 - [**REI**](https://www.rei.com/learn/c/camping/t/recipes)
 
+### Cast Iron
+- [Cast Iron Keto](https://www.castironketo.net/)
+- [Cast Iron Recipes](https://castironrecipes.com/)
+- [Heavy Metal Cookbook](https://www.heavymetalcookbook.com/)
+- [**Lodge Cast Iron**](https://www.lodgecastiron.com/discover/recipes)
+- [**Southern Cast Iron**](https://southerncastiron.com/)
+
 ### Preserving
 - [Cansanity](https://cansanity.com/)
 - [Fermentation Recipes](https://www.fermentationrecipes.com/)
@@ -4448,7 +4454,6 @@
 - [Carol Bee Cooks](https://carolbeecooks.com/)
 - [Caroline's Cooking](https://www.carolinescooking.com/)
 - [Casserole et Chocolat](https://www.casseroleetchocolat.fr/en/)
-- [Cast Iron Recipes](https://castironrecipes.com/)
 - [A Cedar Spoon](https://www.acedarspoon.com/)
 - [Center Cut Cook](https://www.centercutcook.com/)
 - [Charlotte Fashion Plate](https://www.charlottefashionplate.com/recipes/)
@@ -5098,7 +5103,6 @@
 - [**Karma Community**](https://karmacommunity.karmagroup.com/food-wine/)
 - [**Kim and Jake's Cakes**](http://kimandjakescakes.com/recipes)
 - [**Kissan**](https://www.kissan.in/recipes.html)
-- [**Lodge Cast Iron**](https://www.lodgecastiron.com/discover/recipes)
 - [**Maggie Beer**](https://www.maggiebeer.com.au/recipes)
 - [**Melissa's**](https://www.melissas.com/)
 - [**Mola Foods**](https://molafoods.com/recipes/)
