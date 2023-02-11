@@ -22,6 +22,8 @@
 - [Cheap Recipe Blog](https://www.cheaprecipeblog.com/)
 - [Cheapskate Cook](https://www.cheapskatecook.com/)
 - [Cook Eat Go](https://cookeatgo.com/)
+- [Coupon Clipping Cook](https://www.couponclippingcook.com/)
+- [The Crazy Craft Lady](https://thecrazycraftlady.com/)
 - [Delicious on a Dime](https://deliciousonadime.com/)
 - [Don't Waste the Crumbs](https://dontwastethecrumbs.com/)
 - [Easy Budget Recipes](https://easybudgetrecipes.com/)
@@ -44,6 +46,7 @@
 - [Hip2Save](https://hip2save.com/recipes/)
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
 - [Like a Bubbling Brook](https://likeabubblingbrook.com/category/recipes/)
+- [My Plate](https://www.myplate.gov/myplate-kitchen/recipes)
 - [My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)
 - [No Money, No Time](https://nomoneynotime.com.au/)
 - [The Oregon Dietitian](https://theoregondietitian.com/)
@@ -82,11 +85,13 @@
 - [The Canadian African](https://thecanadianafrican.com/)
 - [The Congo Cookbook](http://www.congocookbook.com/)
 - [Cooking With Gaul](https://cookingwithgaul.com/)
+- [The Diasporic Dish](https://thediasporicdish.com/)
 - [Grubbys](https://grubbys.africa/)
 - [humble Vege](https://humblevege.com/)
 - [Kanyi's Kitchen](https://kanyiskitchen.com/)
 - [Low-Carb Africa](https://lowcarbafrica.com/)
 - [Pan-African](https://pan-african.net/recipe/)
+- [That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)
 - [West Africa Cooks](https://www.westafricacooks.com/africa/)
 - [Yolele](https://yolele.com/recipes)
 - [Yummy Medley](https://www.yummymedley.com/)
@@ -117,9 +122,9 @@
 |[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|
 
 #### Ghana
-|     |     |
-| --- | --- |
-|[Biscuits and Ladles](https://biscuitsandladles.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
+|     |     |     |
+| --- | --- | --- |
+|[Biscuits and Ladles](https://biscuitsandladles.com/)|[Ginger and Sea Salt](https://gingerandseasalt.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
 #### Kenya
 |     |     |
@@ -137,14 +142,14 @@
 |[The Libyan Kitchen](https://www.thelibyankitchen.com/)|
 
 #### Mauritius
-|     |     |     |
-| --- | --- | --- |
-|[Cocozil](http://cocozil.com/)|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Cocozil](http://cocozil.com/)|[Ever Peckish](https://everpeckish.com/)|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
 #### Morocco
-|     |     |     |
-| --- | --- | --- |
-|[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Moroccanzest](https://moroccanzest.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 
 #### Nigeria
 |     |     |     |     |     |
@@ -225,14 +230,20 @@
 - [Cook Like Asian](https://cooklikeasian.com/)
 - [Cook With Chung](https://cookwithchung.com/)
 - [Cook With Dana](https://cookwithdana.com/recipes/)
+- [Couple Eats Food](https://coupleeatsfood.com/)
 - [A Day in the Kitchen](https://www.adayinthekitchen.com/)
 - [Deli Crunch](https://delicrunch.co/)
+- [Delightful Plate](https://delightfulplate.com/)
 - [Devour.Asia](https://devour.asia/)
 - [East Meets Kitchen](http://eastmeetskitchen.com/)
 - [Eat with Jin](http://eatwithjin.com/)
+- [Eric Tries It](https://erictriesit.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
 - [The Floured Camera](https://www.theflouredcamera.com/)
+- [The Foodie Takes Flight](https://thefoodietakesflight.com/)
 - [Health Gluten-Free Asian](https://www.healthygfasian.com/)
+- [Home Cooking With Somjit](https://homecookingwithsomjit.com/)
+- [Honest Food Talks](https://www.honestfoodtalks.com/)
 - [Kawaling Pinoy](https://www.kawalingpinoy.com/)
 - [Khin's Kitchen](https://khinskitchen.com/)
 - [Kurumi Cooks](https://www.kurumicooks.co.uk/)
@@ -250,8 +261,10 @@
 - [**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)
 - [Simply Asian Home](https://www.simplyasianhome.com/)
 - [Souper Diaries](https://souperdiaries.com/)
+- [Spice the Plate](https://www.spicetheplate.com/)
 - [Takes Two Eggs](https://takestwoeggs.com/)
 - [Taste Asian Food](https://tasteasianfood.com/)
+- [That Cute Dish](https://www.thatcutedish.com/)
 - [That Spicy Chick](https://thatspicychick.com/)
 - [Tiff Loves Tofu](https://tifflovestofu.com/)
 - [Two Plaid Aprons](https://twoplaidaprons.com/)
@@ -267,8 +280,10 @@
 - [Bong Eats](https://www.bongeats.com/category/recipe)
 - [Chow Man](https://chowman.net/)
 - [Cooking Canary](https://cookingcanary.com/)
+- [Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)
 - [Debjanir Rannaghar](https://kitchenofdebjani.com/)
 - [Dolce and Masala](http://www.dolceandmasala.com/)
+- [Foodie's Hut](https://www.foodieshutrecipes.com/)
 - [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
 - [Rownak's Kitchen](https://banglarecipes.com.au/)
 
@@ -291,6 +306,7 @@
 - [Alice C. Sun](https://www.alicecsun.com/recipes)
 - [Asian Cooking Mom](https://www.asiancookingmom.com/)
 - [Auntie Emily's Kitchen](https://auntieemily.com/)
+- [The Burning Kitchen](https://theburningkitchen.com/)
 - [Butter Over Bae](https://butteroverbae.com/)
 - [Celestial Peach](https://www.celestialpeach.com/blog/category/Recipes)
 - [Chinese American Family](https://www.chineseamericanfamily.com/)
@@ -398,6 +414,7 @@
 - [Famous Dishes](https://famousdishes.in/)
 - [Fa's Kitchen](https://www.faskitchen.com/)
 - [Fine Dining Indian](https://finediningindian.com/)
+- [Foodie's Hut Recipes](https://www.foodieshutrecipes.com/)
 - [Hari Ghotra](https://www.harighotra.co.uk/)
 - [Indian Ambrosia](https://indianambrosia.com/)
 - [India Netzone](https://www.indianetzone.com/food/)
@@ -414,6 +431,7 @@
 - [Mirchi Tales](https://www.mirchitales.com/)
 - [A Mom's Cookbook](https://amomscookbook.com/)
 - [My Dainty Soul Curry](https://www.mydaintysoulcurry.com/)
+- [My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
 - [My Weekend Kitchen](https://www.myweekendkitchen.in/)
 - [Nam's Corner](https://www.namscorner.com/)
@@ -430,8 +448,10 @@
 - [Secret Indian Recipe](https://secretindianrecipe.com/)
 - [SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
+- [Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)
 - [Spice India Online](https://www.spiceindiaonline.com/)
 - [Sunera Kitchen](https://www.sunerakitchen.com/)
+- [Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)
 - [Swasthi's Recipes](https://www.indianhealthyrecipes.com/)
 - [Swati's Kitchen](https://swatisani.net/kitchen/)
 - [The Take It Easy Chef](https://www.thetakeiteasychef.com/)
@@ -482,10 +502,14 @@
 |     |
 | --- |
 |[Aayi's Recipes](https://www.aayisrecipes.com/)|
-##### Mangalore
+##### Malabar
 |     |
 | --- |
-|[Sherryl's Good Food](https://delicioussweetaroma.com/2017/03/05/mangalorean-snacks/)|
+|[The Big Sweet Tooth](https://www.thebigsweettooth.com/)|
+##### Mangalore
+|     |     |
+| --- | --- |
+|[One Plate Please](https://www.oneplateplease.com/)|[Sherryl's Good Food](https://delicioussweetaroma.com/2017/03/05/mangalorean-snacks/)|
 ##### Parsi
 |     |
 | --- |
@@ -517,8 +541,10 @@
 - [Contemplating Sweets](https://www.contemplatingsweets.com/)
 - [Cook & Meshiagare](https://meshiagare.tokyo/)
 - [Cooking With Dog](https://cookingwithdog.com/)
+- [Create Eat Happy](https://createeathappy.blogspot.com/)
 - [Ellie Likes Cooking](https://www.ellielikes.cooking/)
 - [Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)
+- [Hiroko's Recipes](https://www.hirokoliston.com/)
 - [Japan Centre](https://www.japancentre.com/en/recipe)
 - [Japanese Cooking 101](https://www.japanesecooking101.com/)
 - [Japan Food Addict](http://www.japanfoodaddict.com/)
@@ -554,16 +580,19 @@
 - [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
 - [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [Da Vina Vegan](http://davinadavegan.com/)
+- [**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)
 - [Fried Chillies](https://friedchillies.com/)
 - [Lisa's Lemony Kitchen](https://www.mykeuken.com/)
 - [Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)
 - [Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)
 - [The Malaysian Kitchen](https://themalaysiankitchen.com/)
+- [**Mama Lam's**](https://mamalams.com/recipes/)
 - [New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)
 - [**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)
 - [Rasa Malaysia](https://rasamalaysia.com/)
 - [Roti n' Rice](https://www.rotinrice.com/)
 - [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
+- [Thokoh Makan](https://thokohmakan.com/)
 
 #### Middle East
 - [Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)
@@ -582,7 +611,9 @@
 - [Middle East Kitchen](https://www.middleeastkitchen.com/)
 - [MidEastChef](http://www.mideastchef.com/)
 - [One Arab Vegan](https://www.onearabvegan.com/)
+- [Savory Spin](https://savoryspin.com/)
 - [Sour and Sweets](https://sourandsweets.com/)
+- [**Sweet Pillar**](http://www.sweetpillar.com/)
 
 #### Afghanistan
 - [Afghan Culture Unveiled](https://www.afghancultureunveiled.com/work)
