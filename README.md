@@ -47,6 +47,7 @@
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
 - [It's a Glorious World](https://itsagloriousworld.com/)
 - [Like a Bubbling Brook](https://likeabubblingbrook.com/category/recipes/)
+- [Meal Planning Magic](https://www.mealplanningmagic.com/)
 - [My Plate](https://www.myplate.gov/myplate-kitchen/recipes)
 - [My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)
 - [No Money, No Time](https://nomoneynotime.com.au/)
@@ -945,6 +946,7 @@
 
 #### Albania
 - [Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)
+- [Mimi's Recipes](https://www.mimisrecipes.com/)
 - [My Albanian Food](https://www.myalbanianfood.com/)
 
 #### Andorra
