@@ -132,9 +132,9 @@
 |[Biscuits and Ladles](https://biscuitsandladles.com/)|[Ginger and Sea Salt](https://gingerandseasalt.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
 #### Kenya
-|     |     |
-| --- | --- |
-|[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|
+|     |     |     |
+| --- | --- | --- |
+|[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|[Jikoni Magic](https://jikonimagic.com/)|
 
 #### Liberia
 |     |     |
@@ -246,8 +246,10 @@
 - [Eat with Jin](http://eatwithjin.com/)
 - [Eric Tries It](https://erictriesit.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
+- [Fitsian Food Life](https://fitsianfoodlife.com/)
 - [The Floured Camera](https://www.theflouredcamera.com/)
 - [The Foodie Takes Flight](https://thefoodietakesflight.com/)
+- [Foxy Folksy](https://www.foxyfolksy.com/)
 - [Health Gluten-Free Asian](https://www.healthygfasian.com/)
 - [Home Cooking With Somjit](https://homecookingwithsomjit.com/)
 - [Honest Food Talks](https://www.honestfoodtalks.com/)
@@ -294,6 +296,7 @@
 - [Kitchen of Debjani](https://kitchenofdebjani.com/)
 - [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
 - [Rownak's Kitchen](https://banglarecipes.com.au/)
+- [Speaking Aloud](https://speakingaloud.in/)
 
 #### Bhutan
 |     |     |
@@ -334,6 +337,7 @@
 - [Eating China](https://www.eatingchina.com/)
 - [Everybunny Eats](https://www.everybunnyeats.com/)
 - [Fun Chinese Cooking](https://fun-chinese-cooking.blogspot.com/)
+- [Fuchsia Dunlop](http://www.fuchsiadunlop.com/category/recipe/)
 - [Guai Shu Shu](https://www.guaishushu1.com/)
 - [Hello Tea Cup](https://helloteacup.com/category/chinese-food/)
 - [Let's PlayDough](https://lets-playdough.com/)
@@ -353,6 +357,7 @@
 - [Soups Ahoy](https://soupsahoy.wordpress.com/)
 - [South China Morning Post](https://www.scmp.com/cooking?)
 - [Soy, Rice, Fire](https://soyricefire.com/)
+- [TCM World](https://www.tcmworld.org/health/recipes/)
 - [Two Red Bowls](https://tworedbowls.com/)
 - [Unfamiliar China](https://www.unfamiliarchina.com/)
 - [Yi Reservation](http://yireservation.com/)
@@ -417,12 +422,15 @@
 - [Cook With Parul](https://cookwithparul.com/)
 - [Cook With Renu](https://cookwithrenu.com/)
 - [Culinary Shades](https://culinaryshades.com/)
+- [Curry and Vanilla](https://curryandvanilla.com/)
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)
 - [East Indian Recipes](https://eastindianrecipes.net/)
 - [Famous Dishes](https://famousdishes.in/)
+- [Farida's Cookbook](https://faridascookbook.com/)
 - [Fa's Kitchen](https://www.faskitchen.com/)
 - [Fine Dining Indian](https://finediningindian.com/)
 - [Foodie's Hut Recipes](https://www.foodieshutrecipes.com/)
+- [Geeta ki Duniya](https://www.geetakiduniya.com/)
 - [Hari Ghotra](https://www.harighotra.co.uk/)
 - [Indian Ambrosia](https://indianambrosia.com/)
 - [India Netzone](https://www.indianetzone.com/food/)
@@ -455,6 +463,7 @@
 - [Sailu's Food](https://www.sailusfood.com/)
 - [Sanjeev Kapoor](https://www.sanjeevkapoor.com/)
 - [Secret Indian Recipe](https://secretindianrecipe.com/)
+- [Sharmi's Passions](https://www.sharmispassions.com/)
 - [SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
 - [Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)
@@ -529,6 +538,8 @@
 - [Come 2 Indonesia](https://come2indonesia.com/blog-indonesian-food-recipes/)
 - [Cooking Tackle](https://cookingtackle.blogspot.com/)
 - [Cook Me Indonesian](https://www.cookmeindonesian.com/)
+- [Daily Cooking Quest](https://dailycookingquest.com/)
+- [Dapurkorn Hills](https://dapurkornhills.com/)
 - [I Love Culinary Indonesia](http://iloveculinaryindonesia.blogspot.com/)
 - [Indonesian Cooking 101](https://www.indonesiancooking101.com/)
 - [Indonesian Original Recipes](http://indonesiaoriginalrecipes.blogspot.com/)
@@ -536,6 +547,7 @@
 - [A Journey Bespoke](https://www.ajourneybespoke.com/?category=Food)
 - [Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/)
 - [Recipes Indonesia](https://recipesindonesia.com/)
+- [Tasia and Gracia](https://www.tasiaandgracia.com/recipes)
 ##### Bali
 |     |
 | --- |
@@ -656,8 +668,13 @@
 - [Cooking County](https://cookingcounty.com/)
 - [Food Craftz](https://foodcraftz.com/)
 - [Iran Cuisine](https://iran-cuisine.com/)
+- [My Persian Kitchen](http://www.mypersiankitchen.com/)
+- [Persian Mama](https://persianmama.com/)
+- [Persian Recipes](https://persianrecipes.com/)
+- [Plant-Based Persian](https://plantbasedpersian.com/)
 - [Proportional Plate](https://www.proportionalplate.com/)
 - [Show Me Iran](https://showmeiran.com/)
+- [Termeh Travel](https://blog.termehtravel.com/category/persian-food/)
 
 #### Iraq
 - [Sooo Good](https://www.sooogood.org/)
@@ -955,6 +972,8 @@
 #### Austria
 - [Combine Good Flavors](https://combinegoodflavors.com/)
 - [Jewish Viennese Food](https://jewishviennesefood.com/)
+##### Styria
+- [Steirische Spezialitaeten](https://www.steirische-spezialitaeten.at/en/)
 
 #### Balkans
 - [The Balkan Foodie](https://www.thebalkanfoodie.com/)
@@ -1015,6 +1034,7 @@
 - [Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)
 - [Love French Food](https://www.lovefrenchfood.com/)
 - [Mad About Macarons](https://www.madaboutmacarons.com/)
+- [Mon Petit Four](https://www.monpetitfour.com/recipes/)
 - [My Parisian Kitchen](https://www.myparisiankitchen.com/en/)
 - [Pardon Your French](https://www.pardonyourfrench.com/)
 - [Simple French Cooking](https://www.simplefrenchcooking.com/)
@@ -1029,12 +1049,15 @@
 
 #### Germany
 - [All Tastes German](https://alltastesgerman.com/)
+- [Diary of a Mad Hausfrau](https://diaryofamadhausfrau.com/)
+- [Dirndl Kitchen](https://dirndlkitchen.com/)
 - [German Food Guide](http://www.germanfoodguide.com/cooking.cfm)
 - [German Foods](https://germanfoods.org/)
 - [**MixMarkt**](https://www.mixmarkt.eu/en/germany/recipes/)
 - [My Best German Recipes](https://mybestgermanrecipes.com/)
 - [My German Recipes](https://mygerman.recipes/)
 - [My German Table](https://www.mygermantable.com/)
+- [The Kitchen Maus](https://www.thekitchenmaus.com/)
 - [Quick German Recipes](https://www.quick-german-recipes.com/)
 - [A Sausage Has Two](https://www.asausagehastwo.com/)
 - [Thomas Sixt](https://thomassixt.de/en/)
@@ -1077,8 +1100,13 @@
 #### Hungary
 - [Ana y la Passion](https://anaylapassiondotcom.wordpress.com/)
 - [Budapest Cooking Class](https://budapestcookingclass.com/)
+- [Helen's Hungarian Recipes](http://www.helenshungarianrecipes.com/)
+- [Hungarian Living](https://hungarianliving.com/)
+- [Hungarian Tidbits](https://www.hungariantidbits.com/)
 - [The Hungary Soul](https://thehungarysoul.com/)
+- [Off-Beat Budapest](https://www.offbeatbudapest.com/hungarian-food-recipes/)
 - [One Sweet Harmony](https://onesweetharmony.com/)
+- [Taste Hungary](https://tastehungary.com/journal/categories/hungarian-recipes/)
 - [Zserbo](https://zserbo.com/)
 - [Zsuzsa in the Kitchen](https://zsuzsaisinthekitchen.blogspot.com/)
 
@@ -1125,6 +1153,7 @@
 - [**Delallo**](https://www.delallo.com/recipe-finder)
 - [Elizabeth Minchilli](https://www.elizabethminchilli.com/recipes/)
 - [The Eternal Table](https://www.theeternaltable.com/historicalrecipes)
+- [Feeling Foodish](https://feelingfoodish.com/)
 - [Flavor of Italy](https://flavorofitaly.com/fi-recipes/)
 - [Fleurty Herald](https://fleurtyherald.wordpress.com/2013/09/03/recipes-from-renaissance-italy/)
 - [Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)
@@ -1132,6 +1161,7 @@
 - [Heart of Abruzzo](https://heartofabruzzo.com/category/abruzzo-recipes/)
 - [Historical Italian Cooking](https://historicalitaliancooking.home.blog/)
 - [Identita Golose](https://www.identitagolose.com/sito/en/12/recipes.html)
+- [Ilaria's Perfect Recipes](https://www.ilariasperfectrecipes.com/category/recipes/)
 - [**Il Gusto**](https://www.oliocarli.us/magazine/italian-recipes)
 - [Immaculate Ruemu](https://www.immaculateruemu.com/)
 - [Ita Food Baby Blog](https://ltafoodbabyblog.wordpress.com/)
@@ -1378,6 +1408,7 @@
 - [Canadian Food Focus](https://canadianfoodfocus.org/)
 - [A Canadian Foodie](https://www.acanadianfoodie.com/)
 - [Canadian Living](https://www.canadianliving.com/section/food)
+- [Edible Ottawa](edibleottawa.ediblecommunities.com)
 - [Food Bloggers of Canada](https://www.foodbloggersofcanada.com/category/recipes-2/)
 ##### Acadia
 - [Acadian Explorations](http://www.acadian-explorations.ca/home/traditional-recipes/)
@@ -1399,6 +1430,7 @@
 - [Jirie Caribbean](https://jiriecaribbean.com/indexes/recipe-index/)
 - [**Nestle Recipes Caribbean**](https://www.nestlerecipescaribbean.com/)
 - [News Amaericas Now](https://www.newsamericasnow.com/category/caribbean-recipes-and-food-news/)
+- [Sian's Cooking](https://sianscooking.com/)
 - [That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)
 - [Sweed and Sorrel](https://www.sweetandsorrel.com/)
 - [Yummy Medley](https://www.yummymedley.com/)
@@ -1461,6 +1493,7 @@
 - [Chef Zee Cooks](https://www.chefzeecooks.com/)
 - [Cilantro Parsley](https://www.cilantroparsley.com/)
 - [Fat Girl Hedonist](https://fatgirlhedonist.com/)
+- [Four to Cook for](https://www.fourtocookfor.com/)
 - [Hispanic Kitchen](https://hispanickitchen.com/)
 
 #### Mexico
