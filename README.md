@@ -45,6 +45,7 @@
 - [Happy Money Saver](https://happymoneysaver.com/)
 - [Hip2Save](https://hip2save.com/recipes/)
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
+- [It's a Glorious World](https://itsagloriousworld.com/)
 - [Like a Bubbling Brook](https://likeabubblingbrook.com/category/recipes/)
 - [My Plate](https://www.myplate.gov/myplate-kitchen/recipes)
 - [My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)
