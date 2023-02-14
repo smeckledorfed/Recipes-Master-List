@@ -302,18 +302,9 @@
 #### Bangladesh
 - [Afelia's Kitchen](https://www.afeliaskitchen.com/)
 - [The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)
-- [Bong Eats](https://www.bongeats.com/category/recipe)
-- [Chow Man](https://chowman.net/)
 - [Cooking Canary](https://cookingcanary.com/)
-- [Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)
-- [Debjanir Rannaghar](https://kitchenofdebjani.com/)
-- [Dolce and Masala](http://www.dolceandmasala.com/)
-- [Experiences of A Gastronomad](https://experiencesofagastronomad.com/)
-- [Foodie's Hut](https://www.foodieshutrecipes.com/)
-- [Kitchen of Debjani](https://kitchenofdebjani.com/)
 - [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
 - [Rownak's Kitchen](https://banglarecipes.com.au/)
-- [Speaking Aloud](https://speakingaloud.in/)
 
 #### Bhutan
 |     |     |     |
@@ -457,6 +448,7 @@
 - [Farida's Cookbook](https://faridascookbook.com/)
 - [Fa's Kitchen](https://www.faskitchen.com/)
 - [Fine Dining Indian](https://finediningindian.com/)
+- [Fitter Eats](https://www.fittereats.com/)
 - [Foodie's Hut Recipes](https://www.foodieshutrecipes.com/)
 
 - [Geeta ki Duniya](https://www.geetakiduniya.com/)
@@ -540,6 +532,16 @@
 |     |
 | --- |
 |[RumiCooks](http://www.rumicooks.com/)|
+##### Bengal
+- [Bong Eats](https://www.bongeats.com/category/recipe)
+- [Chow Man](https://chowman.net/)
+- [Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)
+- [Debjanir Rannaghar](https://kitchenofdebjani.com/)
+- [Dolce and Masala](http://www.dolceandmasala.com/)
+- [Experiences of A Gastronomad](https://experiencesofagastronomad.com/)
+- [Finally Foodie](https://finallyfoodie.com/)
+- [Foodie's Hut](https://www.foodieshutrecipes.com/)
+- [Speaking Aloud](https://speakingaloud.in/)
 ##### Bihar
 |     |
 | --- |
@@ -553,9 +555,12 @@
 | --- | --- |
 |[Garo Recipes/Garo Food](https://tensanz2012.wordpress.com/)|[Mobsea](http://mobsea.com/what-to-eat-in-meghalaya/Garo-recipe)|
 ##### Goa
-|     |     |     |     | --- |
-| --- | --- | --- | --- | --- |
-|[Aromatic Essence](https://aromaticessence.co/)|[Big Fat Tummy](https://www.bigfattummy.com/)|[Celebration in My Kitchen](https://www.celebrationinmykitchen.com/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|[Xantilicious](https://xantilicious.com/)|
+- [Aromatic Essence](https://aromaticessence.co/)
+- [Big Fat Tummy](https://www.bigfattummy.com/)
+- [Celebration in My Kitchen](https://www.celebrationinmykitchen.com/)
+- [Florency Dias](https://florencydias.blogspot.com/)
+- [Goan Food Recipes](https://www.goanfoodrecipes.com/)
+- [Xantilicious](https://xantilicious.com/)
 ##### Gujarati
 |     |
 | --- |
