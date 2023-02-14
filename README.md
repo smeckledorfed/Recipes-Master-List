@@ -25,7 +25,9 @@
 - [Coupon Clipping Cook](https://www.couponclippingcook.com/)
 - [The Crazy Craft Lady](https://thecrazycraftlady.com/)
 - [Delicious on a Dime](https://deliciousonadime.com/)
+- [Ditch the Wheat](https://ditchthewheat.com/)
 - [Don't Waste the Crumbs](https://dontwastethecrumbs.com/)
+- [Drugstore Divas](https://www.drugstoredivas.net/category/food/)
 - [Easy Budget Recipes](https://easybudgetrecipes.com/)
 - [Eating on a Dime](https://www.eatingonadime.com/)
 - [Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)
@@ -47,6 +49,7 @@
 - [Hot, Cheap, Easy](https://hotcheapeasy.com/)
 - [It's a Glorious World](https://itsagloriousworld.com/)
 - [Like a Bubbling Brook](https://likeabubblingbrook.com/category/recipes/)
+- [Live Like You Are Rich](https://livelikeyouarerich.com/)
 - [Meal Planning Magic](https://www.mealplanningmagic.com/)
 - [My Plate](https://www.myplate.gov/myplate-kitchen/recipes)
 - [My Stay at Home Adventures](https://www.mystayathomeadventures.com/category/recipes/)
@@ -242,7 +245,9 @@
 - [Deli Crunch](https://delicrunch.co/)
 - [Delightful Plate](https://delightfulplate.com/)
 - [Devour.Asia](https://devour.asia/)
+- [Drive Me Hungry](https://drivemehungry.com/)
 - [East Meets Kitchen](http://eastmeetskitchen.com/)
+- [Eat Cho Food](https://eatchofood.com/)
 - [Eat with Jin](http://eatwithjin.com/)
 - [Eric Tries It](https://erictriesit.com/)
 - [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
@@ -299,9 +304,9 @@
 - [Speaking Aloud](https://speakingaloud.in/)
 
 #### Bhutan
-|     |     |
-| --- | --- |
-|[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[My Bhutan](https://blog.mybhutan.com/food)|
+|     |     |     |
+| --- | --- | --- |
+|[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[Druk Girl](https://www.drukgirl.com/)|[My Bhutan](https://blog.mybhutan.com/food)|
 
 #### Burma
 |     |     |
@@ -389,6 +394,7 @@
 
 #### India
 - [**24 Mantra Organic**](https://www.24mantra.com/blogs/)
+
 - [Aahaaram Online](https://aahaaramonline.com/)
 - [Abby's Plate](https://abbysplate.com/)
 - [Akuner](https://akuner.com/)
@@ -396,6 +402,7 @@
 - [Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)
 - [Archana's Kitchen](https://www.archanaskitchen.com/)
 - [Awesome Cuisine](https://www.awesomecuisine.com/)
+
 - [Bab's Projects](https://www.babsprojects.com/)
 - [Baku Baker](https://bakubaker.com/)
 - [Banglar Rannaghor](https://www.banglarrannaghor.com/)
@@ -408,6 +415,7 @@
 - [Blog Explore](https://blogexplore.com/)
 - [Bon Gong](https://bongong.com/index.html)
 - [Bridget White-Kumar](https://bridget-white.com/)
+
 - [Caramel Tinted Life](https://carameltintedlife.com/)
 - [Charmaine Solomon](https://www.charmainesolomon.com/recipe-blog)
 - [Chatora Indore](https://www.chatoraindore.com/recipes/)
@@ -423,15 +431,24 @@
 - [Cook With Renu](https://cookwithrenu.com/)
 - [Culinary Shades](https://culinaryshades.com/)
 - [Curry and Vanilla](https://curryandvanilla.com/)
+
 - [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)
+- [Desert Food Feed](https://desertfoodfeed.com/)
+- [**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes)
+- [Dishcovery](https://dishcovery.in/)
+
 - [East Indian Recipes](https://eastindianrecipes.net/)
+
 - [Famous Dishes](https://famousdishes.in/)
 - [Farida's Cookbook](https://faridascookbook.com/)
 - [Fa's Kitchen](https://www.faskitchen.com/)
 - [Fine Dining Indian](https://finediningindian.com/)
 - [Foodie's Hut Recipes](https://www.foodieshutrecipes.com/)
+
 - [Geeta ki Duniya](https://www.geetakiduniya.com/)
+
 - [Hari Ghotra](https://www.harighotra.co.uk/)
+
 - [Indian Ambrosia](https://indianambrosia.com/)
 - [India Netzone](https://www.indianetzone.com/food/)
 - [Indian Feast](https://indianfeast.tripod.com/)
@@ -439,27 +456,39 @@
 - [Indian Kitchen and Spices](https://indiankitchenandspices.com/)
 - [Indian Recipes](https://indianrecipes.com/)
 - [Indian Veggie Delight](https://www.indianveggiedelight.com/)
+
 - [Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)
 - [Joo's Food](https://joosfood.com/)
+
 - [Kitchen Flavours](https://kitchenflavours.net/)
 - [Kothiya Vunu](https://www.kothiyavunu.com/)
+
+- [Living Smart and Healthy](https://www.livingsmartandhealthy.com/recipes/)
+
 - [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
+- [Manjula's Kitchen](https://www.manjulaskitchen.com/)
 - [Mirchi Tales](https://www.mirchitales.com/)
 - [A Mom's Cookbook](https://amomscookbook.com/)
 - [My Dainty Soul Curry](https://www.mydaintysoulcurry.com/)
 - [My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
 - [My Weekend Kitchen](https://www.myweekendkitchen.in/)
+
 - [Nam's Corner](https://www.namscorner.com/)
 - [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)
+
 - [One Teaspoon of Life](https://www.oneteaspoonoflife.com/)
+
+- [Pammi's Kitchen](https://pammiskitchen.weebly.com/)
 - [Polka Puffs](https://polkapuffs.in/)
 - [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
+
 - [Ranveer Brar](https://ranveerbrar.com/)
 - [Ribbons to Pasta](https://ribbonstopastas.com/)
 - [Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)
 - [Rumki's Golden Spoon](https://rumkisgoldenspoon.com/)
+
 - [Sailu's Food](https://www.sailusfood.com/)
 - [Sanjeev Kapoor](https://www.sanjeevkapoor.com/)
 - [Secret Indian Recipe](https://secretindianrecipe.com/)
@@ -472,18 +501,22 @@
 - [Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)
 - [Swasthi's Recipes](https://www.indianhealthyrecipes.com/)
 - [Swati's Kitchen](https://swatisani.net/kitchen/)
+
 - [The Take It Easy Chef](https://www.thetakeiteasychef.com/)
 - [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)
 - [Tastes of Malabar](https://www.tastesofmalabar.com/)
 - [Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)
 - [Times of India](https://recipes.timesofindia.com/us/recipes)
 - [Tomato Blues](https://www.tomatoblues.com/)
+
 - [Varada's Kitchen](https://varadaskitchen.blogspot.com/)
 - [Vegecravings](https://vegecravings.com/)
 - [Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)
+
 - [Yummefy](https://www.yummefy.com/)
 - [Yummy Asha's Kitchen](https://yummyashaskitchen.com/)
 - [Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)
+
 - [Zaiqa](https://www.zaiqa.com/)
 - [Zayka Ka Tadka](https://www.zaykakatadka.com/)
 - [Zeel's Kitchen](https://www.zeelskitchen.com/)
@@ -601,8 +634,11 @@
 - [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
 - [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [Da Vina Vegan](http://davinadavegan.com/)
+- [Dish By Ili](https://dishbyili.com/)
 - [**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)
 - [Fried Chillies](https://friedchillies.com/)
+- [Julia Olive](https://www.julieolive.co.uk/)
+- [Keto Jules](https://www.ketojules.com/)
 - [Lisa's Lemony Kitchen](https://www.mykeuken.com/)
 - [Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)
 - [Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)
@@ -614,6 +650,7 @@
 - [Roti n' Rice](https://www.rotinrice.com/)
 - [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
 - [Thokoh Makan](https://thokohmakan.com/)
+- [Wendy Inkk](https://wendyinkk.blogspot.com/)
 
 #### Middle East
 - [Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)
@@ -729,6 +766,7 @@
 - [The Big Sweet Tooth](https://www.thebigsweettooth.com/)
 
 #### Uzbekistan
+- [Seattle Tashkent](https://seattle-tashkent.org/uzbek-recipes/)
 - [Uzbek Cooking](http://uzbekcooking.blogspot.com/)
 
 #### Yemen
@@ -778,9 +816,11 @@
 - [It's Fork and Spoon](https://itsforkandspoon.com/)
 - [Kawaling Pinoy](https://www.kawalingpinoy.com/)
 - [Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)
+- [Lahat Sarap](https://lahatsarap.blogspot.com/)
 - [MAGGI Philippines](https://www.maggi.ph/)
 - [Magluto](http://www.magluto.com/)
 - [Manila Spoon](https://www.manilaspoon.com/)
+- [Maria Franco](https://www.maria-franco.com/search/label/Recipes)
 - [Overseas Pinoy Cooking](https://www.overseaspinoycooking.net/)
 - [Pagkaing Pinoy TV](https://www.pagkaingpinoytv.com/)
 - [Pansalang Pinoy](https://panlasangpinoy.com/)
@@ -795,6 +835,7 @@
 - [Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/)
 - [Reel and Grill](http://reelandgrill.blogspot.com/)
 - [Recipes by Nora](https://www.recipesbynora.com/)
+- [Rezel Kealoha](https://rezelkealoha.com/)
 - [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
 - [Savor Filipino Food](https://savorfilipino.food.blog/)
 - [**Seafood City**](https://www.seafoodcity.com/category/recipes/)
@@ -915,7 +956,9 @@
 - [Cook With Manali](https://www.cookwithmanali.com/)
 - [Cuisine of Vietnam](https://cuisineofvietnam.com/)
 - [d'anis et d'etoiles](https://danisetdetoilesdotcom.wordpress.com/)
+- [Frankly Awesome Food](https://franklyawesomefood.com/)
 - [Jen H. Dao](https://jenhdao.com/)
+- [Juliee Ho](https://juleeho.com/julee-ho-cooks/)
 - [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
 - [A Peachy Plate](https://apeachyplate.com/)
 - [Rice n' Flour](http://www.ricenflour.com/)
@@ -5690,22 +5733,28 @@
 - [Bobby Chinn](https://www.bobbychinn.com/recipes/)
 - [Cat Cora](https://catcora.com/blogs/recipes)
 - [Chef Bryan](https://cookingwithchefbryan.com/)
+- [Chef Irvine](https://chefirvine.com/)
 - [Chef Jean-Pierre](https://chefjeanpierre.com/)
 - [Chef Jet](https://chefjet.com/)
 - [Chef Tu](https://cheftu.com/)
 - [Cravings By Chrissy Teigen](https://cravingsbychrissyteigen.com/)
 - [Curtis Stone](https://www.curtisstone.com/recipes)
 - [David Lebovitz](https://www.davidlebovitz.com/)
+- [Denis Cotter](http://www.deniscotter.com/recipes)
 - [Diane Kochilas](https://www.dianekochilas.com/)
 - [Donal Skehan](https://donalskehan.com/recipes/)
 - [Emeril](https://www.emerils.com/recipes)
 - [Emily Ellyn](https://www.emilyellyn.com/recipes/)
+- [Georgia Pellegrini](https://georgiapellegrini.com/topics/food-drink/)
+- [Georgie Eats](https://georgieeats.co.uk/)
 - [Giadzy](https://giadzy.com/blogs/recipes)
 - [Gordon Ramsay](https://www.gordonramsay.com/gr/recipes/)
 - [Gordon Ramsay Recipe](https://gordon-ramsay-recipe.com/)
 - [Harpal S. Sokhi](https://harpalssokhi.com/)
 - [Hiroko's Kitchen](https://hirokoskitchen.com/category/recipes/)
+- [James Martin](https://www.jamesmartinchef.co.uk/recipe-collections/)
 - [Jamie Oliver](https://www.jamieoliver.com/)
+- [Jean-Georges](https://www.jean-georges.com/)
 - [John Gregory Smith](https://www.johngregorysmith.com/)
 - [Ludo LeFebvre](https://www.ludolefebvre.com/recipes)
 - [Marcus Samuelsson](https://marcussamuelsson.com/recipe)
@@ -5714,6 +5763,7 @@
 - [Michael Chiarello](http://michaelchiarello.com/recipes/)
 - [Michael Symon](http://www.michaelsymon.com/blog)
 - [Paula Deen](https://www.pauladeen.com/recipes/)
+- [Paul Hollywood](https://www.paulhollywood.com/recipes-1)
 - [Rachael Ray](https://rachaelray.com/blogs/recipes)
 - [Rachael Ray Show](https://www.rachaelrayshow.com/recipes)
 - [Rick Bayless](https://www.rickbayless.com/recipe/)
@@ -5774,6 +5824,7 @@
 - [Dallas News](https://www.dallasnews.com/food/cooking/)
 - [Deavita](https://deavita.net/recipes)
 - [Delicious Magazine](https://www.deliciousmagazine.co.uk/)
+- [Delighted Cooking](https://www.delightedcooking.com/)
 - [Direct Access Recipes](https://www.directaccessrecipes.com/)
 - [Discuss Cooking](https://www.discusscooking.com/categories/recipes-ingredients.5/)
 - [Dreaming of Butterflies](https://www.dreamingofbutterflies.co/category/lifestyle/delicious-recipes/)
@@ -5783,6 +5834,7 @@
 - [Fine Dining Lovers](https://www.finedininglovers.com/recipes)
 - [Forkly](https://m.forkly.com/recipes/)
 - [Garden and Gun](https://gardenandgun.com/)
+- [Goody](https://goody.buzz/us/)
 - [Gourmand Asia](https://www.gourmandasia.com/)
 - [Gourmandize](https://www.gourmandize.com/)
 - [Great British Chefs](https://www.greatbritishchefs.com/)
