@@ -2398,6 +2398,9 @@
 ### Low-Protein
 - [Low-Pro Recipes](http://www.lowprorecipes.com/)
 
+### Mennonite
+- [Mennonite Girls Can Cook](http://www.mennonitegirlscancook.ca/)
+
 ### Migraine-Friendly
 - [The Dizzy Cook](https://thedizzycook.com/)
 - [Migraine Relief Plan](https://migrainereliefplan.com/recipes/)
