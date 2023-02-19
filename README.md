@@ -286,11 +286,24 @@
 - [Fa's Kitchen](https://www.faskitchen.com/)
 - [Fine Dining Indian](https://finediningindian.com/)
 - [Fitter Eats](https://www.fittereats.com/)
+- [Flavors of Mumbai](http://www.flavorsofmumbai.com/)
+- [Flavours of My Kitchen](https://flavoursofmykitchen.com/)
+- [Flavours to Savour](http://www.flavourstosavour.com/category/recipes)
 - [Foodie's Hut Recipes](https://www.foodieshutrecipes.com/)
+- [Foodie Trail](https://www.foodie-trail.com/)
 
+- [Garu's Kitchen](http://www.garuskitchen.com/)
+- [The Gastronomic Bong](https://thegastronomicbong.com/)
 - [Geeta ki Duniya](https://www.geetakiduniya.com/)
 
+- [Haala's Dastarkhaan](https://haalasdastarkhaan.com/)
 - [Hari Ghotra](https://www.harighotra.co.uk/)
+- [Hassan Chef](https://www.hassanchef.com/)
+- [Hatty Foods](https://hattyfoods.com/)
+- [Healthy Cooking with Mitha](https://healthy-cooking-with-mitha.com/)
+- [Hebbar's Kitchen](https://hebbarskitchen.com/)
+- [Hema Magesh](https://hemamagesh.com/)
+- [Hooked on Heat](https://www.hookedonheat.com/)
 
 - [Indian Ambrosia](https://indianambrosia.com/)
 - [India Netzone](https://www.indianetzone.com/food/)
@@ -299,13 +312,19 @@
 - [Indian Kitchen and Spices](https://indiankitchenandspices.com/)
 - [Indian Recipes](https://indianrecipes.com/)
 - [Indian Veggie Delight](https://www.indianveggiedelight.com/)
+- [IndoBase](http://www.indobase.com/)
 
 - [Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)
 - [Joo's Food](https://joosfood.com/)
+- [**Just Go To Chef**](https://www.justgotochef.com/recipes/category)
 
+- [Kali Mirch](https://kalimirchbysmita.com/)
+- [Kannamma Cooks](https://www.kannammacooks.com/)
 - [Kitchen Flavours](https://kitchenflavours.net/)
 - [Kothiya Vunu](https://www.kothiyavunu.com/)
 
+- [Let's Be Foodie](https://letsbefoodie.com/)
+- [Licious](https://www.licious.in/blog/)
 - [Living Smart and Healthy](https://www.livingsmartandhealthy.com/recipes/)
 
 - [Maayeka](https://maayeka.com/)
@@ -324,34 +343,73 @@
 - [My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)
 - [My Heart Beets](https://myheartbeets.com/)
 - [My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)
+- [My Spice](https://myspice.in/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
 - [My Weekend Kitchen](https://www.myweekendkitchen.in/)
 
 - [Nam's Corner](https://www.namscorner.com/)
+- [NDTV Food](https://food.ndtv.com/)
 - [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)
 
 - [One Teaspoon of Life](https://www.oneteaspoonoflife.com/)
 
+- [Padhu's Kitchen](https://www.padhuskitchen.com/)
+- [Palate's Desire](https://www.palatesdesire.com/)
 - [Pammi's Kitchen](https://pammiskitchen.weebly.com/)
+- [Pavani's Kitchen](https://www.pavaniskitchen.com/)
+- [Pep Kitchen](https://pepkitchen.com/)
+- [Pepper Chilli and Vanilla](http://pepperchilliandvanilla.blogspot.com/)
 - [Polka Puffs](https://polkapuffs.in/)
 - [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)
+- [Priya's Virundhu](https://www.priyasvirundhu.com/)
+- [Pure Curry](https://www.purecurry.com/)
 - [**Pure Indian Foods**](https://blog.pureindianfoods.com/)
 
+- [Rajshri Food](https://rajshrifood.com/)
+- [Raks Kitchen](https://rakskitchen.net/)
 - [Ranveer Brar](https://ranveerbrar.com/)
+- [RasoiTak](https://www.rasoitak.com/)
+- [Ravi Sisodiya](https://ravisisodiya.com/)
+- [Recipes18](https://www.recipes18.com/all/)
+- [Recipes Are Simple](https://recipesaresimple.com/)
+- [Recipes of Home](https://recipesofhome.com/)
 - [Ribbons to Pasta](https://ribbonstopastas.com/)
 - [Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)
 - [Rumki's Golden Spoon](https://rumkisgoldenspoon.com/)
 
+- [Sabiha's Kitchen](https://sabihaskitchen.com/)
 - [Sailu's Food](https://www.sailusfood.com/)
+- [Sameera's Kitchen](https://udarbharna.com/)
+- [Sananimam](https://sananimam.com/food-2/)
+- [Sandhiya's Cookbook](https://www.sandhiyascookbook.com/)
+- [Sandhya's Kitchen](https://sandhyahariharan.co.uk/)
+- [Sang's Kitchen](https://sangskitchen.com/)
 - [Sanjeev Kapoor](https://www.sanjeevkapoor.com/)
 - [Scratching Canvas](https://www.scratchingcanvas.com/)
 - [Secret Indian Recipe](https://secretindianrecipe.com/)
+- [Seduce Your Tastebuds](https://seduceyourtastebuds.com/)
 - [Sharmi's Passions](https://www.sharmispassions.com/)
+- [Shelly Food Spot](https://www.shellyfoodspot.com/)
+- [Show Me the Curry](https://showmethecurry.com/)
+- [Shweta in the Kitchen](https://shwetainthekitchen.com/)
+- [Simmer to Slimmer](https://simmertoslimmer.com/)
 - [Simple Sumptuous Cooking](https://www.mrishtanna.com/)
+- [Simply Tadka](https://simplytadka.com/)
+- [Sindhi Food Mazaa](http://www.sindhifoodmazaa.com/)
+- [Sindhi Rasoi](https://sindhirasoi.com/)
+- [Sinfully Spicy](https://sinfullyspicy.com/)
+- [Slurrp](https://www.slurrp.com/)
 - [SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)
 - [Some Indian Girl](https://someindiangirl.com/)
 - [Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)
 - [Spice India Online](https://www.spiceindiaonline.com/)
+- [Spice It Upp](https://spiceitupp.com/recipes/)
+- [The Spice Mess](https://thespicemess.com/)
+- [Spice Up the Curry](https://www.spiceupthecurry.com/)
+- [SpicYum](https://www.spicyum.com/)
+- [Subbu's Kitchen](https://www.subbuskitchen.com/)
+- [Suji's Cooking](https://www.sujiscooking.com/)
+- [Sunayana Gupta](https://www.sunayanagupta.com/)
 - [Sunera Kitchen](https://www.sunerakitchen.com/)
 - [Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)
 - [Swasthi's Recipes](https://www.indianhealthyrecipes.com/)
@@ -361,6 +419,7 @@
 - [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)
 - [Tastes of Malabar](https://www.tastesofmalabar.com/)
 - [Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)
+- [Tickling Palates](https://www.ticklingpalates.com/)
 - [Times of India](https://recipes.timesofindia.com/us/recipes)
 - [Tomato Blues](https://www.tomatoblues.com/)
 
@@ -368,8 +427,12 @@
 - [Vegecravings](https://vegecravings.com/)
 - [Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)
 
+- [WeRecipes](https://werecipes.com/)
+- [Whisk Affair](https://www.whiskaffair.com/)
+
 - [Yummefy](https://www.yummefy.com/)
 - [Yummy Asha's Kitchen](https://yummyashaskitchen.com/)
+- [Yummy Sooo Yummy](http://yummysoooyummy.blogspot.com/)
 - [Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)
 
 - [Zaiqa](https://www.zaiqa.com/)
@@ -389,6 +452,9 @@
 - [Experiences of A Gastronomad](https://experiencesofagastronomad.com/)
 - [Finally Foodie](https://finallyfoodie.com/)
 - [Foodie's Hut](https://www.foodieshutrecipes.com/)
+- [Go Sum It Up](https://gosumitup.com/recipes)
+- [Playful Cooking](https://www.playfulcooking.com/)
+- [Raanna](http://www.raanna.com/)
 - [Speaking Aloud](https://speakingaloud.in/)
 ##### Bihar
 |     |
@@ -403,12 +469,10 @@
 | --- | --- |
 |[Garo Recipes/Garo Food](https://tensanz2012.wordpress.com/)|[Mobsea](http://mobsea.com/what-to-eat-in-meghalaya/Garo-recipe)|
 ##### Goa
-- [Aromatic Essence](https://aromaticessence.co/)
-- [Big Fat Tummy](https://www.bigfattummy.com/)
-- [Celebration in My Kitchen](https://www.celebrationinmykitchen.com/)
-- [Florency Dias](https://florencydias.blogspot.com/)
-- [Goan Food Recipes](https://www.goanfoodrecipes.com/)
-- [Xantilicious](https://xantilicious.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Aromatic Essence](https://aromaticessence.co/)|[Big Fat Tummy](https://www.bigfattummy.com/)|[Celebration in My Kitchen](https://www.celebrationinmykitchen.com/)|[Florency Dias](https://florencydias.blogspot.com/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|
+|[Raksha's Kitchen](https://www.rakshaskitchen.com/)|[Xantilicious](https://xantilicious.com/)|
 ##### Gujarati
 |     |
 | --- |
@@ -430,13 +494,21 @@
 | --- |
 |[The Big Sweet Tooth](https://www.thebigsweettooth.com/)|
 ##### Mangalore
-|     |     |
-| --- | --- |
-|[One Plate Please](https://www.oneplateplease.com/)|[Sherryl's Good Food](https://delicioussweetaroma.com/2017/03/05/mangalorean-snacks/)|
+|     |     |     |
+| --- | --- | --- |
+|[One Plate Please](https://www.oneplateplease.com/)|[Ruchik Randhap](https://www.ruchikrandhap.com/)|[Sherryl's Good Food](https://delicioussweetaroma.com/2017/03/05/mangalorean-snacks/)|
+##### Odia
+|     |
+| --- |
+|[Odia Recipes](https://odiarecipes.com/index.php)|
 ##### Parsi
 |     |
 | --- |
 |[Bawi Bride](https://bawibride.com/)|
+##### Udupi
+|     |
+| --- |
+|[Udupi Recipes](https://udupi-recipes.com/)|
 
 #### Indonesia
 - [Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)
