@@ -31,6 +31,7 @@
 - [Easy Budget Recipes](https://easybudgetrecipes.com/)
 - [Eating on a Dime](https://www.eatingonadime.com/)
 - [Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)
+- [Feast For All](https://feastforall.org/resources/recipes/)
 - [Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)
 - [A Few Shortcuts](https://afewshortcuts.com/)
 - [Friendly Veg](https://friendlyveg.com/)
