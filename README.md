@@ -112,7 +112,7 @@
 |     |     |     |
 | --- | --- | --- |
 |[Just North of Cool](https://justnorthofcool.co.za/category/recipes/)|[SA People](https://www.sapeople.com/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
- - ##### Cape Malay
+- ##### Cape Malay
 |     |     |
 | --- | --- |
 |[Cape Malay Cooking Delights](https://capemalaycookingdelights.com/)|[Fatima Sydow Cooks](https://fatimasydow.co.za/)|
@@ -173,17 +173,16 @@
 |[Veggie Anh](https://veggieanh.com/)|[Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)|[What to Cook Today](https://whattocooktoday.com/)|[Wok and Skillet](https://www.wokandskillet.com/)|[**Wong She**](https://wongshe.com.au/category/recipe/)|
 |[Woo Can Cook](https://www.woocancook.com/)|[Woon Heng](https://woonheng.com/)|[Zhang Catherine](https://zhangcatherine.com/)|
 
-#### Bangladesh
+- #### Bangladesh
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
 
-#### Bhutan
+- #### Bhutan
 |     |     |     |
 | --- | --- | --- |
 |[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[Druk Girl](https://www.drukgirl.com/)|[My Bhutan](https://blog.mybhutan.com/food)|
-
-#### Burma
+- #### Burma
 |     |     |
 | --- | --- |
 |[Burmalicious by Suu](https://www.theburmalicious.com/)|[Burmese Vegan](https://burmesevegan.com/)|
