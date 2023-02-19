@@ -40,104 +40,104 @@
 |[My Burnt Orange](https://www.myburntorange.com/)|[Natura Yum](https://www.naturayum.com/)|[O'Hana Market](https://ohanamarketlex.com/recipes/)|[Pan-African](https://pan-african.net/recipe/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|
 |[We Eat at Last](https://weeatatlast.com/)|[West Africa Cooks](https://www.westafricacooks.com/africa/)|[Yolele](https://yolele.com/recipes)|[Yummy Medley](https://www.yummymedley.com/)|
 
- - #### Burkina Faso
+- #### Burkina Faso
 |     |
 | --- |
 |[Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)|
 
-#### Cameroon
+- #### Cameroon
 |     |
 | --- |
 |[Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)|
 
-#### Cape Verde
+- #### Cape Verde
 |     |
 | --- |
 |[Crumb-Snatched](https://www.crumbsnatched.com/)|
 
-#### Egypt
+- #### Egypt
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)|[Food of Egypt](https://www.foodofegypt.com/)|[Scarf Gal Food](https://scarfgalfood.com/)|[Yum Reads](https://yumreads.com/)|
 
-#### Ethiopia
+- #### Ethiopia
 |     |
 | --- |
 |[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|
 
-#### Ghana
+- #### Ghana
 |     |     |     |
 | --- | --- | --- |
 |[Biscuits and Ladles](https://biscuitsandladles.com/)|[Ginger and Sea Salt](https://gingerandseasalt.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
-#### Kenya
+- #### Kenya
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|[Jikoni Magic](https://jikonimagic.com/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|
 
-#### Liberia
+- #### Liberia
 |     |     |
 | --- | --- |
 |[Liberian Forum](http://www.liberianforum.com/recipe.htm)|[Okra Pantry](https://www.okrapantry.com/)|
 
-#### Libya
+- #### Libya
 |     |
 | --- |
 |[The Libyan Kitchen](https://www.thelibyankitchen.com/)|
 
-#### Mauritius
+- #### Mauritius
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Cocozil](http://cocozil.com/)|[Ever Peckish](https://everpeckish.com/)|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
-#### Morocco
+- #### Morocco
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Maroc Mama](https://marocmama.com/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 |[Salima's Kitchen](https://salimaskitchen.com/)|[Taste of Maroc](https://tasteofmaroc.com/)|
 
-#### Nigeria
+- #### Nigeria
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Chef Lola's Kitchen](https://cheflolaskitchen.com/)|[Daddy's Nom](https://daddysnom.com/)|[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|
 |[Minjiba Cookey](https://minjibacookey.com/)|[My Active Kitchen](https://www.myactivekitchen.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Sisi Jemimah](https://sisijemimah.com/)|
 |[Vegan Nigerian](https://www.vegannigerian.com/)|
 
-#### Somalia
+- #### Somalia
 |     |
 | --- |
 |[Xawaash](http://xawaash.com/)|
 
-#### South Africa
+- #### South Africa
 |     |     |     |
 | --- | --- | --- |
 |[Just North of Cool](https://justnorthofcool.co.za/category/recipes/)|[SA People](https://www.sapeople.com/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
-##### Cape Malay
+ - ##### Cape Malay
 |     |     |
 | --- | --- |
 |[Cape Malay Cooking Delights](https://capemalaycookingdelights.com/)|[Fatima Sydow Cooks](https://fatimasydow.co.za/)|
 
-#### South Sudan
+- #### South Sudan
 |     |
 | --- |
 |[**Tales of South Sudan**](https://tasteofsouthsudan.com/category/recipes/)|
 
-#### Sudan
+- #### Sudan
 |     |
 | --- |
 |[Tales of Jewish Sudan](https://www.talesofjewishsudan.com/recipes)|
 
-#### Tunisia
+- #### Tunisia
 |     |     |
 | --- | --- |
 |[Our Tunisian Table](https://www.ourtunisiantable.com/)|[Treats Homemade](https://www.treatshomemade.com/en/)|
 
-#### Uganda
+- #### Uganda
 |     |
 | --- |
 |[A Kitchen in Uganda](https://akitcheninuganda.com/)|
 
-#### Zimbabwe
+- #### Zimbabwe
 |     |     |     |
 | --- | --- | --- |
 |[Cooking With Caz](https://cookingwithcaz.com/)|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|[Zimbo Kitchen](https://www.zimbokitchen.com/)|
