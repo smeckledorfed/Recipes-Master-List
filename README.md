@@ -212,11 +212,9 @@
 |[Zhang Catherine](https://zhangcatherine.com/)|
 
 #### Bangladesh
-- [Afelia's Kitchen](https://www.afeliaskitchen.com/)
-- [The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)
-- [Cooking Canary](https://cookingcanary.com/)
-- [Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)
-- [Rownak's Kitchen](https://banglarecipes.com.au/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
 
 #### Bhutan
 |     |     |     |
