@@ -33,7 +33,7 @@
 ### Africa
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[The Africa Cookbooks](https://theafricacookbook.com/)|[Africa Food Love](https://www.africanfood.recipes/)|[African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)|[African Food Network](https://afrifoodnetwork.com/|[AfroVitalityEats](https://afrovitalityeats.com/)|
+|[The Africa Cookbooks](https://theafricacookbook.com/)|[Africa Food Love](https://www.africanfood.recipes/)|[African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)|[African Food Network](https://afrifoodnetwork.com/)|[AfroVitalityEats](https://afrovitalityeats.com/)|
 |[Amuna Foods](https://amunafoods.com/)|[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/)|[The Canadian African](https://thecanadianafrican.com/)|[The Congo Cookbook](http://www.congocookbook.com/)|
 |[Cooking With Gaul](https://cookingwithgaul.com/)|[The Diasporic Dish](https://thediasporicdish.com/)|[Eat Well Abi](https://eatwellabi.com/)|[Ev's Eats](https://evseats.com/)|[Fa Fa Gilbert](https://fafagilbert.com/recipes/)|
 |[Food Plus Words](https://foodpluswords.com/)|[Grubbys](https://grubbys.africa/)|[Humble Vege](https://humblevege.com/)|[**Hutwise**](https://hutwise.com/blogs/recipes)|[Jayne Rain](https://jayne-rain.com/)|
