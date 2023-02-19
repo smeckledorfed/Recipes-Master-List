@@ -1384,53 +1384,41 @@
 - [Z-Nuni](http://www.tinebrunost.com/recipes)
 
 #### Slavic
-- [Slavic Vegan](http://www.slavicvegan.com/)
+|     |     |
+| --- | --- |
+|[Food Perestroika](https://foodperestroika.com/)|[Slavic Vegan](http://www.slavicvegan.com/)|
 ##### Belarus
-- [Belarus.by](https://www.belarus.by/en/about-belarus/cuisine/belarusian-recipes)
+|     |
+| --- |
+|[Belarus.by](https://www.belarus.by/en/about-belarus/cuisine/belarusian-recipes)|
 ##### Russia
-- [Babushka Cooking](https://www.babushkacooking.com/)
-- [Meet Russia](https://meetrussia.online/russian-food/)
-- [Russia Beyond](https://www.rbth.com/russian-kitchen)
-- [Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)
-- [Russian Recipe Book](https://russianrecipebook.com/)
-- [Russian Spirit](https://ruspirit.ru/en/russain_food_with_recipes)
-- [Russland Journal](https://www.russlandjournal.de/en/russian-recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Babushka Cooking](https://www.babushkacooking.com/)|[Meet Russia](https://meetrussia.online/russian-food/)|[RusCuisine](http://www.ruscuisine.com/)|[Russia Beyond](https://www.rbth.com/russian-kitchen)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|
+|[Russian Recipe Book](https://russianrecipebook.com/)|[Russian Spirit](https://ruspirit.ru/en/russain_food_with_recipes)|[Russland Journal](https://www.russlandjournal.de/en/russian-recipes/)|
 ##### Ukraine
-- [Anna Voloshyna](https://annavoloshyna.com/)
-- [Authentic Ukraine](https://authenticukraine.com.ua/en/food)
-- [Etnocook](https://etnocook.com/)
-- [Klopotenko](https://klopotenko.com/en/)
-- [Let the Baking Begin](https://letthebakingbegin.com/)
-- [**Proborsch**](https://proborsch.com/)
-- [Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)
-- [Ukraine Food](https://ukrainefood.info/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Anna Voloshyna](https://annavoloshyna.com/)|[Authentic Ukraine](https://authenticukraine.com.ua/en/food)|[Etnocook](https://etnocook.com/)|[Klopotenko](https://klopotenko.com/en/)|[Let the Baking Begin](https://letthebakingbegin.com/)|
+|[My Odessa Kitchen](http://www.myodessacuisine.com/en/)|[**Proborsch**](https://proborsch.com/)|[Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)|[Ukraine Food](https://ukrainefood.info/)|
 
 ##### United Kingdom
-- [Britain Express](https://www.britainexpress.com/articles/Food/index.htm)
-- [British Food History](https://britishfoodhistory.com/)
-- [Great British Puddings](https://www.greatbritishpuddings.com/)
-- [Medieval Britain](https://medievalbritain.com/category/type/medieval-life/medieval-recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Britain Express](https://www.britainexpress.com/articles/Food/index.htm)|[British Food History](https://britishfoodhistory.com/)|[Fuss-Free Flavours](https://fussfreeflavours.com/)|[Grandad's Cookbook](https://grandadscookbook.co.uk/)|[Great British Puddings](https://www.greatbritishpuddings.com/)|
+|[Medieval Britain](https://medievalbritain.com/category/type/medieval-life/medieval-recipes/)|[Recipes 4 Us](https://www.recipes4us.co.uk/)|
 ###### England
-- [The English Kitchen](https://www.theenglishkitchen.co/)
-- [Foods of England](http://www.foodsofengland.co.uk/index.htm)
-- [Lavender and Lovage](https://www.lavenderandlovage.com/)
-- [Tradition Yorkshire Recipes](https://traditional-yorkshire-recipes.info/)
+|[The English Kitchen](https://www.theenglishkitchen.co/)|[Foods of England](http://www.foodsofengland.co.uk/index.htm)|[Lavender and Lovage](https://www.lavenderandlovage.com/)|[Neil Cooks Grigson](https://neilcooksgrigson.com/)|[Tradition Yorkshire Recipes](https://traditional-yorkshire-recipes.info/)|
 ###### Scotland
-- [Farmer's Girl Kitchen](https://www.farmersgirlkitchen.co.uk/)
-- [Glasgow Diet](https://glasgowdiet.com/)
-- [Our So-Called Life](https://www.oursocalledlife.co.uk/recipes/)
-- [Rampant Scotland](http://www.rampantscotland.com/recipes/)
-- [Scottish Food Guide](https://scottishfoodguide.com/recipes-scottish-food-guide-wendy-barrie/)
-- [Scottish Mum](https://scottishmum.com/)
-- [Scottish Scran](https://scottishscran.com/)
-- [Tartan Spoon](https://www.tartanspoon.co.uk/food-recipes)
-- [Tinned Tomatoes](https://www.tinnedtomatoes.com/)
-- [Undiscovered Scotland](https://www.undiscoveredscotland.co.uk/usrecipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Farmer's Girl Kitchen](https://www.farmersgirlkitchen.co.uk/)|[Glasgow Diet](https://glasgowdiet.com/)|[Our So-Called Life](https://www.oursocalledlife.co.uk/recipes/)|[Rampant Scotland](http://www.rampantscotland.com/recipes/)|[The Scotsman](https://foodanddrink.scotsman.com/recipes/)|
+|[Scottish Food Guide](https://scottishfoodguide.com/recipes-scottish-food-guide-wendy-barrie/)|[Scottish Mum](https://scottishmum.com/)|[Scottish Scran](https://scottishscran.com/)|[Tartan Spoon](https://www.tartanspoon.co.uk/food-recipes)|[Tinned Tomatoes](https://www.tinnedtomatoes.com/)|
+|[Undiscovered Scotland](https://www.undiscoveredscotland.co.uk/usrecipes/)|
 ###### Wales
-- [Cadw](https://cadw.gov.wales/learn/histories/foods-fashions-lifestyles/tasty-tudor-recipes)
-- [Cailleach's Herbarium](https://cailleachs-herbarium.com/category/herbalism/)
-- [The Rare Welsh Bit](https://www.therarewelshbit.com/)
-- [Visit Wales](https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Cadw](https://cadw.gov.wales/learn/histories/foods-fashions-lifestyles/tasty-tudor-recipes)|[Cailleach's Herbarium](https://cailleachs-herbarium.com/category/herbalism/)|[The Rare Welsh Bit](https://www.therarewelshbit.com/)|[Visit Wales](https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes)|
 
 ### North America
 
