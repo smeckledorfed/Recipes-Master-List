@@ -182,17 +182,18 @@
 |     |     |     |
 | --- | --- | --- |
 |[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[Druk Girl](https://www.drukgirl.com/)|[My Bhutan](https://blog.mybhutan.com/food)|
+
 - #### Burma
 |     |     |
 | --- | --- |
 |[Burmalicious by Suu](https://www.theburmalicious.com/)|[Burmese Vegan](https://burmesevegan.com/)|
 
-#### Cambodia
+- #### Cambodia
 |     |     |     |
 | --- | --- | --- |
 |[Angkor Food](https://www.angkorfood.com/recipes/index.html)|[Cambodia Recipe](https://cambodiarecipe.com/)|[Chef Nak](https://www.chefnak.com/recipes)|
 
-#### China
+- #### China
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Alice C. Sun](https://www.alicecsun.com/recipes)|[Asian Cooking Mom](https://www.asiancookingmom.com/)|[Auntie Emily's Kitchen](https://auntieemily.com/)|[The Burning Kitchen](https://theburningkitchen.com/)|[Butter Over Bae](https://butteroverbae.com/)|
@@ -211,24 +212,24 @@
 |[TCM World](https://www.tcmworld.org/health/recipes/)|[Two Red Bowls](https://tworedbowls.com/)|[Unfamiliar China](https://www.unfamiliarchina.com/)|[Urban Remedy](https://urbanremedy.com/category/recipes/)|[Victor's Recipes](https://www.victorsrecipes.com/)|
 |[What Sharon Eats](https://whatsharoneats.com/recipes/)|[Wok and Kin](https://www.wokandkin.com/)|[The Woks of Life](https://thewoksoflife.com/)|[Yi Reservation](http://yireservation.com/)|[Yan Can Cook](https://yancancook.com/home/)|
 |[Yum Chinese Food](https://www.yumchinesefood.com/)|[Yum of China](https://www.yumofchina.com/)|[Yun's Family Table](https://yunsfamilytable.com/)|
-##### Cantonese
-- [Cook With Dana](https://cookwithdana.com/recipes/)
-- [Delicious Not Gorgeous](https://deliciousnotgorgeous.com/)
-- [Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)
-##### Sichuan
+- ##### Cantonese
+|     |     |     |
+| --- | --- | --- |
+|[Cook With Dana](https://cookwithdana.com/recipes/)|[Delicious Not Gorgeous](https://deliciousnotgorgeous.com/)|[Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)|
+- ##### Sichuan
 |     |     |
 | --- | --- |
 |[China Sichuan Food](https://www.chinasichuanfood.com/)|[Yi's Sichuan Kitchen](https://sichuankitchenrecipes.com/)|
-##### Shanghai
+- ##### Shanghai
 |     |     |
 | --- | --- |
 |[Cook in Shanghai](https://www.cookinshanghai.com/recipes/)|[**The Mala Market**](https://blog.themalamarket.com/)|
-##### Xinjiang
+- ##### Xinjiang
 |     |     |     |
 | --- | --- | --- |
 |[Dolan Chick](https://www.dolanchick.com/)|[Far West China](https://www.farwestchina.com/cuisine/)|[Uyghur Collective](https://uyghurcollective.com/community?blogcategory=Food)|
 
-#### Hong Kong
+- #### Hong Kong
 |     |
 | --- |
 |[The Hong Kong Cookery](https://www.thehongkongcookery.com/)|
