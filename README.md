@@ -143,23 +143,17 @@
 |[Cooking With Caz](https://cookingwithcaz.com/)|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|[Zimbo Kitchen](https://www.zimbokitchen.com/)|
 
 ### Asia
-- **#**
-
-|     |
+| #   |
 | --- |
 |[3than Wong](https://www.3thanwong.com/)|
 
-- **A**
-
-|     |     |     |     |     |
+| A   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Amazing Asian Food](https://amazingasianfood.com/)|[Angel Wong's Kitchen](https://www.angelwongskitchen.com/)|[Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)|[Annie Chun](https://anniechun.com/recipes/)|[Asian Caucasian](https://www.asiancaucasian.com/)|
 |[Asian Inspirations](https://asianinspirations.com.au/)|[Asian Recipe](https://asian-recipe.com/)|[Asian Recipes at Home](https://asianrecipesathome.com/)|[Asian Test Kitchen](https://asiantestkitchen.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|
 |[Assorted Eats](https://www.assortedeats.com/)|
 
-- **B**
-
-|     |     |     |     |     |
+| B   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Belated Brewery](https://www.belatedbrewery.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Bite My Bun](https://www.bitemybun.com/)|[Blue Apocalypse](http://www.blueapocalypse.com/p/asian.html)|[The Bowl Cut](https://thebowlcut.com/pages/the-special)|
 |[But First Chai](https://butfirstchai.com/)|
