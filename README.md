@@ -623,10 +623,9 @@
 - [**Sweet Pillar**](http://www.sweetpillar.com/)
 
 #### Afghanistan
-- [Afghan Culture Unveiled](https://www.afghancultureunveiled.com/work)
-- [Afghan Kitchen Recipes](http://www.afghankitchenrecipes.com/)
-- [Afghan Yummy Food](https://www.afghanyummyfood.com/)
-- [Cooking County](https://cookingcounty.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Afghan Culture Unveiled](https://www.afghancultureunveiled.com/work)|[Afghan Kitchen Recipes](http://www.afghankitchenrecipes.com/)|[Afghan Yummy Food](https://www.afghanyummyfood.com/)|[Cooking County](https://cookingcounty.com/)|[Imanistan](https://www.imanistan.com/)|
 
 #### Armenia
 - [Adventures in Armenian Cooking](http://www.armeniapedia.org/index.php?title=Adventures_in_Armenian_Cooking)
@@ -636,7 +635,9 @@
 - [The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)
 
 #### Azerbaijan
-- [AZ Cookbook](https://azcookbook.com/)
+|     |     |
+| --- | --- |
+|[AZ Cookbook](https://azcookbook.com/)|[Flavors of Baku](https://flavorsofbaku.com/)|
 
 #### Georgia
 - [Advantour](https://www.advantour.com/georgia/dishes.html)
