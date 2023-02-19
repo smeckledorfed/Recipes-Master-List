@@ -6157,110 +6157,84 @@
 - [Yan Can Cook](https://yancancook.com/home/recipe-index/)
 
 ### Community
-- [4 All Taste](https://4alltaste.com/)
-- [12 Tomatoes](https://12tomatoes.com/)
-- [30 Seconds](https://30seconds.com/)
-- [360 Happy Kitchen](https://360happykitchen.com/)
-- [1000 World Recipes](https://1000worldrecipes.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[4 All Taste](https://4alltaste.com/)|[12 Tomatoes](https://12tomatoes.com/)|[30 Seconds](https://30seconds.com/)|[360 Happy Kitchen](https://360happykitchen.com/)|[1000 World Recipes](https://1000worldrecipes.com/)|
+|[Academy of Culinary Nutrition](https://www.culinarynutrition.com/category/recipes/)|[ACF Chefs](https://www.acfchefs.org/ACFSource/Recipes/)|[Akis Petretzikis](https://akispetretzikis.com/en)|[All Delicious Recipes](https://hpg98.tripod.com/index.htm)|[All Ears](https://allears.net/recipes/)|
+|[Allrecipes](https://www.allrecipes.com/)|[All the Flavors](https://alltheflavors.com/)|[All Women's Talk](https://food.allwomenstalk.com/)|[America's Test Kitchen](https://www.americastestkitchen.com/)|[Antonio Carluccio](https://www.antonio-carluccio.com/)|
+|[Argiro Barbarigou](http://argirobarbarigou.com/)|[Arizona Emergency Information Network](https://ein.az.gov/recipes)|[Arousing Appetites](https://arousingappetites.com/)|[B+C Guides](https://guides.brit.co/guides/topic/food/)|[Backwoods Home](https://www.backwoodshome.com/category/food-and-recipes/)|
+|[Bakespace](https://www.bakespace.com/)|[BBC Food](https://www.bbc.co.uk/food)|[BBC Good Food](https://www.bbcgoodfood.com/)|[Better Butter](https://www.betterbutter.in/recipes)|[Better Homes & Gardens](https://www.bhg.com/recipes/)|
+|[Big Oven](https://www.bigoven.com/)|[Bon Apeti](https://bonapeti.com/)|[Bon Appetit](https://www.bonappetit.com/)|[Boston Chefs](https://www.bostonchefs.com/recipe/)|[Brit](https://www.brit.co/)|
+|[Bustle](https://www.bustle.com/food)|[Cardamom Magazine](https://cardamommagazine.com/)|[The Cascade](http://ufvcascade.ca/tag/food-and-drinks/)|[Chef's Pencil](https://www.chefspencil.com/)|[Chest of Books](https://chestofbooks.com/food/recipes/index.html)|
 
-- [Academy of Culinary Nutrition](https://www.culinarynutrition.com/category/recipes/)
-- [ACF Chefs](https://www.acfchefs.org/ACFSource/Recipes/)
-- [Akis Petretzikis](https://akispetretzikis.com/en)
-- [All Delicious Recipes](https://hpg98.tripod.com/index.htm)
-- [All Ears](https://allears.net/recipes/)
-- [Allrecipes](https://www.allrecipes.com/)
-- [All the Flavors](https://alltheflavors.com/)
-- [All Women's Talk](https://food.allwomenstalk.com/)
-- [America's Test Kitchen](https://www.americastestkitchen.com/)
-- [Antonio Carluccio](https://www.antonio-carluccio.com/)
-- [Argiro Barbarigou](http://argirobarbarigou.com/)
-- [Arizona Emergency Information Network](https://ein.az.gov/recipes)
-- [Arousing Appetites](https://arousingappetites.com/)
-
-- [B+C Guides](https://guides.brit.co/guides/topic/food/)
-- [Backwoods Home](https://www.backwoodshome.com/category/food-and-recipes/)
-- [Bakespace](https://www.bakespace.com/)
-- [BBC Food](https://www.bbc.co.uk/food)
-- [BBC Good Food](https://www.bbcgoodfood.com/)
-- [Better Butter](https://www.betterbutter.in/recipes)
-- [Better Homes & Gardens](https://www.bhg.com/recipes/)
-- [Big Oven](https://www.bigoven.com/)
-- [Bon Apeti](https://bonapeti.com/)
-- [Bon Appetit](https://www.bonappetit.com/)
-- [Boston Chefs](https://www.bostonchefs.com/recipe/)
-- [Brit](https://www.brit.co/)
-- [Bustle](https://www.bustle.com/food)
-
-- [Cardamom Magazine](https://cardamommagazine.com/)
-- [The Cascade](http://ufvcascade.ca/tag/food-and-drinks/)
-- [Chef's Pencil](https://www.chefspencil.com/)
-- [Chest of Books](https://chestofbooks.com/food/recipes/index.html)
 - [CKBK](https://app.ckbk.com/)
 - [Clean Eating Mag](https://www.cleaneatingmag.com/clean-eating-recipes/)
 - [Cook Eat Share](https://m.cookeatshare.com/)
 - [Cooking Bites](https://www.cookingbites.com/)
 - [Cooking Nook](https://www.cookingnook.com/)
+
 - [Cookpad](https://cookpad.com/us)
 - [The Cook's Cook](https://thecookscook.com/)
 - [Copy Me That](https://www.copymethat.com/)
 - [Cosmopolitan](https://www.cosmopolitan.com/food-cocktails/)
 - [Country Life](https://www.countrylife.co.uk/food-drink)
+
 - [Cuisinen](https://cuisinen.com/)
 - [The Cuisine Network](https://www.cuisinenet.com/)
 - [Cybersoup](https://www.netcooks.com/)
-
 - [The Daily Meal](https://www.thedailymeal.com/)
 - [Dallas News](https://www.dallasnews.com/food/cooking/)
+
 - [Deavita](https://deavita.net/recipes)
 - [Delicious Magazine](https://www.deliciousmagazine.co.uk/)
 - [Delighted Cooking](https://www.delightedcooking.com/)
 - [Direct Access Recipes](https://www.directaccessrecipes.com/)
 - [Discuss Cooking](https://www.discusscooking.com/categories/recipes-ingredients.5/)
+
 - [Dreaming of Butterflies](https://www.dreamingofbutterflies.co/category/lifestyle/delicious-recipes/)
 - [DVO](http://www.dvo.com/)
-
 - [Edible Communities](https://www.ediblecommunities.com/)
 - [Epicurious](https://www.epicurious.com/)
-
 - [The Feed Feed](https://thefeedfeed.com/)
+
 - [Fine Dining Lovers](https://www.finedininglovers.com/recipes)
 - [Food24](https://www.food24.com/)
 - [Food52](https://food52.com/)
 - [Food Champs](https://www.foodchamps.org/)
 - [Food.com](https://www.food.com/)
+
 - [Food Combo](https://foodcombo.com/)
 - [Food Gawker](https://foodgawker.com/)
 - [Food Geeks](https://foodgeeks.com/)
 - [Foodie Wish](https://foodiewish.com/)
 - [Food Pair](http://foodpair.com/)
+
 - [Food Republic](https://www.foodrepublic.com/)
 - [Food Social](https://foodsocial.io/)
 - [Food Talk Daily](https://www.foodtalkdaily.com/recipes)
 - [Forkly](https://m.forkly.com/recipes/)
-
 - [Garden and Gun](https://gardenandgun.com/)
+
 - [Goody](https://goody.buzz/us/)
 - [Gourmand Asia](https://www.gourmandasia.com/)
 - [Gourmandize](https://www.gourmandize.com/)
 - [Great British Chefs](https://www.greatbritishchefs.com/)
 - [Greatist](https://greatist.com/program/recipes)
+
 - [Group Recipes](http://www.grouprecipes.com/)
 - [The Guardian](https://www.theguardian.com/tone/recipes)
-
 - [The Happy Foodie](https://thehappyfoodie.co.uk/)
 - [Happy Forks](https://happyforks.com/)
 - [Hearty Cooks' Room](https://heartycooksroom.com/category/recipes/)
+
 - [The Henry Ford](https://www.thehenryford.org/explore/recipes-and-cookbooks/)
 - [Honest Cooking](https://honestcooking.com/)
-
 - [Instructables](https://www.instructables.com/cooking/)
-
 - [James Beard](https://www.jamesbeard.org/recipes)
 - [Join Foody](https://joinfoody.com/)
 
 - [Kitchen Nine](https://kitchen.nine.com.au/recipes)
 - [Kiwi Limon](https://us.kiwilimon.com/)
-
 - [The Leaf](https://leaf.nutrisystem.com/recipes/?filters=)
 - [Lemontrend](https://lemontrend.com/recipes/)
 - [Life and Thyme](https://lifeandthyme.com/category/recipes/)
@@ -6269,15 +6243,14 @@
 - [Metro (Canada)](https://www.metro.ca/en/recipes-occasions)
 - [Miss Tam Chiak](https://www.misstamchiak.com/cook/)
 - [My Food Book](https://myfoodbook.com.au/)
-
 - [New York Street Food](https://newyorkstreetfood.com/category/kitchen-tips/)
+
 - [New York Times Cooking](https://cooking.nytimes.com/)
 - [NZ Herald](https://www.nzherald.co.nz/eatwell/recipes/)
-
 - [Oldways](https://oldwayspt.org/)
 - [Oxygen Mag](https://www.oxygenmag.com/healthy-recipes-for-women/)
-
 - [Pachakam](https://www.pachakam.com/)
+
 - [Penang Foodie](https://penangfoodie.com/category/recipe/)
 - [Plain Chicken](https://www.plainchicken.com/)
 - [Plattershare](https://www.plattershare.com/)
@@ -6288,13 +6261,14 @@
 - [Recipe Dose](https://www.recipedose.com/)
 - [Recipe Free](https://www.recipe-free.com/)
 - [Recipe Zazz](https://www.recipezazz.com/)
-
 - [Sainsbury Magazine](https://www.sainsburysmagazine.co.uk/recipes)
+
 - [Savour Calgary](https://savourcalgary.ca/recipes/)
 - [Secret Sauce](https://secretsauce.co.uk/)
 - [Serious Eats](https://www.seriouseats.com/)
 - [Servings](https://www.servings.org/recipes/)
 - [Side Chef](https://www.sidechef.com/)
+
 - [The Singapore Women's Weekly](https://www.womensweekly.com.sg/food/)
 - [The Skullery](https://theskullery.net/)
 - [Spoon University](https://spoonuniversity.com/recipe)
@@ -6304,11 +6278,10 @@
 - [Taste.com.au](https://www.taste.com.au/)
 - [Tastemade](https://www.tastemade.com/)
 - [Taste of Harmony](https://www.tasteofharmony.org.au/recipes/)
-
 - [Veg World Mag](https://vegworldmag.com/recipes/)
 - [Very Good Recipes](https://verygoodrecipes.com/)
-- [Vice](https://www.vice.com/en/section/food)
 
+- [Vice](https://www.vice.com/en/section/food)
 - [Whisk](https://my.whisk.com/communities)
 - [Wocobook](https://www.wocobook.com/us)
 - [World Food](https://worldfood.guide/)
@@ -6316,7 +6289,6 @@
 
 - [Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)
 - [Yummly](https://www.yummly.com/)
-
 - [ZeeZest](https://zeezest.com/recipes)
 
 ### Media
