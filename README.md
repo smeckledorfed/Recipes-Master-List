@@ -4,7 +4,6 @@
 - If a website doesn't seem to have a particular focus on anything, it will be in the *Miscellaneous* section.
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it.
 - Brands have been **bolded**.
-- Please alert me if there are any dead links or a website is miscategorized! I will try to update as soon as I can.
 
 ## Budget
 |     |     |     |     |     |
@@ -72,9 +71,9 @@
 |[Biscuits and Ladles](https://biscuitsandladles.com/)|[Ginger and Sea Salt](https://gingerandseasalt.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
 #### Kenya
-|     |     |     |
-| --- | --- | --- |
-|[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|[Jikoni Magic](https://jikonimagic.com/)|
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|[Jikoni Magic](https://jikonimagic.com/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|
 
 #### Liberia
 |     |     |
@@ -92,23 +91,25 @@
 |[Cocozil](http://cocozil.com/)|[Ever Peckish](https://everpeckish.com/)|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
 #### Morocco
-|     |     |     |     |
-| --- | --- | --- | --- |
-|[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Maroc Mama](https://marocmama.com/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
+|Salima's Kitchen](https://salimaskitchen.com/)|[Taste of Maroc](https://tasteofmaroc.com/)|
 
 #### Nigeria
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Chef Lola's Kitchen](https://cheflolaskitchen.com/)|[Daddy's Nom](https://daddysnom.com/)|[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|
-|[Minjiba Cookey](https://minjibacookey.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Vegan Nigerian](https://www.vegannigerian.com/)|
+|[Minjiba Cookey](https://minjibacookey.com/)|[My Active Kitchen](https://www.myactivekitchen.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Sisi Jemimah](https://sisijemimah.com/)|
+|[Vegan Nigerian](https://www.vegannigerian.com/)|
 
 #### Somalia
 - [Xawaash](http://xawaash.com/)
 
 #### South Africa
-|     | --- |
-| --- | --- |
-|[Just North of Cool](https://justnorthofcool.co.za/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
+|     |     |     |
+| --- | --- | --- |
+|[Just North of Cool](https://justnorthofcool.co.za/category/recipes/)|[SA People](https://www.sapeople.com/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
 ##### Cape Malay
 |     |     |
 | --- | --- |
