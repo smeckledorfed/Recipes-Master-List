@@ -10,16 +10,10 @@
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|[Belly Cheap Cook](https://www.bellycheapcook.com/)|
-
 |[Broke and Cooking](https://www.brokeandcooking.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|[Casually Peckish](https://casuallypeckish.com/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|
-
-|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Cook Eat Go](https://cookeatgo.com/)|
-
-|[Coupon Clipping Cook](https://www.couponclippingcook.com/)|[The Crazy Craft Lady](https://thecrazycraftlady.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|[Ditch the Wheat](https://ditchthewheat.com/)|[Don't Waste the Crumbs](https://dontwastethecrumbs.com/)|
-
-|[Drugstore Divas](https://www.drugstoredivas.net/category/food/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Feast For All](https://feastforall.org/resources/recipes/)|
-
-|[Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Frugal Farm Wife](https://www.frugalfarmwife.com/)|[The Frugal Girls](https://thefrugalgirls.com/)|
+|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Cook Eat Go](https://cookeatgo.com/)|[Coupon Clipping Cook](https://www.couponclippingcook.com/)|[The Crazy Craft Lady](https://thecrazycraftlady.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|
+|[Ditch the Wheat](https://ditchthewheat.com/)|[Don't Waste the Crumbs](https://dontwastethecrumbs.com/)|[Drugstore Divas](https://www.drugstoredivas.net/category/food/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|
+|[Feast For All](https://feastforall.org/resources/recipes/)|[Fabulessly Frugal](https://fabulesslyfrugal.com/recipes/)|[A Few Shortcuts](https://afewshortcuts.com/)|[Friendly Veg](https://friendlyveg.com/)|[Frugal Farm Wife](https://www.frugalfarmwife.com/)|[The Frugal Girls](https://thefrugalgirls.com/)|
 
 |[Frugal Hausfrau](https://frugalhausfrau.com/)|[The Frugal Homestead](https://thefrugalhomestead.com/)|[Frugal Living NW](https://www.frugallivingnw.com/recipes/)|[The Frugal Navy Wife](https://www.thefrugalnavywife.com/quick-and-easy-recipes-from-the-frugal-navy-wife/)|[Getty Stewart](https://www.gettystewart.com/)|
 
