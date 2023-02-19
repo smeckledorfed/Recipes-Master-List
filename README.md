@@ -308,13 +308,22 @@
 
 - [Living Smart and Healthy](https://www.livingsmartandhealthy.com/recipes/)
 
+- [Maayeka](https://maayeka.com/)
 - [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
 - [Manjula's Kitchen](https://www.manjulaskitchen.com/)
+- [Maya Bugs](http://mayabugs.com/blog/)
+- [**Maya Kaimal**](https://www.mayakaimal.com/recipes/)
+- [Mayuri's Jikoni](https://mayuris-jikoni.com/)
+- [Mellow Masala](https://www.mellowmasala.com/)
+- [Ministry of Curry](https://ministryofcurry.com/)
 - [Mirchi Tales](https://www.mirchitales.com/)
 - [Mom and Ideas](https://momandideas.com/category/recipes/)
 - [A Mom's Cookbook](https://amomscookbook.com/)
+- [My Curry Veda](https://www.mycurryveda.com/)
 - [My Dainty Soul Curry](https://www.mydaintysoulcurry.com/)
 - [My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)
+- [My Heart Beets](https://myheartbeets.com/)
+- [My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)
 - [My Vegetarian Roots](https://myvegetarianroots.com/)
 - [My Weekend Kitchen](https://www.myweekendkitchen.in/)
 
