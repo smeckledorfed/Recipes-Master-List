@@ -170,30 +170,27 @@
 |[A Day in the Kitchen](https://www.adayinthekitchen.com/)|[Delectabilia](https://www.delectabilia.com/)|[Deli Crunch](https://delicrunch.co/)|[Delightful Plate](https://delightfulplate.com/)|[Devour.Asia](https://devour.asia/)|
 |[Drive Me Hungry](https://drivemehungry.com/)|
 
-- [East Meets Kitchen](http://eastmeetskitchen.com/)
-- [Eat Cho Food](https://eatchofood.com/)
-- [Eat with Jin](http://eatwithjin.com/)
-- [Elinluv's Tidbit Corner](http://www.elinluv.com/)
-- [El Mundo Eats](https://www.elmundoeats.com/en/)
-- [Eric Tries It](https://erictriesit.com/)
+| E   |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[East Meets Kitchen](http://eastmeetskitchen.com/)|[Eat Cho Food](https://eatchofood.com/)|[Eat with Jin](http://eatwithjin.com/)|[Elinluv's Tidbit Corner](http://www.elinluv.com/)|[El Mundo Eats](https://www.elmundoeats.com/en/)|
+|[Eric Tries It](https://erictriesit.com/)|
 
-- [Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)
-- [Feeding My Ohana](https://www.feedingmyohana.com/)
-- [Fitsian Food Life](https://fitsianfoodlife.com/)
-- [The Floured Camera](https://www.theflouredcamera.com/)
-- [The Foodie Takes Flight](https://thefoodietakesflight.com/)
-- [Foxy Folksy](https://www.foxyfolksy.com/)
-- [Fused By Fiona Uyema](https://fusedbyfionauyema.com/)
+| F   |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)|[Feeding My Ohana](https://www.feedingmyohana.com/)|[Fitsian Food Life](https://fitsianfoodlife.com/)|[The Floured Camera](https://www.theflouredcamera.com/)|[The Foodie Takes Flight](https://thefoodietakesflight.com/)|
+|[Foxy Folksy](https://www.foxyfolksy.com/)|[Fused By Fiona Uyema](https://fusedbyfionauyema.com/)|
 
-- [Greedy Girl Gourmet](https://www.greedygirlgourmet.com/)
-- [Greedy Panda](https://greedy-panda.com/)
+| G   |     |
+| --- | --- |
+|[Greedy Girl Gourmet](https://www.greedygirlgourmet.com/)|[Greedy Panda](https://greedy-panda.com/)|
 
-- [Health Gluten-Free Asian](https://www.healthygfasian.com/)
-- [Home Cooking With Somjit](https://homecookingwithsomjit.com/)
-- [Honest Food Talks](https://www.honestfoodtalks.com/)
+| H   |     |     |
+| --- | --- | --- |
+|[Health Gluten-Free Asian](https://www.healthygfasian.com/)|[Home Cooking With Somjit](https://homecookingwithsomjit.com/)|[Honest Food Talks](https://www.honestfoodtalks.com/)|
 
-- [Ian Kewks](https://iankewks.com/)
-- [I Heart Umami](https://iheartumami.com/)
+| I   |     |
+| --- | --- |
+|[Ian Kewks](https://iankewks.com/)|[I Heart Umami](https://iheartumami.com/)|
 
 - [Jasmine and Tea](https://jasmineandtea.com/)
 - [Jen's Jip Bap](https://jensjipbap.com/)
