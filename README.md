@@ -6092,69 +6092,21 @@
 - [**Zojirushi**](https://www.zojirushi.com/)
 
 ### Celebrity Chef
-- [Aaron Sanchez](https://www.chefaaronsanchez.com/recipes-blog)
-- [Adan Medrano](https://adanmedrano.com/)
-- [Alex Guarnaschelli](https://alexguarnaschelli.com/recipes/)
-- [Alton Brown](https://altonbrown.com/)
-- [Andrew Zimmern](https://andrewzimmern.com/)
-- [Andy Baraghani](https://www.andybaraghani.com/recipes)
-- [Annabelle White](https://www.annabellewhite.com/recipes)
-- [Barefoot Contessa](https://barefootcontessa.com/)
-- [Bobby Chinn](https://www.bobbychinn.com/recipes/)
-- [Cat Cora](https://catcora.com/blogs/recipes)
-- [Chef Bryan](https://cookingwithchefbryan.com/)
-- [Chef Irvine](https://chefirvine.com/)
-- [Chef Jean-Pierre](https://chefjeanpierre.com/)
-- [Chef Jet](https://chefjet.com/)
-- [Chef Tu](https://cheftu.com/)
-- [Cravings By Chrissy Teigen](https://cravingsbychrissyteigen.com/)
-- [Curtis Stone](https://www.curtisstone.com/recipes)
-- [David Lebovitz](https://www.davidlebovitz.com/)
-- [Denis Cotter](http://www.deniscotter.com/recipes)
-- [Diane Kochilas](https://www.dianekochilas.com/)
-- [Donal Skehan](https://donalskehan.com/recipes/)
-- [Ed Baines](https://www.ed-baines.com/recipes.html)
-- [Emeril](https://www.emerils.com/recipes)
-- [Emily Ellyn](https://www.emilyellyn.com/recipes/)
-- [Explore Parts Unknown](https://explorepartsunknown.com/category/eat/)
-- [Georgia Pellegrini](https://georgiapellegrini.com/topics/food-drink/)
-- [Georgie Eats](https://georgieeats.co.uk/)
-- [Giadzy](https://giadzy.com/blogs/recipes)
-- [Gordon Ramsay](https://www.gordonramsay.com/gr/recipes/)
-- [Gordon Ramsay Recipe](https://gordon-ramsay-recipe.com/)
-- [Harpal S. Sokhi](https://harpalssokhi.com/)
-- [Hiroko's Kitchen](https://hirokoskitchen.com/category/recipes/)
-- [James Martin](https://www.jamesmartinchef.co.uk/recipe-collections/)
-- [Jamie Oliver](https://www.jamieoliver.com/)
-- [Jean-Georges](https://www.jean-georges.com/)
-- [Jess Pryles](https://jesspryles.com/)
-- [John Gregory Smith](https://www.johngregorysmith.com/)
-- [Ludo LeFebvre](https://www.ludolefebvre.com/recipes)
-- [Marcus Samuelsson](https://marcussamuelsson.com/recipe)
-- [Mark Bittman](https://markbittman.com/recipes)
-- [Martha Stewart](https://www.marthastewart.com/1509043/food-cooking)
-- [Mary Berry](https://www.maryberry.co.uk/recipes/)
-- [Michael Chiarello](http://michaelchiarello.com/recipes/)
-- [Michael Ruhlman](https://ruhlman.com/)
-- [Michael Symon](http://www.michaelsymon.com/blog)
-- [Nancy Birtwhistle](https://www.nancybirtwhistle.co.uk/)
-- [Nick Stellino](https://www.nickstellino.com/recipe_category/all-recipes/)
-- [Nigella Lawson](https://www.nigella.com/)
-- [Nigel Slater](https://www.nigelslater.com/Recipes)
-- [Pati Jinich](https://patijinich.com/recipes/)
-- [Paula Deen](https://www.pauladeen.com/recipes/)
-- [Paul Hollywood](https://www.paulhollywood.com/recipes-1)
-- [Rachael Ray](https://rachaelray.com/blogs/recipes)
-- [Rachael Ray Show](https://www.rachaelrayshow.com/recipes)
-- [Ray McVinnie](https://www.raymcvinnie.com/blog)
-- [Rick Bayless](https://www.rickbayless.com/recipe/)
-- [Robert St. John](https://robertstjohn.com/recipes/)
-- [Sohla El-Waylly](https://www.hellosohla.com/)
-- [Stephanie Alexander](https://www.stephaniealexander.com.au/)
-- [Toni Fiore](https://www.tonifiore.com/)
-- [Vivian Chan](https://www.simmerdownwithviv.com/)
-- [Wolfgang Puck Cooking School](https://www.wolfgangpuckcookingschool.com/recipes/wolfgangs-signature-recipes/)
-- [Yan Can Cook](https://yancancook.com/home/recipe-index/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Aaron Sanchez](https://www.chefaaronsanchez.com/recipes-blog)|[Adan Medrano](https://adanmedrano.com/)|[Alex Guarnaschelli](https://alexguarnaschelli.com/recipes/)|[Alton Brown](https://altonbrown.com/)|[Andrew Zimmern](https://andrewzimmern.com/)|
+|[Andy Baraghani](https://www.andybaraghani.com/recipes)|[Annabelle White](https://www.annabellewhite.com/recipes)|[Barefoot Contessa](https://barefootcontessa.com/)|[Bobby Chinn](https://www.bobbychinn.com/recipes/)|[Cat Cora](https://catcora.com/blogs/recipes)|
+|[Chef Bryan](https://cookingwithchefbryan.com/)|[Chef Irvine](https://chefirvine.com/)|[Chef Jean-Pierre](https://chefjeanpierre.com/)|[Chef Jet](https://chefjet.com/)|[Chef Tu](https://cheftu.com/)|
+|[Cravings By Chrissy Teigen](https://cravingsbychrissyteigen.com/)|[Curtis Stone](https://www.curtisstone.com/recipes)|[David Lebovitz](https://www.davidlebovitz.com/)|[Denis Cotter](http://www.deniscotter.com/recipes)|[Diane Kochilas](https://www.dianekochilas.com/)|
+|[Donal Skehan](https://donalskehan.com/recipes/)|[Ed Baines](https://www.ed-baines.com/recipes.html)|[Emeril](https://www.emerils.com/recipes)|[Emily Ellyn](https://www.emilyellyn.com/recipes/)|[Explore Parts Unknown](https://explorepartsunknown.com/category/eat/)|
+|[Georgia Pellegrini](https://georgiapellegrini.com/topics/food-drink/)|[Georgie Eats](https://georgieeats.co.uk/)|[Giadzy](https://giadzy.com/blogs/recipes)|[Gordon Ramsay](https://www.gordonramsay.com/gr/recipes/)|[Gordon Ramsay Recipe](https://gordon-ramsay-recipe.com/)|
+|[Harpal S. Sokhi](https://harpalssokhi.com/)|[Hiroko's Kitchen](https://hirokoskitchen.com/category/recipes/)|[James Martin](https://www.jamesmartinchef.co.uk/recipe-collections/)|[Jamie Oliver](https://www.jamieoliver.com/)|[Jean-Georges](https://www.jean-georges.com/)|
+|[Jess Pryles](https://jesspryles.com/)|[John Gregory Smith](https://www.johngregorysmith.com/)|[Ludo LeFebvre](https://www.ludolefebvre.com/recipes)|[Marcus Samuelsson](https://marcussamuelsson.com/recipe)|[Mark Bittman](https://markbittman.com/recipes)|
+|[Martha Stewart](https://www.marthastewart.com/1509043/food-cooking)|[Mary Berry](https://www.maryberry.co.uk/recipes/)|[Michael Chiarello](http://michaelchiarello.com/recipes/)|[Michael Ruhlman](https://ruhlman.com/)|[Michael Symon](http://www.michaelsymon.com/blog)|
+|[Nancy Birtwhistle](https://www.nancybirtwhistle.co.uk/)|[Nick Stellino](https://www.nickstellino.com/recipe_category/all-recipes/)|[Nigella Lawson](https://www.nigella.com/)|[Nigel Slater](https://www.nigelslater.com/Recipes)|[Pati Jinich](https://patijinich.com/recipes/)|
+|[Paula Deen](https://www.pauladeen.com/recipes/)|[Paul Hollywood](https://www.paulhollywood.com/recipes-1)|[Rachael Ray](https://rachaelray.com/blogs/recipes)|[Rachael Ray Show](https://www.rachaelrayshow.com/recipes)|[Ray McVinnie](https://www.raymcvinnie.com/blog)|
+|[Rick Bayless](https://www.rickbayless.com/recipe/)|[Robert St. John](https://robertstjohn.com/recipes/)|[Sohla El-Waylly](https://www.hellosohla.com/)|[Stephanie Alexander](https://www.stephaniealexander.com.au/)|[Toni Fiore](https://www.tonifiore.com/)|
+|[Vivian Chan](https://www.simmerdownwithviv.com/)|[Wolfgang Puck Cooking School](https://www.wolfgangpuckcookingschool.com/recipes/wolfgangs-signature-recipes/)|[Yan Can Cook](https://yancancook.com/home/recipe-index/)|
 
 ### Community
 |     |     |     |     |     |
