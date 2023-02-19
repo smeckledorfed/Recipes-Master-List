@@ -40,7 +40,7 @@
 |[My Burnt Orange](https://www.myburntorange.com/)|[Natura Yum](https://www.naturayum.com/)|[O'Hana Market](https://ohanamarketlex.com/recipes/)|[Pan-African](https://pan-african.net/recipe/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|
 |[We Eat at Last](https://weeatatlast.com/)|[West Africa Cooks](https://www.westafricacooks.com/africa/)|[Yolele](https://yolele.com/recipes)|[Yummy Medley](https://www.yummymedley.com/)|
 
-#### Burkina Faso
+ - #### Burkina Faso
 |     |
 | --- |
 |[Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)|
