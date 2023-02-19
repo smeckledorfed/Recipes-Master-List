@@ -143,7 +143,8 @@
 |[Cooking With Caz](https://cookingwithcaz.com/)|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|[Zimbo Kitchen](https://www.zimbokitchen.com/)|
 
 ### Asia
-| #   |
+**#**
+|     |
 | --- |
 |[3than Wong](https://www.3thanwong.com/)|
 
