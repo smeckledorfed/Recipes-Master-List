@@ -1907,25 +1907,18 @@
 ## Diet
 
 ### Allergy-Friendly
-- [Allergic Foodie](https://allergicfoodie.com/)
-- [Allergic Princess](https://www.allergicprincess.com/)
-- [Allergy Awesomeness](https://allergyawesomeness.com/)
-- [The Allergy Mom](https://theallergymom.com/)
-- [Cooking for Oscar](https://www.cookingforoscar.com/)
-- [Cookin' With Mommy](https://cookinwithmommy.blogspot.com/)
-- [Eating with Food Allergies](https://www.eatingwithfoodallergies.com/)
-- [The Fit Cookie](https://thefitcookie.com/)
-- [Flavorpalooza](https://flavorpalooza.com/)
-- [Food Allergy P.I.](https://foodallergypi.com/)
-- [The Honest Spoonful](https://thehonestspoonful.com/)
-- [Living Beyond Allergies](https://www.livingbeyondallergies.com/)
-- [Petite Allergy Treats](https://petiteallergytreats.com/)
-- [Rach L Mansfield](https://rachlmansfield.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Allergic Foodie](https://allergicfoodie.com/)|[Allergic Princess](https://www.allergicprincess.com/)|[Allergy Awesomeness](https://allergyawesomeness.com/)|[The Allergy Mom](https://theallergymom.com/)|[Cooking for Oscar](https://www.cookingforoscar.com/)|
+|[Cookin' With Mommy](https://cookinwithmommy.blogspot.com/)|[Eating with Food Allergies](https://www.eatingwithfoodallergies.com/)|[The Fit Cookie](https://thefitcookie.com/)|[Flavorpalooza](https://flavorpalooza.com/)|[Food Allergy P.I.](https://foodallergypi.com/)|
+|[Fresh Is Real](https://www.freshisreal.com/)|[Heather Christo](https://heatherchristo.com/)|[The Honest Spoonful](https://thehonestspoonful.com/)|[Just What We Eat](https://www.justwhatweeat.com/)|[Lane and Grey Fare](https://laneandgreyfare.com/)|
+|[Living Beyond Allergies](https://www.livingbeyondallergies.com/)|[Nut-Free Wok](https://nutfreewok.com/)|[Petite Allergy Treats](https://petiteallergytreats.com/)|[The Pretty Bee](https://theprettybee.com/)|[Rach L Mansfield](https://rachlmansfield.com/)|
+|[Strength and Sunshine](https://strengthandsunshine.com/)|[**Voyaging Foods**](https://www.voyagingfoods.com/blogs/recipes)|
 
 ### Catholic
-- [Catholic Cuisine](https://catholiccuisine.blogspot.com/)
-- [Catholic Culture](https://www.catholicculture.org/culture/liturgicalyear/recipes/)
-- [Catholic Foodie](https://www.catholicfoodie.com/)
+|     |     |     |
+| --- | --- | --- |
+|[Catholic Cuisine](https://catholiccuisine.blogspot.com/)|[Catholic Culture](https://www.catholicculture.org/culture/liturgicalyear/recipes/)|[Catholic Foodie](https://www.catholicfoodie.com/)|
 
 ### Dairy-Free
 - (all websites in the vegan section)
