@@ -40,75 +40,75 @@
 |[My Burnt Orange](https://www.myburntorange.com/)|[Natura Yum](https://www.naturayum.com/)|[O'Hana Market](https://ohanamarketlex.com/recipes/)|[Pan-African](https://pan-african.net/recipe/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|
 |[We Eat at Last](https://weeatatlast.com/)|[West Africa Cooks](https://www.westafricacooks.com/africa/)|[Yolele](https://yolele.com/recipes)|[Yummy Medley](https://www.yummymedley.com/)|
 
-- #### Burkina Faso
+#### Burkina Faso
 |     |
 | --- |
 |[Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)|
 
-- #### Cameroon
+#### Cameroon
 |     |
 | --- |
 |[Keng's Kitchen](https://www.kengskitchen.com/cameroon-recipes)|
 
-- #### Cape Verde
+#### Cape Verde
 |     |
 | --- |
 |[Crumb-Snatched](https://www.crumbsnatched.com/)|
 
-- #### Egypt
+#### Egypt
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)|[Food of Egypt](https://www.foodofegypt.com/)|[Scarf Gal Food](https://scarfgalfood.com/)|[Yum Reads](https://yumreads.com/)|
 
-- #### Ethiopia
+#### Ethiopia
 |     |
 | --- |
 |[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|
 
-- #### Ghana
+#### Ghana
 |     |     |     |
 | --- | --- | --- |
 |[Biscuits and Ladles](https://biscuitsandladles.com/)|[Ginger and Sea Salt](https://gingerandseasalt.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
-- #### Kenya
+#### Kenya
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Grubbys](https://grubbys.africa/)|[Jikoni Magic](https://jikonimagic.com/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|
 
-- #### Liberia
+#### Liberia
 |     |     |
 | --- | --- |
 |[Liberian Forum](http://www.liberianforum.com/recipe.htm)|[Okra Pantry](https://www.okrapantry.com/)|
 
-- #### Libya
+#### Libya
 |     |
 | --- |
 |[The Libyan Kitchen](https://www.thelibyankitchen.com/)|
 
-- #### Mauritius
+#### Mauritius
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Cocozil](http://cocozil.com/)|[Ever Peckish](https://everpeckish.com/)|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
-- #### Morocco
+#### Morocco
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Maroc Mama](https://marocmama.com/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 |[Salima's Kitchen](https://salimaskitchen.com/)|[Taste of Maroc](https://tasteofmaroc.com/)|
 
-- #### Nigeria
+#### Nigeria
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[All Nigerian Recipes](https://www.allnigerianrecipes.com/)|[Chef Lola's Kitchen](https://cheflolaskitchen.com/)|[Daddy's Nom](https://daddysnom.com/)|[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Kitchen Butterfly](https://www.kitchenbutterfly.com/)|
 |[Minjiba Cookey](https://minjibacookey.com/)|[My Active Kitchen](https://www.myactivekitchen.com/)|[Nigerian Food TV](https://www.nigerianfoodtv.com/)|[Nigerian Lazy Chef](https://www.nigerianlazychef.com/)|[Sisi Jemimah](https://sisijemimah.com/)|
 |[Vegan Nigerian](https://www.vegannigerian.com/)|
 
-- #### Somalia
+#### Somalia
 |     |
 | --- |
 |[Xawaash](http://xawaash.com/)|
 
-- #### South Africa
+#### South Africa
 |     |     |     |
 | --- | --- | --- |
 |[Just North of Cool](https://justnorthofcool.co.za/category/recipes/)|[SA People](https://www.sapeople.com/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
@@ -117,27 +117,27 @@
 | --- | --- |
 |[Cape Malay Cooking Delights](https://capemalaycookingdelights.com/)|[Fatima Sydow Cooks](https://fatimasydow.co.za/)|
 
-- #### South Sudan
+#### South Sudan
 |     |
 | --- |
 |[**Tales of South Sudan**](https://tasteofsouthsudan.com/category/recipes/)|
 
-- #### Sudan
+#### Sudan
 |     |
 | --- |
 |[Tales of Jewish Sudan](https://www.talesofjewishsudan.com/recipes)|
 
-- #### Tunisia
+#### Tunisia
 |     |     |
 | --- | --- |
 |[Our Tunisian Table](https://www.ourtunisiantable.com/)|[Treats Homemade](https://www.treatshomemade.com/en/)|
 
-- #### Uganda
+#### Uganda
 |     |
 | --- |
 |[A Kitchen in Uganda](https://akitcheninuganda.com/)|
 
-- #### Zimbabwe
+#### Zimbabwe
 |     |     |     |
 | --- | --- | --- |
 |[Cooking With Caz](https://cookingwithcaz.com/)|[Naturally Zimbabwean](https://naturallyzimbabwean.com/)|[Zimbo Kitchen](https://www.zimbokitchen.com/)|
@@ -173,27 +173,27 @@
 |[Veggie Anh](https://veggieanh.com/)|[Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)|[What to Cook Today](https://whattocooktoday.com/)|[Wok and Skillet](https://www.wokandskillet.com/)|[**Wong She**](https://wongshe.com.au/category/recipe/)|
 |[Woo Can Cook](https://www.woocancook.com/)|[Woon Heng](https://woonheng.com/)|[Zhang Catherine](https://zhangcatherine.com/)|
 
-- #### Bangladesh
+#### Bangladesh
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
 
-- #### Bhutan
+#### Bhutan
 |     |     |     |
 | --- | --- | --- |
 |[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[Druk Girl](https://www.drukgirl.com/)|[My Bhutan](https://blog.mybhutan.com/food)|
 
-- #### Burma
+#### Burma
 |     |     |
 | --- | --- |
 |[Burmalicious by Suu](https://www.theburmalicious.com/)|[Burmese Vegan](https://burmesevegan.com/)|
 
-- #### Cambodia
+#### Cambodia
 |     |     |     |
 | --- | --- | --- |
 |[Angkor Food](https://www.angkorfood.com/recipes/index.html)|[Cambodia Recipe](https://cambodiarecipe.com/)|[Chef Nak](https://www.chefnak.com/recipes)|
 
-- #### China
+#### China
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Alice C. Sun](https://www.alicecsun.com/recipes)|[Asian Cooking Mom](https://www.asiancookingmom.com/)|[Auntie Emily's Kitchen](https://auntieemily.com/)|[The Burning Kitchen](https://theburningkitchen.com/)|[Butter Over Bae](https://butteroverbae.com/)|
@@ -229,12 +229,12 @@
 | --- | --- | --- |
 |[Dolan Chick](https://www.dolanchick.com/)|[Far West China](https://www.farwestchina.com/cuisine/)|[Uyghur Collective](https://uyghurcollective.com/community?blogcategory=Food)|
 
-- #### Hong Kong
+#### Hong Kong
 |     |
 | --- |
 |[The Hong Kong Cookery](https://www.thehongkongcookery.com/)|
 
-- #### India
+#### India
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**24 Mantra Organic**](https://www.24mantra.com/blogs/)|[Aahaaram Online](https://aahaaramonline.com/)|[Abby's Plate](https://abbysplate.com/)|[Akuner](https://akuner.com/)|[American Tadka](https://www.americantadka.com/)|
@@ -342,7 +342,7 @@
 | --- |
 |[Udupi Recipes](https://udupi-recipes.com/)|
 
-- #### Indonesia
+#### Indonesia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)|[Come 2 Indonesia](https://come2indonesia.com/blog-indonesian-food-recipes/)|[Cooking Tackle](https://cookingtackle.blogspot.com/)|[Cook Me Indonesian](https://www.cookmeindonesian.com/)|[Daily Cooking Quest](https://dailycookingquest.com/)|
@@ -360,7 +360,7 @@
 | --- |
 |[Vered Guttman](https://veredguttman.com/)|
 
-- #### Japan
+#### Japan
 |[Ayana Gohan](https://ayana-gohan.com/)|[Bebe Love Okazu](https://bebeloveokazu.com/)|[Chef Ja Cooks](https://chefjacooks.com/en/)|[Chef Sohum](https://www.chefsohum.com/)|[Chopstick Chronicles](https://www.chopstickchronicles.com/)|
 |[Contemplating Sweets](https://www.contemplatingsweets.com/)|[Cook & Meshiagare](https://meshiagare.tokyo/)|[Cooking With Dog](https://cookingwithdog.com/)|[Create Eat Happy](https://createeathappy.blogspot.com/)|[Ellie Likes Cooking](https://www.ellielikes.cooking/)|
 |[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Hiroko's Recipes](https://www.hirokoliston.com/)|[It's My Dish](https://itsmydish.com/)|[Japan Centre](https://www.japancentre.com/en/recipe)|[Japanese Cooking 101](https://www.japanesecooking101.com/)|
@@ -372,17 +372,17 @@
 |[**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)|[Sudachi Recipes](https://sudachirecipes.com/)|[Suki Desu](https://skdesu.com/en/tag/japan/culinaria/)|[Sushi Day](https://sushiday.com/)|[Sylvia Wakana](https://sylviawakana.com/)|
 |[Thanks for the Meal](https://www.thanksforthemeal.net/)|[Tiffoodss](https://tiffoodss.com/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
 
-- #### Laos
+#### Laos
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[A Dash of Dolly](https://adashofdolly.com/)|[Food from Northern Laos](https://foodfromnorthernlaos.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
-- #### Macau
+#### Macau
 |     |
 | --- |
 |[Macanese Recipes](https://www.macaneserecipes.com/recipes/all.html)|
 
-- #### Malaysia
+#### Malaysia
 - [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
 - [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [Da Vina Vegan](http://davinadavegan.com/)
