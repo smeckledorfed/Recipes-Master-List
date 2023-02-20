@@ -3114,19 +3114,14 @@
 - [**Ron Inmortal**](https://roninmortal.com/cocktails/)
 - [**Ten to One**](https://www.tentoonerum.com/cocktails/)
 #### Tequila
-- [**Avion**](https://tequilaavion.com/cocktails/)
-- [**Don Julio**](https://www.donjulio.com/en-us/tequila-drinks)
-- [**El Jimador**](https://www.eljimador.com/the-recipes/)
-- [**Espolon Tequila**](https://www.espolontequila.com/en-us/our-drinks/)
-- [**Jose Cuervo**](https://cuervo.com/cocktail-recipes/)
-- [**Olmeca Altos**](https://olmecaaltos.com/best-cocktail-recipes/)
-- [**Patron Tequila**](https://www.patrontequila.com/cocktails.html)
-- [**Tequila Calle 23**](https://www.tequilacalle23.com/site/#MixingRoom)
-- [**Tequila Ocho**](https://ochotequila.com/cocktails/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Avion**](https://tequilaavion.com/cocktails/)|[**Don Julio**](https://www.donjulio.com/en-us/tequila-drinks)|[**El Jimador**](https://www.eljimador.com/the-recipes/)|[**Espolon Tequila**](https://www.espolontequila.com/en-us/our-drinks/)|[**Herradura**](https://www.herradura.com/recipes/)|
+|[**Jose Cuervo**](https://cuervo.com/cocktail-recipes/)|[**Olmeca Altos**](https://olmecaaltos.com/best-cocktail-recipes/)|[**Patron Tequila**](https://www.patrontequila.com/cocktails.html)|[**Tequila Calle 23**](https://www.tequilacalle23.com/site/#MixingRoom)|[**Tequila Ocho**](https://ochotequila.com/cocktails/)|
 #### Triple Sec
-- [**Cointreau**](https://www.cointreau.com/us/en/cocktails)
-- [**Combier**](https://www.combierusa.com/recipes)
-- [**DeKuyper**](https://www.dekuyperusa.com/recipes/)
+|     |     |     |
+| --- | --- | --- |
+|[**Cointreau**](https://www.cointreau.com/us/en/cocktails)|[**Combier**](https://www.combierusa.com/recipes)|[**DeKuyper**](https://www.dekuyperusa.com/recipes/)|
 #### Vodka
 - [**Absolut**](https://www.absolutdrinks.com/en/learn/)
 - [**Belvedere Vodka**](https://www.belvederevodka.com/en-us/vodka-cocktails/)
@@ -3146,43 +3141,19 @@
 - [**Svedka**](https://www.svedka.com/blogs/summer-mixes)
 - [**Tito's**](https://www.titosvodka.com/recipes)
 #### Whiskey
-- [**Black Velvet**](https://www.blackvelvetwhisky.com/canadian-whisky-drinks.php)
-- [**Buchanan's**](https://www.buchananswhisky.com/en-us/whisky-cocktails/)
-- [**Bulleit**](https://www.bulleit.com/cocktail-food-pairings/)
-- [**Canadian Club**](https://www.canadianclub.com/us/us/us/recipes/)
-- [**Crown Royal**](https://www.crownroyal.com/whisky-cocktails/)
-- [**Fireball**](https://www.fireballwhisky.com/recipes.html)
-- [**The Glenlivet**](https://www.theglenlivet.com/en-us/cocktail-collection/)
-- [**Jack Daniels**](https://www.jackdaniels.com/index.php/en-us/recipes)
-- [**Jameson**](https://www.jamesonwhiskey.com/en/cocktail-recipes/)
-- [**Johnnie Walker**](https://www.johnniewalker.com/en-us/whisky-cocktails/)
-- [**Kentucky Derby**](https://www.kentuckyderby.com/party/derby-party/cocktails-recipes-and-more)
-- [**Screwball Whiskey**](https://www.skrewballwhiskey.com/recipes/)
-- [**Seagrams**](https://www.seagrams7.com/whiskey-drinks)
-- [**Southern Comfort**](https://www.southerncomfort.com/recipes.html)
-- [**Tullamore Dew**](https://www.tullamoredew.com/en-us/whiskey-cocktails/)
-- [The Whiskey Land](https://thewhiskeyland.com/)
-- [**Woodford Reserve**](https://www.woodfordreserve.com/lifestyle/cocktails/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Black Velvet**](https://www.blackvelvetwhisky.com/canadian-whisky-drinks.php)|[**Buchanan's**](https://www.buchananswhisky.com/en-us/whisky-cocktails/)|[**Bulleit**](https://www.bulleit.com/cocktail-food-pairings/)|[**Canadian Club**](https://www.canadianclub.com/us/us/us/recipes/)|[**Crown Royal**](https://www.crownroyal.com/whisky-cocktails/)|
+|[**Fireball**](https://www.fireballwhisky.com/recipes.html)|[**The Glenlivet**](https://www.theglenlivet.com/en-us/cocktail-collection/)|[**Jack Daniels**](https://www.jackdaniels.com/index.php/en-us/recipes)|[**Jameson**](https://www.jamesonwhiskey.com/en/cocktail-recipes/)|[**Johnnie Walker**](https://www.johnniewalker.com/en-us/whisky-cocktails/)|
+|[**Kentucky Derby**](https://www.kentuckyderby.com/party/derby-party/cocktails-recipes-and-more)|[**Screwball Whiskey**](https://www.skrewballwhiskey.com/recipes/)|[**Seagrams**](https://www.seagrams7.com/whiskey-drinks)|[**Southern Comfort**](https://www.southerncomfort.com/recipes.html)|[**Tullamore Dew**](https://www.tullamoredew.com/en-us/whiskey-cocktails/)|
+|[The Whiskey Land](https://thewhiskeyland.com/)|[**Woodford Reserve**](https://www.woodfordreserve.com/lifestyle/cocktails/)|
 #### Wine
-- [Arish Tam](https://www.arishtam.com/home-brew-recipes/)
-- [**Cava**](https://www.cava.wine/en/discover/recipes-world-cava/)
-- [**Chaucer's**](https://chaucerswine.com/recipes-pairings/our-recipes-and-pairings/)
-- [**Chippewa Valley Bean**](https://www.cvbean.com/kidney-bean-consumers/suggested-recipes/)
-- [**Diadema Wine**](https://en.diadema-wine.com/blog/tags/recipe)
-- [**Get Brewsy**](https://getbrewsy.com/pages/recipes)
-- [Homebrew Answers](https://homebrewanswers.com/)
-- [**Manischewitz**](https://manischewitz.com/recipes/)
-- [Minnesota Uncorked](https://www.minnesotauncorked.com/)
-- [**Moonlight Meadery**](https://www.moonlightmeadery.com/cooking-with-mead/)
-- [**Oliver Winery**](https://www.oliverwinery.com/blog/categories/wine-cocktails)
-- [**Qantas Wine**](https://wine.qantas.com/recipes/)
-- [**RayZyn**](https://rayzyn.com/blogs/recipes)
-- [**Redstone Meadery**](https://www.redstonemeadery.com/about/#Cocktails)
-- [**Robinette's**](https://robinettes.com/category/recipes)
-- [**Sandeman**](https://www.sandeman.com/mixology-and-food/)
-- [**Wine Dharma**](https://winedharma.com/en/recipes/)
-- [Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)
-- [Wine Lovers' Page](http://www.wine-lovers-page.com/wlp_archive/food/foodtoc.shtml)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Arish Tam](https://www.arishtam.com/home-brew-recipes/)|[**Cava**](https://www.cava.wine/en/discover/recipes-world-cava/)|[**Chaucer's**](https://chaucerswine.com/recipes-pairings/our-recipes-and-pairings/)|[**Chippewa Valley Bean**](https://www.cvbean.com/kidney-bean-consumers/suggested-recipes/)|[**Diadema Wine**](https://en.diadema-wine.com/blog/tags/recipe)|
+|[**Get Brewsy**](https://getbrewsy.com/pages/recipes)|[**Grandes Vinos**](https://www.grandesvinos.com/en/blog/temas/gastronomy/)|[Homebrew Answers](https://homebrewanswers.com/)|[**Manischewitz**](https://manischewitz.com/recipes/)|[Minnesota Uncorked](https://www.minnesotauncorked.com/)|
+|[**Moonlight Meadery**](https://www.moonlightmeadery.com/cooking-with-mead/)|[**Oliver Winery**](https://www.oliverwinery.com/blog/categories/wine-cocktails)|[**Qantas Wine**](https://wine.qantas.com/recipes/)|[**RayZyn**](https://rayzyn.com/blogs/recipes)|[**Redstone Meadery**](https://www.redstonemeadery.com/about/#Cocktails)|
+|[**Robinette's**](https://robinettes.com/category/recipes)|[**Sandeman**](https://www.sandeman.com/mixology-and-food/)|[**Wine Dharma**](https://winedharma.com/en/recipes/)|[Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)|[Wine Lovers' Page](http://www.wine-lovers-page.com/wlp_archive/food/foodtoc.shtml)|
 
 ### Beans
 - [**The Amazing Chickpea**](https://www.theamazingchickpea.com/recipes/)
