@@ -3258,39 +3258,17 @@
 - [**Tuyyo Foods**](https://tuyyofoods.com/)
 - [**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)
 #### Tea
-- [**Blue Lotus Chai**](https://bluelotuschai.com/recipes-videos/)
-- [**Celestial Seasonings**](https://celestialseasonings.com/blogs/recipes)
-- [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
-- [**House of Leaf and Bean**](https://houseofleafandbean.com/blog/)
-- [**Ito En**](https://itoen.com/pages/recipes)
-- [**Jade Leaf Matcha**](https://www.jadeleafmatcha.com/blogs/matcha-recipes)
-- [**Lipton**](https://www.lipton.com/us/en/world-of-tea/recipes/)
-- [**Mighty Leaf**](https://www.mighty-leaf.com/blogs/recipes)
-- [**Millennia TEA**](https://millenniatea.com/blogs/news)
-- [**Mizuba**](https://mizubatea.com/blogs/recipes)
-- [**Paromi**](https://paromi.com/blogs/recipes)
-- [Perfect Brew](https://www.perfectbrew.com/)
-- [**Rasa**](https://wearerasa.com/blogs/news/tagged/recipes)
-- [**Red Diamond Bev Service**](https://reddiamondbevservice.com/menu-ideas/)
-- [**The Republic of Tea**](https://the.republicoftea.com/tea-recipes/)
-- [**Revolution**](https://www.revolutiontea.com/blogs/recipes)
-- [**Rishi**](https://journal.rishi-tea.com/tea-recipes/)
-- [Rosie Loves Tea](https://www.rosielovestea.com/recipes-categories)
-- [**Salada**](https://salada.com/blogs/green-tea-recipes)
-- [**Sencha Tea Bar**](https://senchateabar.com/pages/tea-cocktails)
-- [**Smith Tea**](https://www.smithtea.com/blogs/recipes)
-- [**Stash**](https://www.stashtea.com/blogs/recipes)
-- [**Steaz**](https://drinksteaz.com/blogs/news/recipes)
-- [**Tazo**](https://www.tazo.com/us/en/tea-recipes.html)
-- [**Tea Forte**](https://teaforte.com/blogs/tea-notes)
-- [**teapigs**](https://teapigs.com/blogs/news/tagged/recipes)
-- [**Teatulia**](https://www.teatulia.com/cooking-with-tea.htm)
-- [**TeaWea**](https://www.teawea.com/)
-- [**Twinings**](https://twiningsusa.com/blogs/twinings-recipes)
-- [**Two Leaves and a Bud**](https://twoleavestea.com/blogs/twoleaves/tagged/recipe)
-- [**Wize**](https://drinkwize.com/pages/blog?filter=recipes)
-- [**Yogi**](https://yogiproducts.com/tea-talk-blog/)
-- [**Zevia**](https://www.zevia.com/blogs/recipes)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Blue Lotus Chai**](https://bluelotuschai.com/recipes-videos/)|[**Celestial Seasonings**](https://celestialseasonings.com/blogs/recipes)|[**Cusa**](https://www.drinkcusa.com/blogs/recipes)|[**Hojicha**](https://hojicha.co/blogs/recipes)|[**House of Leaf and Bean**](https://houseofleafandbean.com/blog/)|
+|[**Ito En**](https://itoen.com/pages/recipes)|[**Jade Leaf Matcha**](https://www.jadeleafmatcha.com/blogs/matcha-recipes)|[**Kuli Kuli Foods**](https://blog.kulikulifoods.com/tag/recipes/)|[**Lipton**](https://www.lipton.com/us/en/world-of-tea/recipes/)|[**Maeda**](https://maeda-en.com/pages/recipes)|
+|[**Mighty Leaf**](https://www.mighty-leaf.com/blogs/recipes)|[**Millennia TEA**](https://millenniatea.com/blogs/news)|[**Mizuba**](https://mizubatea.com/blogs/recipes)|[**Paromi**](https://paromi.com/blogs/recipes)|[Perfect Brew](https://www.perfectbrew.com/)|
+|[**Prana Chai**](https://pranachai.com/blogs/recipes)|[**Pure Leaf**](https://www.pureleaf.com/us/category/recipes)|[**Rasa**](https://wearerasa.com/blogs/news/tagged/recipes)|[**Red Diamond Bev Service**](https://reddiamondbevservice.com/menu-ideas/)|[**The Republic of Tea**](https://the.republicoftea.com/tea-recipes/)|
+|[**Revolution**](https://www.revolutiontea.com/blogs/recipes)|[**Rishi**](https://journal.rishi-tea.com/tea-recipes/)|[Rosie Loves Tea](https://www.rosielovestea.com/recipes-categories)|[**Salada**](https://salada.com/blogs/green-tea-recipes)|[**Saporidelmondo**](https://www.saporidelmondo-blog.com/en/home-en/)|
+|[**Sencha Tea Bar**](https://senchateabar.com/pages/tea-cocktails)|[**Sherpa Chai**](https://www.sherpachai.com/what-is-sherpa-chai)|[**Smith Tea**](https://www.smithtea.com/blogs/recipes)|[**Stash**](https://www.stashtea.com/blogs/recipes)|[**Steaz**](https://drinksteaz.com/blogs/news/recipes)|
+|[**St. James Tearoom**](https://stjamestearoom.com/category/recipe-archives/)|[**Sugimoto USA**](https://www.sugimotousa.com/recipes)|[**Tazo**](https://www.tazo.com/us/en/tea-recipes.html)|[**Tea Forte**](https://teaforte.com/blogs/tea-notes)|[**teapigs**](https://teapigs.com/blogs/news/tagged/recipes)|
+|[**Teatulia**](https://www.teatulia.com/cooking-with-tea.htm)|[**TeaWea**](https://www.teawea.com/)|[**Tejava**](https://tejava.com/blogs/blog)|[**Tetley USA**](https://www.tetleyusa.com/recipes)|[**Traditional Medicinals**](https://www.traditionalmedicinals.com/pages/journal)|
+|[**Twinings**](https://twiningsusa.com/blogs/twinings-recipes)|[**Two Leaves and a Bud**](https://twoleavestea.com/blogs/twoleaves/tagged/recipe)|[**Wize**](https://drinkwize.com/pages/blog?filter=recipes)|[**Yogi**](https://yogiproducts.com/tea-talk-blog/)|[**Zevia**](https://www.zevia.com/blogs/recipes)|
 
 ### Candy
 - [**Boyer Candies**](https://www.boyercandies.com/recipes.aspx)
