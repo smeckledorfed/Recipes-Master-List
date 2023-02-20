@@ -1690,22 +1690,26 @@
 
 ### South America
 
+#### Andean
+|     |
+| --- |
+|[Kahlo's Eyes](https://www.kahloseyes.com/)|
+
 #### Argentina
-- [Argentine Chef](https://www.argentinechef.com/recipes-gral/)
-- [En Casa Cooking Space](https://www.encasacookingspace.com/)
+|     |     |     |
+| --- | --- | --- |
+|[Argentine Chef](https://www.argentinechef.com/recipes-gral/)|[En Casa Cooking Space](https://www.encasacookingspace.com/)|[Parnell the Chef](https://parnellthechef.com/)|
 
 #### Bolivia
-- [Bolivian Cookbook](https://boliviancookbook.com/)
+|     |
+| --- |
+|[Bolivian Cookbook](https://boliviancookbook.com/)|
 
 #### Brazil
-- [Best Brazilian Recipes](http://bestbrazilianrecipes.com/)
-- [Brazilian Kitchen Abroad](https://braziliankitchenabroad.com/)
-- [Cassia's Cuisine](https://cassiascuisine.com/)
-- [Easy Brazilian Food](https://easybrazilianfood.com/)
-- [Eat Rio](https://eatrio.net/brazilian-recipes)
-- [Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)
-- [I Heart Brazil](https://www.iheartbrazil.com/category/foods-and-drinks/)
-- [Texas de Brazil](https://texasdebrazil.com/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Best Brazilian Recipes](http://bestbrazilianrecipes.com/)|[Brasil Agosto](https://www.brasilagosto.org/en/category/recipes/)|[Brazilian Kitchen Abroad](https://braziliankitchenabroad.com/)|[Cassia's Cuisine](https://cassiascuisine.com/)|[Easy Brazilian Food](https://easybrazilianfood.com/)|
+|[Eat Rio](https://eatrio.net/brazilian-recipes)|[Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)|[I Heart Brazil](https://www.iheartbrazil.com/category/foods-and-drinks/)|[Sabor Brasil](https://www.saborbrasil.it/en/)|[Texas de Brazil](https://texasdebrazil.com/recipes/)|
 
 #### Chile
 - [Chilean Food and Garden](https://www.chileanfoodandgarden.com/)
