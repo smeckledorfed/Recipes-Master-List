@@ -444,18 +444,11 @@
 | --- |
 |[RumiCooks](http://www.rumicooks.com/)|
 ##### Bengal
-- [Bong Eats](https://www.bongeats.com/category/recipe)
-- [Chow Man](https://chowman.net/)
-- [Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)
-- [Debjanir Rannaghar](https://kitchenofdebjani.com/)
-- [Dolce and Masala](http://www.dolceandmasala.com/)
-- [Experiences of A Gastronomad](https://experiencesofagastronomad.com/)
-- [Finally Foodie](https://finallyfoodie.com/)
-- [Foodie's Hut](https://www.foodieshutrecipes.com/)
-- [Go Sum It Up](https://gosumitup.com/recipes)
-- [Playful Cooking](https://www.playfulcooking.com/)
-- [Raanna](http://www.raanna.com/)
-- [Speaking Aloud](https://speakingaloud.in/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Bong Eats](https://www.bongeats.com/category/recipe)|[Chow Man](https://chowman.net/)|[Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)|[Debjanir Rannaghar](https://kitchenofdebjani.com/)|[Dolce and Masala](http://www.dolceandmasala.com/)|
+|[Experiences of A Gastronomad](https://experiencesofagastronomad.com/)|[Finally Foodie](https://finallyfoodie.com/)|[Foodie's Hut](https://www.foodieshutrecipes.com/)|[Go Sum It Up](https://gosumitup.com/recipes)|[Playful Cooking](https://www.playfulcooking.com/)|
+|[Raanna](http://www.raanna.com/)|[Speaking Aloud](https://speakingaloud.in/)|
 ##### Bihar
 |     |
 | --- |
@@ -3915,59 +3908,22 @@
 - [**Zestyz**](https://zestyz.com/blogs/recipes)
 
 ### Meat
-- [**3 Pigs**](https://3pigs.com/blogs/recipes-tips)
-- [**44 Steaks**](https://www.44steaks.com/blogs/all-recipes)
-- [**4505 Meats**](https://4505meats.com/blogs/recipes)
-- [**Aidell's**](https://www.aidells.com/recipes/)
-- [**Alexian Pate**](https://alexianpate.com/serving-ideas/)
-- [**Armour Meats**](https://armourmeats.sfdbrands.com/en-us/recipes/)
-- [**Bar-S**](https://www.bar-s.com/recipes/)
-- [Bear Hunting](http://www.bear-hunting.com/recipes)
-- [**Beck and Bulow**](https://www.beckandbulow.com/category/recipes/)
-- [**Beetnik Foods**](https://www.beetnikfoods.com/recipes)
-- [**Boar's Head**](https://boarshead.com/recipes)
-- [**Brooklyn Bilton**](https://www.brooklynbiltong.com/blogs/recipes)
-- [**Capital Fine Meats**](https://www.capitalfinemeats.ca/recipes/)
-- [Carne Diem](https://carnediem.blog/)
-- [Castle MacLellan](https://castlemaclellan.co.uk/recipe/)
-- [**Chef's Cut Real Jerky**](https://chefscutrealjerky.com/blogs/all)
-- [**Crescent Foods**](https://crescentfoods.com/er_category/crescent-recipes/)
-- [**D'Artagnan**](https://www.dartagnan.com/recipes/)
-- [**Del Real Foods**](https://delrealfoods.com/blogs/recipes)
-- [**Dilusso Deli**](https://www.dilussodeli.com/recipes)
-- [Eat Game](https://eatgame.co.uk/)
-- [**Eat Grateful**](https://www.eatgrateful.com/pages/grateful-recipes)
-- [**Farmison & Co.**](https://www.farmison.com/community/)
-- [**Four Star Artisan**](https://fourstarartisan.com/recipe/)
-- [**Goetta**](https://goetta.com/recipes/)
-- [**Honey Baked**](https://www.honeybaked.com/recipes)
-- [How to Cook Meat](https://howtocookmeat.com/)
-- [Jerkyholic](https://www.jerkyholic.com/)
-- [**Jimmy Dean**](https://www.jimmydean.com/recipes/)
-- [**Johnsonville**](https://johnsonville.com/recipes/)
-- [**Jones Dairy Farm**](https://www.jonesdairyfarm.com/)
-- [Kentucky Legend](https://kentuckylegend.com/recipes/)
-- [**Keystone Meats**](https://www.keystonemeats.com/blogs/recipes)
-- [**Lake Geneva Country Meats**](https://lakegenevacountrymeats.com/recipes)
-- [**Market Basket Smokehouse**](https://mbsmokehouse.com/recipes/)
-- [Matt Morgan's Meatloaf Recipes](https://www.meatloaf.pro/)
-- [**The Meat Club**](https://www.themeatclub.com.sg/recipes/)
-- [**The Meat Eater**](https://www.themeateater.com/)
-- [Meats and Sausages](https://www.meatsandsausages.com/)
-- [The Meatwave](https://meatwave.com/)
-- [Modern Carnivore](https://modcarn.com/category/recipe/)
-- [**Moody's Butcher Shop**](https://moodysbutchershop.com/)
-- [**Niman Ranch**](https://www.nimanranch.com/recipes/)
-- [**North Country Charcuterie**](https://northcountrycharcuterie.com/)
-- [**North Country Smokehouse**](https://ncsmokehouse.com/blog/category/recipes)
-- [**Phil's Finest**](https://www.philsfinest.com/blogs/recipes)
-- [**Schaller & Weber**](https://schallerweber.com/recipes/)
-- [**Schweid and Sons**](https://schweidandsons.com/recipes/)
-- [**Seemore Sausage**](https://eatseemore.com/blogs/recipe)
-- [**Smithfield**](https://smithfield.sfdbrands.com/en-us/recipes/)
-- [Two Guys and a Cooler](https://twoguysandacooler.com/)
-- [**Ye Olde Oak**](https://www.yeoldeoak.co.uk/)
-- [Zappfresh](https://www.zappfresh.com/blog/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**3 Pigs**](https://3pigs.com/blogs/recipes-tips)|[**44 Steaks**](https://www.44steaks.com/blogs/all-recipes)|[**4505 Meats**](https://4505meats.com/blogs/recipes)|[**Aidell's**](https://www.aidells.com/recipes/)|[**Alexian Pate**](https://alexianpate.com/serving-ideas/)|
+|[**Armour Meats**](https://armourmeats.sfdbrands.com/en-us/recipes/)|[**Bar-S**](https://www.bar-s.com/recipes/)|[Bear Hunting](http://www.bear-hunting.com/recipes)|[**Beck and Bulow**](https://www.beckandbulow.com/category/recipes/)|[**Beetnik Foods**](https://www.beetnikfoods.com/recipes)|
+|[**Boar's Head**](https://boarshead.com/recipes)|[**Brooklyn Bilton**](https://www.brooklynbiltong.com/blogs/recipes)|[**Capital Fine Meats**](https://www.capitalfinemeats.ca/recipes/)|[Carne Diem](https://carnediem.blog/)|[Castle MacLellan](https://castlemaclellan.co.uk/recipe/)|
+|[**Chef's Cut Real Jerky**](https://chefscutrealjerky.com/blogs/all)|[**Crescent Foods**](https://crescentfoods.com/er_category/crescent-recipes/)|[**Crowd Cow**](https://www.crowdcow.com/recipes)|[**D'Artagnan**](https://www.dartagnan.com/recipes/)|[**Del Real Foods**](https://delrealfoods.com/blogs/recipes)|
+|[**Dilusso Deli**](https://www.dilussodeli.com/recipes)|[Eat Game](https://eatgame.co.uk/)|[**Eat Grateful**](https://www.eatgrateful.com/pages/grateful-recipes)|[**Farmison & Co.**](https://www.farmison.com/community/)|[**Four Star Artisan**](https://fourstarartisan.com/recipe/)|
+|[**Gliers Goetta**](https://gliersgoetta.food.blog/)|[**Godshall's**](https://godshalls.com/recipes/)|[**Goetta**](https://goetta.com/recipes/)|[**Hoffy**](https://hoffybrand.com/recipes/)|[**Honey Baked**](https://www.honeybaked.com/recipes)|
+|[How to Cook Meat](https://howtocookmeat.com/)|[Jerkyholic](https://www.jerkyholic.com/)|[**Jimmy Dean**](https://www.jimmydean.com/recipes/)|[**Johnsonville**](https://johnsonville.com/recipes/)|[**Jones Dairy Farm**](https://www.jonesdairyfarm.com/)|
+|[Kentucky Legend](https://kentuckylegend.com/recipes/)|[**Keystone Meats**](https://www.keystonemeats.com/blogs/recipes)|[**KMG Foods**](https://www.kmgfoods.com/recipes)|[**Kunzler**](https://www.kunzler.com/recipes-for-smoked-ham-bacon-hot-dogs-and-more/)|[**Lake Geneva Country Meats**](https://lakegenevacountrymeats.com/recipes)|
+|[**Lobel's**](https://www.lobels.com/RECIPES-2000)|[**Made By True**](https://madebytrue.com/recipes/)|[**Manwich**](https://www.manwich.com/recipes)|[**Market Basket Smokehouse**](https://mbsmokehouse.com/recipes/)|[Matt Morgan's Meatloaf Recipes](https://www.meatloaf.pro/)|
+|[**The Meat Club**](https://www.themeatclub.com.sg/recipes/)|[**The Meat Eater**](https://www.themeateater.com/)|[Meats and Sausages](https://www.meatsandsausages.com/)|[The Meatwave](https://meatwave.com/)|[Modern Carnivore](https://modcarn.com/category/recipe/)|
+|[**Moody's Butcher Shop**](https://moodysbutchershop.com/)|[**Nature's Rancher**](https://naturesrancher.com/recipes/)|[**Niman Ranch**](https://www.nimanranch.com/recipes/)|[**North Country Charcuterie**](https://northcountrycharcuterie.com/)|[**North Country Smokehouse**](https://ncsmokehouse.com/blog/category/recipes)|
+|[**Pederson's Farms**](https://pedersonsfarms.com/blogs/recipes)|[**Perdue Farms**](https://www.perduefarms.com/en-US/recipes/)|[**Phil's Finest**](https://www.philsfinest.com/blogs/recipes)|[**Plainville Farms**](https://www.plainvillefarms.com/recipes)|[Randall Recipes](https://randallrecipes.com/)|
+|[**Schaller & Weber**](https://schallerweber.com/recipes/)|[**Schweid and Sons**](https://schweidandsons.com/recipes/)|[**Seemore Sausage**](https://eatseemore.com/blogs/recipe)|[**Smithfield**](https://smithfield.sfdbrands.com/en-us/recipes/)|[Sporting Chef](https://sportingchef.com/)|
+|[Two Guys and a Cooler](https://twoguysandacooler.com/)|[**Wedzarnicza Brac**](https://pedersonsfarms.com/blogs/recipes)|[**Ye Olde Oak**](https://www.yeoldeoak.co.uk/)|[Zappfresh](https://www.zappfresh.com/blog/recipes/)|
 #### Beef
 - [Arkansas Beef](https://www.arkansasbeef.org/recipes)
 - [Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)
@@ -3985,9 +3941,11 @@
 - [**Pre**](https://www.eatpre.com/pages/all-recipes)
 - [**Rumba Meats**](https://rumbameats.com/recipes/)
 - [**Stryve**](https://stryve.com/blogs/biltong/tagged/category-recipes)
+- [**Sun-Fed Ranch**](https://www.sunfedranch.com/category/recipes/)
 - [**Teton Waters Ranch**](https://www.tetonwatersranch.com/blogs/recipes)
 - [**Three Jerks Jerky**](https://www.threejerksjerky.com/blogs/news)
 - [**Trail's End Beef**](https://trailsendbeef.com/ranch-kitchen/recipes/)
+- [**Verde Farms**](https://www.verdefarms.com/blog/)
 #### Chicken
 - [**Aggelakis**](https://aggelakis.gr/en/syntages/)
 - [**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)
