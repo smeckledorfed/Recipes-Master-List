@@ -260,103 +260,22 @@
 |[Mirchi Tales](https://www.mirchitales.com/)|[Mom and Ideas](https://momandideas.com/category/recipes/)|[A Mom's Cookbook](https://amomscookbook.com/)|[My Cooking Journey](https://www.mycookingjourney.com/)|[My Curry Veda](https://www.mycurryveda.com/)|
 |[My Dainty Soul Curry](https://www.mydaintysoulcurry.com/)|[My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)|[My Heart Beets](https://myheartbeets.com/)|[My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)|[My Spice](https://myspice.in/)|
 |[My Vegetarian Roots](https://myvegetarianroots.com/)|[My Weekend Kitchen](https://www.myweekendkitchen.in/)|[Naive Cook Cooks](https://www.naivecookcooks.com/)|[Nam's Corner](https://www.namscorner.com/)|[NDTV Food](https://food.ndtv.com/)|
-
-- [Neha's Cookbook](https://www.nehascookbook.com/)|
-- [Nisha Madhulika](https://nishamadhulika.com/en/)|
-- [Nish Kitchen](https://nishkitchen.com/)|
-- [Nitha's Kitchen](https://www.nithaskitchen.com/)|
-- [Nupur's Indian Kitchen](https://nupursindiankitchen.com/)|
-
-- [One Teaspoon of Life](https://www.oneteaspoonoflife.com/)|
-- [Padhu's Kitchen](https://www.padhuskitchen.com/)|
-- [Palate's Desire](https://www.palatesdesire.com/)|
-- [Pammi's Kitchen](https://pammiskitchen.weebly.com/)|
-- [Pavani's Kitchen](https://www.pavaniskitchen.com/)|
-
-- [Pep Kitchen](https://pepkitchen.com/)|
-- [Pepper Chilli and Vanilla](http://pepperchilliandvanilla.blogspot.com/)|
-- [Polka Puffs](https://polkapuffs.in/)|
-- [Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)|
-- [Priya's Virundhu](https://www.priyasvirundhu.com/)|
-
-- [Pure Curry](https://www.purecurry.com/)|
-- [**Pure Indian Foods**](https://blog.pureindianfoods.com/)|
-- [Rajshri Food](https://rajshrifood.com/)|
-- [Raks Kitchen](https://rakskitchen.net/)|
-- [Ranveer Brar](https://ranveerbrar.com/)|
-
-- [RasoiTak](https://www.rasoitak.com/)|
-- [Ravi Sisodiya](https://ravisisodiya.com/)|
-- [Recipes18](https://www.recipes18.com/all/)|
-- [Recipes Are Simple](https://recipesaresimple.com/)|
-- [Recipes of Home](https://recipesofhome.com/)|
-
-- [Ribbons to Pasta](https://ribbonstopastas.com/)|
-- [Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)|
-- [Rumki's Golden Spoon](https://rumkisgoldenspoon.com/)|
-- [Sabiha's Kitchen](https://sabihaskitchen.com/)|
-- [Sailu's Food](https://www.sailusfood.com/)|
-
-- [Sameera's Kitchen](https://udarbharna.com/)|
-- [Sananimam](https://sananimam.com/food-2/)|
-- [Sandhiya's Cookbook](https://www.sandhiyascookbook.com/)|
-- [Sandhya's Kitchen](https://sandhyahariharan.co.uk/)|
-- [Sang's Kitchen](https://sangskitchen.com/)|
-
-- [Sanjeev Kapoor](https://www.sanjeevkapoor.com/)|
-- [Scratching Canvas](https://www.scratchingcanvas.com/)|
-- [Secret Indian Recipe](https://secretindianrecipe.com/)|
-- [Seduce Your Tastebuds](https://seduceyourtastebuds.com/)|
-- [Sharmi's Passions](https://www.sharmispassions.com/)|
-
-- [Shelly Food Spot](https://www.shellyfoodspot.com/)|
-- [Show Me the Curry](https://showmethecurry.com/)|
-- [Shweta in the Kitchen](https://shwetainthekitchen.com/)|
-- [Simmer to Slimmer](https://simmertoslimmer.com/)|
-- [Simple Sumptuous Cooking](https://www.mrishtanna.com/)|
-
-- [Simply Tadka](https://simplytadka.com/)|
-- [Sindhi Food Mazaa](http://www.sindhifoodmazaa.com/)|
-- [Sindhi Rasoi](https://sindhirasoi.com/)|
-- [Sinfully Spicy](https://sinfullyspicy.com/)|
-- [Slurrp](https://www.slurrp.com/)|
-
-- [SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)|
-- [Some Indian Girl](https://someindiangirl.com/)|
-- [Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)|
-- [Spice India Online](https://www.spiceindiaonline.com/)|
-- [Spice It Upp](https://spiceitupp.com/recipes/)|
-
-- [The Spice Mess](https://thespicemess.com/)|
-- [Spice Up the Curry](https://www.spiceupthecurry.com/)|
-- [SpicYum](https://www.spicyum.com/)|
-- [Subbu's Kitchen](https://www.subbuskitchen.com/)|
-- [Suji's Cooking](https://www.sujiscooking.com/)|
-
-- [Sunayana Gupta](https://www.sunayanagupta.com/)|
-- [Sunera Kitchen](https://www.sunerakitchen.com/)|
-- [Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)|
-- [Swasthi's Recipes](https://www.indianhealthyrecipes.com/)|
-- [Swati's Kitchen](https://swatisani.net/kitchen/)|
-
-- [The Take It Easy Chef](https://www.thetakeiteasychef.com/)|
-- [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)|
-- [Tastes of Malabar](https://www.tastesofmalabar.com/)|
-- [Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)|
-- [Tickling Palates](https://www.ticklingpalates.com/)|
-
-- [Times of India](https://recipes.timesofindia.com/us/recipes)|
-- [Times Recipe](https://timesrecipe.com/en/)|
-- [Tomato Blues](https://www.tomatoblues.com/)|
-- [Vah Rehvah](https://www.vahrehvah.com/)|
-- [Varada's Kitchen](https://varadaskitchen.blogspot.com/)|
-
-- [Vegecravings](https://vegecravings.com/)|
-- [Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|
-- [Vismai Food](https://vismaifood.com/en)|
-- [WeRecipes](https://werecipes.com/)|
-- [Whisk Affair](https://www.whiskaffair.com/)|
-
+|[Neha's Cookbook](https://www.nehascookbook.com/)|[Nisha Madhulika](https://nishamadhulika.com/en/)|[Nish Kitchen](https://nishkitchen.com/)|[Nitha's Kitchen](https://www.nithaskitchen.com/)|[Nupur's Indian Kitchen](https://nupursindiankitchen.com/)|
+|[One Teaspoon of Life](https://www.oneteaspoonoflife.com/)|[Padhu's Kitchen](https://www.padhuskitchen.com/)|[Palate's Desire](https://www.palatesdesire.com/)|[Pammi's Kitchen](https://pammiskitchen.weebly.com/)|[Pavani's Kitchen](https://www.pavaniskitchen.com/)|
+|[Pep Kitchen](https://pepkitchen.com/)|[Pepper Chilli and Vanilla](http://pepperchilliandvanilla.blogspot.com/)|[Polka Puffs](https://polkapuffs.in/)|[Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)|[Priya's Virundhu](https://www.priyasvirundhu.com/)|
+|[Pure Curry](https://www.purecurry.com/)|[**Pure Indian Foods**](https://blog.pureindianfoods.com/)|[Rajshri Food](https://rajshrifood.com/)|[Raks Kitchen](https://rakskitchen.net/)|[Ranveer Brar](https://ranveerbrar.com/)|
+|[RasoiTak](https://www.rasoitak.com/)|[Ravi Sisodiya](https://ravisisodiya.com/)|[Recipes18](https://www.recipes18.com/all/)|[Recipes Are Simple](https://recipesaresimple.com/)|[Recipes of Home](https://recipesofhome.com/)|
+|[Ribbons to Pasta](https://ribbonstopastas.com/)|[Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)|[Rumki's Golden Spoon](https://rumkisgoldenspoon.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Sailu's Food](https://www.sailusfood.com/)|
+|[Sameera's Kitchen](https://udarbharna.com/)|[Sananimam](https://sananimam.com/food-2/)|[Sandhiya's Cookbook](https://www.sandhiyascookbook.com/)|[Sandhya's Kitchen](https://sandhyahariharan.co.uk/)|[Sang's Kitchen](https://sangskitchen.com/)|
+|[Sanjeev Kapoor](https://www.sanjeevkapoor.com/)|[Scratching Canvas](https://www.scratchingcanvas.com/)|[Secret Indian Recipe](https://secretindianrecipe.com/)|[Seduce Your Tastebuds](https://seduceyourtastebuds.com/)|[Sharmi's Passions](https://www.sharmispassions.com/)|
+|[Shelly Food Spot](https://www.shellyfoodspot.com/)|[Show Me the Curry](https://showmethecurry.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|[Simmer to Slimmer](https://simmertoslimmer.com/)|[Simple Sumptuous Cooking](https://www.mrishtanna.com/)|
+|[Simply Tadka](https://simplytadka.com/)|[Sindhi Food Mazaa](http://www.sindhifoodmazaa.com/)|[Sindhi Rasoi](https://sindhirasoi.com/)|[Sinfully Spicy](https://sinfullyspicy.com/)|[Slurrp](https://www.slurrp.com/)|
+|[SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)|[Some Indian Girl](https://someindiangirl.com/)|[Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)|[Spice India Online](https://www.spiceindiaonline.com/)|[Spice It Upp](https://spiceitupp.com/recipes/)|
+|[The Spice Mess](https://thespicemess.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[SpicYum](https://www.spicyum.com/)|[Subbu's Kitchen](https://www.subbuskitchen.com/)|[Suji's Cooking](https://www.sujiscooking.com/)|
+|[Sunayana Gupta](https://www.sunayanagupta.com/)|[Sunera Kitchen](https://www.sunerakitchen.com/)|[Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)|[Swasthi's Recipes](https://www.indianhealthyrecipes.com/)|[Swati's Kitchen](https://swatisani.net/kitchen/)|
+|[The Take It Easy Chef](https://www.thetakeiteasychef.com/)|[Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)|[Tastes of Malabar](https://www.tastesofmalabar.com/)|[Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)|[Tickling Palates](https://www.ticklingpalates.com/)|
+|[Times of India](https://recipes.timesofindia.com/us/recipes)|[Times Recipe](https://timesrecipe.com/en/)|[Tomato Blues](https://www.tomatoblues.com/)|[Vah Rehvah](https://www.vahrehvah.com/)|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|
+|[Vegecravings](https://vegecravings.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Vismai Food](https://vismaifood.com/en)|[WeRecipes](https://werecipes.com/)|[Whisk Affair](https://www.whiskaffair.com/)|
 |[Yummefy](https://www.yummefy.com/)|[Yummy Asha's Kitchen](https://yummyashaskitchen.com/)|[Yummy Sooo Yummy](http://yummysoooyummy.blogspot.com/)|[Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)|[Zaiqa](https://www.zaiqa.com/)|
 |[Zayka Ka Tadka](https://www.zaykakatadka.com/)|[Zeel's Kitchen](https://www.zeelskitchen.com/)|[Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)|
 - ##### Assam
