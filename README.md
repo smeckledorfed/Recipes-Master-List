@@ -361,6 +361,8 @@
 |[Vered Guttman](https://veredguttman.com/)|
 
 #### Japan
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
 |[Ayana Gohan](https://ayana-gohan.com/)|[Bebe Love Okazu](https://bebeloveokazu.com/)|[Chef Ja Cooks](https://chefjacooks.com/en/)|[Chef Sohum](https://www.chefsohum.com/)|[Chopstick Chronicles](https://www.chopstickchronicles.com/)|
 |[Contemplating Sweets](https://www.contemplatingsweets.com/)|[Cook & Meshiagare](https://meshiagare.tokyo/)|[Cooking With Dog](https://cookingwithdog.com/)|[Create Eat Happy](https://createeathappy.blogspot.com/)|[Ellie Likes Cooking](https://www.ellielikes.cooking/)|
 |[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Hiroko's Recipes](https://www.hirokoliston.com/)|[It's My Dish](https://itsmydish.com/)|[Japan Centre](https://www.japancentre.com/en/recipe)|[Japanese Cooking 101](https://www.japanesecooking101.com/)|
@@ -433,11 +435,9 @@
 |[Afghan Culture Unveiled](https://www.afghancultureunveiled.com/work)|[Afghan Kitchen Recipes](http://www.afghankitchenrecipes.com/)|[Afghan Yummy Food](https://www.afghanyummyfood.com/)|[Cooking County](https://cookingcounty.com/)|[Imanistan](https://www.imanistan.com/)|
 
 #### Armenia
-- [Adventures in Armenian Cooking](http://www.armeniapedia.org/index.php?title=Adventures_in_Armenian_Cooking)
-- [The Armenian Kitchen](https://thearmeniankitchen.com/)
-- [The Armenian Mirror Specator](https://mirrorspectator.com/category/recipes/)
-- [Mom's Notes](https://www.momsnotes.me/)
-- [The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Adventures in Armenian Cooking](http://www.armeniapedia.org/index.php?title=Adventures_in_Armenian_Cooking)|[The Armenian Kitchen](https://thearmeniankitchen.com/)|[The Armenian Mirror Specator](https://mirrorspectator.com/category/recipes/)|[Mom's Notes](https://www.momsnotes.me/)|[The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)|
 
 #### Azerbaijan
 |     |     |
@@ -445,37 +445,33 @@
 |[AZ Cookbook](https://azcookbook.com/)|[Flavors of Baku](https://flavorsofbaku.com/)|
 
 #### Georgia
-- [Advantour](https://www.advantour.com/georgia/dishes.html)
-- [Cafe Osharak](https://www.osharak.com/)
-- [Cookies and the Caucasus](https://cookiesandthecaucasus.wordpress.com/)
-- [Georgian Cook](https://georgiancook.com/)
-- [Georgian Recipes.com](https://georgianrecipes.com/)
-- [Georgian Recipes.net](https://georgianrecipes.net/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Advantour](https://www.advantour.com/georgia/dishes.html)|[Cafe Osharak](https://www.osharak.com/)|[Cookies and the Caucasus](https://cookiesandthecaucasus.wordpress.com/)|[Georgian Cook](https://georgiancook.com/)|[Georgian Recipes.com](https://georgianrecipes.com/)|
+|[Georgian Recipes.net](https://georgianrecipes.net/)|[No Frills Kitchen](https://nofrillskitchen.com/)|
 
 #### Hmong
-- [C.Hawj Creations](https://chawjcreations.com/)
+|     |
+| --- |
+|[C.Hawj Creations](https://chawjcreations.com/)|
 
 #### Iran
-- [Aashpazi](https://www.aashpazi.com/)
-- [The Caspian Chef](https://thecaspianchef.com/)
-- [Cooking County](https://cookingcounty.com/)
-- [El Boricua](https://familyspice.com/)
-- [Food Craftz](https://foodcraftz.com/)
-- [Iran Cuisine](https://iran-cuisine.com/)
-- [My Persian Kitchen](http://www.mypersiankitchen.com/)
-- [Persian Mama](https://persianmama.com/)
-- [Persian Recipes](https://persianrecipes.com/)
-- [Plant-Based Persian](https://plantbasedpersian.com/)
-- [Proportional Plate](https://www.proportionalplate.com/)
-- [Show Me Iran](https://showmeiran.com/)
-- [Termeh Travel](https://blog.termehtravel.com/category/persian-food/)
-- [Uniqop](https://uniqop.com/recipe/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Aashpazi](https://www.aashpazi.com/)|[The Caspian Chef](https://thecaspianchef.com/)|[Cooking County](https://cookingcounty.com/)|[El Boricua](https://familyspice.com/)|[Food Craftz](https://foodcraftz.com/)|
+|[Iran Cuisine](https://iran-cuisine.com/)|[My Persian Kitchen](http://www.mypersiankitchen.com/)|[Persian Mama](https://persianmama.com/)|[Persian Recipes](https://persianrecipes.com/)|[Plant-Based Passport](https://plantbased-passport.com/)|
+|[Plant-Based Persian](https://plantbasedpersian.com/)|[Proportional Plate](https://www.proportionalplate.com/)|[Show Me Iran](https://showmeiran.com/)|[Termeh Travel](https://blog.termehtravel.com/category/persian-food/)|[Uniqop](https://uniqop.com/recipe/)|
+|[The Unmanly Chef](http://theunmanlychef.com/)|
 
 #### Iraq
-- [Sooo Good](https://www.sooogood.org/)
+|     |     |
+| --- | --- |
+|[Nawal Cooking](https://nawalcooking.blogspot.com/)|[Sooo Good](https://www.sooogood.org/)|
 
 #### Kazakhstan
-- [Cooking County](https://cookingcounty.com/)
+|     |
+| --- |
+|[Cooking County](https://cookingcounty.com/)|
 
 #### Lebanon
 |     |     |     |     |     |
@@ -485,28 +481,17 @@
 |[Zaatar and Zaytoun](https://zaatarandzaytoun.com/)|
 
 #### Pakistan
-- [Chai and Churros](https://chaiandchurros.com/)
-- [Chili to Choc](https://www.chilitochoc.com/)
-- [Cook With Faiza](https://cookwithfaiza.net/)
-- [Diary of a PMP Mom](https://diaryofapmpmom.com/from-my-kitchen/)
-- [Fa's Kitchen](https://www.faskitchen.com/)
-- [Fatima Cooks](https://fatimacooks.net/)
-- [Four and Spice Blog](https://www.flourandspiceblog.com/)
-- [Food Fusion](https://www.foodfusion.com/)
-- [Mirchi Tales](https://www.mirchitales.com/)
-- [Mostly Masala](https://mostlymasala.com/)
-- [Pakistan Eats](https://www.pakistaneats.com/)
-- [Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)
-- [Sakeenah Begum](http://sakeenahbegum.com/category/food/)
-- [Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)
-- [Zaiqa](https://www.zaiqa.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Chai and Churros](https://chaiandchurros.com/)|[Chili to Choc](https://www.chilitochoc.com/)|[Cook With Faiza](https://cookwithfaiza.net/)|[Diary of a PMP Mom](https://diaryofapmpmom.com/from-my-kitchen/)|[Fa's Kitchen](https://www.faskitchen.com/)|
+|[Fatima Cooks](https://fatimacooks.net/)|[Four and Spice Blog](https://www.flourandspiceblog.com/)|[Food Fusion](https://www.foodfusion.com/)|[Mirchi Tales](https://www.mirchitales.com/)|[Mostly Masala](https://mostlymasala.com/)|
+|[Pakistan Eats](https://www.pakistaneats.com/)|[Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)|[The Recipes PK](https://www.therecipespk.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Sakeenah Begum](http://sakeenahbegum.com/category/food/)|
+|[Tea for Turmeric](https://www.teaforturmeric.com/)|[Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)|[Zaiqa](https://www.zaiqa.com/)|
 
 #### Palestine
-- [Almond and Fig](https://www.almondandfig.com/)
-- [Falasteeni Foodie](https://falasteenifoodie.com/)
-- [Palestine in a Dish](https://palestineinadish.com/)
-- [Taste of Palestine](https://tasteofpalestine.org/)
-- [Welcome to Palestine](https://www.welcometopalestine.com/food/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Almond and Fig](https://www.almondandfig.com/)|[Falasteeni Foodie](https://falasteenifoodie.com/)|[Palestine in a Dish](https://palestineinadish.com/)|[Taste of Palestine](https://tasteofpalestine.org/)|[Welcome to Palestine](https://www.welcometopalestine.com/food/)|
 
 #### Syria
 |     |
