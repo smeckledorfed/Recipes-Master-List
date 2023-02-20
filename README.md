@@ -234,7 +234,7 @@
 | --- |
 |[The Hong Kong Cookery](https://www.thehongkongcookery.com/)|
 
-#### India
+- #### India
 - [**24 Mantra Organic**](https://www.24mantra.com/blogs/)
 
 - [Aahaaram Online](https://aahaaramonline.com/)
@@ -439,71 +439,71 @@
 - [Zayka Ka Tadka](https://www.zaykakatadka.com/)
 - [Zeel's Kitchen](https://www.zeelskitchen.com/)
 - [Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)
-##### Assam
+- ##### Assam
 |     |
 | --- |
 |[RumiCooks](http://www.rumicooks.com/)|
-##### Bengal
+- ##### Bengal
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Bong Eats](https://www.bongeats.com/category/recipe)|[Chow Man](https://chowman.net/)|[Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)|[Debjanir Rannaghar](https://kitchenofdebjani.com/)|[Dolce and Masala](http://www.dolceandmasala.com/)|
 |[Experiences of A Gastronomad](https://experiencesofagastronomad.com/)|[Finally Foodie](https://finallyfoodie.com/)|[Foodie's Hut](https://www.foodieshutrecipes.com/)|[Go Sum It Up](https://gosumitup.com/recipes)|[Playful Cooking](https://www.playfulcooking.com/)|
 |[Raanna](http://www.raanna.com/)|[Speaking Aloud](https://speakingaloud.in/)|
-##### Bihar
+- ##### Bihar
 |     |
 | --- |
 |[Bihar and Jharkhand](https://www.biharandjharkhand.com/recipe/)|
-##### Chettinad
+- ##### Chettinad
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Annam's Recipes](http://annamsrecipes.com/)|[Chettinad Cookbook](https://chettinadcookbook.org/)|[Chettinad Recipes](http://chettinadrecipesblog.blogspot.com/)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|
-##### Garo
+- ##### Garo
 |     |     |
 | --- | --- |
 |[Garo Recipes/Garo Food](https://tensanz2012.wordpress.com/)|[Mobsea](http://mobsea.com/what-to-eat-in-meghalaya/Garo-recipe)|
-##### Goa
+- ##### Goa
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Aromatic Essence](https://aromaticessence.co/)|[Big Fat Tummy](https://www.bigfattummy.com/)|[Celebration in My Kitchen](https://www.celebrationinmykitchen.com/)|[Florency Dias](https://florencydias.blogspot.com/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|
 |[Raksha's Kitchen](https://www.rakshaskitchen.com/)|[Xantilicious](https://xantilicious.com/)|
-##### Gujarati
+- ##### Gujarati
 |     |
 | --- |
 |[Gujarati Rasoi](https://www.gujrasoi.com/)|
-##### Jharkhand
+- ##### Jharkhand
 |     |
 | --- |
 |[Bihar and Jharkhand](https://www.biharandjharkhand.com/recipe/)|
-##### Kashmir
+- ##### Kashmir
 |     |
 | --- |
 |[Fast Curries](https://fastcurries.com/)|
-##### Konkani
+- ##### Konkani
 |     |
 | --- |
 |[Aayi's Recipes](https://www.aayisrecipes.com/)|
-##### Malabar
+- ##### Malabar
 |     |
 | --- |
 |[The Big Sweet Tooth](https://www.thebigsweettooth.com/)|
-##### Mangalore
+- ##### Mangalore
 |     |     |     |
 | --- | --- | --- |
 |[One Plate Please](https://www.oneplateplease.com/)|[Ruchik Randhap](https://www.ruchikrandhap.com/)|[Sherryl's Good Food](https://delicioussweetaroma.com/2017/03/05/mangalorean-snacks/)|
-##### Odia
+- ##### Odia
 |     |
 | --- |
 |[Odia Recipes](https://odiarecipes.com/index.php)|
-##### Parsi
+- ##### Parsi
 |     |
 | --- |
 |[Bawi Bride](https://bawibride.com/)|
-##### Udupi
+- ##### Udupi
 |     |
 | --- |
 |[Udupi Recipes](https://udupi-recipes.com/)|
 
-#### Indonesia
+- #### Indonesia
 - [Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)
 - [Come 2 Indonesia](https://come2indonesia.com/blog-indonesian-food-recipes/)
 - [Cooking Tackle](https://cookingtackle.blogspot.com/)
@@ -520,12 +520,12 @@
 - [Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/)
 - [Recipes Indonesia](https://recipesindonesia.com/)
 - [Tasia and Gracia](https://www.tasiaandgracia.com/recipes)
-##### Bali
+- ##### Bali
 |     |
 | --- |
 |[Wil and Wayan's Bali Kitchen](https://wilandwayanskitchen.com/)|
 
-#### Japan
+- #### Japan
 - [Ayana Gohan](https://ayana-gohan.com/)
 - [Bebe Love Okazu](https://bebeloveokazu.com/)
 - [Chef Ja Cooks](https://chefjacooks.com/en/)
@@ -562,15 +562,15 @@
 - [Tiffoodss](https://tiffoodss.com/)
 - [We Love Japanese Food](https://welovejapanesefood.com/)
 
-#### Laos
+- #### Laos
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[A Dash of Dolly](https://adashofdolly.com/)|[Food from Northern Laos](https://foodfromnorthernlaos.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
-#### Macau
+- #### Macau
 - [Macanese Recipes](https://www.macaneserecipes.com/recipes/all.html)
 
-#### Malaysia
+- #### Malaysia
 - [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
 - [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
 - [Da Vina Vegan](http://davinadavegan.com/)
