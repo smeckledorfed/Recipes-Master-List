@@ -4144,29 +4144,15 @@
 
 ### Baking
 
-#### Bread
-- [A Beautiful Plate](https://www.abeautifulplate.com/)
-- [Artisan Bryan](https://www.artisanbryan.com/)
-- [Back to Our Roots](https://www.backtoourroots.net/)
-- [Baking Hermann](https://bakinghermann.com/)
-- [Biancolievito](https://biancolievito.com/)
-- [Bread Dad](https://breaddad.com/)
-- [The Bread Kitchen](http://www.thebreadkitchen.com/)
-- [Bread Maker Machines](https://www.breadmakermachines.com/)
-- [**Breadman**](http://www.breadman.com/)
-- [Breadtopia](https://breadtopia.com/)
-- [The Clever Carrot](https://www.theclevercarrot.com/)
-- [Cook 'Til Delicious](https://cooktildelicious.com/)
-- [Culinary Exploration](https://www.culinaryexploration.eu/blog)
-- [The Flavor Bells](https://theflavorbells.com/)
-- [The Fresh Loaf](https://www.thefreshloaf.com/)
-- [Grant Bakes](https://grantbakes.com/)
-- [Heghineh](https://heghineh.com/)
-- [Little Spoon Farm](https://littlespoonfarm.com/)
-- [Mary's Nest](https://marysnest.com/)
-- [Natasha's Baking](https://natashasbaking.com/)
-- [The Perfect Loaf](https://www.theperfectloaf.com/)
-- [True Sourdough](https://truesourdough.com/)
+- #### Bread
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[A Beautiful Plate](https://www.abeautifulplate.com/)|[Artisan Bryan](https://www.artisanbryan.com/)|[Back to Our Roots](https://www.backtoourroots.net/)|[Baking Hermann](https://bakinghermann.com/)|[Biancolievito](https://biancolievito.com/)|
+|[Bread Dad](https://breaddad.com/)|[The Bread Kitchen](http://www.thebreadkitchen.com/)|[Bread Maker Machines](https://www.breadmakermachines.com/)|[**Breadman**](http://www.breadman.com/)|[Breadtopia](https://breadtopia.com/)|
+|[The Clever Carrot](https://www.theclevercarrot.com/)|[Cook 'Til Delicious](https://cooktildelicious.com/)|[Culinary Exploration](https://www.culinaryexploration.eu/blog)|[The Flavor Bells](https://theflavorbells.com/)|[The Fresh Loaf](https://www.thefreshloaf.com/)|
+|[Grant Bakes](https://grantbakes.com/)|[Heghineh](https://heghineh.com/)|[Home-Grown Happiness](https://homegrownhappiness.com/)|[Little Spoon Farm](https://littlespoonfarm.com/)|[Mary's Nest](https://marysnest.com/)|
+|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|[My Odessa Cuisine](http://www.myodessacuisine.com/en/)|[Natasha's Baking](https://natashasbaking.com/)|[Our Gabled Home](https://ourgabledhome.com/)|[Pantry Mama](https://www.pantrymama.com/)|
+|[The Perfect Loaf](https://www.theperfectloaf.com/)|[Sammy Wong's Kitchen](https://sammywongskitchen.com/)|[Sue Bee Homemaker](https://suebeehomemaker.com/)|[True Sourdough](https://truesourdough.com/)|
 
 #### General
 - [5 Boys Baker](https://www.5boysbaker.com/)
@@ -4343,8 +4329,11 @@
 - [Geoff's Baking Blog](https://geoffsbakingblog.com/)
 - [Ginger Snap's Baking Affair](https://gingersnapsbakingaffairs.com/)
 - [Girl Versus Dough](https://www.girlversusdough.com/)
+- [**Good Dee's**](https://gooddees.com/blogs/news)
 - [Good Things Baking](https://goodthingsbaking.com/)
 - [Gretchen's Vegan Bakery](https://www.gretchensveganbakery.com/)
+- [The Gud Stuff](https://sachagud.ca/)
+- [**Gygi**](https://www.gygiblog.com/)
 
 - [Heghineh](https://heghineh.com/)
 - [Hello Cuppies](https://hellocuppies.com/)
@@ -4358,6 +4347,7 @@
 - [Identical Recipes](https://www.identicalrecipes.com/)
 - [I Made My Cake](https://imademycake.com/)
 - [International Desserts Blog](https://www.internationaldessertsblog.com/)
+- [**The Invisible Chef**](https://theinvisiblechef.com/pages/recipes)
 - [Itsy Bitsy Kitchen](https://itsybitsykitchen.com/)
 
 - [Jaja Bakes](https://jajabakes.com/)
@@ -4378,6 +4368,7 @@
 
 - [A Latte Food](https://www.alattefood.com/)
 - [The Lazy Vegan Baker](https://www.thelazyveganbaker.com/)
+- [**Lehi Mills**](https://lehimills.com/blogs/desserts)
 - [Lenox Bakery](https://lenoxbakery.com/)
 - [**Libby's**](https://www.verybestbaking.com/libbys/recipes/)
 - [Life, Love and Sugar](https://www.lifeloveandsugar.com/)
@@ -4419,6 +4410,7 @@
 - [Nestle Toll House](https://www.verybestbaking.com/toll-house/)
 - [New Gen Baker](https://newgenbaker.com/)
 
+- [**Odlums**](https://www.odlums.ie/category/odlums-recipes/all-recipes/)
 - [Of Batter and Dough](https://ofbatteranddough.com/)
 - [Oh Lady Cakes](https://www.ohladycakes.com/)
 - [Olives + Thyme](https://olivesnthyme.com/)
@@ -4439,6 +4431,7 @@
 - [Pastry Wiz](https://www.pastrywiz.com/)
 - [Patisserie Makes Perfect](https://www.patisseriemakesperfect.co.uk/)
 - [Pies and Plots](https://piesandplots.net/)
+- [**Pillsbury**](https://www.pillsbury.com/recipes)
 - [Ping Desserts](https://www.pingdesserts.com/)
 - [Pint-Size Bakery](https://www.pintsizebakery.com/recipes)
 - [Portlandia Pie Lady](https://portlandiapielady.com/)
@@ -4453,6 +4446,7 @@
 - [Robin's Web](http://www.robinsweb.com/cookies/index.html)
 - [Rose Bakes](https://rosebakes.com/)
 
+- [**Saco Pantry**](https://www.sacopantry.com/recipes/)
 - [Sally's Baking Addiction](https://sallysbakingaddiction.com/)
 - [Salt & Baker](https://saltandbaker.com/)
 - [The Salted Sweets](https://thesaltedsweets.com/)
@@ -4463,7 +4457,9 @@
 - [Scientifically Sweet](https://scientificallysweet.com/)
 - [Scratch Pantry](https://scratchpantry.com/)
 - [Scotch and Scones](https://www.scotchandscones.com/)
+- [Secret Ingredient](https://secret-ingredient.net/)
 - [Shirlgard](https://shirlgard.com/)
+- [Sift n' Whisk](https://www.siftnwhisk.com/)
 - [Simply Veganista](https://simple-veganista.com/)
 - [Something Swanky](https://www.somethingswanky.com/)
 - [A Sparkle of Genius](https://www.asparkleofgenius.com/)
@@ -4475,6 +4471,7 @@
 - [**St. Pierre Bakery**](https://stpierrebakery.co.uk/recipes/)
 - [Stress Baking](https://stressbaking.com/)
 - [Style Sweet](https://stylesweet.com/)
+- [Sue Bee Homemaker](https://suebeehomemaker.com/)
 - [Sugar & Sparrow](https://sugarandsparrow.com/)
 - [The Sugar Coated Cottage](https://www.thesugarcoatedcottage.com/)
 - [Sugar Flour Dough](https://sugarflourdough.com/)
@@ -4490,16 +4487,21 @@
 - [Sweetest Menu](https://www.sweetestmenu.com/)
 - [Sweet Fix Baker](https://www.sweetfixbaker.com/)
 - [Sweet Saura](https://sweetsaura.com/)
+- [Sweet Things by Lizzie](https://sweetthingsbylizzie.com/)
 
 - [Tasting Thyme](https://tasting-thyme.com/)
 - [Tea Collection](https://blog.teacollection.com/category/global-dishes/)
 - [Teak & Thyme](https://teakandthyme.com/)
+- [Teatime Magazine](https://www.teatimemagazine.com/category/recipes/)
 - [Texan Erin](https://www.texanerin.com/)
 - [Top with Cinnamon](https://topwithcinnamon.com/)
 - [Tray Bakes and More](http://traybakesandmore.com/)
 - [A Treat's Affair](http://atreatsaffair.com/)
+- [**TruEats**](https://www.trueats.com/blogs/recipes)
+- [Two Raspberries](https://tworaspberries.com/)
 - [Two Sisters Crafting](https://www.twosisterscrafting.com/)
 - [Two Sugar Bugs](https://twosugarbugs.com/)
+- [Tutti Dolci](https://tutti-dolci.com/)
 - [typefoodie](https://www.typefoodie.com/)
 
 - [Ugly Duckling Bakery](https://uglyducklingbakery.com/) 
@@ -4511,14 +4513,18 @@
 - [Veena Azmanov](https://veenaazmanov.com/)
 - [Vintage Kitchen Notes](https://vintagekitchennotes.com/)
 
+- [Waiting for Blanc Mange](https://waitingforblancmange.com/)
 - [The Way My Heart Bakes](https://thewaymyheartbakes.com/)
 - [Weekend Bakery](https://www.weekendbakery.com/)
+- [**Well and Good**](https://wellandgood.com.au/well-and-good-new-food-recipes/)
 - [What Jessica Baked Next](https://whatjessicabakednext.com/)
 - [Wheat Beat](https://wheatbeat.com/)
 - [Wheel of Baking](https://wheelofbaking.com/)
 - [Whisk Averse Baking](https://whiskaversebaking.com/)
 - [White on Rice Couple](https://whiteonricecouple.com/)
 - [Wholesome Patisserie](https://wholesomepatisserie.com/)
+- [**Wholly Wholesome**](https://www.whollywholesome.com/category/recipes/)
+- [Wfie Mama Foodie](https://www.wifemamafoodie.com/)
 - [Willow Bird Baking](http://willowbirdbaking.com/)
 
 - [**XO Baking Co.**](https://xobakingco.com/recipes/)
