@@ -343,22 +343,13 @@
 |[Udupi Recipes](https://udupi-recipes.com/)|
 
 - #### Indonesia
-- [Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)
-- [Come 2 Indonesia](https://come2indonesia.com/blog-indonesian-food-recipes/)
-- [Cooking Tackle](https://cookingtackle.blogspot.com/)
-- [Cook Me Indonesian](https://www.cookmeindonesian.com/)
-- [Daily Cooking Quest](https://dailycookingquest.com/)
-- [Dapurkorn Hills](https://dapurkornhills.com/)
-- [I Love Culinary Indonesia](http://iloveculinaryindonesia.blogspot.com/)
-- [Indonesian Cooking 101](https://www.indonesiancooking101.com/)
-- [Indonesian Original Recipes](http://indonesiaoriginalrecipes.blogspot.com/)
-- [Indonesia Secret Kitchen](http://indonesiasecretkitchen.blogspot.com/)
-- [A Journey Bespoke](https://www.ajourneybespoke.com/?category=Food)
-- [Mindfull of Cooking](https://mindfullofcooking.com/)
-- [Monica is in the Kitchen](https://monicaisinthekitchen.wordpress.com/)
-- [Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/)
-- [Recipes Indonesia](https://recipesindonesia.com/)
-- [Tasia and Gracia](https://www.tasiaandgracia.com/recipes)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)|[Come 2 Indonesia](https://come2indonesia.com/blog-indonesian-food-recipes/)|[Cooking Tackle](https://cookingtackle.blogspot.com/)|[Cook Me Indonesian](https://www.cookmeindonesian.com/)|[Daily Cooking Quest](https://dailycookingquest.com/)|
+|[Dapurkorn Hills](https://dapurkornhills.com/)|[I Love Culinary Indonesia](http://iloveculinaryindonesia.blogspot.com/)|[Indonesian Cooking 101](https://www.indonesiancooking101.com/)|[Indonesian Original Recipes](http://indonesiaoriginalrecipes.blogspot.com/)|[Indonesia Secret Kitchen](http://indonesiasecretkitchen.blogspot.com/)|
+|[Indo Recipe](https://www.indorecipe.com/)|[A Journey Bespoke](https://www.ajourneybespoke.com/?category=Food)|[Karin's Recipe](https://karinisafrauenfeld.blogspot.com/)|[Mindfull of Cooking](https://mindfullofcooking.com/)|[Monica is in the Kitchen](https://monicaisinthekitchen.wordpress.com/)|
+|[Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/)|[Panomnom](https://panomnom.com/en)|[Pisang Susu](https://pisangsusu.com/en/)|[Recipes Indonesia](https://recipesindonesia.com/)|[Tasia and Gracia](https://www.tasiaandgracia.com/recipes)|
+|[Toast to Home](https://toasttohome.com/)|[Toine's Kitchen](https://www.toineskitchen.com/)|
 - ##### Bali
 |     |
 | --- |
@@ -370,41 +361,16 @@
 |[Vered Guttman](https://veredguttman.com/)|
 
 - #### Japan
-- [Ayana Gohan](https://ayana-gohan.com/)
-- [Bebe Love Okazu](https://bebeloveokazu.com/)
-- [Chef Ja Cooks](https://chefjacooks.com/en/)
-- [Chef Sohum](https://www.chefsohum.com/)
-- [Chopstick Chronicles](https://www.chopstickchronicles.com/)
-- [Contemplating Sweets](https://www.contemplatingsweets.com/)
-- [Cook & Meshiagare](https://meshiagare.tokyo/)
-- [Cooking With Dog](https://cookingwithdog.com/)
-- [Create Eat Happy](https://createeathappy.blogspot.com/)
-- [Ellie Likes Cooking](https://www.ellielikes.cooking/)
-- [Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)
-- [Hiroko's Recipes](https://www.hirokoliston.com/)
-- [Japan Centre](https://www.japancentre.com/en/recipe)
-- [Japanese Cooking 101](https://www.japanesecooking101.com/)
-- [Japan Food Addict](http://www.japanfoodaddict.com/)
-- [Japanese Food at Home](https://japfoodathome.com/)
-- [The Japanese Kitchen](https://thejapanesekitchen.com/)
-- [Japan McConnell](https://japanmcconnell.com/)
-- [Japan-Recipe](https://www.japan-recipe.com/)
-- [The Japan Store](https://thejapanstore.us/)
-- [Japanese Sushi Recipes](https://japanesesushirecipes.info/)
-- [Japan Taste](https://japan-taste.com/)
-- [The Japantry](https://thejapantry.com/)
-- [JP Foodie](https://japanesefoods.net/)
-- [Just One Cookbook](https://www.justonecookbook.com/)
-- [Kurumi Cooks](https://www.kurumicooks.co.uk/)
-- [Kyoto Foodies](https://kyotofoodie.com/category/recipe/)
-- [La Petit Noisette](https://lapetitnoisette.com/)
-- [Norio on Wine and Food](https://norioonwine.blogspot.com/)
-- [RecipeTin Japan](https://japan.recipetineats.com/)
-- [**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)
-- [Suki Desu](https://skdesu.com/en/tag/japan/culinaria/)
-- [Sushi Day](https://sushiday.com/)
-- [Tiffoodss](https://tiffoodss.com/)
-- [We Love Japanese Food](https://welovejapanesefood.com/)
+|[Ayana Gohan](https://ayana-gohan.com/)|[Bebe Love Okazu](https://bebeloveokazu.com/)|[Chef Ja Cooks](https://chefjacooks.com/en/)|[Chef Sohum](https://www.chefsohum.com/)|[Chopstick Chronicles](https://www.chopstickchronicles.com/)|
+|[Contemplating Sweets](https://www.contemplatingsweets.com/)|[Cook & Meshiagare](https://meshiagare.tokyo/)|[Cooking With Dog](https://cookingwithdog.com/)|[Create Eat Happy](https://createeathappy.blogspot.com/)|[Ellie Likes Cooking](https://www.ellielikes.cooking/)|
+|[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Hiroko's Recipes](https://www.hirokoliston.com/)|[It's My Dish](https://itsmydish.com/)|[Japan Centre](https://www.japancentre.com/en/recipe)|[Japanese Cooking 101](https://www.japanesecooking101.com/)|
+|[Japan Food Addict](http://www.japanfoodaddict.com/)|[Japanese Food at Home](https://japfoodathome.com/)|[The Japanese Kitchen](https://thejapanesekitchen.com/)|[Japan McConnell](https://japanmcconnell.com/)|[Japan-Recipe](https://www.japan-recipe.com/)|
+|[The Japan Store](https://thejapanstore.us/)|[Japanese Sushi Recipes](https://japanesesushirecipes.info/)|[Japan Taste](https://japan-taste.com/)|[The Japantry](https://thejapantry.com/)|[JP Foodie](https://japanesefoods.net/)|
+|[J-Simple Recipes](http://j-simplerecipes.com/)|[Just One Cookbook](https://www.justonecookbook.com/)|[Kozmo Kitchen](https://www.kozmokitchen.com/)|[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kyoto Foodies](https://kyotofoodie.com/category/recipe/)|
+|[La Petit Noisette](https://lapetitnoisette.com/)|[Norio on Wine and Food](https://norioonwine.blogspot.com/)|[Oishi Washoku Recipes](https://www.oishi-washoku-recipes.com/)|[Otaku Food](https://www.otakufood.com/)|[Pickled Plum](https://pickledplum.com/)|
+|[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[RyoKoch](https://ryukoch.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|
+|[**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)|[Sudachi Recipes](https://sudachirecipes.com/)|[Suki Desu](https://skdesu.com/en/tag/japan/culinaria/)|[Sushi Day](https://sushiday.com/)|[Sylvia Wakana](https://sylviawakana.com/)|
+|[Thanks for the Meal](https://www.thanksforthemeal.net/)|[Tiffoodss](https://tiffoodss.com/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
 
 - #### Laos
 |     |     |     |     |
