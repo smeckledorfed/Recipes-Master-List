@@ -708,22 +708,29 @@
 |[Turkish Food Chef](https://turkishfoodchef.com/)|[Turkish Food Travel](https://www.turkishfoodtravel.com/)|[Turkish Style Cooking](https://turkishstylecooking.com/)|[Vidar Bergum](https://vidarbergum.com/all-recipes/)|[When Feta Met Olive](https://whenfetametolive.com/)|
 
 #### United Arab Emirates
-- [The Big Sweet Tooth](https://www.thebigsweettooth.com/)
+|     |
+| --- |
+|[The Big Sweet Tooth](https://www.thebigsweettooth.com/)|
 
 #### Uzbekistan
-- [Seattle Tashkent](https://seattle-tashkent.org/uzbek-recipes/)
-- [Uzbek Cooking](http://uzbekcooking.blogspot.com/)
+|     |     |
+| --- | --- |
+|[Seattle Tashkent](https://seattle-tashkent.org/uzbek-recipes/)|[Uzbek Cooking](http://uzbekcooking.blogspot.com/)|
 
 #### Yemen
-- [Sheba Yemeni Food](https://www.shebayemenifood.com/)
-- [Yemeniyah](https://yemeniyah.com/)
-- [Yemen Kitchen](https://yemenkitchen.wordpress.com/)
+|     |     |
+| --- | --- |
+|[Sheba Yemeni Food](https://www.shebayemenifood.com/)|[Yemeniyah](https://yemeniyah.com/)|[Yemen Kitchen](https://yemenkitchen.wordpress.com/)|
 
 #### Maldives
-- [Maldives Cook](https://maldivescook.com/)
+|     |     |
+| --- | --- |
+|[Lonumedhu](https://lonumedhu.com/)|[Maldives Cook](https://maldivescook.com/)|
 
 #### Nepal
-- [Anup's Kitchen](https://www.anupskitchen.com/)
+|     |
+| --- |
+|[Anup's Kitchen](https://www.anupskitchen.com/)|
 
 #### The Philippines
 - [Aling Oday's Kitchen](https://alingodays.co.uk/)
@@ -4026,9 +4033,14 @@
 - [Fermenters Club](https://fermentersclub.com/category/recipes/)
 - [Flavor Fix](https://flavorfix.com/edible-recipes/)
 - [Good and Baked](http://goodandbaked.com/)
+- [Happy Pot Farmers](https://happypotfarmer.com/recipes)
+- [**Holistik Wellness**](https://www.holistikwellness.com/blogs/recipes)
+- [**Identity Life**](https://identitylife.com/blogs/recipes)
 - [Kitchen Toke](https://kitchentoke.com/how-to-make-cannabis-infused-recipes/)
 - [**Levo Oil**](https://levooil.com/blogs/recipes)
+- [Living Harvest](http://livingharvest.com/#recipes)
 - [**Magical Butter**](https://magicalbutter.com/pages/recipes)
+- [**Manitoba Harvest**](https://manitobaharvest.com/blogs/hemp-resource-hub/tagged/recipes)
 - [**Proof Cannabis**](https://proofcannabis.com/recipes)
 - [**Pure Kana**](https://purekana.com/blog/cooking-recipes/)
 - [**Rise Cannabis**](https://risecannabis.com/resources/recipes/)
