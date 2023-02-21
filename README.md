@@ -683,6 +683,7 @@
 |[Chasing the Donkey](https://www.chasingthedonkey.com/croatian-recipes-in-english/)|[Croatia Honestly](https://travelhonestly.com/croatian-recipes/)|[Croatia Fest](http://www.croatiafest.org/recipes/)|[Croatian Food](https://croatianfood.eu/)|[Croatia Traveller](https://www.croatiatraveller.com/Recipes/)|
 
 #### Cyprus
+|     |     |
 | --- | --- |
 |[Cyprus Island](https://www.cyprusisland.net/cyprus-cuisine)|[My Cypriot Life](https://mycypriotlife.wordpress.com/)|
 
@@ -698,41 +699,28 @@
 |[Skandibaking](https://skandibaking.com/)|
 
 #### Finland
-- [ACMEFinns](https://acmefinns.com/finnish-foodie)
-- [Cooking Finland](http://cookingfinland.blogspot.com/)
-- [Her Finland](https://herfinland.com/category/food/)
-- [This is Finland](https://finland.fi/tag/cuisine/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[ACMEFinns](https://acmefinns.com/finnish-foodie)|[Cooking Finland](http://cookingfinland.blogspot.com/)|[Her Finland](https://herfinland.com/category/food/)|[This is Finland](https://finland.fi/tag/cuisine/)|
 
 #### France
-- [A Baking Journey](https://www.abakingjourney.com/)
-- [Bordeaux Kitchen](https://bordeauxkitchen.com/)
-- [Cerise Cherie](https://rebeccasherrow.com/)
-- [Chez Le Reve Francais](https://chezlerevefrancais.com/)
-- [Cuisine Daubery](https://www.cuisinedaubery.com/home_en/)
-- [Distilleries Provence](https://www.distilleries-provence.com/en/blog/recettes-c2)
-- [The Everyday French Chef](https://everydayfrenchchef.com/)
-- [France Just For You](https://www.france-justforyou.com/blog/french-food-wine)
-- [France This Way](https://www.francethisway.com/frenchfood.php)
-- [French Cooking Acadamy](https://www.thefrenchcookingacademy.com/recipes)
-- [French Revolution](http://www.frenchrevolutionfood.com/)
-- [French Women Don't Get Fat](https://frenchwomendontgetfat.com/)
-- [Interfrance](http://www.interfrance.com/cuisines_en.html)
-- [A Lady in France](https://aladyinfrance.com/)
-- [Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)
-- [Love French Food](https://www.lovefrenchfood.com/)
-- [Mad About Macarons](https://www.madaboutmacarons.com/)
-- [Mon Petit Four](https://www.monpetitfour.com/recipes/)
-- [My Parisian Kitchen](https://www.myparisiankitchen.com/en/)
-- [Pardon Your French](https://www.pardonyourfrench.com/)
-- [Simple French Cooking](https://www.simplefrenchcooking.com/)
-- [Snippets of Paris](https://snippetsofparis.com/category/french-food/)
-- [Taste France](https://www.tastefrance.com/us/recipes)
-- [Traditional French Food](https://www.traditionalfrenchfood.com/)
-- [Virginie in Provence](https://www.virginieinprovence.com/blog/categories/recipes)
-- [Wind From the North](https://windfromthenorth.com/category/recipes/)
-- [Your Guardian Chef](https://yourguardianchef.com/)
-##### Provence
-- [Provence](https://perfectlyprovence.co/category/food-drink-provence/provencal-recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[A Baking Journey](https://www.abakingjourney.com/)|[Bordeaux Kitchen](https://bordeauxkitchen.com/)|[Cerise Cherie](https://rebeccasherrow.com/)|[Chez Le Reve Francais](https://chezlerevefrancais.com/)|[Cuisine Daubery](https://www.cuisinedaubery.com/home_en/)|
+|[Distilleries Provence](https://www.distilleries-provence.com/en/blog/recettes-c2)|[The Everyday French Chef](https://everydayfrenchchef.com/)|[France Just For You](https://www.france-justforyou.com/blog/french-food-wine)|[France This Way](https://www.francethisway.com/frenchfood.php)|[French Cooking Acadamy](https://www.thefrenchcookingacademy.com/recipes)|
+|[French Revolution](http://www.frenchrevolutionfood.com/)|[French Women Don't Get Fat](https://frenchwomendontgetfat.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Hertzmann](https://www.hertzmann.com/index/index.php)|[Interfrance](http://www.interfrance.com/cuisines_en.html)|
+|[A Lady in France](https://aladyinfrance.com/)|[Le Chef's Wife](https://lechefswife.com/)|[Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)|[Love French Food](https://www.lovefrenchfood.com/)|[Mad About Macarons](https://www.madaboutmacarons.com/)|
+|[Mon Petit Four](https://www.monpetitfour.com/recipes/)|[My Parisian Kitchen](https://www.myparisiankitchen.com/en/)|[On Rue Tatin](https://onruetatin.com/recipe-archive/)|[Pardon Your French](https://www.pardonyourfrench.com/)|[Simple French Cooking](https://www.simplefrenchcooking.com/)|
+|[Snippets of Paris](https://snippetsofparis.com/category/french-food/)|[Taste France](https://www.tastefrance.com/us/recipes)|[Terres Dazur](https://terres-dazur.com/en/category/recipe-ideas/)|[Traditional French Food](https://www.traditionalfrenchfood.com/)|[Virginie in Provence](https://www.virginieinprovence.com/blog/categories/recipes)|
+|[Wind From the North](https://windfromthenorth.com/category/recipes/)|[Your Guardian Chef](https://yourguardianchef.com/)|
+- ##### Alsace
+|     |
+| --- |
+|[My Weekend in Alsace](https://www.my-weekend-in-alsace.com/cat/eat-drink/alsatian-recipes/)|
+- ##### Provence
+|     |
+| --- |
+|[Provence](https://perfectlyprovence.co/category/food-drink-provence/provencal-recipes/)|
 
 #### Germany
 |     |     |     |     |     |
