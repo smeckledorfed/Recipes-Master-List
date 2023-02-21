@@ -1631,30 +1631,31 @@
 |[Eat Rio](https://eatrio.net/brazilian-recipes)|[Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)|[I Heart Brazil](https://www.iheartbrazil.com/category/foods-and-drinks/)|[Sabor Brasil](https://www.saborbrasil.it/en/)|[Texas de Brazil](https://texasdebrazil.com/recipes/)|
 
 #### Chile
-- [Chilean Food and Garden](https://www.chileanfoodandgarden.com/)
+|     |
+| --- |
+|[Chilean Food and Garden](https://www.chileanfoodandgarden.com/)|
 
 #### Colombia
-- [Arepas del Gringo](https://arepasdelgringo.com/)
-- [My Colombian Recipes](https://www.mycolombianrecipes.com/)
-- [Colture](https://www.colture.co/bogota/food-drink/recipes/)
-- [The Little Arepa](https://thelittlearepa.com/)
-- [Sweet y Salado](https://sweetysalado.com/en/)
-- [Vecina Vegeteriana](https://vecinavegetariana.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Arepas del Gringo](https://arepasdelgringo.com/)|[My Colombian Recipes](https://www.mycolombianrecipes.com/)|[Colture](https://www.colture.co/bogota/food-drink/recipes/)|[The Little Arepa](https://thelittlearepa.com/)|[Receta Tipica](https://recetatipica.net/)|
+|[Sweet y Salado](https://sweetysalado.com/en/)|[Vecina Vegeteriana](https://vecinavegetariana.com/)|
 
 #### Paraguay
-- [Camila Made](https://camilamade.com/)
+|     |
+| --- |
+|[Camila Made](https://camilamade.com/)|
 
 #### Peru
-- [Canguro Criollo](https://cangurocriollo.com/)
-- [Chewing Happiness](https://chewinghappiness.com/)
-- [Eat Peru](https://www.eatperu.com/)
-- [Peru Delights](https://perudelights.com/)
-- [Peru Travel](https://www.peru.travel/gastronomy/en/#recipes)
-- [Reciperuvian](https://reciperuvian.com/)
-- [Yanuq](https://www.yanuq.com/english/index.htm)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Canguro Criollo](https://cangurocriollo.com/)|[Chewing Happiness](https://chewinghappiness.com/)|[Eat Peru](https://www.eatperu.com/)|[Me Passions](https://mepassions.com/category/recipes/)|[Peru Delights](https://perudelights.com/)|
+|[Peru Travel](https://www.peru.travel/gastronomy/en/#recipes)|[Pisco Trail](https://www.piscotrail.com/category/recipes/)|[Reciperuvian](https://reciperuvian.com/)|[Yanuq](https://www.yanuq.com/english/index.htm)|
 
 #### Venezuela
-- [Arepas del Gringo](https://arepasdelgringo.com/)
+|     |
+| --- |
+|[Arepas del Gringo](https://arepasdelgringo.com/)|
 
 ## Diet
 
@@ -2823,36 +2824,16 @@
 - [**Serious Bean Co.**](https://seriousbeanco.com/blogs/recipes)
 
 ### Beverages
-- [**7up**](https://www.7up.com/en/recipes)
-- [**Ace Canning**](http://www.acecanning.com/web/recipes/)
-- [**Backyard Sodas**](https://www.backyardsodas.com/recipes/)
-- [**Bhakti Chai**](https://drinkbhakti.com/blogs/recipes)
-- [**Califia Farms**](https://www.califiafarms.com/recipes)
-- [**Ceres Juices**](https://ceresjuices.com/recipes/)
-- [**Coconut Cloud**](https://coconutcloud.net/blogs/coconut-cloud)
-- [**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)
-- [**De La Calle**](https://www.delacalle.mx/blogs/news)
-- [**Ethan's**](https://ethans.com/blogs/recipes/tagged/recipe)
-- [**Evolution Fresh**](https://www.evolutionfresh.com/)
-- [**Fermenting Fairy**](https://fermentingfairy.com/blogs/recipes)
-- [**Garden of Flavor**](https://gardenofflavor.com/blogs/home)
-- [**Goldthread**](https://drinkgoldthread.com/blogs/recipes)
-- [**Greenhouse Juice**](https://blog.greenhousejuice.com/tagged/recipe)
-- [**Iconic**](https://www.drinkiconic.com/blogs/recipes)
-- [**LaCroix**](https://www.lacroixwater.com/recipes/)
-- [**Lori's Original Lemonade**](https://lorisoriginallemonade.com/category/recipes/)
-- [**The Mindful Mocktail**](https://mindfulmocktail.com/)
-- [**Oliko Ginger Beer**](https://www.olikogingerbeer.com/recipes)
-- [**Perrier**](https://www.perrier.com/us/drink-recipes)
-- [**Pom**](https://www.pomwonderful.com/recipes/drinks)
-- [**Pure Cocobella**](https://purecocobella.com/recipe/)
-- [Reboot with Joe](https://www.rebootwithjoe.com/recipes/)
-- [**Reed's**](https://drinkreeds.com/recipes/)
-- [**San Pellegrino**](https://www.sanpellegrino.com/uk/sparkling-drinks/zesty-food)
-- [**Smart Pressed Juice**](https://smartpressedjuice.com/blogs/immunity-wellness)
-- [**SpinDrift**](https://drinkspindrift.com/blogs/recipes)
-- [**Suja Organic**](https://www.sujaorganic.com/blog/category/recipes/)
-- [**Waterloo Sparkling Water**](https://www.drinkwaterloo.com/recipes)
+| --- | --- | --- | --- | --- |
+|[**7up**](https://www.7up.com/en/recipes)|[**Ace Canning**](http://www.acecanning.com/web/recipes/)|[**Backyard Sodas**](https://www.backyardsodas.com/recipes/)|[**Bhakti Chai**](https://drinkbhakti.com/blogs/recipes)|[**Califia Farms**](https://www.califiafarms.com/recipes)|
+|[**Ceres Juices**](https://ceresjuices.com/recipes/)|[**Coconut Cloud**](https://coconutcloud.net/blogs/coconut-cloud)|[**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)|[**De La Calle**](https://www.delacalle.mx/blogs/news)|[**Ethan's**](https://ethans.com/blogs/recipes/tagged/recipe)|
+|[**Evolution Fresh**](https://www.evolutionfresh.com/)|[**Fermenting Fairy**](https://fermentingfairy.com/blogs/recipes)|[**Garden of Flavor**](https://gardenofflavor.com/blogs/home)|[**Goldthread**](https://drinkgoldthread.com/blogs/recipes)|[**Greenhouse Juice**](https://blog.greenhousejuice.com/tagged/recipe)|
+|[**Iconic**](https://www.drinkiconic.com/blogs/recipes)|[**Inner Eco**](https://inner-eco.com/our-favorite-recipes/)|[**Karviva**](https://karviva.com/recipes/)|[**LaCroix**](https://www.lacroixwater.com/recipes/)|[**Lori's Original Lemonade**](https://lorisoriginallemonade.com/category/recipes/)|
+|[**Martinelli's**](https://www.martinellis.com/recipes)|[**The Mindful Mocktail**](https://mindfulmocktail.com/)|[**Oliko Ginger Beer**](https://www.olikogingerbeer.com/recipes)|[**Perrier**](https://www.perrier.com/us/drink-recipes)|[**Pom**](https://www.pomwonderful.com/recipes/drinks)|
+|[**Pure Cocobella**](https://purecocobella.com/recipe/)|[**Realm Foods**](https://www.realmfoods.com/blogs/news)|[**Rebbl**](https://rebbl.co/blog/#recipes)|[Reboot with Joe](https://www.rebootwithjoe.com/recipes/)|[**Reed's**](https://drinkreeds.com/recipes/)|
+|[**Rowdy Mermaid**](https://rowdymermaid.com/blogs/insights)|[**RW Knudsen**](*https://rwknudsen.com/recipes)|[**San Pellegrino**](https://www.sanpellegrino.com/uk/sparkling-drinks/zesty-food)|[**SlimFast**](https://slimfast.com/recipes/)|[**Smart Pressed Juice**](https://smartpressedjuice.com/blogs/immunity-wellness)|
+|[**SpinDrift**](https://drinkspindrift.com/blogs/recipes)|[**Suja Organic**](https://www.sujaorganic.com/blog/category/recipes/)|[**Swoon**](https://www.tasteswoon.com/pages/recipes)|[**Treetop**](https://www.treetop.com/consumer/recipes/)|[**Uncle Matt's**](https://www.unclematts.com/category/recipes/)|
+|[**Waterloo Sparkling Water**](https://www.drinkwaterloo.com/recipes)|
 #### Coffee
 - [**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)
 - [**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)
