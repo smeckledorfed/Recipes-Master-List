@@ -2942,13 +2942,11 @@
 |[**Twinings**](https://twiningsusa.com/blogs/twinings-recipes)|[**Two Leaves and a Bud**](https://twoleavestea.com/blogs/twoleaves/tagged/recipe)|[**Wize**](https://drinkwize.com/pages/blog?filter=recipes)|[**Yogi**](https://yogiproducts.com/tea-talk-blog/)|[**Zevia**](https://www.zevia.com/blogs/recipes)|
 
 ### Candy
-- [**Boyer Candies**](https://www.boyercandies.com/recipes.aspx)
-- [**Candy Club**](https://www.candyclub.com/blog/category/recipes/)
-- [**Dandie's**](https://dandies.com/recipes)
-- [**Maltesers**](https://www.maltesers.co.uk/recipes?)
-- [**Max Sweets**](https://www.myknowbrainer.com/blogs/recipes)
-- [**Tootsie**](https://tootsie.com/recipes/)
-- [**Twix**](https://www.twix.com/recipes)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Boyer Candies**](https://www.boyercandies.com/recipes.aspx)|[**Candy Club**](https://www.candyclub.com/blog/category/recipes/)|[**Dandie's**](https://dandies.com/recipes)|[**Jell-O**](https://www.myfoodandfamily.com/brands/kraft-jello/recipes/20001/recipes)|[**M&M's**](https://www.mms.com/en-us/all-recipes)|
+|[**Maltesers**](https://www.maltesers.co.uk/recipes?)|[**Max Sweets**](https://www.myknowbrainer.com/blogs/recipes)|[**Snickers**](https://www.snickers.com/recipes)|[**Stuffed Puffs**](https://stuffedpuffs.com/blogs/recipes)|[**Tootsie**](https://tootsie.com/recipes/)|
+[**Twix**](https://www.twix.com/recipes)|
 
 ### Chocolate
 - [**Abuelita**](https://www.goodnes.com/abuelita/recipes/)
@@ -3618,32 +3616,25 @@
 - [**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)
 - [**Tyson**](https://www.tyson.com/recipes/)
 #### Duck
-- [**Duck Fat Spray**](https://duckfatspray.com/better-for-food/recipes/)
-- [**Luv-A-Duck**](https://www.luvaduck.com.au/)
+|     |     |
+| --- | --- |
+|[**Duck Fat Spray**](https://duckfatspray.com/better-for-food/recipes/)|[**Luv-A-Duck**](https://www.luvaduck.com.au/)|
 #### Lamb
-- [**Atkin's Ranch**](https://recipes.atkinsranch.com/)
+|     |     |
+| --- | --- |
+|[**Atkin's Ranch**](https://recipes.atkinsranch.com/)|[**Shepherd Song Farm**](https://www.shepherdsongfarm.com/recipes/)|
 #### Pork
-- [**Applegate**](https://applegate.com/recipes)
-- [**Bavarian Meats**](https://bavarianmeats.com/)
-- [Bensa Bacon Lovers](https://bensabaconlovers.com/)
-- [**Bierman Bacon**](https://biermanbacon.com/blogs/news)
-- [**duBreton**](https://www.dubretonrecipes.com/en-us/recipes/)
-- [Eat Pork](http://www.eatpork.org/)
-- [**Gaspar's Sausage**](https://www.gasparssausage.com/favrec.html)
-- [**Gwaltney Foods**](https://gwaltneyfoods.sfdbrands.com/en-us/recipes/)
-- [**Habbersett Scrapple**](https://www.habbersettscrapple.com/recipes)
-- [**Mulay's**](https://mulays.com/pages/recipes)
-- [**Naked Bacon Co.**](https://www.nakedbaconco.com/blogs/recipes)
-- [**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)
-- [Pork.org](https://www.pork.org/cooking-techniques/)
-- [**Silva Sausage**](https://www.silvasausage.com/recipes2021)
-- [**Southern Recipe Small Batch**](https://www.southernrecipesmallbatch.com/recipes)
-- [**Spam**](https://www.spam.com/recipes)
-- [**Wright Brand**](https://www.wrightbrand.com/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Applegate**](https://applegate.com/recipes)|[**Bavarian Meats**](https://bavarianmeats.com/)|[Bensa Bacon Lovers](https://bensabaconlovers.com/)|[**Bierman Bacon**](https://biermanbacon.com/blogs/news)|[**duBreton**](https://www.dubretonrecipes.com/en-us/recipes/)|
+|[Eat Pork](http://www.eatpork.org/)|[**Farmland Foods**](https://farmlandfoods.sfdbrands.com/en-us/recipes/)|[**Gaspar's Sausage**](https://www.gasparssausage.com/favrec.html)|[**Gwaltney Foods**](https://gwaltneyfoods.sfdbrands.com/en-us/recipes/)|[**Habbersett Scrapple**](https://www.habbersettscrapple.com/recipes)|
+|[**Hempler's**](https://hemplers.com/our-recipes/)|[**Jolly Posh Foods**](https://jollyposhfoods.com/blogs/recipes)|[**Mulay's**](https://mulays.com/pages/recipes)|[**Naked Bacon Co.**](https://www.nakedbaconco.com/blogs/recipes)|[**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)|
+|[Pork.org](https://www.pork.org/cooking-techniques/)|[**Silva Sausage**](https://www.silvasausage.com/recipes2021)|[**Southern Recipe Small Batch**](https://www.southernrecipesmallbatch.com/recipes)|[**Spam**](https://www.spam.com/recipes)|[**Tender Belly**](https://www.tenderbelly.com/blogs/recipes)|
+|[**True Story Foods**](https://www.truestoryfoods.com/recipes/)|[**Wright Brand**](https://www.wrightbrand.com/recipes/)|
 #### Turkey
-- [**Butterball**](https://www.butterball.com/recipes)
-- [**Diestel Turkey**](https://diestelturkey.com/recipes/)
-- [National Turkey Federation](https://www.eatturkey.org/recipes/)
+|     |     |     |
+| --- | --- | --- |
+|[**Butterball**](https://www.butterball.com/recipes)|[**Diestel Turkey**](https://diestelturkey.com/recipes/)|[National Turkey Federation](https://www.eatturkey.org/recipes/)|
 
 ### Meat Alternative
 - [**Abbot's Butcher**](https://abbotsbutcher.com/recipes)
