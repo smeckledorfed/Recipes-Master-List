@@ -499,6 +499,11 @@
 | --- | --- |
 |[Lonumedhu](https://lonumedhu.com/)|[Maldives Cook](https://maldivescook.com/)|
 
+#### Myanmar
+|     |     |
+| --- | --- |
+|[Hsaba](https://hsaba.com/recipes)|[Meemalee](http://www.meemalee.com/)|
+
 #### Nepal
 |     |
 | --- |
@@ -1122,29 +1127,28 @@
 |[Polonist](https://www.polonist.com/)|
 
 #### Portugal
-- [Ana's Portuguese Cooking](https://portuguesecooking.com/)
-- [Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)
-- [Eu Amo Portugal](https://euamoportugal.com/en/recipes)
-- [Food from Portgual](https://www.foodfromportugal.com/)
-- [Just Cook with Michael](https://justcookwithmichael.com/)
-- [The Portuguese American Mom](https://theportugueseamericanmom.com/)
-- [Portuguese Recipes](https://portugueserecipes.ca/)
-- [We Travel Portugal](https://wetravelportugal.com/category/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Ana's Portuguese Cooking](https://portuguesecooking.com/)|[Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)|[Eu Amo Portugal](https://euamoportugal.com/en/recipes)|[Food from Portgual](https://www.foodfromportugal.com/)|[Just Cook with Michael](https://justcookwithmichael.com/)|
+|[Photos and Food](https://www.photosandfood.ca/)|[The Portuguese American Mom](https://theportugueseamericanmom.com/)|[Portuguese Recipes](https://portugueserecipes.ca/)|[We Travel Portugal](https://wetravelportugal.com/category/recipes/)|
 ##### Azoria
-- [Azorean Green Bean](https://azoreangreenbean.com/)
+|     |
+| --- |
+|[Azorean Green Bean](https://azoreangreenbean.com/)|
 ##### Madeira
-- [Ocean Retreat](https://www.ocean-retreat.com/eat-drink/)
+|     |
+| --- |
+|[Ocean Retreat](https://www.ocean-retreat.com/eat-drink/)|
 
 #### Romania
-- [Delicious Romania](http://www.deliciousromania.com/category/recipes/)
-- [From Dill to Dracula](http://fromdilltodracula.com/)
-- [Romanian Cook](https://romaniancook.com/)
-- [Romanian Food Blog](http://romanianfoodblog.blogspot.com/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Delicious Romania](http://www.deliciousromania.com/category/recipes/)|[From Dill to Dracula](http://fromdilltodracula.com/)|[Romanian Cook](https://romaniancook.com/)|[Romanian Food Blog](http://romanianfoodblog.blogspot.com/)|
 
 #### Serbia
-- [Billy's Best Food](http://billysbestfood.blogspot.com/)
-- [Serbian Cookbook](https://www.serbiancookbook.com/)
-- [Serbian Cuisines](https://cuisinesinserbia.weebly.com/)
+|     |     |
+| --- | --- |
+|[Billy's Best Food](http://billysbestfood.blogspot.com/)|[How to Cook with Vesna](https://howtocookwithvesna.com/)|[Serbian Cookbook](https://www.serbiancookbook.com/)|[Serbian Cuisines](https://cuisinesinserbia.weebly.com/)|
 
 #### Spain
 |     |     |     |     |     |
