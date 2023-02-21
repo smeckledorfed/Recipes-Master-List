@@ -1270,58 +1270,37 @@
 - [Thrift & Spice](https://thriftandspice.com/)
 - [Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)
 #### Maya
-- [Yucatan Adventure](http://www.yucatanadventure.com.mx/cookingrecipes.htm)
+|     |
+| --- |
+|[Yucatan Adventure](http://www.yucatanadventure.com.mx/cookingrecipes.htm)|
 
 #### United States
-- [Colonial Sense](http://www.colonialsense.com/Society-Lifestyle/Recipes/Recipes.php)
-- [Cooking With Mamma C](https://cookingwithmammac.com/)
-- [Edible Communities](https://www.ediblecommunities.com/edible-communities/find-your-edible/)
-- [Every Little Crumb](https://everylittlecrumb.com/)
-- [Feeding My Ohana](https://www.feedingmyohana.com/)
-- [The Historical Homemaker](https://thehistoricalhomemaker.com/historic-recipes/)
-- [My Three Seasons](https://www.mythreeseasons.com/)
-- [Travel Experience Live](https://www.travel-experience-live.com/national-parks-inspired-recipes-food-dishes/)
-- [What Sharon Eats](https://whatsharoneats.com/recipes/)
-- [World Turnd Upside Down](https://www.worldturndupsidedown.com/p/historical-recipes.html)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Colonial Sense](http://www.colonialsense.com/Society-Lifestyle/Recipes/Recipes.php)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Edible Communities](https://www.ediblecommunities.com/edible-communities/find-your-edible/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Feeding My Ohana](https://www.feedingmyohana.com/)|
+|[The Historical Homemaker](https://thehistoricalhomemaker.com/historic-recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Travel Experience Live](https://www.travel-experience-live.com/national-parks-inspired-recipes-food-dishes/)|[What Sharon Eats](https://whatsharoneats.com/recipes/)|[World Turnd Upside Down](https://www.worldturndupsidedown.com/p/historical-recipes.html)|
 
 ##### Alaska
-- [Baranof Fishing Excursions](https://exclusivealaska.com/alaska-recipes)
-- [Edible Alaska](https://ediblealaska.ediblecommunities.com/recipes)
-- [The Great State of Alaska](https://lam.alaska.gov/alaskarecipes)
-- [**Moosetard**](https://www.moosetard.com/alaska-sweet-and-spicy-recipes/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Baranof Fishing Excursions](https://exclusivealaska.com/alaska-recipes)|[Edible Alaska](https://ediblealaska.ediblecommunities.com/recipes)|[The Great State of Alaska](https://lam.alaska.gov/alaskarecipes)|[**Moosetard**](https://www.moosetard.com/alaska-sweet-and-spicy-recipes/)|
 
 ##### Appalachia
-- [The Appalachian Tale](https://www.theappalachiantale.com/)
-- [Nourish Appalachia](https://nourishappalachia.com/)
+| --- | --- |
+|[The Appalachian Tale](https://www.theappalachiantale.com/)|[Nourish Appalachia](https://nourishappalachia.com/)|
 
 ##### Cajun
-- [Acadiana Table](https://acadianatable.com/)
-- [**Brennan's New Orleans**](https://www.brennansneworleans.com/recipes)
-- [The Cagle Diaries](https://thecaglediaries.com/)
-- [Cajun Cooking Recipes](https://www.cajuncookingrecipes.com/)
-- [A Cajun Family's Recipe Collection](https://www.cajun-recipes.com/)
-- [**The Cajun Spoon**](https://thecajunspoon.com/)
-- [Charlie the Cook Andrews](https://www.charliethecookandrews.com/)
-- [Dandy Don](https://www.dandydon.com/recipes/)
-- [Feaux Cajun](https://feauxcajun.blogspot.com/)
-- [First... You Have a Beer](https://www.sweetdaddy-d.com/)
-- [Gumbo Pages](https://www.gumbopages.com/food/)
-- [NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)
-- [Real Cajun Recipes](https://www.realcajunrecipes.com/)
-- [Spoonful of NoLa](https://spoonfulofnola.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Acadiana Table](https://acadianatable.com/)|[**Brennan's New Orleans**](https://www.brennansneworleans.com/recipes)|[The Cagle Diaries](https://thecaglediaries.com/)|[Cajun Cooking Recipes](https://www.cajuncookingrecipes.com/)|[A Cajun Family's Recipe Collection](https://www.cajun-recipes.com/)|
+|[**The Cajun Spoon**](https://thecajunspoon.com/)|[Charlie the Cook Andrews](https://www.charliethecookandrews.com/)|[Dandy Don](https://www.dandydon.com/recipes/)|[Feaux Cajun](https://feauxcajun.blogspot.com/)|[First... You Have a Beer](https://www.sweetdaddy-d.com/)|
+|[Gumbo Pages](https://www.gumbopages.com/food/)|[NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)|[Real Cajun Recipes](https://www.realcajunrecipes.com/)|[**Savoies Foods**](https://www.savoiesfoods.com/)|[Spoonful of NoLa](https://spoonfulofnola.com/)|
 ##### Creole
-- [Acadiana Table](https://acadianatable.com/)
-- [Arnaud's Restaurant](https://www.arnaudsrestaurant.com/category/recipes)
-- [The Cagle Diaries](https://thecaglediaries.com/)
-- [Creole Contessa](https://www.creolecontessa.com/)
-- [Custom Catering](https://www.customcatering.net/recipes.html)
-- [First... You Have a Beer](https://www.sweetdaddy-d.com/)
-- [Gumbo Pages](https://www.gumbopages.com/food/)
-- [Kolby Kash](http://www.kolbykash.com/)
-- [**Mr B's Bistro**](http://www.mrbsbistro.com/recipes.php)
-- [NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)
-- [Spoonful of NoLa](https://spoonfulofnola.com/)
-- [**Tony Chachere's**](https://www.tonychachere.com/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Acadiana Table](https://acadianatable.com/)|[Arnaud's Restaurant](https://www.arnaudsrestaurant.com/category/recipes)|[The Cagle Diaries](https://thecaglediaries.com/)|[Creole Contessa](https://www.creolecontessa.com/)|[Custom Catering](https://www.customcatering.net/recipes.html)|
+|[First... You Have a Beer](https://www.sweetdaddy-d.com/)|[Gumbo Pages](https://www.gumbopages.com/food/)|[Kolby Kash](http://www.kolbykash.com/)|[**Mr B's Bistro**](http://www.mrbsbistro.com/recipes.php)|[NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)|
+|[Spoonful of NoLa](https://spoonfulofnola.com/)|[**Tony Chachere's**](https://www.tonychachere.com/recipes/)|
 
 ##### Hawaii
 - [Contemplating Sweets](https://www.contemplatingsweets.com/)
@@ -2127,18 +2106,23 @@
 - [Whitty Paleo](https://whittypaleo.com/)
 - [Wicked Spatula](https://www.wickedspatula.com/)
 
+### PCOS/D-Friendly
+|     |     |
+| --- | --- |
+|[Livofy](https://www.livofy.com/health/category/pcos-pcod/pcos-pcod-recipes/)|[My PCOS Kitchen](https://www.mypcoskitchen.com/)|
+
 ### Pescatarian
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
 |[Dem the Pesc](https://demthepesc.com/)|[Greener Ideal](https://greenerideal.com/recipes/)|[The Pescatarian Diet](https://thepescatariandiet.net/)|[Pescetarian Kitchen](https://pescetarian.kitchen/)|[Posh Pescatarian](https://www.poshpescatarian.com/)|
 |[Running in a Skirt](https://www.runninginaskirt.com/)|[Weekday Pescatarian](https://weekdaypescatarian.com/)|
 
 ### Pregnancy
-- [Baby Center](https://www.babycenter.com/pregnancy/diet-and-fitness#subtopic-pregnancy-best-foods)
-- [Baby Centre](https://www.babycentre.co.uk/c25004191/pregnancy-recipes)
-- [Baby Chick](https://www.baby-chick.com/category/pregnancy/recipes-pregnancy/)
-- [Birth Eat Love](https://www.birtheatlove.com/pregnancy-recipes/)
-- [**Enfamil**](https://www.enfamil.com/prenatal/recipes/)
-- [The Gestational Diabetic](https://thegestationaldiabetic.com/)
-- [Ovia Health](https://www.oviahealth.com/blog/pregnancy/pregnancy-nutrition/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Baby Center](https://www.babycenter.com/pregnancy/diet-and-fitness#subtopic-pregnancy-best-foods)|[Baby Centre](https://www.babycentre.co.uk/c25004191/pregnancy-recipes)|[Baby Chick](https://www.baby-chick.com/category/pregnancy/recipes-pregnancy/)|[Birth Eat Love](https://www.birtheatlove.com/pregnancy-recipes/)|[**Enfamil**](https://www.enfamil.com/prenatal/recipes/)|
+|[The Gestational Diabetic](https://thegestationaldiabetic.com/)|[My Baba](https://www.mybaba.com/topics/food-recipes/)|[My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)|[Ovia Health](https://www.oviahealth.com/blog/pregnancy/pregnancy-nutrition/)|[**Protiva Mom**](https://protivamom.com/recipes-advice)|
+|[What to Expect](https://www.whattoexpect.com/family/recipes/)|
 
 ### Skincare
 |     |     |     |     |     |
