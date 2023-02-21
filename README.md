@@ -1264,58 +1264,57 @@
 - [Sweed and Sorrel](https://www.sweetandsorrel.com/)
 - [Yummy Medley](https://www.yummymedley.com/)
 ##### Aruba
-- [Menu Aruba](https://menuaruba.com/recipes)
-- [Visit Aruba](https://www.visitaruba.com/dining-and-restaurants/aruba-recipes/)
+|     |     |
+| --- | --- |
+|[Menu Aruba](https://menuaruba.com/recipes)|[Visit Aruba](https://www.visitaruba.com/dining-and-restaurants/aruba-recipes/)|
 ##### Bahamas
-- [**Bahama Breeze**](https://m.bahamabreeze.com/recipes)
+|     |
+| --- |
+|[**Bahama Breeze**](https://m.bahamabreeze.com/recipes)|
 ##### Barbados
-- [Barbados.org](https://barbados.org/barbados-recipes.htm)
-- [Loop Barbados](https://loopbarbados.com/blogtag/food)
-- [My Bajan Cooking](https://mybajan.com/)
-- [Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Barbados.org](https://barbados.org/barbados-recipes.htm)|[Loop Barbados](https://loopbarbados.com/blogtag/food)|[My Bajan Cooking](https://mybajan.com/)|[Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)|
 ##### Cuba
-- [Cuban in the Midwest](http://cubaninthemidwest.blogspot.com/)
-- [Hungry Sofia](https://hungrysofia.com/)
-- [Let's Eat Cuban](https://letseatcuban.com/)
-- [My Big Fat Cuban Family](https://www.mybigfatcubanfamily.com/)
-- [Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)
-- [A Sassy Spoon](https://asassyspoon.com/)
-- [Three Guys from Miami](https://icuban.com/food/index.html)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Cuban in the Midwest](http://cubaninthemidwest.blogspot.com/)|[For the Love of Sazon](https://fortheloveofsazon.com/)|[Hungry Sofia](https://hungrysofia.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Let's Eat Cuban](https://letseatcuban.com/)|
+|[My Big Fat Cuban Family](https://www.mybigfatcubanfamily.com/)|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[A Sassy Spoon](https://asassyspoon.com/)|[Three Guys from Miami](https://icuban.com/food/index.html)|
 ##### Dominica
-- [Dominica Gourmet](https://dominicagourmet.com/)
+|     |
+| --- |
+|[Dominica Gourmet](https://dominicagourmet.com/)|
 ##### Dominican Republic
-- [Belqui's Twist](https://belquistwist.com/)
-- [Dominican Cooking](https://www.dominicancooking.com/)
-- [My Dominican Kitchen](https://mydominicankitchen.com/)
+|     |     |     |
+| --- | --- | --- |
+|[Belqui's Twist](https://belquistwist.com/)|[Dominican Cooking](https://www.dominicancooking.com/)|[My Dominican Kitchen](https://mydominicankitchen.com/)|
 ##### Guyana
-- [Jehan Can Cook]((https://jehancancook.com/)
-- [Metemgee](https://metemgee.com/)
+|     |     |
+| --- | --- |
+|[Jehan Can Cook]((https://jehancancook.com/)|[Metemgee](https://metemgee.com/)|
 ##### Haiti
-- [Haitian Cooking](http://haitiancooking.com/)
-- [Haitian Recipes](https://haitian-recipes.com/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Haitian Cooking](http://haitiancooking.com/)|[Haitian Recipes](https://haitian-recipes.com/)|[Pegz Cooks](https://pegzcooks.com/)|[Savory Thoughts](https://www.savorythoughts.com/)|
 ##### Jamaica
-- [Amazing Ackee](https://amazingackee.com/)
-- [Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)
-- [Cook Like a Jamaican](https://cooklikeajamaican.com/recipes/)
-- [Eat Jamaican](https://eatjamaican.com/recipes.html)
-- [Jamaican Dawta](https://jamaicandawta.com/eat-like-a-jamaican/)
-- [Jamaican Foods and Recipes](https://jamaicanfoodsandrecipes.com/)
-- [Jamaicans.com](https://jamaicans.com/)
-- [Jamaica Travel and Culture](https://www.jamaicatravelandculture.com/food_and_drink.htm)
-- [LifeHabi](https://www.lifehabi.com/recipes/jamaica/)
-- [A YouNique Journey](https://ayouniquejourney.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Amazing Ackee](https://amazingackee.com/)|[Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)|[Cook Like a Jamaican](https://cooklikeajamaican.com/recipes/)|[Eat Jamaican](https://eatjamaican.com/recipes.html)|[Healthier Steps](https://healthiersteps.com/)|
+|[Jamaican Dawta](https://jamaicandawta.com/eat-like-a-jamaican/)|[Jamaican Foods and Recipes](https://jamaicanfoodsandrecipes.com/)|[Jamaicans.com](https://jamaicans.com/)|[Jamaica Travel and Culture](https://www.jamaicatravelandculture.com/food_and_drink.htm)|[LifeHabi](https://www.lifehabi.com/recipes/jamaica/)|
+|[Roxy Chow Down](https://roxychowdown.com/)|[A YouNique Journey](https://ayouniquejourney.com/)|
 ##### Martinique
-- [A-Z Martinique](https://azmartinique.com/en/all-to-know/recipes)
+|     |
+| --- |
+|[A-Z Martinique](https://azmartinique.com/en/all-to-know/recipes)|
 ##### Puerto Rico
-- [Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)
-- [El Boricua](http://www.elboricua.com/recipes.html)
-- [Mexican Appetizers and More](https://mexicanappetizersandmore.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)|[El Boricua](http://www.elboricua.com/recipes.html)|[Kitchen de Lujo](https://kitchendelujo.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|
+|[Salima's Kitchen](https://salimaskitchen.com/)|[Welcome to Puerto Rico](https://welcome.topuertorico.org/cocina/)|
 ##### Trinidad & Tobago
-- [Cariwak](https://cariwakdigitalmedia.wordpress.com/)
-- [Cooking With Ria](https://cookingwithria.com/)
-- [Jenna G. the Hijabi TT](https://jennagthehijabitt.com/)
-- [Simply Trini Cooking](https://www.simplytrinicooking.com/)
-- [We Trini Food](https://wetrinifood.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Cariwak](https://cariwakdigitalmedia.wordpress.com/)|[Cooking With Ria](https://cookingwithria.com/)|[Jenna G. the Hijabi TT](https://jennagthehijabitt.com/)|[Simply Trini Cooking](https://www.simplytrinicooking.com/)|[We Trini Food](https://wetrinifood.com/)|
 
 #### Latin American
 - [Amigo Foods](https://www.amigofoods.com/)
