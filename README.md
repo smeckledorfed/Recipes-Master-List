@@ -4063,287 +4063,62 @@
 |[Cake Central](https://www.cakecentral.com/)|[Cakelets & Doilies](http://cakeletsanddoilies.blogspot.com/)|[Cakeopedia](https://cakeopedia.com/)|[Cakere](https://www.cakere.com/)|[**Cake Rush**](https://www.cakerush.my/blogs/recipes/)|
 |[Cakescottage](https://cakescottage.com/)|[Cakes Whiz](https://cakewhiz.com/)|[Cakey Boi](https://www.cakeyboi.com/)|[**California Country Gal**](https://www.californiacountrygal.com/)|[Call Me Cupcake](https://www.callmecupcake.se/)|
 |[Celebrating Sweets](https://celebratingsweets.com/)|[Certified Pastry Aficionado](https://www.certifiedpastryaficionado.com/)|[Chain Baker](https://www.chainbaker.com/)|[Charlotte's Lively Kitchen](https://charlotteslivelykitchen.com/)|[Chef Iso](https://chefiso.com/)|
-- 
-- [Chocolate-Covered Katie](https://chocolatecoveredkatie.com/)|
-- [Chop Notch](https://chopnotch.com/)|
-- [Christina Tosi](https://www.christinatosi.com/recipes)|
-- [Cinnamon & Sugar and a Little Bit of Murder](https://cinnamonsugarandalittlebitofmurder.com/)|
-- [Cleo Buttera](https://cleobuttera.com/)|
-- 
-- [Cloudy Kitchen](https://cloudykitchen.com/)|
-- [Color Kitchen Foods](https://www.colorkitchenfoods.com/colorful-recipes)|
-- [Confessions of a Baking Queen](https://confessionsofabakingqueen.com/)|
-- [Confetti and Bliss](https://www.confettiandbliss.com/)|
-- [Constellation Inspiration](https://constellationinspiration.com/)|
-- 
-- [Coockies and Pancakes](https://www.coockiesandpancakes.com/)|
-- [Cookie Dough and Oven Mitt](https://www.cookiedoughandovenmitt.com/)|
-- [The Cookie Dough Diaries](https://thecookiedoughdiaries.com/)|
-- [Cooking With Kurt](https://www.cookingwithkurt.com/)|
-- [Cookie Madness](https://www.cookiemadness.net/)|
-- 
-- [The Cookie Tin](https://www.thecookietin.com/p/the-cookie-tray.html)|
-- [Cooking Tree](https://en.cooking-tree.com/)|
-- [Cookspace Brooklyn](https://cookspacebrooklyn.com/)|
-- [Cook with Belula](https://www.cookwithbelula.com/en)|
-- [Crazy for Crust](https://www.crazyforcrust.com/)|
-- 
-- [Crumbly Bakes](https://crumblybakes.com/)
-- [The Crumb Stories](https://www.thecrumbstories.com/)
-- [Cupcake Project](https://www.cupcakeproject.com/)
-- [DessArts](https://www.dessarts.com/)
-- [Dessert First Girl](https://dessertfirstgirl.com/)
-- [Dessert For Two](https://www.dessertfortwo.com/)
-- [Dessertisans](https://dessertisans.com/)
-- [Dessert Now, Dinner Later](https://www.dessertnowdinnerlater.com/)
-- [Desserts With Benefits](https://dessertswithbenefits.com/)
-- [The Domestic Rebel](https://thedomesticrebel.com/)
-- [The Donut Whole](https://www.thedonutwhole.com/)
-- [Doug Bakes](https://dougbakes.com/)
-- [**Duff**](https://www.duff.com/recipes)
-- [E2 Bakes Brooklyn](https://e2bakesbrooklyn.com/)
-- [Easy as Cookies](https://easyascookies.com/)
-- [Easy Sugar-Free](https://www.easy-sugarfree.com/)
-- [Eat Delights](https://eatdelights.com/)
-- [Eat Gonanaa](https://eatgonanas.com/blogs/recipes)
-- [**Eat Me Guilt Free**](https://www.eatmeguiltfree.com/blogs/blog)
-- [Eat Munch Love](https://eatmunchlove.com/category/recipes/)
-- [Eat the Love](https://www.eatthelove.com/)
-- [Elisabeth and Butter](https://www.elisabethandbutter.com/)
-- [Elyse Creates](https://elysecreates.com/)
-- [Emily Luchetti](http://www.emilyluchetti.com/recipes-introduction)
-- [Emma Duckworth Bakes](https://emmaduckworthbakes.co.uk/)
-- [**Entenmanns**](https://www.entenmanns.com/en/fantastic-recipes)
-- [Enticing Desserts](https://enticingdesserts.com/)
-- [Eva Bakes](https://www.eva-bakes.com/)
-- [Everyday Pie](https://everydaypie.com/)
-- [Family Cookie Recipes](https://familycookierecipes.com/)
-- [The Farmer's Daughter](https://www.the-farmersdaughter.com/)
-- [Feasting on Fruit](https://feastingonfruit.com/)
-- [Feliz Em Gluten](https://felizsemgluten.com.br/en/)
-- [filcanbites](https://filcanbites.com/)
-- [The First Year Blog](https://thefirstyearblog.com/)
-- [**Flapjacked**](https://www.flapjacked.com/blogs/recipes)
-- [The Floured Table](https://www.theflouredtable.com/)
-- [**Flourish Pancakes**](https://www.flourishpancakes.com/en-us/blogs/fun-flourish-recipes)
-- [Flour on My Fingers](https://flouronmyfingers.com/)
-- [Food Lust, People Love](https://www.foodlustpeoplelove.com/)
-- [Friendship Bread Kitchen](https://www.friendshipbreadkitchen.com/)
-- [Gather for Bread](https://gatherforbread.com/)
-- [Geoff's Baking Blog](https://geoffsbakingblog.com/)
-- [Ginger Snap's Baking Affair](https://gingersnapsbakingaffairs.com/)
-- [Girl Versus Dough](https://www.girlversusdough.com/)
-- [Glitter and Goulash](http://glitterandgoulash.com/)
-- [**Good Dee's**](https://gooddees.com/blogs/news)
-- [Good Things Baking](https://goodthingsbaking.com/)
-- [Greedy Eats](https://greedyeats.com/)
-- [Gretchen's Vegan Bakery](https://www.gretchensveganbakery.com/)
-- [The Gud Stuff](https://sachagud.ca/)
-- [**Gygi**](https://www.gygiblog.com/)
-- [Handle the Heat](https://handletheheat.com/)
-- [Hannah Ekelund](https://hannaekelund.com/)
-- [Healthy Cooking with Mitha](https://healthy-cooking-with-mitha.com/)
-- [Heghineh](https://heghineh.com/)
-- [Hello Cuppies](https://hellocuppies.com/)
-- [Holly Trail](https://hollytrail.com/)
-- [Home Baking](https://www2.homebaking.org/)
-- [Homemade Dessert Recipes](https://www.homemade-dessert-recipes.com/)
-- [How to Make Easy Cookies](https://howtomakeeasycookies.com/)
-- [Hummingbird High](https://www.hummingbirdhigh.com/)
-- [I Am Baker](https://iambaker.net/)
-- [I Am Homesteader](https://iamhomesteader.com/)
-- [Identical Recipes](https://www.identicalrecipes.com/)
-- [I Made My Cake](https://imademycake.com/)
-- [I'm Heatherr](https://imheatherr.com/)
-- [**InBite**](https://inbite.us/blogs/recipes)
-- [International Desserts Blog](https://www.internationaldessertsblog.com/)
-- [**The Invisible Chef**](https://theinvisiblechef.com/pages/recipes)
-- [Inuyaki](http://www.inuyaki.com/)
-- [Itsy Bitsy Kitchen](https://itsybitsykitchen.com/)
-- [Jaja Bakes](https://jajabakes.com/)
-- [Jane's Patisserie](https://www.janespatisserie.com/)
-- [JeanellEats](https://jeanelleats.com/)
-- [Jelly Toast Blog](https://jellytoastblog.com/)
-- [Jenny Is Baking](https://jennyisbaking.com/)
-- [Jen's Favorite Cookies](https://jensfavoritecookies.com/)
-- [**Jiffy Mix**](https://site.jiffymix.com/recipes/)
-- [Jordbrovej](https://jordbrovej.wordpress.com/)
-- [Joy the Baker](https://joythebaker.com/)
-- [Julie Marie Eats](https://juliemarieeats.com/)
-- [Just So Tasty](https://www.justsotasty.com/)
-- [Katie Bird Bakes](https://www.katiebirdbakes.com/)
-- [Kickass Baker](https://kickassbaker.com/)
-- [Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)
-- [Kim and Jake's Cakes](http://kimandjakescakes.com/recipes)
-- [Kitchen Tigress](https://kitchentigress.com/)
-- [Korena in the Kitchen](https://korenainthekitchen.com/)
-- [The Kosher Baker](https://www.thetasteofkosher.com/)
-- [La Cooquette](https://lacooquette.com/about-la-cooquette/)
-- [A Latte Food](https://www.alattefood.com/)
-- [The Lazy Vegan Baker](https://www.thelazyveganbaker.com/)
-- [**Lehi Mills**](https://lehimills.com/blogs/desserts)
-- [Lenox Bakery](https://lenoxbakery.com/)
-- [**Libby's**](https://www.verybestbaking.com/libbys/recipes/)
-- [Life, Love and Sugar](https://www.lifeloveandsugar.com/)
-- [Lights Camera Bake](https://www.lightscamera-bake.com/)
-- [Lilie Bakery](https://liliebakery.fr/en/)
-- [Lili's Cakes](https://liliscakes.com/)
-- [Lil' Luna](https://lilluna.com/)
-- [Lily's Sweets](https://lilys.com/blogs/live)
-- [Lion's Bread](https://www.lionsbread.com/)
-- [Lisa's Bakehouse](https://www.lisasbakehouse.com/recipes)
-- [Little Sugar Snaps](https://www.littlesugarsnaps.com/)
-- [Live Well, Bake Often](https://www.livewellbakeoften.com/)
-- [Liv For Cake](https://livforcake.com/)
-- [Living Healthy with Chocolate](https://livinghealthywithchocolate.com/)
-- [Living Sweet Moments](https://livingsweetmoments.com/)
-- [**Lo Dough**](https://lodough.co/blogs/recipes)
-- [The Loopy Whisk](https://theloopywhisk.com/)
-- [Love and Olive Oil](https://www.loveandoliveoil.com/)
-- [Love Bakes Good Cakes](https://www.lovebakesgoodcakes.com/)
-- [Mama Bear's Kitchen](http://mamabearskitchen.com.au/)
-- [Marga](https://www.marga.org/food/int/)
-- [The Marmalade Teapot](https://www.themarmaladeteapot.com/)
-- [Meals by Molly](https://www.mealsbymolly.com/)
-- [Mighty Mrs.](https://www.mightymrs.com/)
-- [Mike Bakes NYC](https://mikebakesnyc.com/)
-- [Mildly Meandering](https://mildlymeandering.com/)
-- [Milk and Pop](https://milkandpop.com/)
-- [**Milk Bar Store**](https://milkbarstore.com/blogs/recipes/)
-- [Mindee's Cooking Obsession](https://mindeescookingobsession.com/)
-- [MiNDFOODIE](https://www.mindfood.com/category/recipes/)
-- [Mini Batch Baker](https://minibatchbaker.com/)
-- [Modern Asian Baking](https://www.modernasianbaking.com/)
-- [The Monday Box](https://themondaybox.com/)
-- [Mostly Bakes](https://mostlybakes.com/)
-- [Movers and Bakers](https://moversandbakers.co.uk/)
-- [My Cake School](https://www.mycakeschool.com/)
-- [My Delicious Monster](https://mydeliciousmonster.com/)
-- [My Name is Yeh](https://mynameisyeh.com/)
-- [My Urban Treats](https://myurbantreats.com/ )
-- [Naomi Cakes](https://naomicakes.com/)
-- [Nestle Toll House](https://www.verybestbaking.com/toll-house/)
-- [New Gen Baker](https://newgenbaker.com/)
-- [**Odlums**](https://www.odlums.ie/category/odlums-recipes/all-recipes/)
-- [Of Batter and Dough](https://ofbatteranddough.com/)
-- [Oh Lady Cakes](https://www.ohladycakes.com/)
-- [Olives + Thyme](https://olivesnthyme.com/)
-- [OMG Chocolate Desserts](https://omgchocolatedesserts.com/)
-- [One Sarcastic Baker](https://www.onesarcasticbaker.com/)
-- [Only Crumbs Remain](https://onlycrumbsremain.com/)
-- [**Ozery Bakery**](https://ozerybakery.com/us-en/)
-- [Panko Bunny](https://www.pankobunny.com/)
-- [Parsley & Icing](https://parsleyandicing.com/)
-- [Parsnips and Pastries](https://www.parsnipsandpastries.com/)
-- [Partylicious](https://partylicious.net/)
-- [Pass the Dessert](https://passthedessert.com/)
-- [Pastries Like a Pro](https://pastrieslikeapro.com/)
-- [Pastry Affair](https://www.pastryaffair.com/)
-- [Pastry and Beyond](https://pastryandbeyond.com/)
-- [Pastry Chef Online](https://pastrychefonline.com/)
-- [Pastry Logic](https://pastrylogic.com/)
-- [Pastry Maestra](https://pastrymaestra.com/)
-- [Pastry Wiz](https://www.pastrywiz.com/)
-- [Patisserie Makes Perfect](https://www.patisseriemakesperfect.co.uk/)
-- [Pies and Plots](https://piesandplots.net/)
-- [**Pillsbury**](https://www.pillsbury.com/recipes)
-- [Ping Desserts](https://www.pingdesserts.com/)
-- [Pint-Size Bakery](https://www.pintsizebakery.com/recipes)
-- [Portlandia Pie Lady](https://portlandiapielady.com/)
-- [Pretty Simple Sweet](https://prettysimplesweet.com/)
-- [Project Vegan Baking](https://projectveganbaking.com/)
-- [Puratos](https://www.puratos.com.my/en/recipes)
-- [Real Irish Desserts](https://realirishdesserts.com/)
-- [Red Currant Bakery](https://redcurrantbakery.com/)
-- [The Redhead Baker](https://www.theredheadbaker.com/)
-- [Red Fermented Grapes](https://redfermentedgrapes.com/)
-- [The Road to Honey](https://www.theroadtohoney.com/)
-- [Robin's Web](http://www.robinsweb.com/cookies/index.html)
-- [Rose Bakes](https://rosebakes.com/)
-- [**Saco Pantry**](https://www.sacopantry.com/recipes/)
-- [Sally's Baking Addiction](https://sallysbakingaddiction.com/)
-- [Salt & Baker](https://saltandbaker.com/)
-- [The Salted Sweets](https://thesaltedsweets.com/)
-- [Salt Lake Culinary](https://sliceutah.com/blog-salt-lake-culinary-utah/)
-- [Santa Barbara Baker](https://santabarbarabaker.com/)
-- [Sarah Makes Stuff](https://www.sarahmakesstuff.com/)
-- [**Sasas Mix**](https://sasasmix.com/blogs/recipes)
-- [Scientifically Sweet](https://scientificallysweet.com/)
-- [Scratch Pantry](https://scratchpantry.com/)
-- [Scotch and Scones](https://www.scotchandscones.com/)
-- [Secret Ingredient](https://secret-ingredient.net/)
-- [Shirlgard](https://shirlgard.com/)
-- [Sift n' Whisk](https://www.siftnwhisk.com/)
-- [Silicone Moulds](http://siliconemoulds.blogspot.com/)
-- [Simply Veganista](https://simple-veganista.com/)
-- [Solo Foods](https://www.solofoods.com/recipes)
-- [Something Swanky](https://www.somethingswanky.com/)
-- [A Sparkle of Genius](https://www.asparkleofgenius.com/)
-- [Spatula Desserts](https://www.spatuladesserts.com/)
-- [The Spelt Kitchen](https://www.thespeltkitchen.com/)
-- [Spices n' Flavors](https://spicesnflavors.com/)
-- [Spicy Ice Cream](https://spicyicecream.com.au/recipe-index/)
-- [Spoonful Passion](https://spoonfulpassion.com/)
-- [Sprinkle Bakes](https://www.sprinklebakes.com/)
-- [**St. Pierre Bakery**](https://stpierrebakery.co.uk/recipes/)
-- [Stress Baking](https://stressbaking.com/)
-- [Style Sweet](https://stylesweet.com/)
-- [Sue Bee Homemaker](https://suebeehomemaker.com/)
-- [Sugar & Sparrow](https://sugarandsparrow.com/)
-- [The Sugar Coated Cottage](https://www.thesugarcoatedcottage.com/)
-- [Sugar Flour Dough](https://sugarflourdough.com/)
-- [Sugar Hero](https://www.sugarhero.com/)
-- [Sugar Laws](https://www.sugarlaws.com/)
-- [Sugar Spun Run](https://sugarspunrun.com/)
-- [Sugar Yums](https://sugaryums.co.uk/)
-- [Summer Bakes the World](https://summerbakestheworld.com/)
-- [Sunday Baker](https://sundaybaker.co/)
-- [Suzie Sweet Tooth](https://suziesweettooth.com/)
-- [Sweet Beginnings Blog](https://sweetbeginningsblog.com/)
-- [Sweet Loren's](https://sweetlorens.com/lets-dish/)
-- [Sweetest Menu](https://www.sweetestmenu.com/)
-- [Sweet Fix Baker](https://www.sweetfixbaker.com/)
-- [Sweet Saura](https://sweetsaura.com/)
-- [Sweet Things by Lizzie](https://sweetthingsbylizzie.com/)
-- [Tasting Thyme](https://tasting-thyme.com/)
-- [Tea Collection](https://blog.teacollection.com/category/global-dishes/)
-- [Teak & Thyme](https://teakandthyme.com/)
-- [Teatime Magazine](https://www.teatimemagazine.com/category/recipes/)
-- [Texan Erin](https://www.texanerin.com/)
-- [Top with Cinnamon](https://topwithcinnamon.com/)
-- [Tray Bakes and More](http://traybakesandmore.com/)
-- [A Treat's Affair](http://atreatsaffair.com/)
-- [**TruEats**](https://www.trueats.com/blogs/recipes)
-- [Two Raspberries](https://tworaspberries.com/)
-- [Two Sisters Crafting](https://www.twosisterscrafting.com/)
-- [Two Sugar Bugs](https://twosugarbugs.com/)
-- [Tutti Dolci](https://tutti-dolci.com/)
-- [typefoodie](https://www.typefoodie.com/)
-- [Ugly Duckling Bakery](https://uglyducklingbakery.com/) 
-- [Unconventional Baker](https://www.unconventionalbaker.com/)
-- [The University of Rhode Island](https://web.uri.edu/community-nutrition/recipes/)
-- [The Unlikely Baker](https://theunlikelybaker.com/)
-- [The Vanilla Bean Blog](https://sweetlorens.com/lets-dish/)
-- [Veena Azmanov](https://veenaazmanov.com/)
-- [Vintage Kitchen Notes](https://vintagekitchennotes.com/)
-- [Waiting for Blanc Mange](https://waitingforblancmange.com/)
-- [The Way My Heart Bakes](https://thewaymyheartbakes.com/)
-- [Weekend Bakery](https://www.weekendbakery.com/)
-- [**Well and Good**](https://wellandgood.com.au/well-and-good-new-food-recipes/)
-- [What Jessica Baked Next](https://whatjessicabakednext.com/)
-- [Wheat Beat](https://wheatbeat.com/)
-- [Wheel of Baking](https://wheelofbaking.com/)
-- [Whisk Averse Baking](https://whiskaversebaking.com/)
-- [White on Rice Couple](https://whiteonricecouple.com/)
-- [Wholesome Patisserie](https://wholesomepatisserie.com/)
-- [**Wholly Wholesome**](https://www.whollywholesome.com/category/recipes/)
-- [Wfie Mama Foodie](https://www.wifemamafoodie.com/)
-- [Willow Bird Baking](http://willowbirdbaking.com/)
-- [**XO Baking Co.**](https://xobakingco.com/recipes/)
-- [Your Cup of Cake](https://www.yourcupofcake.com/)
-- [Youth Sweets](https://youthsweets.com/)
-- [Zhang Catherine](https://zhangcatherine.com/)
-- [Zoe Bakes](https://zoebakes.com/)
+|[Chocolate-Covered Katie](https://chocolatecoveredkatie.com/)|[Chop Notch](https://chopnotch.com/)|[Christina Tosi](https://www.christinatosi.com/recipes)|[Cinnamon & Sugar and a Little Bit of Murder](https://cinnamonsugarandalittlebitofmurder.com/)|[Cleo Buttera](https://cleobuttera.com/)|
+|[Cloudy Kitchen](https://cloudykitchen.com/)|[Color Kitchen Foods](https://www.colorkitchenfoods.com/colorful-recipes)|[Confessions of a Baking Queen](https://confessionsofabakingqueen.com/)|[Confetti and Bliss](https://www.confettiandbliss.com/)|[Constellation Inspiration](https://constellationinspiration.com/)|
+|[Coockies and Pancakes](https://www.coockiesandpancakes.com/)|[Cookie Dough and Oven Mitt](https://www.cookiedoughandovenmitt.com/)|[The Cookie Dough Diaries](https://thecookiedoughdiaries.com/)|[Cooking With Kurt](https://www.cookingwithkurt.com/)|[Cookie Madness](https://www.cookiemadness.net/)|
+|[The Cookie Tin](https://www.thecookietin.com/p/the-cookie-tray.html)|[Cooking Tree](https://en.cooking-tree.com/)|[Cookspace Brooklyn](https://cookspacebrooklyn.com/)|[Cook with Belula](https://www.cookwithbelula.com/en)|[Crazy for Crust](https://www.crazyforcrust.com/)|
+|[Crumbly Bakes](https://crumblybakes.com/)|[The Crumb Stories](https://www.thecrumbstories.com/)|[Cupcake Project](https://www.cupcakeproject.com/)|[DessArts](https://www.dessarts.com/)|[Dessert First Girl](https://dessertfirstgirl.com/)|
+|[Dessert For Two](https://www.dessertfortwo.com/)|[Dessertisans](https://dessertisans.com/)|[Dessert Now, Dinner Later](https://www.dessertnowdinnerlater.com/)|[Desserts With Benefits](https://dessertswithbenefits.com/)|[The Domestic Rebel](https://thedomesticrebel.com/)|
+|[The Donut Whole](https://www.thedonutwhole.com/)|[Doug Bakes](https://dougbakes.com/)|[**Duff**](https://www.duff.com/recipes)|[E2 Bakes Brooklyn](https://e2bakesbrooklyn.com/)|[Easy as Cookies](https://easyascookies.com/)|
+|[Easy Sugar-Free](https://www.easy-sugarfree.com/)|[Eat Delights](https://eatdelights.com/)|[Eat Gonanaa](https://eatgonanas.com/blogs/recipes)|[**Eat Me Guilt Free**](https://www.eatmeguiltfree.com/blogs/blog)|[Eat Munch Love](https://eatmunchlove.com/category/recipes/)|
+|[Eat the Love](https://www.eatthelove.com/)|[Elisabeth and Butter](https://www.elisabethandbutter.com/)|[Elyse Creates](https://elysecreates.com/)|[Emily Luchetti](http://www.emilyluchetti.com/recipes-introduction)|[Emma Duckworth Bakes](https://emmaduckworthbakes.co.uk/)|
+|[**Entenmanns**](https://www.entenmanns.com/en/fantastic-recipes)|[Enticing Desserts](https://enticingdesserts.com/)|[Eva Bakes](https://www.eva-bakes.com/)|[Everyday Pie](https://everydaypie.com/)|[Family Cookie Recipes](https://familycookierecipes.com/)|
+|[The Farmer's Daughter](https://www.the-farmersdaughter.com/)|[Feasting on Fruit](https://feastingonfruit.com/)|[Feliz Em Gluten](https://felizsemgluten.com.br/en/)|[filcanbites](https://filcanbites.com/)|[The First Year Blog](https://thefirstyearblog.com/)|
+|[**Flapjacked**](https://www.flapjacked.com/blogs/recipes)|[The Floured Table](https://www.theflouredtable.com/)|[**Flourish Pancakes**](https://www.flourishpancakes.com/en-us/blogs/fun-flourish-recipes)|[Flour on My Fingers](https://flouronmyfingers.com/)|[Food Lust, People Love](https://www.foodlustpeoplelove.com/)|
+|[Friendship Bread Kitchen](https://www.friendshipbreadkitchen.com/)|[Gather for Bread](https://gatherforbread.com/)|[Geoff's Baking Blog](https://geoffsbakingblog.com/)|[Ginger Snap's Baking Affair](https://gingersnapsbakingaffairs.com/)|[Girl Versus Dough](https://www.girlversusdough.com/)|
+|[Glitter and Goulash](http://glitterandgoulash.com/)|[**Good Dee's**](https://gooddees.com/blogs/news)|[Good Things Baking](https://goodthingsbaking.com/)|[Greedy Eats](https://greedyeats.com/)|[Gretchen's Vegan Bakery](https://www.gretchensveganbakery.com/)|
+|[The Gud Stuff](https://sachagud.ca/)|[**Gygi**](https://www.gygiblog.com/)|[Handle the Heat](https://handletheheat.com/)|[Hannah Ekelund](https://hannaekelund.com/)|[Healthy Cooking with Mitha](https://healthy-cooking-with-mitha.com/)|
+|[Heghineh](https://heghineh.com/)|[Hello Cuppies](https://hellocuppies.com/)|[Holly Trail](https://hollytrail.com/)|[Home Baking](https://www2.homebaking.org/)|[Homemade Dessert Recipes](https://www.homemade-dessert-recipes.com/)|
+|[How to Make Easy Cookies](https://howtomakeeasycookies.com/)|[Hummingbird High](https://www.hummingbirdhigh.com/)|[I Am Baker](https://iambaker.net/)|[I Am Homesteader](https://iamhomesteader.com/)|[Identical Recipes](https://www.identicalrecipes.com/)|
+|[I Made My Cake](https://imademycake.com/)|[I'm Heatherr](https://imheatherr.com/)|[**InBite**](https://inbite.us/blogs/recipes)|[International Desserts Blog](https://www.internationaldessertsblog.com/)|[**The Invisible Chef**](https://theinvisiblechef.com/pages/recipes)|
+|[Inuyaki](http://www.inuyaki.com/)|[Itsy Bitsy Kitchen](https://itsybitsykitchen.com/)|[Jaja Bakes](https://jajabakes.com/)|[Jane's Patisserie](https://www.janespatisserie.com/)|[JeanellEats](https://jeanelleats.com/)|
+|[Jelly Toast Blog](https://jellytoastblog.com/)|[Jenny Is Baking](https://jennyisbaking.com/)|[Jen's Favorite Cookies](https://jensfavoritecookies.com/)|[**Jiffy Mix**](https://site.jiffymix.com/recipes/)|[Jordbrovej](https://jordbrovej.wordpress.com/)|
+|[Joy the Baker](https://joythebaker.com/)|[Julie Marie Eats](https://juliemarieeats.com/)|[Just So Tasty](https://www.justsotasty.com/)|[Katie Bird Bakes](https://www.katiebirdbakes.com/)|[Kickass Baker](https://kickassbaker.com/)|
+|[Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)|[Kim and Jake's Cakes](http://kimandjakescakes.com/recipes)|[Kitchen Tigress](https://kitchentigress.com/)|[Korena in the Kitchen](https://korenainthekitchen.com/)|[The Kosher Baker](https://www.thetasteofkosher.com/)|
+|[La Cooquette](https://lacooquette.com/about-la-cooquette/)|[A Latte Food](https://www.alattefood.com/)|[The Lazy Vegan Baker](https://www.thelazyveganbaker.com/)|[**Lehi Mills**](https://lehimills.com/blogs/desserts)|[Lenox Bakery](https://lenoxbakery.com/)|
+|[**Libby's**](https://www.verybestbaking.com/libbys/recipes/)|[Life, Love and Sugar](https://www.lifeloveandsugar.com/)|[Lights Camera Bake](https://www.lightscamera-bake.com/)|[Lilie Bakery](https://liliebakery.fr/en/)|[Lili's Cakes](https://liliscakes.com/)|
+|[Lil' Luna](https://lilluna.com/)|[Lily's Sweets](https://lilys.com/blogs/live)|[Lion's Bread](https://www.lionsbread.com/)|[Lisa's Bakehouse](https://www.lisasbakehouse.com/recipes)|[Little Sugar Snaps](https://www.littlesugarsnaps.com/)|
+|[Live Well, Bake Often](https://www.livewellbakeoften.com/)|[Liv For Cake](https://livforcake.com/)|[Living Healthy with Chocolate](https://livinghealthywithchocolate.com/)|[Living Sweet Moments](https://livingsweetmoments.com/)|[**Lo Dough**](https://lodough.co/blogs/recipes)|
+|[The Loopy Whisk](https://theloopywhisk.com/)|[Love and Olive Oil](https://www.loveandoliveoil.com/)|[Love Bakes Good Cakes](https://www.lovebakesgoodcakes.com/)|[Mama Bear's Kitchen](http://mamabearskitchen.com.au/)|[Marga](https://www.marga.org/food/int/)|
+|[The Marmalade Teapot](https://www.themarmaladeteapot.com/)|[Meals by Molly](https://www.mealsbymolly.com/)|[Mighty Mrs.](https://www.mightymrs.com/)|[Mike Bakes NYC](https://mikebakesnyc.com/)|[Mildly Meandering](https://mildlymeandering.com/)|
+|[Milk and Pop](https://milkandpop.com/)|[**Milk Bar Store**](https://milkbarstore.com/blogs/recipes/)|[Mindee's Cooking Obsession](https://mindeescookingobsession.com/)|[MiNDFOODIE](https://www.mindfood.com/category/recipes/)|[Mini Batch Baker](https://minibatchbaker.com/)|
+|[Modern Asian Baking](https://www.modernasianbaking.com/)|[The Monday Box](https://themondaybox.com/)|[Mostly Bakes](https://mostlybakes.com/)|[Movers and Bakers](https://moversandbakers.co.uk/)|[My Cake School](https://www.mycakeschool.com/)|
+|[My Delicious Monster](https://mydeliciousmonster.com/)|[My Name is Yeh](https://mynameisyeh.com/)|[My Urban Treats](https://myurbantreats.com/)|[Naomi Cakes](https://naomicakes.com/)||[Nestle Toll House](https://www.verybestbaking.com/toll-house/)|
+|[New Gen Baker](https://newgenbaker.com/)|[**Odlums**](https://www.odlums.ie/category/odlums-recipes/all-recipes/)|[Of Batter and Dough](https://ofbatteranddough.com/)|[Oh Lady Cakes](https://www.ohladycakes.com/)|[Olives + Thyme](https://olivesnthyme.com/)|
+|[OMG Chocolate Desserts](https://omgchocolatedesserts.com/)|[One Sarcastic Baker](https://www.onesarcasticbaker.com/)|[Only Crumbs Remain](https://onlycrumbsremain.com/)|[**Ozery Bakery**](https://ozerybakery.com/us-en/)|[Panko Bunny](https://www.pankobunny.com/)|
+|[Parsley & Icing](https://parsleyandicing.com/)|[Parsnips and Pastries](https://www.parsnipsandpastries.com/)|[Partylicious](https://partylicious.net/)|[Pass the Dessert](https://passthedessert.com/)|[Pastries Like a Pro](https://pastrieslikeapro.com/)|
+|[Pastry Affair](https://www.pastryaffair.com/)|[Pastry and Beyond](https://pastryandbeyond.com/)|[Pastry Chef Online](https://pastrychefonline.com/)|[Pastry Logic](https://pastrylogic.com/)|[Pastry Maestra](https://pastrymaestra.com/)|
+|[Pastry Wiz](https://www.pastrywiz.com/)|[Patisserie Makes Perfect](https://www.patisseriemakesperfect.co.uk/)|[Pies and Plots](https://piesandplots.net/)|[**Pillsbury**](https://www.pillsbury.com/recipes)|[Ping Desserts](https://www.pingdesserts.com/)|
+|[Pint-Size Bakery](https://www.pintsizebakery.com/recipes)|[Portlandia Pie Lady](https://portlandiapielady.com/)|[Pretty Simple Sweet](https://prettysimplesweet.com/)|[Project Vegan Baking](https://projectveganbaking.com/)|[Puratos](https://www.puratos.com.my/en/recipes)|
+|[Real Irish Desserts](https://realirishdesserts.com/)|[Red Currant Bakery](https://redcurrantbakery.com/)|[The Redhead Baker](https://www.theredheadbaker.com/)|[Red Fermented Grapes](https://redfermentedgrapes.com/)|[The Road to Honey](https://www.theroadtohoney.com/)|
+|[Robin's Web](http://www.robinsweb.com/cookies/index.html)|[Rose Bakes](https://rosebakes.com/)|[**Saco Pantry**](https://www.sacopantry.com/recipes/)|[Sally's Baking Addiction](https://sallysbakingaddiction.com/)|[Salt & Baker](https://saltandbaker.com/)|
+|[The Salted Sweets](https://thesaltedsweets.com/)|[Salt Lake Culinary](https://sliceutah.com/blog-salt-lake-culinary-utah/)|[Santa Barbara Baker](https://santabarbarabaker.com/)|[Sarah Makes Stuff](https://www.sarahmakesstuff.com/)|[**Sasas Mix**](https://sasasmix.com/blogs/recipes)|
+|[Scientifically Sweet](https://scientificallysweet.com/)|[Scratch Pantry](https://scratchpantry.com/)|[Scotch and Scones](https://www.scotchandscones.com/)|[Secret Ingredient](https://secret-ingredient.net/)|[Shirlgard](https://shirlgard.com/)|
+|[Sift n' Whisk](https://www.siftnwhisk.com/)|[Silicone Moulds](http://siliconemoulds.blogspot.com/)|[Simply Veganista](https://simple-veganista.com/)|[Solo Foods](https://www.solofoods.com/recipes)|[Something Swanky](https://www.somethingswanky.com/)|
+|[A Sparkle of Genius](https://www.asparkleofgenius.com/)|[Spatula Desserts](https://www.spatuladesserts.com/)|[The Spelt Kitchen](https://www.thespeltkitchen.com/)|[Spices n' Flavors](https://spicesnflavors.com/)|[Spicy Ice Cream](https://spicyicecream.com.au/recipe-index/)|
+|[Spoonful Passion](https://spoonfulpassion.com/)|[Sprinkle Bakes](https://www.sprinklebakes.com/)|[**St. Pierre Bakery**](https://stpierrebakery.co.uk/recipes/)|[Stress Baking](https://stressbaking.com/)|[Style Sweet](https://stylesweet.com/)|
+|[Sue Bee Homemaker](https://suebeehomemaker.com/)|[Sugar & Sparrow](https://sugarandsparrow.com/)|[The Sugar Coated Cottage](https://www.thesugarcoatedcottage.com/)|[Sugar Flour Dough](https://sugarflourdough.com/)|[Sugar Hero](https://www.sugarhero.com/)|
+|[Sugar Laws](https://www.sugarlaws.com/)|[Sugar Spun Run](https://sugarspunrun.com/)|[Sugar Yums](https://sugaryums.co.uk/)|[Summer Bakes the World](https://summerbakestheworld.com/)|[Sunday Baker](https://sundaybaker.co/)|
+|[Suzie Sweet Tooth](https://suziesweettooth.com/)|[Sweet Beginnings Blog](https://sweetbeginningsblog.com/)|[Sweet Loren's](https://sweetlorens.com/lets-dish/)|[Sweetest Menu](https://www.sweetestmenu.com/)|[Sweet Fix Baker](https://www.sweetfixbaker.com/)|
+|[Sweet Saura](https://sweetsaura.com/)|[Sweet Things by Lizzie](https://sweetthingsbylizzie.com/)|[Tasting Thyme](https://tasting-thyme.com/)|[Tea Collection](https://blog.teacollection.com/category/global-dishes/)|[Teak & Thyme](https://teakandthyme.com/)|
+|[Teatime Magazine](https://www.teatimemagazine.com/category/recipes/)|[Texan Erin](https://www.texanerin.com/)|[Top with Cinnamon](https://topwithcinnamon.com/)|[Tray Bakes and More](http://traybakesandmore.com/)|[A Treat's Affair](http://atreatsaffair.com/)|
+|[**TruEats**](https://www.trueats.com/blogs/recipes)|[Two Raspberries](https://tworaspberries.com/)|[Two Sisters Crafting](https://www.twosisterscrafting.com/)|[Two Sugar Bugs](https://twosugarbugs.com/)|[Tutti Dolci](https://tutti-dolci.com/)|
+|[typefoodie](https://www.typefoodie.com/)|[Ugly Duckling Bakery](https://uglyducklingbakery.com/)|[Unconventional Baker](https://www.unconventionalbaker.com/)|[The University of Rhode Island](https://web.uri.edu/community-nutrition/recipes/)|[The Unlikely Baker](https://theunlikelybaker.com/)|
+|[The Vanilla Bean Blog](https://sweetlorens.com/lets-dish/)|[Veena Azmanov](https://veenaazmanov.com/)|[Vintage Kitchen Notes](https://vintagekitchennotes.com/)|[Waiting for Blanc Mange](https://waitingforblancmange.com/)|[The Way My Heart Bakes](https://thewaymyheartbakes.com/)|
+|[Weekend Bakery](https://www.weekendbakery.com/)|[**Well and Good**](https://wellandgood.com.au/well-and-good-new-food-recipes/)|[What Jessica Baked Next](https://whatjessicabakednext.com/)|[Wheat Beat](https://wheatbeat.com/)|[Wheel of Baking](https://wheelofbaking.com/)|
+|[Whisk Averse Baking](https://whiskaversebaking.com/)|[White on Rice Couple](https://whiteonricecouple.com/)|[Wholesome Patisserie](https://wholesomepatisserie.com/)|[**Wholly Wholesome**](https://www.whollywholesome.com/category/recipes/)|[Wifee Mama Foodie](https://www.wifemamafoodie.com/)|
+|[Willow Bird Baking](http://willowbirdbaking.com/)|[**XO Baking Co.**](https://xobakingco.com/recipes/)|[Your Cup of Cake](https://www.yourcupofcake.com/)|[Youth Sweets](https://youthsweets.com/)|[Zhang Catherine](https://zhangcatherine.com/)|
+|[Zoe Bakes](https://zoebakes.com/)|
 
 ### Barbecue/Grill
 |     |     |     |     |     |
