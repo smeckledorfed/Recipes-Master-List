@@ -844,23 +844,14 @@
 |[Apron and Whisk](https://apronandwhisk.com/)|[I Love Food.com.mt](https://www.ilovefood.com.mt/maltese-cuisine/)|[Maltese Cuisine](https://maltesecuisine.com/)|[A Maltese Mouthful](https://www.amaltesemouthful.com/)|
 
 #### Mediterranean
-- [Aegean Delight](https://aegeandelight.com/)
-- [Amira's Pantry](https://amiraspantry.com/)
-- [Apron and Whisk](https://apronandwhisk.com/)
-- [Clifford A. Wright](http://www.cliffordawright.com/caw/recipes/recipes.html)
-- [Cook Coquus](https://cook-coquus.com/)
-- [Cooking With Gaul](https://cookingwithgaul.com/)
-- [Craving Something Healthy](https://cravingsomethinghealthy.com/)
-- [Cucina Caruso](https://cucinacaruso.com/)
-- [Delectabilia](https://www.delectabilia.com/)
-- [Deliciously Mediterranean](https://deliciouslymediterranean.com/)
-- [**Kosterina**](https://www.kosterina.com/blogs/from-the-kosterina-kitchen/)
-- [Maltese History and Heritage](https://vassallohistory.wordpress.com/traditional-recipies/)
-- [The Matbakh](https://thematbakh.com/)
-- [My Greek Salad](https://www.mygreeksalad.com/)
-- [**Odysea**](https://www.odysea.com/recipes/)
-- [Olive Tomato](https://www.olivetomato.com/)
-- [The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Aegean Delight](https://aegeandelight.com/)|[Amira's Pantry](https://amiraspantry.com/)|[Apron and Whisk](https://apronandwhisk.com/)|[Clifford A. Wright](http://www.cliffordawright.com/caw/recipes/recipes.html)|[Cook Coquus](https://cook-coquus.com/)|
+|[Cooking With Gaul](https://cookingwithgaul.com/)|[Craving Something Healthy](https://cravingsomethinghealthy.com/)|[Cucina Caruso](https://cucinacaruso.com/)|[Delectabilia](https://www.delectabilia.com/)|[Deliciously Mediterranean](https://deliciouslymediterranean.com/)|
+|[Foodathlon](https://foodathlon.com/)|[Hanady Kitchen](https://hanadykitchen.com/category/recipes/)|[**Kosterina**](https://www.kosterina.com/blogs/from-the-kosterina-kitchen/)|[Little Ferraro Kitchen](https://littleferrarokitchen.com/)|[Maltese History and Heritage](https://vassallohistory.wordpress.com/traditional-recipies/)|
+|[The Matbakh](https://thematbakh.com/)|[The Mediterranean Dish](https://www.themediterraneandish.com/)|[Mediterranean Latin Love Affair](https://mediterraneanlatinloveaffair.com/)|[**Mediterranean Living**](https://www.mediterraneanliving.com/mediterranean-diet-recipes/)|[Med Munch](https://medmunch.com/)|
+|[My Excellent Degustations](https://www.myexcellentdegustations.com/)|[My Greek Salad](https://www.mygreeksalad.com/)|[**Odysea**](https://www.odysea.com/recipes/)|[Olive Tomato](https://www.olivetomato.com/)|[OMG Food](https://omgfood.com/)|
+|[The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)|[Tasty Mediterraneo](https://www.tastymediterraneo.com/)|[Tavola Mediterranea](https://tavolamediterranea.com/category/recipes-by-region/)|[Tori Avey](https://toriavey.com/)|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
 
 #### Moldova
 |     |
@@ -991,25 +982,23 @@
 ### North America
 
 #### Belize
-- [Belize.com](https://belize.com/belizean-recipes/)
-- [Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)
-- [**Grace Kennedy Belize**](https://www.gracekennedybelize.com/)
-- [Taste Dee Valley](https://tastedeevalley.wales/food/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Belize.com](https://belize.com/belizean-recipes/)|[Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)|[**Grace Kennedy Belize**](https://www.gracekennedybelize.com/)|[Taste Dee Valley](https://tastedeevalley.wales/food/)|
 
 #### Canada
-- [Canada's Food Island](https://canadasfoodisland.ca/)
-- [Canadian Food Focus](https://canadianfoodfocus.org/)
-- [A Canadian Foodie](https://www.acanadianfoodie.com/)
-- [Canadian Living](https://www.canadianliving.com/section/food)
-- [Edible Ottawa](edibleottawa.ediblecommunities.com)
-- [Edible Vancouver](ediblevancouver.com)
-- [Food Bloggers of Canada](https://www.foodbloggersofcanada.com/category/recipes-2/)
-##### Acadia
-- [Acadian Explorations](http://www.acadian-explorations.ca/home/traditional-recipes/)
-- [**Acadian Maple**](https://acadianmaple.com/blogs/recipes)
-- [Acadian.org](https://www.acadian.org/culture/popular-acadian-recipies/)
-- [Fav Club](https://www.favclub.org/acadian-recipes.html)
-- [Yarmouth & Acadian Shore](https://www.yarmouthandacadianshores.com/en/things-to-do/eat-drink/local-recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Canada's Food Island](https://canadasfoodisland.ca/)|[Canadian Food Focus](https://canadianfoodfocus.org/)|[A Canadian Foodie](https://www.acanadianfoodie.com/)|[Canadian Living](https://www.canadianliving.com/section/food)|[Edible Ottawa](edibleottawa.ediblecommunities.com)|
+|[Edible Vancouver](ediblevancouver.com)|[Food Bloggers of Canada](https://www.foodbloggersofcanada.com/category/recipes-2/)|[Kitchen Frau](https://www.kitchenfrau.com/)|
+- ##### Acadia
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Acadian Explorations](http://www.acadian-explorations.ca/home/traditional-recipes/)|[**Acadian Maple**](https://acadianmaple.com/blogs/recipes)|[Acadian.org](https://www.acadian.org/culture/popular-acadian-recipies/)|[Fav Club](https://www.favclub.org/acadian-recipes.html)|[Yarmouth & Acadian Shore](https://www.yarmouthandacadianshores.com/en/things-to-do/eat-drink/local-recipes/)|
+- ##### Manitoba
+|     |
+| --- |
+|[My Steinbach](https://www.mysteinbach.ca/recipes/)|
 
 #### Caribbean
 - [Black Foodie](https://www.blackfoodie.co/recipes/)
