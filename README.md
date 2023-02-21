@@ -448,6 +448,11 @@
 | --- | --- |
 |[Nawal Cooking](https://nawalcooking.blogspot.com/)|[Sooo Good](https://www.sooogood.org/)|
 
+#### Jordan
+|     |
+| --- |
+|[The Odehlicious](https://theodehlicious.com/)|
+
 #### Kazakhstan
 |     |
 | --- |
@@ -669,6 +674,11 @@
 |     |
 | --- |
 |[Growing Up Bilingual](https://growingupbilingual.com/)|
+
+#### Honduras
+|     |
+| --- |
+|[Suellen Pineda](https://www.suellenpineda.com/)|
 
 #### Nicaragua
 |     |
@@ -1208,7 +1218,7 @@
 | --- | --- | --- | --- | --- |
 |[Amazing Ackee](https://amazingackee.com/)|[Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)|[Cook Like a Jamaican](https://cooklikeajamaican.com/recipes/)|[Eat Jamaican](https://eatjamaican.com/recipes.html)|[Healthier Steps](https://healthiersteps.com/)|
 |[Jamaican Dawta](https://jamaicandawta.com/eat-like-a-jamaican/)|[Jamaican Foods and Recipes](https://jamaicanfoodsandrecipes.com/)|[Jamaicans.com](https://jamaicans.com/)|[Jamaica Travel and Culture](https://www.jamaicatravelandculture.com/food_and_drink.htm)|[LifeHabi](https://www.lifehabi.com/recipes/jamaica/)|
-|[Roxy Chow Down](https://roxychowdown.com/)|[A YouNique Journey](https://ayouniquejourney.com/)|
+|[Roxy Chow Down](https://roxychowdown.com/)|[Seasoned Skillet Blog](https://seasonedskilletblog.com/)|[A YouNique Journey](https://ayouniquejourney.com/)|
 ##### Martinique
 |     |
 | --- |
