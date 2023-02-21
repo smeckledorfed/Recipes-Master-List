@@ -1141,11 +1141,10 @@
 - [Tine Brunost](http://www.tinebrunost.com/recipes)
 
 #### Poland
-- [Anna in the Kitchen](https://annainthekitchen.com/)
-- [My Polish Cuisine](https://mypolishcuisine.com/)
-- [Polish Foodies](https://polishfoodies.com/)
-- [The Polish Housewife](https://polishhousewife.com/)
-- [Polish Your Kitchen](https://www.polishyourkitchen.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Anna in the Kitchen](https://annainthekitchen.com/)|[My Polish Cuisine](https://mypolishcuisine.com/)|[Polish Foodies](https://polishfoodies.com/)|[The Polish Housewife](https://polishhousewife.com/)|[Polish Your Kitchen](https://www.polishyourkitchen.com/)|
+|[Polonist](https://www.polonist.com/)|
 
 #### Portugal
 - [Ana's Portuguese Cooking](https://portuguesecooking.com/)
@@ -2219,11 +2218,8 @@
 - [Wicked Spatula](https://www.wickedspatula.com/)
 
 ### Pescatarian
-- [Dem the Pesc](https://demthepesc.com/)
-- [The Pescatarian Diet](https://thepescatariandiet.net/)
-- [Pescetarian Kitchen](https://pescetarian.kitchen/)
-- [Posh Pescatarian](https://www.poshpescatarian.com/)
-- [Weekday Pescatarian](https://weekdaypescatarian.com/)
+|[Dem the Pesc](https://demthepesc.com/)|[Greener Ideal](https://greenerideal.com/recipes/)|[The Pescatarian Diet](https://thepescatariandiet.net/)|[Pescetarian Kitchen](https://pescetarian.kitchen/)|[Posh Pescatarian](https://www.poshpescatarian.com/)|
+|[Running in a Skirt](https://www.runninginaskirt.com/)|[Weekday Pescatarian](https://weekdaypescatarian.com/)|
 
 ### Pregnancy
 - [Baby Center](https://www.babycenter.com/pregnancy/diet-and-fitness#subtopic-pregnancy-best-foods)
@@ -2235,12 +2231,10 @@
 - [Ovia Health](https://www.oviahealth.com/blog/pregnancy/pregnancy-nutrition/)
 
 ### Skincare
-- [Beach Beauty Bar](https://beachbeautybar.com/category/acne-safe-recipes)
-- [Glow by Marlowe](https://mariamarlowe.com/recipes/)
-- [Happy Skin Kitchen](https://www.happyskinkitchen.com/)
-- [Hello Glow](https://helloglow.co/)
-- [Maria Marlowe](https://mariamarlowe.com/recipes/)
-- [Scratch Mommy](https://scratchmommy.com/all-natural-recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Beach Beauty Bar](https://beachbeautybar.com/category/acne-safe-recipes)|[Glow by Marlowe](https://mariamarlowe.com/recipes/)|[Happy Skin Kitchen](https://www.happyskinkitchen.com/)|[Hello Glow](https://helloglow.co/)|[Hungry Gopher](https://hungrygopher.com/)|
+|[Maria Marlowe](https://mariamarlowe.com/recipes/)|[The Pure Life](https://thepurelife.ca/)|[Scratch Mommy](https://scratchmommy.com/all-natural-recipes/)|[Such Good Skin](https://suchgoodskin.com/)|
 
 ### Sugar-Free
 - [28 By Sam Wood](https://recipes.28bysamwood.com/)
