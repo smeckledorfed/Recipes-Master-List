@@ -385,49 +385,24 @@
 |[Macanese Recipes](https://www.macaneserecipes.com/recipes/all.html)|
 
 #### Malaysia
-- [Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)
-- [**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)
-- [Da Vina Vegan](http://davinadavegan.com/)
-- [Dish By Ili](https://dishbyili.com/)
-- [**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)
-- [Fried Chillies](https://friedchillies.com/)
-- [Julia Olive](https://www.julieolive.co.uk/)
-- [Keto Jules](https://www.ketojules.com/)
-- [Lisa's Lemony Kitchen](https://www.mykeuken.com/)
-- [Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)
-- [Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)
-- [The Malaysian Kitchen](https://themalaysiankitchen.com/)
-- [**Mama Lam's**](https://mamalams.com/recipes/)
-- [New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)
-- [**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)
-- [Rasa Malaysia](https://rasamalaysia.com/)
-- [Roti n' Rice](https://www.rotinrice.com/)
-- [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
-- [Thokoh Makan](https://thokohmakan.com/)
-- [Wendy Inkk](https://wendyinkk.blogspot.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)|[**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)|[Da Vina Vegan](http://davinadavegan.com/)|[Dish By Ili](https://dishbyili.com/)|[**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)|
+|[Fried Chillies](https://friedchillies.com/)|[Good Life with Gan](https://goodlifewithgan.com/)|[Huang Kitchen](https://www.huangkitchen.com/)|[Julia Olive](https://www.julieolive.co.uk/)|[Keto Jules](https://www.ketojules.com/)|
+|[Kitchen Tigress](https://kitchentigress.com/)|[Lisa's Lemony Kitchen](https://www.mykeuken.com/)|[Loka Taste](https://www.lokataste.com/recipe/)|[Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)|[Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)|
+|[The Malaysian Kitchen](https://themalaysiankitchen.com/)|[**Mama Lam's**](https://mamalams.com/recipes/)|[Minty's Kitchen](http://mintyskitchen.blogspot.com/)|[New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)|[**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)|
+|[Patyskitchen](http://patyskitchen.blogspot.com/)|[Rasa Malaysia](https://rasamalaysia.com/)|[Roti n' Rice](https://www.rotinrice.com/)|[Set the Tables](https://setthetables.com/category/recipes/)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|
+|[Thokoh Makan](https://thokohmakan.com/)|[Wendy Inkk](https://wendyinkk.blogspot.com/)|
 
 #### Middle East
-- [Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)
-- [Amira's Pantry](https://amiraspantry.com/)
-- [Anissa's](https://www.anissas.com/)
-- [**Beit Sitti Shop**](https://beitsittishop.com/en/recipes/)
-- [But First Chai](https://butfirstchai.com/)
-- [Cardamom and Tea](https://cardamomandtea.com/)
-- [Chef in Disguise](https://chefindisguise.com/)
-- [Chef Tariq](https://www.cheftariq.com/)
-- [Chilli Talks](http://www.chillitalks.com/)
-- [Cooking With Gaul](https://cookingwithgaul.com/)
-- [Cooking With Zahra](https://cookingwithzahra.com/)
-- [Every Little Crumb](https://everylittlecrumb.com/)
-- [Fufu's Kitchen](https://www.fufuskitchen.com/)
-- [Hungry Paprikas](https://www.hungrypaprikas.com/)
-- [Jennifer Abadi](https://jenniferabadi.com/)
-- [Middle East Kitchen](https://www.middleeastkitchen.com/)
-- [MidEastChef](http://www.mideastchef.com/)
-- [One Arab Vegan](https://www.onearabvegan.com/)
-- [Savory Spin](https://savoryspin.com/)
-- [Sour and Sweets](https://sourandsweets.com/)
-- [**Sweet Pillar**](http://www.sweetpillar.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)|[Amira's Pantry](https://amiraspantry.com/)|[Anissa's](https://www.anissas.com/)|[**Beit Sitti Shop**](https://beitsittishop.com/en/recipes/)|[But First Chai](https://butfirstchai.com/)|
+|[Cardamom and Tea](https://cardamomandtea.com/)|[Chef in Disguise](https://chefindisguise.com/)|[Chef Tariq](https://www.cheftariq.com/)|[Chilli Talks](http://www.chillitalks.com/)|[Cooking With Gaul](https://cookingwithgaul.com/)|
+|[Cooking With Zahra](https://cookingwithzahra.com/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Fufu's Kitchen](https://www.fufuskitchen.com/)|[Hungry Paprikas](https://www.hungrypaprikas.com/)|[I Love Arabic Food](https://ilovearabicfood.com/)|
+|[Jennifer Abadi](https://jenniferabadi.com/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|[Nutrizonia](https://www.nutrizonia.com/)|[One Arab Vegan](https://www.onearabvegan.com/)|
+|[Savory Spin](https://savoryspin.com/)|[Sour and Sweets](https://sourandsweets.com/)|[**Sweet Pillar**](http://www.sweetpillar.com/)|[Taste of Beirut](https://www.tasteofbeirut.com/)|[UAE Universe](https://uaeuniverse.com/category/lifestyle/food/)|
+|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
 
 #### Afghanistan
 |     |     |     |     |     |
