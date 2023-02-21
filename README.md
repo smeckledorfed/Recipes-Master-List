@@ -1537,6 +1537,9 @@
 - [Rocky Mountain Cooking](https://rockymountaincooking.com/)
 
 ### Oceania
+|     |
+| --- |
+|[Manaui](https://manaui.com/|
 
 #### Australia
 - [Australian Good Food Guide](https://www.agfg.com.au/)
@@ -1851,12 +1854,21 @@
 - [Fit Mom Journey](https://fitmomjourney.com/)
 - [Flour Me with Love](https://flourmewithlove.com/)
 - [Gnom Gnom](https://www.gnom-gnom.com/)
+- [Greek Goes Keto](https://www.greekgoesketo.com/)
+- [Greek Keto](https://greekketo.com/)
 - [Headbanger's Kitchen](https://headbangerskitchen.com/)
 - [Health Benefits Times](https://www.healthbenefitstimes.com/recipe/)
 - [Healthful Pursuit](https://www.healthfulpursuit.com/)
 - [Hip 2 Keto](https://hip2keto.com/)
+- [Holistic Yum](https://holisticyum.com/)
+- [How to Cook with Vesna](https://howtocookwithvesna.com/)
+- [How to This and That](https://howtothisandthat.com/)
+- [Hungry Squirrel](https://www.hungrysquirrel.com/blogs/recipes)
+- [I Breathe I'm Hungry](https://www.ibreatheimhungry.com/)
+- [I'd Rather Be a Chef](https://www.idratherbeachef.com/)
 - [Jennifer Banz](https://jenniferbanz.com/)
 - [Kalyn's Kitchen](https://kalynskitchen.com/)
+- [Kasey Trenum](https://kaseytrenum.com/)
 - [**Keto and Co.**](https://ketoand.co/blogs/recipes)
 - [**Keto Farms**](https://ketofarms.com/blogs/recipes)
 - [Keto Focus](https://www.ketofocus.com/)
@@ -1883,6 +1895,7 @@
 - [North-South Blonde](https://northsouthblonde.com/category/recipes/)
 - [Perfect Keto](https://perfectketo.com/recipes/)
 - [Queen Keto](https://queenketo.com/)
+- [Simply So Healthy](https://simplysohealthy.com/)
 - [Stem and Spoon](https://stemandspoon.com/)
 - [Step Away from the Carbs](https://stepawayfromthecarbs.com/)
 - [Stylish Cravings](https://stylishcravings.com/)
@@ -1891,6 +1904,7 @@
 - [Tasty Low-Carb](https://www.tasty-lowcarb.com/)
 - [That Low-Carb Life](https://thatlowcarblife.com/)
 - [Two Sleevers](https://twosleevers.com/)
+- [Wholesome Yum](https://www.wholesomeyum.com/)
 - [Yummy Healthy Keto](https://yummyhealthyketo.com/)
 
 ### Kosher/Jewish
