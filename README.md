@@ -1365,14 +1365,17 @@
 - [Cherokee Tribal Food Distribution Program](https://food.ebci-nsn.gov/recipes/)
 - [The United Cherokee Nation](http://theucn.com/recipes.html)
 ###### Chickasaw
-- [Chickasaw.net](https://www.chickasaw.net/Our-Nation/Culture/Foods.aspx)
-###### Iroquois
-- [Ganondagan](https://ganondagan.org/whitecorn/recipes)
-- [Iroquois Tribe](http://iroquoistribe.weebly.com/recipes.html)
-- [Warren History](https://www.warrenhistory.org/Seneca%20Trunk/4Food%20&%20Recipes.html)
-###### Navajo
-- [The Fancy Navajo](https://thefancynavajo.com/category/recipes/)
-- [Navajo Pride](https://napi.navajopride.com/media/recipes/)
+|     |
+| --- |
+|[Chickasaw.net](https://www.chickasaw.net/Our-Nation/Culture/Foods.aspx)|
+- ###### Iroquois
+|     |     |     |
+| --- | --- | --- |
+|[Ganondagan](https://ganondagan.org/whitecorn/recipes)|[Iroquois Tribe](http://iroquoistribe.weebly.com/recipes.html)|[Warren History](https://www.warrenhistory.org/Seneca%20Trunk/4Food%20&%20Recipes.html)|
+- ###### Navajo
+|     |     |
+| --- | --- |
+|[The Fancy Navajo](https://thefancynavajo.com/category/recipes/)|[Navajo Pride](https://napi.navajopride.com/media/recipes/)|
 
 ##### Northeast
 - [Amish 365](https://www.amish365.com/)
@@ -1405,13 +1408,10 @@
 - [Sip and Feast](https://www.sipandfeast.com/)
 
 ##### Soul Food
-- [Black Foodie](https://www.blackfoodie.co/recipes/)
-- [Black People's Recipes](https://blackpeoplesrecipes.com/about-us/)
-- [Cooks with Soul](https://cookswithsoul.com/)
-- [Old School Soul Food](https://www.oldschoolsoulfood.com/)
-- [Sould Food Cooking 101](https://www.soulfoodcooking101.com/)
-- [The Soul Food Pot](https://thesoulfoodpot.com/)
-- [Veggie Soul Food](http://www.veggiesoulfood.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/about-us/)|[Cooks with Soul](https://cookswithsoul.com/)|[Food Fidelity](https://www.foodfidelity.com/)|[Old School Soul Food](https://www.oldschoolsoulfood.com/)|
+|[Sould Food Cooking 101](https://www.soulfoodcooking101.com/)|[The Soul Food Pot](https://thesoulfoodpot.com/)|[Veggie Soul Food](http://www.veggiesoulfood.com/)|
 
 ##### South
 - [225 Baton Rouge](https://www.225batonrouge.com/food-drink/recipes)
