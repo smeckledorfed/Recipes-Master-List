@@ -2796,52 +2796,34 @@
 |[Social and Cocktail](https://www.socialandcocktail.co.uk/)|[Stella n' Spice](https://stellanspice.com/)|[Thrillist](https://www.thrillist.com/recipes)|[Tipsy Bartender](https://tipsybartender.com/)|[Vine Pair](https://vinepair.com/cocktail-recipe/)|
 |[Vintage American Cocktails](https://vintageamericancocktails.com/)|
 #### Beer
-- [**Anchor Brewing**](https://www.anchorbrewing.com/blog/category/beer-food-pairings/)
-- [Beer Alien](https://beeralien.com/)
-- [Beer and Brewing](https://beerandbrewing.com/beer-recipes/)
-- [Beers With Mandy](https://beerswithmandy.com/)
-- [Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)
-- [Brew Dudes](https://www.brew-dudes.com/beer-recipes)
-- [Brewer's Friend](https://www.brewersfriend.com/homebrew-recipes/)
-- [Brulosophy](https://brulosophy.com/recipes/)
-- [Craft Beering](https://www.craftbeering.com/)
-- [Homebrew Academy](https://homebrewacademy.com/beer-recipes/)
-- [Homebrew Answers](https://homebrewanswers.com/)
-- [Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)
-- [Renegade Brewing](https://renegadebrewing.com/category/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Anchor Brewing**](https://www.anchorbrewing.com/blog/category/beer-food-pairings/)|[Beer Alien](https://beeralien.com/)|[Beer and Brewing](https://beerandbrewing.com/beer-recipes/)|[Beers With Mandy](https://beerswithmandy.com/)|[Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)|
+|[Brew Dudes](https://www.brew-dudes.com/beer-recipes)|[Brewer's Friend](https://www.brewersfriend.com/homebrew-recipes/)|[Brulosophy](https://brulosophy.com/recipes/)|[Craft Beering](https://www.craftbeering.com/)|[**Guinness**](https://www.guinness.com/en-us/experiences/recipes)|
+|[Homebrew Academy](https://homebrewacademy.com/beer-recipes/)|[Homebrew Answers](https://homebrewanswers.com/)|[Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)|[Renegade Brewing](https://renegadebrewing.com/category/recipes/)|
 #### Bourbon
-- [**Evan Williams Bourbon**](https://evanwilliams.com/recipes)
-- [**Four Roses Bourbon**](https://cocktails.fourrosesbourbon.com/)
-- [**J. Henry & Sons**](https://jhenryandsons.com/blog/category/Bourbon+Recipes)
-- [**Jim Beam**](https://www.jimbeam.com/en/cocktails/)
-- [**Knob Creek**](https://www.knobcreek.com/our-cocktails/)
-- [**Maker's Mark**](https://www.makersmark.com/cocktails)
-- [**Wild Turkey Bourbon**](https://www.wildturkeybourbon.com/en-us/cocktails/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Evan Williams Bourbon**](https://evanwilliams.com/recipes)|[**Four Roses Bourbon**](https://cocktails.fourrosesbourbon.com/)|[**J. Henry & Sons**](https://jhenryandsons.com/blog/category/Bourbon+Recipes)|[**Jim Beam**](https://www.jimbeam.com/en/cocktails/)|[**Knob Creek**](https://www.knobcreek.com/our-cocktails/)|
+|[**Maker's Mark**](https://www.makersmark.com/cocktails)|[**Wild Turkey Bourbon**](https://www.wildturkeybourbon.com/en-us/cocktails/)|
 #### Brandy
-- [**Courvoisier**](https://www.courvoisier.com/cognac-cocktails)
-- [**Hennessy**](https://www.hennessy.com/en-us/cocktails)
-- [**Martell**](https://www.martell.com/en-us/cocktails/)
-- [**Paul Masson**](https://www.paulmasson.com/cocktails.php)
-- [**Remy Martin**](https://www.remymartin.com/en-us/cocktails/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Courvoisier**](https://www.courvoisier.com/cognac-cocktails)|[**Hennessy**](https://www.hennessy.com/en-us/cocktails)|[**Martell**](https://www.martell.com/en-us/cocktails/)|[**Paul Masson**](https://www.paulmasson.com/cocktails.php)|[**Remy Martin**](https://www.remymartin.com/en-us/cocktails/)|
 #### Cider
-- [DIY Hard Cider](https://diyhardcider.com/)
-- [Home Cider Making](https://www.homecidermaking.com/hard-cider-recipes/)
-- [**Willie's Remedy**](https://williesremedy.com/recipes/)
+|     |     |     |
+| --- | --- | --- |
+|[DIY Hard Cider](https://diyhardcider.com/)|[Home Cider Making](https://www.homecidermaking.com/hard-cider-recipes/)|[**Willie's Remedy**](https://williesremedy.com/recipes/)|
 #### Gin
-- [Aland Distillery](https://alanddistillery.com/recipes/)
+|     |
+| --- |
+|[Aland Distillery](https://alanddistillery.com/recipes/)|
 #### Rum
-- [**Bacardi**](https://www.bacardi.com/us/en/rum-cocktails/)
-- [**Brugal**](https://www.brugal-rum.com/en-us/cocktails)
-- [**Denizen Rum**](http://denizenrum.com/cocktails/)
-- [**Don Q**](https://donq.com/recipes/)
-- [**Dos Maderas**](https://dosmaderas.com/easy-dark-rum-cocktail-recipes/)
-- [**Element Rhum**](https://www.rhumclementusa.com/cocktails)
-- [**Guavaberry**](https://guavaberry.com/recipes)
-- [**Malibu**](https://www.maliburumdrinks.com/us/rum-drinks/)
-- [**Mount Gay**](https://www.mountgayrum.com/cocktails/)
-- [**Plantation Rum**](https://www.plantationrum.com/cocktails-plantation)
-- [**Ron Inmortal**](https://roninmortal.com/cocktails/)
-- [**Ten to One**](https://www.tentoonerum.com/cocktails/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Bacardi**](https://www.bacardi.com/us/en/rum-cocktails/)|[**Brugal**](https://www.brugal-rum.com/en-us/cocktails)|[**Denizen Rum**](http://denizenrum.com/cocktails/)|[**Don Q**](https://donq.com/recipes/)|[**Dos Maderas**](https://dosmaderas.com/easy-dark-rum-cocktail-recipes/)|
+|[**Element Rhum**](https://www.rhumclementusa.com/cocktails)|[**Guavaberry**](https://guavaberry.com/recipes)|[**Malibu**](https://www.maliburumdrinks.com/us/rum-drinks/)|[**Mount Gay**](https://www.mountgayrum.com/cocktails/)|[**Plantation Rum**](https://www.plantationrum.com/cocktails-plantation)|
+|[**Ron Inmortal**](https://roninmortal.com/cocktails/)|[**Ten to One**](https://www.tentoonerum.com/cocktails/)|
 #### Tequila
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2852,23 +2834,12 @@
 | --- | --- | --- |
 |[**Cointreau**](https://www.cointreau.com/us/en/cocktails)|[**Combier**](https://www.combierusa.com/recipes)|[**DeKuyper**](https://www.dekuyperusa.com/recipes/)|
 #### Vodka
-- [**Absolut**](https://www.absolutdrinks.com/en/learn/)
-- [**Belvedere Vodka**](https://www.belvederevodka.com/en-us/vodka-cocktails/)
-- [**Broken Shed**](https://brokenshed.com/the-recipes?offset=0)
-- [**Chopin Vodka**](https://chopinvodka.com/recipes/)
-- [**Ciroc**](https://www.ciroc.com/en-row/vodka-cocktails)
-- [**Crystal Head Vodka**](https://www.crystalheadvodka.com/recipes)
-- [**Effen Vodka**](https://www.effenvodka.com/vodka-cocktail-recipes/)
-- [**Grey Goose**](https://www.greygoose.com/cocktails.html)
-- [**Humboldt Distillery**](https://humboldtdistillery.com/cocktails/)
-- [**Ketel One**](https://www.ketelone.com/vodka-drinks)
-- [**King St. Vodka**](https://kingstvodka.com/recipes/)
-- [**Neft Vodka**](https://www.neftvodkaus.com/recipes/)
-- [**Old Bay Vodka**](https://oldbayvodka.com/recipes/)
-- [**Skyy**](https://www.skyyvodka.com/us/cocktails/)
-- [**Stoli**](https://stoli.com/cocktail/)
-- [**Svedka**](https://www.svedka.com/blogs/summer-mixes)
-- [**Tito's**](https://www.titosvodka.com/recipes)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Absolut**](https://www.absolutdrinks.com/en/learn/)|[**Belvedere Vodka**](https://www.belvederevodka.com/en-us/vodka-cocktails/)|[**Broken Shed**](https://brokenshed.com/the-recipes?offset=0)|[**Chopin Vodka**](https://chopinvodka.com/recipes/)|[**Ciroc**](https://www.ciroc.com/en-row/vodka-cocktails)|
+|[**Crystal Head Vodka**](https://www.crystalheadvodka.com/recipes)|[**Effen Vodka**](https://www.effenvodka.com/vodka-cocktail-recipes/)|[**Grey Goose**](https://www.greygoose.com/cocktails.html)|[**Humboldt Distillery**](https://humboldtdistillery.com/cocktails/)|[**Ketel One**](https://www.ketelone.com/vodka-drinks)|
+|[**King St. Vodka**](https://kingstvodka.com/recipes/)|[**Neft Vodka**](https://www.neftvodkaus.com/recipes/)|[**Old Bay Vodka**](https://oldbayvodka.com/recipes/)|[**Skyy**](https://www.skyyvodka.com/us/cocktails/)|[**Stoli**](https://stoli.com/cocktail/)|
+|[**Svedka**](https://www.svedka.com/blogs/summer-mixes)|[**Tito's**](https://www.titosvodka.com/recipes)|
 #### Whiskey
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
