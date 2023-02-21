@@ -2771,15 +2771,10 @@
 |[**Robinette's**](https://robinettes.com/category/recipes)|[**Sandeman**](https://www.sandeman.com/mixology-and-food/)|[**Wine Dharma**](https://winedharma.com/en/recipes/)|[Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)|[Wine Lovers' Page](http://www.wine-lovers-page.com/wlp_archive/food/foodtoc.shtml)|
 
 ### Beans
-- [**The Amazing Chickpea**](https://www.theamazingchickpea.com/recipes/)
-- [**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)
-- [**Camellia**](https://www.camelliabrand.com/)
-- [**Casa Verde**](https://eatcasaverde.com/blogs/recipes)
-- [**Jack Rabbit Beans**](https://jackrabbitbeans.com/recipes/)
-- [Lorin Cooks Legumes](https://lorincookslegumes.com/)
-- [**The Only Bean**](https://theonlybean.com/blogs/recipes)
-- [**Randall Beans**](https://randallbeans.com/recipes/)
-- [**Serious Bean Co.**](https://seriousbeanco.com/blogs/recipes)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**The Amazing Chickpea**](https://www.theamazingchickpea.com/recipes/)|[**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)|[**Camellia**](https://www.camelliabrand.com/)|[**Casa Verde**](https://eatcasaverde.com/blogs/recipes)|[**Jack Rabbit Beans**](https://jackrabbitbeans.com/recipes/)|
+|[Lorin Cooks Legumes](https://lorincookslegumes.com/)|[**The Only Bean**](https://theonlybean.com/blogs/recipes)|[**Randall Beans**](https://randallbeans.com/recipes/)|[**Serious Bean Co.**](https://seriousbeanco.com/blogs/recipes)|
 
 ### Beverages
 | --- | --- | --- | --- | --- |
@@ -2793,36 +2788,15 @@
 |[**SpinDrift**](https://drinkspindrift.com/blogs/recipes)|[**Suja Organic**](https://www.sujaorganic.com/blog/category/recipes/)|[**Swoon**](https://www.tasteswoon.com/pages/recipes)|[**Treetop**](https://www.treetop.com/consumer/recipes/)|[**Uncle Matt's**](https://www.unclematts.com/category/recipes/)|
 |[**Waterloo Sparkling Water**](https://www.drinkwaterloo.com/recipes)|
 #### Coffee
-- [**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)
-- [**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)
-- [Coffee Affection](https://coffeeaffection.com/)
-- [Coffee at Three](https://coffeeatthree.com/)
-- [**Coffee Cherry Co.**](https://coffeecherryco.com/recipes/)
-- [**Copper Cow Coffee**](https://coppercowcoffee.com/blogs/blog-posts)
-- [**Craft Beering**](https://risebrewingco.com/blogs/recipe)
-- [**Cusa**](https://www.drinkcusa.com/blogs/recipes)
-- [**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)
-- [**Door County Coffee**](https://doorcountycoffee.com/recipes/)
-- [**Drink Super Coffee**](https://drinksupercoffee.com/blog/)
-- [**Eight O'Clock**](https://www.eightoclock.com/coffee-recipes)
-- [**Folger's Coffee**](https://www.folgerscoffee.com/coffee/recipes)
-- [**Groundwork Coffee**](https://www.groundworkcoffee.com/pages/blog)
-- [**Hey Joe Coffee**](https://heyjoecoffee.com/)
-- [Hijabs and Aprons](https://www.hijabsandaprons.com/)
-- [**Illy**](https://www.illy.com/en-us/coffee/coffee-recipes)
-- [**Mayorga Coffee**](https://mayorgacoffee.com/pages/chia-recipes)
-- [**Nespresso (Aus.)**](https://www.nespresso.com/au/en/coffee-recipes)
-- [**Nespresso (USA)**](https://www.nespresso.com/us/en/coffee-recipes)
-- [**New England Coffee**](https://www.newenglandcoffee.com/)
-- [**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)
-- [**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)
-- [**Peet's Coffee**](https://www.peets.com/blogs/peets)
-- [Perfect Brew](https://www.perfectbrew.com/)
-- [**Red Diamond Bev Service**](https://reddiamondbevservice.com/menu-ideas/)
-- [**Seattle's Best Coffee**](https://www.seattlesbest.com/recipes-crafts)
-- [**Starbucks**](https://athome.starbucks.com/recipe)
-- [**Tuyyo Foods**](https://tuyyofoods.com/)
-- [**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Alpine Start Foods**](https://alpinestartfoods.com/blogs/instant-coffee-recipes)|[**Cafe Bustelo**](https://www.cafebustelo.com/en/coffee/recipes)|[Coffee Affection](https://coffeeaffection.com/)|[Coffee at Three](https://coffeeatthree.com/)|[**Coffee Cherry Co.**](https://coffeecherryco.com/recipes/)|
+|[**Copper Cow Coffee**](https://coppercowcoffee.com/blogs/blog-posts)|[**Craft Beering**](https://risebrewingco.com/blogs/recipe)|[**Cusa**](https://www.drinkcusa.com/blogs/recipes)|[**Death Wish Coffee**](https://www.deathwishcoffee.com/pages/the-scoop)|[**Door County Coffee**](https://doorcountycoffee.com/recipes/)|
+|[**Drink Super Coffee**](https://drinksupercoffee.com/blog/)|[**Eight O'Clock**](https://www.eightoclock.com/coffee-recipes)|[**Folger's Coffee**](https://www.folgerscoffee.com/coffee/recipes)|[**Groundwork Coffee**](https://www.groundworkcoffee.com/pages/blog)|[**Hey Joe Coffee**](https://heyjoecoffee.com/)|
+|[Hijabs and Aprons](https://www.hijabsandaprons.com/)|[**Illy**](https://www.illy.com/en-us/coffee/coffee-recipes)|[**Mayorga Coffee**](https://mayorgacoffee.com/pages/chia-recipes)|[**Nescafe**](https://www.nescafe.com/us/recipes/)|[**Nespresso (Aus.)**](https://www.nespresso.com/au/en/coffee-recipes)|
+|[**Nespresso (USA)**](https://www.nespresso.com/us/en/coffee-recipes)|[**New England Coffee**](https://www.newenglandcoffee.com/)|[**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)|[**Peace Coffee**](https://www.peacecoffee.com/learn/recipes/)|[**Peet's Coffee**](https://www.peets.com/blogs/peets)|
+|[Perfect Brew](https://www.perfectbrew.com/)|[**Red Diamond Bev Service**](https://reddiamondbevservice.com/menu-ideas/)|[**Seattle's Best Coffee**](https://www.seattlesbest.com/recipes-crafts)|[**Starbucks**](https://athome.starbucks.com/recipe)|[**Tuyyo Foods**](https://tuyyofoods.com/)|
+|[**Wide Awake Coffee**](https://wideawakecoffee.com/recipes/)|
 #### Tea
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
