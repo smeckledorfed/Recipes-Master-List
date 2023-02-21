@@ -40,6 +40,11 @@
 |[My Burnt Orange](https://www.myburntorange.com/)|[Natura Yum](https://www.naturayum.com/)|[O'Hana Market](https://ohanamarketlex.com/recipes/)|[Pan-African](https://pan-african.net/recipe/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|
 |[We Eat at Last](https://weeatatlast.com/)|[West Africa Cooks](https://www.westafricacooks.com/africa/)|[Yolele](https://yolele.com/recipes)|[Yummy Medley](https://www.yummymedley.com/)|
 
+#### Algeria
+|     |     |
+| --- | --- |
+|[Sweet Pea and Jasmine](https://sweetpeaandjasmine.wordpress.com/)|[The Teal Tadjine](http://thetealtadjine.blogspot.com/)|
+
 #### Burkina Faso
 |     |
 | --- |
@@ -535,80 +540,27 @@
 |[Yummy Kitchen TV](https://yummykitchentv.com/)|
 
 #### Singapore
-- [Anncoo Journal](https://www.anncoojournal.com/)
-- [Carry It Like Harry](https://carryitlikeharry.com/)
-- [Eat What Tonight](https://eatwhattonight.com/)
-- [Eat with Tom](https://eatwithtom.com/)
-- [Feast to the World](http://www.feasttotheworld.com/)
-- [Homemade Singapore Food Recipe](https://www.comp.nus.edu.sg/~e0260255/index.html)
-- [I Eat, I Shoot, I Post](https://ieatishootipost.sg/category/cook/)
-- [The MeatMen](https://themeatmen.sg/all-recipes/)
-- [My Singapore Food](http://mysingaporefood.com/)
-- [Nomadette](http://nomadette.com/)
-- [**Sadia**](https://www.sadia.sg/recipes)
-- [Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)
-- [Singapore Best Food Blogs](https://www.aspirantsg.com/top-food-blogger-singapore-best-food-blogs/?amp)
-- [Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)
-- [Singapore Food](https://singaporelocalfavourites.com/)
-- [Singapore Noodles](https://www.sgpnoodles.com/freerecipes)
-- [Tummy Troll](https://tummytroll.wordpress.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Anncoo Journal](https://www.anncoojournal.com/)|[Carry It Like Harry](https://carryitlikeharry.com/)|[Eat What Tonight](https://eatwhattonight.com/)|[Eat with Tom](https://eatwithtom.com/)|[Feast to the World](http://www.feasttotheworld.com/)|
+|[Homemade Singapore Food Recipe](https://www.comp.nus.edu.sg/~e0260255/index.html)|[I Eat, I Shoot, I Post](https://ieatishootipost.sg/category/cook/)|[The MeatMen](https://themeatmen.sg/all-recipes/)|[My Singapore Food](http://mysingaporefood.com/)|[Nomadette](http://nomadette.com/)|
+|[**Sadia**](https://www.sadia.sg/recipes)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|[Singapore Best Food Blogs](https://www.aspirantsg.com/top-food-blogger-singapore-best-food-blogs/?amp)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|[Singapore Food](https://singaporelocalfavourites.com/)|
+|[Singapore Noodles](https://www.sgpnoodles.com/freerecipes)|[Tummy Troll](https://tummytroll.wordpress.com/)|
 
 #### South Korea
-- [10000 Recipe](https://www.10000recipe.com/)
-- [Aaron and Claire](https://aaronandclaire.com/)
-- [Aeri's Kitchen](http://www.aeriskitchen.com/)
-- [Ahjummarecipes](https://www.ahjummarecipes.com/)
-- [Ahnest Kitchen](https://ahnestkitchen.com/)
-- [At Home Umma](https://www.athomeumma.com/)
-- [Basic Sunday](https://basicsunday.com/category/recipes/)
-- [Beyond Kimchee](https://www.beyondkimchee.com/)
-- [**Bibigo**](https://www.bibigousa.com/recipes/)
-- [Cafe Maddy](https://www.cafemaddy.com/)
-- [Carving a Journey](https://www.carvingajourney.com/)
-- [Cathlyn's Korean Kitchen](https://koreancuisinerecipes.com/)
-- [Chef Atulya](https://chefatulya.com/)
-- [Chef Christ Cho](https://chefchrischo.com/)
-- [Chopsticks and Flour](https://www.chopsticksandflour.com/)
-- [Chow Divine](http://chowdivine.com/)
-- [Chrisse en Place](http://chrisseenplace.com/)
-- [Crazy Korean Cooking](https://crazykoreancooking.com/)
-- [Curious Kimchi](https://curiouskimchi.com/)
-- [Easy Korean Food](https://www.easykoreanfood.com/)
-- [Future Dish](https://futuredish.com/)
-- [Gilded Gingerbread](https://www.gildedgingerbread.com/)
-- [Gwangju News](https://gwangjunewsgic.com/category/food-drink/recipe/)
-- [**Hanguk Kitchen**](https://www.hangukkitchen.com/blog/blogcat60)
-- [Hanna One](https://hannaone.com/)
-- [**H Mart**](https://www.hmart.com/recipe)
-- [Jen's Jip Bap](https://jensjipbap.com/)
-- [Judy Joo](https://www.judyjoo.com/recipes/)
-- [Kat Turner](https://www.katturner.com/blog/category/K-Recipes)
-- [Kimchi Mari](https://kimchimari.com/)
-- [Kimchi Mom](https://kimchimom.com/)
-- [Kimchi Rules](https://www.kimchirules.com/blogs/video-recipes)
-- [Korean Bapsang](https://www.koreanbapsang.com/)
-- [Korean Kitchen](https://korean.kitchen/)
-- [The Korean Vegan](https://thekoreanvegan.com/)
-- [London is Hungry](https://londonishungry.com/)
-- [Love Korean Food](https://lovekoreanfood.com/)
-- [Maangchi](https://www.maangchi.com/)
-- [Miso Jen Kitchen](https://misojenkitchen.com/)
-- [The Moon World](https://themoonworld.com/en/home/)
-- [**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)
-- [My Korean Kitchen](https://mykoreankitchen.com/)
-- [OMG Yummy](https://omgyummy.com/)
-- [Park Sun-Yeol](https://parksunyeol.wordpress.com/category/food/)
-- [Rachee Rach Heats](http://racheerachheats.blogspot.com/)
-- [Seasoned By Jin](https://seasonedbyjin.com/)
-- [Seonkyoung Longest](https://seonkyounglongest.com/)
-- [Shinshine](https://www.shinshine.com/my-blog/)
-- [Stella n' Spice](https://stellanspice.com/)
-- [**Taehwa Food**](http://www.taehwafood.com/en/kong/recipe/)
-- [TeeKeatz](https://teekeatz.com/)
-- [Tofuify](https://tofuify.com/)
-- [Two Red Bowls](https://tworedbowls.com/)
-- [We Love You](https://weloveyou.com/recipes/)
-- [Zen Kimchi](https://zenkimchi.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[10000 Recipe](https://www.10000recipe.com/)|[Aaron and Claire](https://aaronandclaire.com/)|[Aeri's Kitchen](http://www.aeriskitchen.com/)|[Ahjummarecipes](https://www.ahjummarecipes.com/)|[Ahnest Kitchen](https://ahnestkitchen.com/)|
+|[At Home Umma](https://www.athomeumma.com/)|[Basic Sunday](https://basicsunday.com/category/recipes/)|[Beyond Kimchee](https://www.beyondkimchee.com/)|[**Bibigo**](https://www.bibigousa.com/recipes/)|[Cafe Maddy](https://www.cafemaddy.com/)|
+|[Carving a Journey](https://www.carvingajourney.com/)|[Cathlyn's Korean Kitchen](https://koreancuisinerecipes.com/)|[Chef Atulya](https://chefatulya.com/)|[Chef Christ Cho](https://chefchrischo.com/)|[Chopsticks and Flour](https://www.chopsticksandflour.com/)|
+|[Chow Divine](http://chowdivine.com/)|[Chrisse en Place](http://chrisseenplace.com/)|[Crazy Korean Cooking](https://crazykoreancooking.com/)|[Curious Kimchi](https://curiouskimchi.com/)|[Easy Korean Food](https://www.easykoreanfood.com/)|
+|[Future Dish](https://futuredish.com/)|[Gilded Gingerbread](https://www.gildedgingerbread.com/)|[Gwangju News](https://gwangjunewsgic.com/category/food-drink/recipe/)|[**Hanguk Kitchen**](https://www.hangukkitchen.com/blog/blogcat60)|[Hanna One](https://hannaone.com/)|
+|[**H Mart**](https://www.hmart.com/recipe)|[Jen's Jip Bap](https://jensjipbap.com/)|[Judy Joo](https://www.judyjoo.com/recipes/)|[Kat Turner](https://www.katturner.com/blog/category/K-Recipes)|[Kimchi Mari](https://kimchimari.com/)|
+|[Kimchi Mom](https://kimchimom.com/)|[Kimchi Rules](https://www.kimchirules.com/blogs/video-recipes)|[Korean Bapsang](https://www.koreanbapsang.com/)|[Korean Kitchen](https://korean.kitchen/)|[The Korean Vegan](https://thekoreanvegan.com/)|
+|[London is Hungry](https://londonishungry.com/)|[Love Korean Food](https://lovekoreanfood.com/)|[Maangchi](https://www.maangchi.com/)|[Miso Jen Kitchen](https://misojenkitchen.com/)|[The Moon World](https://themoonworld.com/en/home/)|
+|[**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)|[My Korean Kitchen](https://mykoreankitchen.com/)|[OMG Yummy](https://omgyummy.com/)|[Park Sun-Yeol](https://parksunyeol.wordpress.com/category/food/)|[Rachee Rach Heats](http://racheerachheats.blogspot.com/)|
+|[Seasoned By Jin](https://seasonedbyjin.com/)|[Seonkyoung Longest](https://seonkyounglongest.com/)|[Shinshine](https://www.shinshine.com/my-blog/)|[Stella n' Spice](https://stellanspice.com/)|[**Taehwa Food**](http://www.taehwafood.com/en/kong/recipe/)|
+|[TeeKeatz](https://teekeatz.com/)|[Tofuify](https://tofuify.com/)|[Two Red Bowls](https://tworedbowls.com/)|[We Love You](https://weloveyou.com/recipes/)|[Zen Kimchi](https://zenkimchi.com/)|
 
 #### Sri Lanka
 |     |     |     |     |     |
@@ -709,37 +661,28 @@
 
 ### Central America
 #### Costa Rica
-- [Costa Rica.com](https://www.costarica.com/recipes/)
-- [Costa Rica.org](https://costarica.org/food/recipes/)
-- [Recipes from Costa Rica](https://www.recipesfromcostarica.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Costa Rica.com](https://www.costarica.com/recipes/)|[Costa Rica.org](https://costarica.org/food/recipes/)|[My Tan Feet](https://mytanfeet.com/recipes/)|[Pura Vida Moms](https://www.puravidamoms.com/)|[Recipes from Costa Rica](https://www.recipesfromcostarica.com/)|
 
 #### Guatemala
-- [Growing Up Bilingual](https://growingupbilingual.com/)
+|     |
+| --- |
+|[Growing Up Bilingual](https://growingupbilingual.com/)|
 
 #### Nicaragua
-- [Nicagaruan Recipes](https://nicaraguanrecipes.com/)
+|     |
+| --- |
+|[Nicagaruan Recipes](https://nicaraguanrecipes.com/)|
 
 ### Europe
-- [Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)
-- [Angie's Web](https://angiesweb.com/category/recipes/)
-- [By Lena](https://www.bylena.com/)
-- [Eastern European Cuisine](http://easterneuropeancuisine.com/)
-- [Eating European](https://eatingeuropean.com/)
-- [Euro Rich](https://eurorich.ph/blogs/easy-european-recipes)
-- [European Cuisines](http://www.europeancuisines.com/recipe-collections-and-links-to-more)
-- [The European Dish](https://theeuropeandish.com/)
-- [**European Food Express**](https://europeanfoodexpress.com/browse-recipes/)
-- [European Kitchen](https://europeankitchen.org/)
-- [The European Pantry](https://theeuropeanpantry.com/)
-- [European Pork](https://eupork.com/recipes/)
-- [(F)eastern Europe](https://feasterneurope.com/)
-- [Frigot Europe](https://fricoteurope.wordpress.com/)
-- [**Indo-European Foods Inc.**](https://www.indo-euro.com/recipes/)
-- [ISAC Pittsburgh](https://isacpittsburgh.org/category/europe-recipes/)
-- [Recipes from Europe](https://www.recipesfromeurope.com/)
-- [St. Christophers](https://www.st-christophers.co.uk/travel-blog/easy-european-dishes-to-cook-at-home/)
-- [Sunday Baker](https://sundaybaker.co/)
-- [YEN JEV](http://www.yeni.org/minority-cook-blog/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)|[Angie's Web](https://angiesweb.com/category/recipes/)|[By Lena](https://www.bylena.com/)|[Eastern European Cuisine](http://easterneuropeancuisine.com/)|[Eating European](https://eatingeuropean.com/)|
+|[Euro Rich](https://eurorich.ph/blogs/easy-european-recipes)|[European Cuisines](http://www.europeancuisines.com/recipe-collections-and-links-to-more)|[The European Dish](https://theeuropeandish.com/)|[**European Food Express**](https://europeanfoodexpress.com/browse-recipes/)|[European Kitchen](https://europeankitchen.org/)|
+|[The European Pantry](https://theeuropeanpantry.com/)|[European Pork](https://eupork.com/recipes/)|[(F)eastern Europe](https://feasterneurope.com/)|[Frigot Europe](https://fricoteurope.wordpress.com/)|[**Indo-European Foods Inc.**](https://www.indo-euro.com/recipes/)|
+|[ISAC Pittsburgh](https://isacpittsburgh.org/category/europe-recipes/)|[Peter Sommer](https://www.petersommer.com/blog/category/food)|[Recipes from Europe](https://www.recipesfromeurope.com/)|[St. Christophers](https://www.st-christophers.co.uk/travel-blog/easy-european-dishes-to-cook-at-home/)|[Sunday Baker](https://sundaybaker.co/)|
+|[YEN JEV](http://www.yeni.org/minority-cook-blog/)|
 
 #### Albania
 |     |     |     |     |     |
@@ -752,46 +695,53 @@
 |[Visit Andorra](https://visitandorra.com/en/indigenous-products/andorran-recipes/)|
 
 #### Austria
-- [Combine Good Flavors](https://combinegoodflavors.com/)
-- [Jewish Viennese Food](https://jewishviennesefood.com/)
-##### Styria
-- [Steirische Spezialitaeten](https://www.steirische-spezialitaeten.at/en/)
+|     |     |
+| --- | --- |
+|[Combine Good Flavors](https://combinegoodflavors.com/)|[Jewish Viennese Food](https://jewishviennesefood.com/)|
+- ##### Styria
+|     |
+| --- |
+|[Steirische Spezialitaeten](https://www.steirische-spezialitaeten.at/en/)|
 
 #### Balkans
-- [The Balkan Foodie](https://www.thebalkanfoodie.com/)
-- [The Balkan Hostess](https://thebalkanhostess.com/)
-- [Balkan Lunchbox](https://balkanlunchbox.com/)
-- [Balkan Recipes](https://balkanrecipes.com/)
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[The Balkan Foodie](https://www.thebalkanfoodie.com/)|[The Balkan Hostess](https://thebalkanhostess.com/)|[Balkan Lunchbox](https://balkanlunchbox.com/)|[Balkan Recipes](https://balkanrecipes.com/)|
 
 #### Basque Region
-- [Buber's Basque Page](https://www.buber.net/Basque/Food/Recipes/)
-- [Euskal Kazeta](https://euskalkazeta.com/category/culture/food-2/recipes/)
+|     |     |
+| --- | --- |
+|[Buber's Basque Page](https://www.buber.net/Basque/Food/Recipes/)|[Euskal Kazeta](https://euskalkazeta.com/category/culture/food-2/recipes/)|
+
+#### Bosnia
+|     |
+| --- |
+|[Bosnian Foods](https://bosnianfoods.weebly.com/)|
 
 #### Bulgaria
-- [Find Bulgarian Food](https://www.findbgfood.com/home)
+|     |
+| --- |
+|[Find Bulgarian Food](https://www.findbgfood.com/home)|
 
 #### Croatia
-- [Chasing the Donkey](https://www.chasingthedonkey.com/croatian-recipes-in-english/)
-- [Croatia Honestly](https://travelhonestly.com/croatian-recipes/)
-- [Croatia Fest](http://www.croatiafest.org/recipes/)
-- [Croatian Food](https://croatianfood.eu/)
-- [Croatia Traveller](https://www.croatiatraveller.com/Recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Chasing the Donkey](https://www.chasingthedonkey.com/croatian-recipes-in-english/)|[Croatia Honestly](https://travelhonestly.com/croatian-recipes/)|[Croatia Fest](http://www.croatiafest.org/recipes/)|[Croatian Food](https://croatianfood.eu/)|[Croatia Traveller](https://www.croatiatraveller.com/Recipes/)|
 
 #### Cyprus
-- [Cyprus Island](https://www.cyprusisland.net/cyprus-cuisine)
-- [My Cypriot Life](https://mycypriotlife.wordpress.com/)
+| --- | --- |
+|[Cyprus Island](https://www.cyprusisland.net/cyprus-cuisine)|[My Cypriot Life](https://mycypriotlife.wordpress.com/)|
 
 #### Czech Republic
-- [Czech Cookbook](https://www.czechcookbook.com/)
-- [Cook Like Czechs](https://www.cooklikeczechs.com/)
+|     |     |     |
+| --- | --- | --- |
+|[Czech Cookbook](https://www.czechcookbook.com/)|[Cook Like Czechs](https://www.cooklikeczechs.com/)|[Very Good Cook](https://verygoodcook.com/)|
 
 #### Denmark
-- [Almost Nordic](https://almostnordic.com/)
-- [Chokomils](http://chokomils.com/en/)
-- [Danish Food Lovers](https://www.danishfoodlovers.com/)
-- [Danish Net.com](https://www.danishnet.com/food/)
-- [Nordic Food Living](https://nordicfoodliving.com/)
-- [Skandibaking](https://skandibaking.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Almost Nordic](https://almostnordic.com/)|[Chokomils](http://chokomils.com/en/)|[Danish Food Lovers](https://www.danishfoodlovers.com/)|[Danish Net.com](https://www.danishnet.com/food/)|[Nordic Food Living](https://nordicfoodliving.com/)|
+|[Skandibaking](https://skandibaking.com/)|
 
 #### Finland
 - [ACMEFinns](https://acmefinns.com/finnish-foodie)
