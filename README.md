@@ -1062,42 +1062,30 @@
 |[Cariwak](https://cariwakdigitalmedia.wordpress.com/)|[Cooking With Ria](https://cookingwithria.com/)|[Jenna G. the Hijabi TT](https://jennagthehijabitt.com/)|[Simply Trini Cooking](https://www.simplytrinicooking.com/)|[We Trini Food](https://wetrinifood.com/)|
 
 #### Latin American
-- [Amigo Foods](https://www.amigofoods.com/)
-- [Artisan Bryan](https://www.artisanbryan.com/)
-- [Beyond Mere Sustenance](https://beyondmeresustenance.com/)
-- [Casa Comida](https://www.casacomida.com/)
-- [Chef Zee Cooks](https://www.chefzeecooks.com/)
-- [Cilantro Parsley](https://www.cilantroparsley.com/)
-- [Delish D'lites](https://www.delishdlites.com/)
-- [Everyday Latina](https://everydaylatina.com/recipe-index/)
-- [Familia Kitchen](https://familiakitchen.com/)
-- [Fat Girl Hedonist](https://fatgirlhedonist.com/)
-- [Four to Cook for](https://www.fourtocookfor.com/)
-- [Hispanic Kitchen](https://hispanickitchen.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Amigo Foods](https://www.amigofoods.com/)|[Artisan Bryan](https://www.artisanbryan.com/)|[Beyond Mere Sustenance](https://beyondmeresustenance.com/)|[Casa Comida](https://www.casacomida.com/)|[Chef Zee Cooks](https://www.chefzeecooks.com/)|
+|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Delish D'lites](https://www.delishdlites.com/)|[Everyday Latina](https://everydaylatina.com/recipe-index/)|[Familia Kitchen](https://familiakitchen.com/)|[Fat Girl Hedonist](https://fatgirlhedonist.com/)|
+|[Four to Cook for](https://www.fourtocookfor.com/)|[Herencia Cookbook](https://herenciacookbook.com/)|[Hispanic Kitchen](https://hispanickitchen.com/)|[Keesha's Kitchen](https://keeshaskitchen.com/)|[La Cooquette](https://lacooquette.com/about-la-cooquette/)|
+|[Latinas Que Comen](https://www.latinasquecomen.com/)|[Laylita](https://www.laylita.com/recipes/)|[**Loisa**](https://loisa.com/blogs/comida-real)|[Mediterranean Latin Love Affair](https://mediterraneanlatinloveaffair.com/)|[My Latina Table](https://www.mylatinatable.com/)|
+|[Nashi Food](https://www.nashifood.com/)|[Nata Knows Best](https://www.nataknowsbest.com/)|[Que Rica Vida](https://www.quericavida.com/)|[Tasty AZ](https://www.tastyaz.com/)|
 
 #### Mexico
-- [Adriana's Best Recipes](https://www.adrianasbestrecipes.com/)
-- [The Busy Abuelita](https://www.thebusyabuelita.com/)
-- [Chicano Eats](https://chicanoeats.com/)
-- [Cilantro Parsley](https://www.cilantroparsley.com/)
-- [Dora's Table](https://dorastable.com/)
-- [**El Comal**](https://www.elcomal.com/recipes/)
-- [Mex Connect](https://www.mexconnect.com/category/food-cuisine/recipes/)
-- [Mexican Appetizers and More](https://mexicanappetizersandmore.com/)
-- [Mex Grocer](https://www.mexgrocer.com/mexican-recipes.html)
-- [Mexican Food Journal](https://mexicanfoodjournal.com/)
-- [Mexican Made Meat Less](https://mexicanmademeatless.com/)
-- [Mexican Please](https://www.mexicanplease.com/)
-- [Mexican Recipes.me](http://www.mexicanrecipes.me/)
-- [Mexico in My Kitchen](https://www.mexicoinmykitchen.com/)
-- [Muy Bueno](https://muybuenocookbook.com/)
-- [My Slice of Mexico](https://mysliceofmexico.ca/)
-- [Sabor Mexicano](https://sabormexicano.com/recipes)
-- [Taco Guy](https://tacoguy.com.au/recipes/)
-- [Thai Caliente](https://thaicaliente.com/)
-- [Thrift & Spice](https://thriftandspice.com/)
-- [Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)
-#### Maya
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Adriana's Best Recipes](https://www.adrianasbestrecipes.com/)|[The Busy Abuelita](https://www.thebusyabuelita.com/)|[Chef Sue Tores](https://chefsuetorres.com/recipes/)|[Chicano Eats](https://chicanoeats.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|
+|[Dora's Table](https://dorastable.com/)|[**El Comal**](https://www.elcomal.com/recipes/)|[**Gran Luchito**](https://gran.luchito.com/recipes/)|[Healthy Simple Yum](https://healthysimpleyum.com/)|[Herencia Cookbook](https://herenciacookbook.com/)|
+|[Hola Jalapeño](https://www.holajalapeno.com/)|[In Mama Maggie's Kitchen](https://inmamamaggieskitchen.com/)|[Isabel Eats](https://www.isabeleats.com/)|[La Piña en la Cocina](https://pinaenlacocina.com/)|[M.A. Kitchen](https://www.maricruzavalos.com/)|
+|[**Maria and Ricardo's**](https://mariaandricardos.com/recipes/)|[Mex Connect](https://www.mexconnect.com/category/food-cuisine/recipes/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|[Mex Grocer](https://www.mexgrocer.com/mexican-recipes.html)|[Mexican Food Journal](https://mexicanfoodjournal.com/)|
+|[Mexican Made Meat Less](https://mexicanmademeatless.com/)|[Mexican Please](https://www.mexicanplease.com/)|[Mexican Recipes.me](http://www.mexicanrecipes.me/)|[Mexico in My Kitchen](https://www.mexicoinmykitchen.com/)|[Muy Bueno](https://muybuenocookbook.com/)|
+|[Muy Delish](https://www.muydelish.com/)|[My Latina Table](https://www.mylatinatable.com/)|[My Slice of Mexico](https://mysliceofmexico.ca/)|[Sabor Mexicano](https://sabormexicano.com/recipes)|[Stell n' Spice](https://stellanspice.com/)|
+|[Taco Guy](https://tacoguy.com.au/recipes/)|[Thai Caliente](https://thaicaliente.com/)|[Thrift & Spice](https://thriftandspice.com/)|[**Tucson Tamale**](https://tucsontamale.com/pages/our-secret-recipes)|[Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)|
+|[Villa Cocina](https://villacocina.com/)|
+- #### Baja
+|     |
+| --- |
+|[My Bajan](https://mybajan.com/)|
+- #### Maya
 |     |
 | --- |
 |[Yucatan Adventure](http://www.yucatanadventure.com.mx/cookingrecipes.htm)|
