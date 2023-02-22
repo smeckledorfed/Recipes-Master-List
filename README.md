@@ -9,7 +9,6 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|
-|[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Broke and Cooking](https://www.brokeandcooking.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|
 |[Casually Peckish](https://casuallypeckish.com/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|[Cheap Recipe Blog](https://www.cheaprecipeblog.com/)|[Cheapskate Cook](https://www.cheapskatecook.com/)|[Cook Eat Go](https://cookeatgo.com/)|
 |[Coupon Clipping Cook](https://www.couponclippingcook.com/)|[The Crazy Craft Lady](https://thecrazycraftlady.com/)|[Delicious on a Dime](https://deliciousonadime.com/)|[Ditch the Wheat](https://ditchthewheat.com/)|[Don't Waste the Crumbs](https://dontwastethecrumbs.com/)|
 |[Drugstore Divas](https://www.drugstoredivas.net/category/food/)|[Easy Budget Recipes](https://easybudgetrecipes.com/)|[Eating on a Dime](https://www.eatingonadime.com/)|[Everyday Cheapskate](https://www.everydaycheapskate.com/food-and-recipes/)|[Feast For All](https://feastforall.org/resources/recipes/)|
@@ -1438,30 +1437,20 @@
 - [Veggie Balance](https://www.veggiebalance.com/)
 
 ### Diabetic
-- [American Diabetes Association](https://diabetes.org/healthy-living/recipes-nutrition)
-- [American Heart Association](https://recipes.heart.org/en/)
-- [Diabetic Gourmet](https://diabeticgourmet.com/)
-- [Diabetic Kitchen](https://diabetickitchen.com/recipes/)
-- [Diabetes Meal Plans](https://diabetesmealplans.com/)
-- [Diabetes Self-Management](https://www.diabetesselfmanagement.com/recipes/)
-- [Diabetes Strong](https://diabetesstrong.com/)
-- [Everyday Diabetic Recipes](https://www.everydaydiabeticrecipes.com/)
-- [The Gestational Diabetic](https://thegestationaldiabetic.com/)
-- [Milk and Honey Nutrition](https://www.milkandhoneynutrition.com/)
-- [The Naked Diabetic](https://thenakeddiabetic.com/)
-- [Something is Cooking](https://somethingiscooking.com/)
-- [typefoodie](https://www.typefoodie.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[American Diabetes Association](https://diabetes.org/healthy-living/recipes-nutrition)|[American Heart Association](https://recipes.heart.org/en/)|[Diabetic Gourmet](https://diabeticgourmet.com/)|[Diabetic Kitchen](https://diabetickitchen.com/recipes/)|[Diabetes Meal Plans](https://diabetesmealplans.com/)|
+|[Diabetes Self-Management](https://www.diabetesselfmanagement.com/recipes/)|[Diabetes Strong](https://diabetesstrong.com/)|[Everyday Diabetic Recipes](https://www.everydaydiabeticrecipes.com/)|[The Gestational Diabetic](https://thegestationaldiabetic.com/)|[Hangry Woman](https://hangrywoman.com/)|
+|[Milk and Honey Nutrition](https://www.milkandhoneynutrition.com/)|[My PCOS Kitchen](https://www.mypcoskitchen.com/)|[The Naked Diabetic](https://thenakeddiabetic.com/)|[Something is Cooking](https://somethingiscooking.com/)|[Toby Amidor Nutrition](https://tobyamidornutrition.com/)|
+|[typefoodie](https://www.typefoodie.com/)|
 
 ### Egg-Free
-- (all websites in the vegan section)
-- [Bless My Food by Payal](https://blessmyfoodbypayal.com/)
-- [Eggless Cooking](https://www.egglesscooking.com/)
-- [Gayathri's Cookspot](https://gayathriscookspot.com/)
-- [Mommy's Home Cooking](https://monicawilde.com/blog/)
-- [Polka Puffs](https://polkapuffs.in/)
-- [Priya's Curry Nation](https://www.priyascurrynation.com/)
-- [Vege Home Cooking](https://vegehomecooking.com/)
-- [Yummy Tales of Tummy](https://yummytalesoftummy.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Bless My Food by Payal](https://blessmyfoodbypayal.com/)|[Eggless Cooking](https://www.egglesscooking.com/)|[Gayathri's Cookspot](https://gayathriscookspot.com/)|[Heather Christo](https://heatherchristo.com/)|[Lane and Grey Fare](https://laneandgreyfare.com/)|
+|[Lenten Chef](https://www.lentenchef.com/)|[Mads' Cookhouse](https://madscookhouse.com/)|[Mommy's Home Cooking](https://monicawilde.com/blog/)|[Nalini's Cooking](http://www.naliniscooking.com/)|[Polka Puffs](https://polkapuffs.in/)|
+|[Priya's Curry Nation](https://www.priyascurrynation.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[Spicing Your Life](https://www.spicingyourlife.com/)|[The Urben Life](https://theurbenlife.com/)|
+|[Vege Home Cooking](https://vegehomecooking.com/)|[Yummy Tales of Tummy](https://yummytalesoftummy.com/)|
 
 ### Gluten-Free
 - [24 Carrot Kitchen](https://24carrotkitchen.com/)
@@ -1592,21 +1581,22 @@
 - [The Yummy Bowl](https://theyummybowl.com/)
 
 ### Halal
-- [Easy Halal Recipes](https://www.easyhalalrecipes.com/)
-- [ET Food Voyage](https://www.etfoodvoyage.com/)
-- [Halal Girl About Town](https://www.halalgirlabouttown.com/category/hgat-life/recipes/)
-- [Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)
-- [Have Halal Will Travel](https://www.havehalalwilltravel.com/category/travel-guide/recipes)
-- [Kitchen Flavours](https://kitchenflavours.net/)
-- [**Midamar Halal**](https://midamarhalal.com/blogs/recipes)
-- [My Big Fat Halal Blog](http://www.mybigfathalalblog.com/)
-- [My Halal Restaurants](https://myhalalrestaurants.com/category/halal-recipes/)
-- [**With a Spin**](https://withaspin.com/eat/)
-- [**Zabiha Halal**](https://zabihahalal.com/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Easy Halal Recipes](https://www.easyhalalrecipes.com/)|[ET Food Voyage](https://www.etfoodvoyage.com/)|[Halaal](https://halaal.recipes/)|[Halal Girl About Town](https://www.halalgirlabouttown.com/category/hgat-life/recipes/)|[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|
+|[Have Halal Will Travel](https://www.havehalalwilltravel.com/category/travel-guide/recipes)|[Hungry for Halaal](https://hungryforhalaal.co.za/category/recipes/)|[Islami Mommy](https://islamimommy.com/category/foodie/)|[Islamwich](https://islamwich.com/)|[Kitchen Flavours](https://kitchenflavours.net/)|
+|[**Midamar Halal**](https://midamarhalal.com/blogs/recipes)|[My Big Fat Halal Blog](http://www.mybigfathalalblog.com/)|[My Halal Restaurants](https://myhalalrestaurants.com/category/halal-recipes/)|[The Odehlicious](https://theodehlicious.com/)|[**With a Spin**](https://withaspin.com/eat/)|
+|[**Zabiha Halal**](https://zabihahalal.com/recipes/)|
+
+### High-Protein
+|     |
+| --- |
+|[Hurry the Food Up](https://hurrythefoodup.com/)|
 
 ### Jain
-- [Jain Foodie](https://www.jainfoodie.com/)
-- [Your Veg Recipe](https://yourvegrecipe.com/)
+|     |     |
+| --- | --- |
+|[Jain Foodie](https://www.jainfoodie.com/)|[Your Veg Recipe](https://yourvegrecipe.com/)|
 
 ### Keto/Low-Carb
 - [All Day I Dream About Food](https://alldayidreamaboutfood.com/)
@@ -1726,6 +1716,11 @@
 - [West of the Loop](https://www.westoftheloop.com/)
 - [What Jew Wanna Eat](https://whatjewwannaeat.com/)
 - [Yay Kosher](https://yaykosher.com/)
+
+### Krishna
+|     |     |
+| --- | --- |
+|[The Hare Krsnas](https://www.harekrsna.com/)|[Krishna.com](https://food.krishna.com/)|
 
 ### Lactose-Free
 - [**Green Valley**](https://greenvalleylactosefree.com/)
