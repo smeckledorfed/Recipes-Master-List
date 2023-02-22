@@ -380,9 +380,9 @@
 |[Thanks for the Meal](https://www.thanksforthemeal.net/)|[Tiffoodss](https://tiffoodss.com/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
 
 #### Laos
-|     |     |     |     |
-| --- | --- | --- | --- |
-|[A Dash of Dolly](https://adashofdolly.com/)|[Food from Northern Laos](https://foodfromnorthernlaos.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[A Dash of Dolly](https://adashofdolly.com/)|[Food from Northern Laos](https://foodfromnorthernlaos.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Saeng's Kitchen](https://www.saengskitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
 #### Macau
 |     |
@@ -614,6 +614,11 @@
 | --- | --- | --- | --- | --- |
 |[Costa Rica.com](https://www.costarica.com/recipes/)|[Costa Rica.org](https://costarica.org/food/recipes/)|[My Tan Feet](https://mytanfeet.com/recipes/)|[Pura Vida Moms](https://www.puravidamoms.com/)|[Recipes from Costa Rica](https://www.recipesfromcostarica.com/)|
 
+#### El Salvador
+|     |
+| --- |
+|[Herencia Cookbook](https://herenciacookbook.com/)|
+
 #### Guatemala
 |     |
 | --- |
@@ -697,6 +702,11 @@
 | --- | --- | --- | --- | --- |
 |[Almost Nordic](https://almostnordic.com/)|[Chokomils](http://chokomils.com/en/)|[Danish Food Lovers](https://www.danishfoodlovers.com/)|[Danish Net.com](https://www.danishnet.com/food/)|[Nordic Food Living](https://nordicfoodliving.com/)|
 |[Skandibaking](https://skandibaking.com/)|
+
+#### Estonia
+|     |
+| --- |
+|[Nami Nami](http://nami-nami.blogspot.com/)|
 
 #### Finland
 |     |     |     |     |
@@ -1360,6 +1370,11 @@
 | --- | --- | --- | --- | --- |
 |[Arepas del Gringo](https://arepasdelgringo.com/)|[My Colombian Recipes](https://www.mycolombianrecipes.com/)|[Colture](https://www.colture.co/bogota/food-drink/recipes/)|[The Little Arepa](https://thelittlearepa.com/)|[Receta Tipica](https://recetatipica.net/)|
 |[Sweet y Salado](https://sweetysalado.com/en/)|[Vecina Vegeteriana](https://vecinavegetariana.com/)|
+
+#### Ecuador
+|     |
+| --- |
+|[Laylita](https://www.laylita.com/recipes/)|
 
 #### Paraguay
 |     |
