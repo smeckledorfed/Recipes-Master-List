@@ -3384,58 +3384,22 @@
 |[Toasted Table](https://toastedtable.com/)|
 
 ### Seafood
-- [**Alabama Gulf Seafood**](https://eatalabamaseafood.com/recipes)
-- [**Alaskan Leader**](https://alaskanleader.com/recipes)
-- [**Alaskan Salmon Co.**](https://aksalmonco.com/blogs/recipes)
-- [Alaska Seafood](https://www.alaskaseafood.org/recipes/)
-- [**Aqua Star**](https://www.aquastar.com/recipes/)
-- [**Arroyabe**](https://www.arroyabe.com/recipes/)
-- [Australian Prawns](https://australianprawns.com.au/)
-- [Baranof Fishing Excursions](https://exclusivealaska.com/alaska-recipes)
-- [**Bela Brand Seafood**](https://www.belabrandseafood.com/recipes)
-- [**Blue Circle Foods**](https://www.bluecirclefoods.com/blogs/recipes)
-- [**Bumblebee**](https://www.bumblebee.com/recipes/)
-- [**Captain Jack's Alaska**](https://www.captainjacksalaska.com/healthy-seafood-recipes-cooking-fresh-fish)
-- [**Catch Stika**](https://catchsitkaseafoods.com/blogs/recipes-stories)
-- [**Chicken of the Sea**](https://chickenofthesea.com/recipes/)
-- [**City Fish Market**](https://cfishct.com/recipes/)
-- [Cockles and Mussels](https://www.cocklesandmussels.com/)
-- [**Cooking With Serrats**](https://www.cookingwithserrats.com/recipes/)
-- [**Crown Prince Natural**](https://crownprincenatural.com/recipes/)
-- [Discover Seafood](https://discoverseafood.uk/recipes/)
-- [Fearless Eating](https://fearlesseating.net/blog/)
-- [The Finsider](https://fishmongerapproved.com/recipes/)
-- [**Fish for Thought**](https://www.fishforthought.co.uk/)
-- [**Fish Tales**](https://www.fish-tales.com/cooking-with-seafood/recipes/)
-- [**Fulton Fish Market**](https://fultonfishmarket.com/)
-- [**Global Seafoods**](https://globalseafoods.com/blogs/news)
-- [**Gorton's**](https://www.gortons.com/recipe-categories/)
-- [**Harbor Fish Market**](https://harborfish.com/recipes/)
-- [In-Fisherman](https://www.in-fisherman.com/listing/fish-recipes/83203)
-- [**King & Prince Seafood**](https://www.kpseafood.com/recipes/)
-- [**Kvaroy Arctic**](https://www.kvaroyarctic.com/blog?tag=Kvaroy%20Arctic%20Salmon%20Recipes)
-- [**Louisiana Seafood**](https://www.louisianaseafood.com/)
-- [**Magic Dates Bites**](https://magicdatesbites.com/blogs/recipes)
-- [**Millionaire Fish**](https://millionairefish.com/recipes/)
-- [**Nardin**](https://www.conservasnardin.com/en/blog/recipes)
-- [**Pacific Seafood**](https://www.pacificseafood.com/recipes/)
-- [**Planet Shrimp**](https://www.planetshrimpcompany.com/recipes/)
-- [**Prince Edward Island Seafood**](https://princeedwardislandseafood.com/portfolio-type/recipes/)
-- [**Real Good Fish**](https://www.realgoodfish.com/recipes)
-- [Seafood from Norway](https://fromnorway.com/recipes/)
-- [**Seapak**](https://seapak.com/recipes/)
-- [**Spence Ltd.**](https://www.spenceltd.com/recipes.shtml)
-- [**Stonington Seafood**](https://www.stoningtonseafood.com/)
-- [**Tai Foong USA**](https://www.northernchef.com/recipes/)
-- [**Today's Catch Seafood**](https://todayscatchseafood.com/)
-- [**Tom's Awesome Seafood**](https://www.tomsawesomeseafood.com/)
-- [**Trident Seafoods**](https://www.tridentseafoods.com/recipes/)
-- [Tuna Australia](https://tunaaustralia.org.au/news/category/recipes/)
-- [**Wellfleet**](https://www.wellfleetshellfishermen.org/blogs/shellfish-recipes)
-- [**Wild Alaska Direct**](https://wildalaskadirect.com/pages/recipes)
-- [**Wild Alaskan Company**](https://wildalaskancompany.com/blog/category/cooking-and-recipes)
-- [**Wild for Salmon**](https://www.wildforsalmon.com/blogs/recipes)
-- [**Wulf's Fish**](https://wulfsfish.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Alabama Gulf Seafood**](https://eatalabamaseafood.com/recipes)|[**Alaskan Leader**](https://alaskanleader.com/recipes)|[**Alaskan Salmon Co.**](https://aksalmonco.com/blogs/recipes)|[Alaska Seafood](https://www.alaskaseafood.org/recipes/)|[**Aqua Star**](https://www.aquastar.com/recipes/)|
+|[**Arroyabe**](https://www.arroyabe.com/recipes/)|[Australian Prawns](https://australianprawns.com.au/)|[Baranof Fishing Excursions](https://exclusivealaska.com/alaska-recipes)|[**Bela Brand Seafood**](https://www.belabrandseafood.com/recipes)|[**Blue Circle Foods**](https://www.bluecirclefoods.com/blogs/recipes)|
+|[**Bumblebee**](https://www.bumblebee.com/recipes/)|[**Captain Jack's Alaska**](https://www.captainjacksalaska.com/healthy-seafood-recipes-cooking-fresh-fish)|[**Catch Stika**](https://catchsitkaseafoods.com/blogs/recipes-stories)|[**Chicken of the Sea**](https://chickenofthesea.com/recipes/)|[**City Fish Market**](https://cfishct.com/recipes/)|
+|[Cockles and Mussels](https://www.cocklesandmussels.com/)|[**Cooking With Serrats**](https://www.cookingwithserrats.com/recipes/)|[**Crowd Cow**](https://www.crowdcow.com/recipes)|[**Crown Prince Natural**](https://crownprincenatural.com/recipes/)|[Discover Seafood](https://discoverseafood.uk/recipes/)|
+|[Fearless Eating](https://fearlesseating.net/blog/)|[The Finsider](https://fishmongerapproved.com/recipes/)|[**Fish for Thought**](https://www.fishforthought.co.uk/)|[**Fish Tales**](https://www.fish-tales.com/cooking-with-seafood/recipes/)|[**Fulton Fish Market**](https://fultonfishmarket.com/)|
+|[**Global Seafoods**](https://globalseafoods.com/blogs/news)|[**Gloucester Fresh**](https://gloucesterfresh.com/recipes/)|[**Gorton's**](https://www.gortons.com/recipe-categories/)|[**Harbor Fish Market**](https://harborfish.com/recipes/)|[In-Fisherman](https://www.in-fisherman.com/listing/fish-recipes/83203)|
+|[**King Oscar**](https://www.kingoscar.com/recipes/)|[**King & Prince Seafood**](https://www.kpseafood.com/recipes/)|[**Kvaroy Arctic**](https://www.kvaroyarctic.com/blog?tag=Kvaroy%20Arctic%20Salmon%20Recipes)|[**Louisiana Seafood**](https://www.louisianaseafood.com/)|[**Magic Dates Bites**](https://magicdatesbites.com/blogs/recipes)|
+|[Me and the Clams](https://meandtheclams.com/)|[**Millionaire Fish**](https://millionairefish.com/recipes/)|[**Nardin**](https://www.conservasnardin.com/en/blog/recipes)|[**The Oyster Bed**](https://www.theoysterbed.com/pages/recipes)|[Oyster Obsession](https://oyster-obsession.com/)|
+|[**Pacific Seafood**](https://www.pacificseafood.com/recipes/)|[**Pearl Street Caviar**](https://pearlstreetcaviar.com/blogs/inspiration)|[**Phillips**](https://www.phillipsfoods.com/recipes/)|[**Planet Shrimp**](https://www.planetshrimpcompany.com/recipes/)|[**Prince Edward Island Seafood**](https://princeedwardislandseafood.com/portfolio-type/recipes/)|
+|[**Real Good Fish**](https://www.realgoodfish.com/recipes)|[**Safe Catch**](https://safecatch.com/recipes)|[Sea-Ex](https://www.sea-ex.com/recipes/)|[Seafood from Norway](https://fromnorway.com/recipes/)|[**Seapak**](https://seapak.com/recipes/)|
+|[**Spence Ltd.**](https://www.spenceltd.com/recipes.shtml)|[**Starkist**](https://starkist.com/recipes)|[**Stonington Seafood**](https://www.stoningtonseafood.com/)|[Suwannee Rose](https://suwanneerose.com/)|[**Tai Foong USA**](https://www.northernchef.com/recipes/)|
+|[**Today's Catch Seafood**](https://todayscatchseafood.com/)|[**Tom's Awesome Seafood**](https://www.tomsawesomeseafood.com/)|[**Tonnino**](https://tonnino.com/recipes/)|[**Trident Seafoods**](https://www.tridentseafoods.com/recipes/)|[Tuna Australia](https://tunaaustralia.org.au/news/category/recipes/)|
+|[**Wellfleet**](https://www.wellfleetshellfishermen.org/blogs/shellfish-recipes)|[**Wild Alaska Direct**](https://wildalaskadirect.com/pages/recipes)|[**Wild Alaskan Company**](https://wildalaskancompany.com/blog/category/cooking-and-recipes)|[**Wild for Salmon**](https://www.wildforsalmon.com/blogs/recipes)|[**Wild Planet Foods**](https://wildplanetfoods.com/blogs/recipes)|
+|[**Wulf's Fish**](https://wulfsfish.com/)|
 
 ### Soup
 |     |     |     |     |     |
