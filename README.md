@@ -3438,82 +3438,36 @@
 - [**Wulf's Fish**](https://wulfsfish.com/)
 
 ### Soup
-- [**Ali Made Food**](https://www.alimadefood.com/)
-- [**Bare Bones Broth**](https://www.barebonesbroth.com/blogs/recipes)
-- [**Better Than Bouillon**](https://www.betterthanbouillon.com/recipes-tips/)
-- [**Brass Roots Food**](https://brassrootsfood.com/blogs/recipes)
-- [**Campbell's Soup Company**](https://www.campbells.com/recipes/)
-- [**Campbell's Canada**](https://www.cookwithcampbells.ca/collections/)
-- [**Mike's Mighty Good**](https://mikesmightygood.com/blogs/recipes)
-- [**Souper Cubes**](https://www.soupercubes.com/blogs/recipes)
-- [Soupalicious](https://soupalicious.kitchen/)
-- [Soup Song](http://soupsong.com/)
-- [**Zoup!**](https://www.zoupbroth.com/category/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**Ali Made Food**](https://www.alimadefood.com/)|[**Bare Bones Broth**](https://www.barebonesbroth.com/blogs/recipes)|[**Better Than Bouillon**](https://www.betterthanbouillon.com/recipes-tips/)|[**Brass Roots Food**](https://brassrootsfood.com/blogs/recipes)|[**Campbell's Soup Company**](https://www.campbells.com/recipes/)|
+|[**Campbell's Canada**](https://www.cookwithcampbells.ca/collections/)|[**Eat Proper Good**](https://eatpropergood.com/blogs/proper-good-recipes)|[**Five Way Foods**](https://fivewayfoods.com/blogs/five-way-recipes)|[**Imagine Foods**](https://www.imaginefoods.com/recipes/)|[**Immi Eats**](https://immieats.com/recipes/)|
+|[**Kettle and Fire**](https://blog.kettleandfire.com/recipes/)|[**Knorr**](https://www.knorr.com/ph/recipe-ideas.html)|[**Lipton Kitchens**](https://www.liptonkitchens.com/)|[**LonoLife**](https://oneculturefoods.com/recipes/)|[**Maruchan**](https://www.maruchan.com/recipes/)|
+|[**Mike's Mighty Good**](https://mikesmightygood.com/blogs/recipes)|[**Nissin**](https://nissinfoods.com/recipes)|[**Nongshim USA**](https://nongshimusa.com/homev2/recipe-ideas/)|[**One Culture Foods**](https://oneculturefoods.com/recipes/)|[**Roli Roti**](https://roliroti.com/recipes/)|
+|[**Samyang Foods**](https://www.samyangfoods.com/eng/publicity/public/list.do)|[**Sanyo Foods**](https://sanyofoodsamerica.com/pages/recipe-1)|[**Souper Cubes**](https://www.soupercubes.com/blogs/recipes)|[Soupalicious](https://soupalicious.kitchen/)|[Soup Song](http://soupsong.com/)|
+|[**Swanson**](https://www.campbells.com/swanson)|[**Zoup!**](https://www.zoupbroth.com/category/recipes/)|
 
 ### Snacks
-- [**34 Degrees**](https://34-degrees.com/blogs/recipes)
-- [**505 Southwestern**](https://www.505southwestern.com/recipes)
-- [**AmaziFoods**](https://amazifoods.com/blogs/recipes)
-- [**Amrita Health Foods**](https://www.amritahealthfoods.com/blogs/recipes)
-- [**Appleton's Market**](https://appletonsmarket.com/blogs/recipes)
-- [**Baker Boy**](https://bakerboy.com/)
-- [**Bare Snacks**](https://www.baresnacks.com/recipes)
-- [**Base Culture**](https://baseculture.com/pages/recipes)
-- [**Beanfields**](https://www.beanfields.com/pages/blog)
-- [**Be Bold Bars**](https://beboldbars.com/recipes/)
-- [**Becca's Petites**](https://beccaspetites.com/blogs/snack-ideas-pairings)
-- [**B Fine Foods**](https://b-finefoods.com/blogs/recipes)
-- [**Blum**](https://eatblum.com/blogs/recipes)
-- [**Bobo's**](https://eatbobos.com/blogs/recipes)
-- [**Brothers' All Natural**](https://brothersallnatural.com/blog/tag/Recipes/)
-- [**Cape Cod**](https://www.capecodchips.com/recipes/)
-- [**Cheetos**](https://www.cheetos.com/)
-- [**Crunch Master**](https://crunchmaster.com/recipes/)
-- [**Crunch Pak**](https://www.crunchpak.com/recipes-blog)
-- [**Daily Crunch Snacks**](https://www.dailycrunchsnacks.com/blogs/recipes)
-- [**Effie's Homemade**](https://effieshomemade.com/blogs/recipes)
-- [**Element Snacks**](https://elementsnacks.com/blogs/recipes)
-- [**Emmy's Organics**](https://thecrumb.emmysorganics.com/emmys-clean-cookie-recipes/)
-- [**Enjoy Life Foods**](https://enjoylifefoods.com/blogs/content/tagged/recipes)
-- [**Everybody Eating**](https://everybodyeating.com/blogs/recipes)
-- [**Free 2 B Foods**](https://free2bfoods.com/blogs/recipes)
-- [**Friendly Grains**](https://friendlygrains.com/pages/recipes)
-- [**From the Ground Up**](https://fromthegroundupsnacks.com/blogs/recipes)
-- [**Garden of Eatin'**](https://www.gardenofeatin.com/recipes/)
-- [**Gimme Snacks**](https://www.gimmesnacks.com/blogs/recipes)
-- [**Good 2 Go Snacks**](https://good2gosnacks.com/blogs/recipes)
-- [**Indie Bay Snacks**](https://www.indiebaysnacks.com/blog/)
-- [**Kakookies**](https://www.kakookies.com/pages/recipes)
-- [**Kim Baker Foods**](https://kimbakerfoods.com/recipes)
-- [**Kip's**](https://www.lovekips.com/recipes)
-- [**Kodiak Cakes**](https://kodiakcakes.com/blogs/recipes)
-- [**La Panzanella**](https://www.lapanzanella.com/recipes/)
-- [**Maine Crisp**](https://www.mainecrisp.com/blogs/the-crisp-company-recipes)
-- [**Mary's Gone Crackers**](https://www.marysgonecrackers.com/marys-recipes/)
-- [**Mi Rancho**](https://www.mirancho.com/recipes/)
-- [**Nature's Garden**](https://naturesgarden.net/blogs/tips-recipes/tagged/recipes)
-- [**Plant Snacks**](https://plantsnacks.com/blogs/news/tagged/recipes-tips)
-- [**Pretzel Crisps**](https://www.pretzelcrisps.com/recipes/)
-- [**P.S. Snacks**](https://ps-snacks.com/blogs/recipes)
-- [**Riceworks**](https://www.riceworks.com/recipes/)
-- [**Rind Snacks**](https://www.rindsnacks.com/blogs/recipes)
-- [**Ritz Crackers**](https://www.ritzcrackers.com/recipes)
-- [**RW Garcia**](https://rwgarcia.com/recipes/)
-- [**Schoolyard Snacks**](https://schoolyardsnacks.com/blogs/recipes)
-- [**Sesmark**](https://sesmark.com/recipes/)
-- [**Simply 7 Snacks**](https://www.simply7snacks.com/recipes/)
-- [**Skinny Dipped**](https://skinnydipped.com/blogs/blog)
-- [**Sugar Bowl Bakery**](https://sugarbowlbakery.com/blogs/recipes)
-- [**Sunbelt Bakery**](https://www.sunbeltbakery.com/www/recipe-items/view/1/sunbelt-bakery-chewy-granola-bars-recipes)
-- [**Talia Snacks**](https://www.taliasnacks.com/)
-- [**That's It**](https://www.thatsitfruit.com/blogs/default-blog/tagged/recipes)
-- [**Tostito's**](https://www.tostitos.com/recipes)
-- [**Trail Chips**](https://trailchips.com/recipes/)
-- [**Xochitl**](https://xochitlchipsandsalsa.com/recipes-2/)
-- [**Walker's Shortbread**](https://us.walkersshortbread.com/media/recipes/)
-- [**Westminster Crackers**](https://www.westminstercrackers.com/blog/)
-- [**Whisps**](https://whisps.com/blogs/recipes)
-- [**Zestyz**](https://zestyz.com/blogs/recipes)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[**34 Degrees**](https://34-degrees.com/blogs/recipes)|[**505 Southwestern**](https://www.505southwestern.com/recipes)|[**AmaziFoods**](https://amazifoods.com/blogs/recipes)|[**Amrita Health Foods**](https://www.amritahealthfoods.com/blogs/recipes)|[**Appleton's Market**](https://appletonsmarket.com/blogs/recipes)|
+|[**Baker Boy**](https://bakerboy.com/)|[**Bare Snacks**](https://www.baresnacks.com/recipes)|[**Base Culture**](https://baseculture.com/pages/recipes)|[**Beanfields**](https://www.beanfields.com/pages/blog)|[**Be Bold Bars**](https://beboldbars.com/recipes/)|
+|[**Becca's Petites**](https://beccaspetites.com/blogs/snack-ideas-pairings)|[**B Fine Foods**](https://b-finefoods.com/blogs/recipes)|[**Blum**](https://eatblum.com/blogs/recipes)|[**Bobo's**](https://eatbobos.com/blogs/recipes)|[**Brothers' All Natural**](https://brothersallnatural.com/blog/tag/Recipes/)|
+|[**Can Do**](https://tastecando.com/blogs/keto-recipes)|[**Cape Cod**](https://www.capecodchips.com/recipes/)|[**Cheetos**](https://www.cheetos.com/)|[**Crunch Master**](https://crunchmaster.com/recipes/)|[**Crunch Pak**](https://www.crunchpak.com/recipes-blog)|
+|[**Daily Crunch Snacks**](https://www.dailycrunchsnacks.com/blogs/recipes)|[**Effie's Homemade**](https://effieshomemade.com/blogs/recipes)|[**Element Snacks**](https://elementsnacks.com/blogs/recipes)|[**Emmy's Organics**](https://thecrumb.emmysorganics.com/emmys-clean-cookie-recipes/)|[**Enjoy Life Foods**](https://enjoylifefoods.com/blogs/content/tagged/recipes)|
+|[**Everybody Eating**](https://everybodyeating.com/blogs/recipes)|[**Fiber One**](https://www.fiberone.com/recipes/)|[**Free 2 B Foods**](https://free2bfoods.com/blogs/recipes)|[**Friendly Grains**](https://friendlygrains.com/pages/recipes)|[**From the Ground Up**](https://fromthegroundupsnacks.com/blogs/recipes)|
+|[**Garden of Eatin'**](https://www.gardenofeatin.com/recipes/)|[**Gimme Snacks**](https://www.gimmesnacks.com/blogs/recipes)|[**Go Craize**](https://gocraize.com/blogs/recipes)|[**Go Macro**](https://www.gomacro.com/recipes/)|[**Good 2 Go Snacks**](https://good2gosnacks.com/blogs/recipes)|
+|[**Grandy Organics**](https://www.grandyorganics.com/blogs/recipes)|[**Indie Bay Snacks**](https://www.indiebaysnacks.com/blog/)|[**J.C.'s Quality Foods**](https://www.jcsqualityfoods.com.au/recipes/)|[**Kakookies**](https://www.kakookies.com/pages/recipes)|[**Kim Baker Foods**](https://kimbakerfoods.com/recipes)|
+|[**Kip's**](https://www.lovekips.com/recipes)|[**Kitchen Crafted**](https://kitchencrafted.com/blogs/recipes)|[**Kodiak Cakes**](https://kodiakcakes.com/blogs/recipes)|[**La Panzanella**](https://www.lapanzanella.com/recipes/)|[**Lays**](https://www.lays.com/recipes)|
+|[**Lesley Stowe**](https://www.lesleystowe.com/us/recipes/)|[**Maine Crisp**](https://www.mainecrisp.com/blogs/the-crisp-company-recipes)|[**Mary's Gone Crackers**](https://www.marysgonecrackers.com/marys-recipes/)|[**Mi Rancho**](https://www.mirancho.com/recipes/)|[**Nature's Garden**](https://naturesgarden.net/blogs/tips-recipes/tagged/recipes)|
+|[**Nature's Turn**](https://naturesturn.com/blogs/recipes)|[**Nongshim USA**](https://nongshimusa.com/homev2/recipe-ideas/)|[**Orgran**](https://orgran.com/recipes/)|[**Partake Foods**](https://partakefoods.com/blogs/recipes)|[**Pepperidge Farm**](https://www.pepperidgefarm.com/recipes-ideas/)|
+|[**Perfectly Free**](https://www.perfectlyfree.com/category/recipe/)|[**Peter's Yard**](https://www.petersyard.com/category/recipes/)|[**Plant Snacks**](https://plantsnacks.com/blogs/news/tagged/recipes-tips)|[**Pop Zero**](https://www.popzeropopcorn.com/blogs/health/tagged/recipes)|[**Pretzel Crisps**](https://www.pretzelcrisps.com/recipes/)|
+|[**P.S. Snacks**](https://ps-snacks.com/blogs/recipes)|[**Riceworks**](https://www.riceworks.com/recipes/)|[**Rind Snacks**](https://www.rindsnacks.com/blogs/recipes)|[**Rise Bar**](https://risebar.com/blogs/blog/tagged/recipes)|[**Ritz Crackers**](https://www.ritzcrackers.com/recipes)|
+|[**RW Garcia**](https://rwgarcia.com/recipes/)|[**RX Bar**](https://www.rxbar.com/en_US/real-talk/recipes.html)|[**San Diego Bar**](https://sdbar.co/blogs/recipes)|[**Schoolyard Snacks**](https://schoolyardsnacks.com/blogs/recipes)|[**Seasnax**](https://www.seasnax.com/Recipes_ep_46.html)|
+|[**Sesmark**](https://sesmark.com/recipes/)|[**Simple Mills**](https://www.simplemills.com/Recipes.aspx)|[**Simply 7 Snacks**](https://www.simply7snacks.com/recipes/)|[**Skinny Dipped**](https://skinnydipped.com/blogs/blog)|[**Small Batch Granola**](https://smallbatchgranola.com/recipes/)|
+|[**Snyder's of Hanover**](https://www.snydersofhanover.com/#recipes)|[**Sugar Bowl Bakery**](https://sugarbowlbakery.com/blogs/recipes)|[**Sunbelt Bakery**](https://www.sunbeltbakery.com/www/recipe-items/view/1/sunbelt-bakery-chewy-granola-bars-recipes)|[**Supplant**](https://supplant.com/recipes)|[**Talia Snacks**](https://www.taliasnacks.com/)|
+|[**That's It**](https://www.thatsitfruit.com/blogs/default-blog/tagged/recipes)|[**Tia Lupita Foods**](https://tialupitafoods.com/blogs/recipe)|[**Tostito's**](https://www.tostitos.com/recipes)|[**Trail Chips**](https://trailchips.com/recipes/)|[**Truth Bar**](https://truthbar.com/blogs/recipes)|
+|[**Xochitl**](https://xochitlchipsandsalsa.com/recipes-2/)|[**Walker's Shortbread**](https://us.walkersshortbread.com/media/recipes/)|[**Westminster Crackers**](https://www.westminstercrackers.com/blog/)|[**Whisps**](https://whisps.com/blogs/recipes)|[**Zestyz**](https://zestyz.com/blogs/recipes)|
 
 ### Supplements
 |     |     |     |     |     |
@@ -3539,9 +3493,13 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**Big Tree Farms**](https://bigtreefarms.com/all-recipes/)|[**Chelsea Sugar**](https://www.chelsea.co.nz/)|[**Crown Maple**](https://www.crownmaple.com/crown-maple-recipes)|[**Dan Sukker**](https://www.dansukker.co.uk/uk/recipes)|[**Dixie Crystals**](https://www.dixiecrystals.com/recipes)|
-|[**Domino**](https://www.dominosugar.com/recipes)|[**Fuller's Sugarhouse**](https://www.fullerssugarhouse.com/recipe-categories/)|[**Golden Eagle Syrup**](https://www.goldeneaglesyrup.com/re)|[**Grandma's Molasses**](https://grandmasmolasses.com/)|[**Health Garden USA**](https://www.healthgardenusa.com/recipes-main/)|
-|[**Imperial**](https://www.imperialsugar.com/recipes)|[**Karo Syrup**](https://www.karosyrup.com/recipes/)|[**Lyle's Golden Syrup**](https://www.lylesgoldensyrup.com/)|[**Monin**](https://www.monin.com/us/recipes)|[**New Leaf Tree Syrups**](https://newleaftreesyrups.com/blogs/recipes)|
-|[**Redpath**](https://www.redpathsugar.com/recipes)|[**RxSugar**](https://rxsugar.com/blogs/recipes)|[**Steen's Syrup**](https://www.steenssyrup.com/recipes)|[**Truvia**](https://www.truvia.com/all-recipes)|[**Whole Earth Sweetener**](https://wholeearthsweetener.com/recipes/)|
+|[**Domino**](https://www.dominosugar.com/recipes)|[**Fuller's Sugarhouse**](https://www.fullerssugarhouse.com/recipe-categories/)|[**Golden Eagle Syrup**](https://www.goldeneaglesyrup.com/re)|[**Good Good**](https://goodgoodbrand.com/blogs/recipes)|[**Grandma's Molasses**](https://grandmasmolasses.com/)|[**Health Garden USA**](https://www.healthgardenusa.com/recipes-main/)|
+|[**I Love Date Lady**](https://ilovedatelady.com/blogs/date-lady-recipes)|[**Imperial**](https://www.imperialsugar.com/recipes)|[**In the Raw**](https://www.intheraw.com/using-itr/recipes/)|[**Java Melts**](https://javamelts.com/blogs/recipes)|[**Jed's Maple**](https://www.jedsmaple.com/maple-recipes)|
+|[**Karo Syrup**](https://www.karosyrup.com/recipes/)|[**La Lechera**](https://www.goodnes.com/la-lechera/recipes/)|[**Lyle's Golden Syrup**](https://www.lylesgoldensyrup.com/)|[**Madhava Foods**](https://www.madhavafoods.com/recipes/)|[**Maplecraft Foods**](https://maplecraftfoods.com/blogs/recipes)|
+|[**Monin**](https://www.monin.com/us/recipes)|[**New Leaf Tree Syrups**](https://newleaftreesyrups.com/blogs/recipes)|[**NuNaturals**](https://www.nunaturals.com/blogs/recipes)|[**Parker's Maple**](https://www.parkersmaple.com/blogs/recipes-1)|[**Pearl Milling Company**](https://www.pearlmillingcompany.com/recipes)|
+|[**Purecane**](https://purecane.com/blogs/recipes)|[**Redpath**](https://www.redpathsugar.com/recipes)|[**Runamok**](https://runamokmaple.com/recipes/)|[**RxSugar**](https://rxsugar.com/blogs/recipes)|[**Silloway Maple**](https://sillowaymaple.com/recipes)|
+|[**Splenda**](https://www.splenda.com/recipes/)|[**Steen's Syrup**](https://www.steenssyrup.com/recipes)|[**Stevia**](https://cookingwithstevia.com/)|[**Swerve Sweet**](https://swervesweet.com/recipes)|[**Torani**](https://www.torani.com/recipes)|
+|[**Truvia**](https://www.truvia.com/all-recipes)|[**Whole Earth Sweetener**](https://wholeearthsweetener.com/recipes/)|
 - #### Honey
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
