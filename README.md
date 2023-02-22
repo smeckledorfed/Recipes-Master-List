@@ -5,8 +5,7 @@
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it.
 - Brands have been **bolded**.
 
-## Budget
-|     |     |     |     |     |
+| Budget    |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|
 |[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Broke and Cooking](https://www.brokeandcooking.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|
