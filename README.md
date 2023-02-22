@@ -5,7 +5,8 @@
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it.
 - Brands have been **bolded**.
 
-| Budget    |     |     |     |     |
+## Budget
+|     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[5 Dollar Dinners](https://www.5dollardinners.com/)|[Ana Ankeny](https://anaankeny.com/)|[Asian Top Recipes](https://asiantoprecipes.weebly.com/)|[Beat the Budget](https://beatthebudget.com/)|[Beeyond Cereal](https://www.beeyondcereal.com/)|
 |[Belly Cheap Cook](https://www.bellycheapcook.com/)|[Broke and Cooking](https://www.brokeandcooking.com/)|[Budget 101](https://www.budget101.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Budget Savvy Diva](https://www.budgetsavvydiva.com/category/frugal-eats/)|
@@ -1118,46 +1119,28 @@
 |[Spoonful of NoLa](https://spoonfulofnola.com/)|[**Tony Chachere's**](https://www.tonychachere.com/recipes/)|
 
 ##### Hawaii
-- [Contemplating Sweets](https://www.contemplatingsweets.com/)
-- [Cooking Hawaiian Style](https://cookinghawaiianstyle.com/)
-- [Feeding My Ohana](https://www.feedingmyohana.com/)
-- [Foodland](https://www.foodland.com/recipes)
-- [Hawaii Magazine](https://www.hawaiimagazine.com/where-to-eat/recipes/)
-- [Honey From Rock](http://honeyfromrock.blogspot.com/)
-- [Kau Kau Chronicles](https://www.kaukauchronicles.org/)
-- [Keeping It Relle](https://keepingitrelle.com/)
-- [My Lilikoi Kitchen](http://www.mylilikoikitchen.com/)
-- [**NOH Foods**](https://www.nohfoods.com/blogs/recipes)
-- [OMG Yummy](https://omgyummy.com/)
-- [Ono Hawaiian Recipes](https://onohawaiianrecipes.com/)
-- [Onolicious Hawaii](https://onolicioushawaii.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Contemplating Sweets](https://www.contemplatingsweets.com/)|[Cooking Hawaiian Style](https://cookinghawaiianstyle.com/)|[Feeding My Ohana](https://www.feedingmyohana.com/)|[Foodland](https://www.foodland.com/recipes)|[Hawaii Magazine](https://www.hawaiimagazine.com/where-to-eat/recipes/)|
+|[Honey From Rock](http://honeyfromrock.blogspot.com/)|[Kau Kau Chronicles](https://www.kaukauchronicles.org/)|[Keeping It Relle](https://keepingitrelle.com/)|[My Lilikoi Kitchen](http://www.mylilikoikitchen.com/)|[**NOH Foods**](https://www.nohfoods.com/blogs/recipes)|
+|[OMG Yummy](https://omgyummy.com/)|[Ono Hawaiian Recipes](https://onohawaiianrecipes.com/)|[Onolicious Hawaii](https://onolicioushawaii.com/)|
 
 ##### Midwest
-- [Accidental Happy Baker](https://www.accidentalhappybaker.com/)
-- [Akron Ohio Moms](https://www.akronohiomoms.com/recipe/)
-- [Common Ground Nebraska](https://commongroundnebraska.com/recipes/)
-- [Cooking in the Midwest](https://www.cookinginthemidwest.com/)
-- [Culinary Hill](https://www.culinaryhill.com/)
-- [Edible Indy](edibleindy.ediblecommunities.com)
-- [Edible Madison](ediblemadison.com)
-- [Edible Michiana](ediblemichiana.ediblecommunities.com)
-- [Edible Ohio Valley](edibleohiovalley.com)
-- [Edible Wow](ediblewow.ediblecommunities.com)
-- [Fresh Coast Eats](https://freshcoasteats.com/)
-- [From Michigan to the Table](https://frommichigantothetable.com/)
-- [Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)
-- [Let's Go Iowa](https://www.letsgoiowa.com/iowa-food/)
-- [Midwest Life and Style](https://www.midwestlifeandstyle.com/category/recipes/)
-- [My Food Story](https://myfoodstory.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Accidental Happy Baker](https://www.accidentalhappybaker.com/)|[Akron Ohio Moms](https://www.akronohiomoms.com/recipe/)|[Common Ground Nebraska](https://commongroundnebraska.com/recipes/)|[Cooking in the Midwest](https://www.cookinginthemidwest.com/)|[Culinary Hill](https://www.culinaryhill.com/)|
+|[Edible Indy](edibleindy.ediblecommunities.com)|[Edible Madison](ediblemadison.com)|[Edible Michiana](ediblemichiana.ediblecommunities.com)|[Edible Ohio Valley](edibleohiovalley.com)|[Edible Wow](ediblewow.ediblecommunities.com)|
+|[Fresh Coast Eats](https://freshcoasteats.com/)|[From Michigan to the Table](https://frommichigantothetable.com/)|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|[Let's Go Iowa](https://www.letsgoiowa.com/iowa-food/)|[Midwest Life and Style](https://www.midwestlifeandstyle.com/category/recipes/)|
+|[My Food Story](https://myfoodstory.com/)|
 
 ##### Native American
-- [American Indian Health](https://aihd.ku.edu/)
-- [The People's Paths](http://www.thepeoplespaths.net/NAIFood/CherokeeFavorites.htm)
-- [Sweet Grass Trading Co.](https://sweetgrasstradingco.com/recipes/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[American Indian Health](https://aihd.ku.edu/)|[The People's Paths](http://www.thepeoplespaths.net/NAIFood/CherokeeFavorites.htm)|[Red Mesa Cuisine](https://redmesacuisine.com/recipes)|[Sacred Springs Powwow](https://www.sspowwow.com/blog/categories/food)|[Sweet Grass Trading Co.](https://sweetgrasstradingco.com/recipes/)|
 ###### Cherokee
-- [Cherokee By Blood](http://www.cherokeebyblood.com/Cherokee_by_blood/Recipes.html)
-- [Cherokee Tribal Food Distribution Program](https://food.ebci-nsn.gov/recipes/)
-- [The United Cherokee Nation](http://theucn.com/recipes.html)
+|     |     |     |
+| --- | --- | --- |
+|[Cherokee By Blood](http://www.cherokeebyblood.com/Cherokee_by_blood/Recipes.html)|[Cherokee Tribal Food Distribution Program](https://food.ebci-nsn.gov/recipes/)|[The United Cherokee Nation](http://theucn.com/recipes.html)|
 ###### Chickasaw
 |     |
 | --- |
@@ -1172,34 +1155,14 @@
 |[The Fancy Navajo](https://thefancynavajo.com/category/recipes/)|[Navajo Pride](https://napi.navajopride.com/media/recipes/)|
 
 ##### Northeast
-- [Amish 365](https://www.amish365.com/)
-- [Amish Heritage](https://amish-heritage.org/)
-- [Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)
-- [A Coalcracker in the Kitchen](https://www.acoalcrackerinthekitchen.com/)
-- [Coal Region](https://www.coalregion.com/recipes.php)
-- [Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)
-- [Edible Berkshires](edibleberkshires.com)
-- [Edible Boston](https://www.edibleboston.com/recipes-1)
-- [Edible Brooklyn](ediblebrooklyn.com)
-- [Edible Cape Cod](ediblecapecod.ediblecommunities.com)
-- [Edible Capital District](ediblecapitaldistrict.ediblecommunities.com)
-- [Edible CT East](ediblecteast.ediblecommunities.com)
-- [Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)
-- [Edible Finger Lakes](ediblefingerlakes.com)
-- [Edible Hudson Valley](ediblehudsonvalley.ediblecommunities.com)
-- [Edible Maine](ediblemaine.com)
-- [Edible Nutmeg](ediblenutmeg.ediblecommunities.com)
-- [Edible Philly](ediblephilly.ediblecommunities.com)
-- [Edible Rhody](https://ediblerhody.ediblecommunities.com/)
-- [Edible South Shore](ediblesouthshore.com)
-- [Edible Vermont](ediblevermont.ediblecommunities.com)
-- [Edible Vineyard](ediblevineyard.com)
-- [Edible Westchester](ediblewestchester.ediblecommunities.com)
-- [Edible Western NY](ediblewesternny.ediblecommunities.com)
-- [Edible Worcester](edibleworcester.com)
-- [Home in the Finger Lakes](https://homeinthefingerlakes.com/)
-- [New England](https://newengland.com/category/food/)
-- [Sip and Feast](https://www.sipandfeast.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[A Coalcracker in the Kitchen](https://www.acoalcrackerinthekitchen.com/)|[Coal Region](https://www.coalregion.com/recipes.php)|
+|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|[Edible Berkshires](edibleberkshires.com)|[Edible Boston](https://www.edibleboston.com/recipes-1)|[Edible Brooklyn](ediblebrooklyn.com)|[Edible Cape Cod](ediblecapecod.ediblecommunities.com)|
+|[Edible Capital District](ediblecapitaldistrict.ediblecommunities.com)|[Edible CT East](ediblecteast.ediblecommunities.com)|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|[Edible Finger Lakes](ediblefingerlakes.com)|[Edible Hudson Valley](ediblehudsonvalley.ediblecommunities.com)|
+|[Edible Maine](ediblemaine.com)|[Edible Nutmeg](ediblenutmeg.ediblecommunities.com)|[Edible Philly](ediblephilly.ediblecommunities.com)|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|[Edible South Shore](ediblesouthshore.com)|
+|[Edible Vermont](ediblevermont.ediblecommunities.com)|[Edible Vineyard](ediblevineyard.com)|[Edible Westchester](ediblewestchester.ediblecommunities.com)|[Edible Western NY](ediblewesternny.ediblecommunities.com)|[Edible Worcester](edibleworcester.com)|
+|[Home in the Finger Lakes](https://homeinthefingerlakes.com/)|[New England](https://newengland.com/category/food/)|[Sip and Feast](https://www.sipandfeast.com/)|
 
 ##### Soul Food
 |     |     |     |     |     |
