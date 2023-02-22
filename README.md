@@ -1839,6 +1839,11 @@
 | --- |
 |[Low-Pro Recipes](http://www.lowprorecipes.com/)|
 
+### Low-Sodium
+|     |     |
+| --- | --- |
+|[Lo-So Foodie](https://losofoodie.com/)|[Sodium Optional](https://www.sodiumoptional.com/)|
+
 ### Mennonite
 |     |
 | --- |
