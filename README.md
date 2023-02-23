@@ -2103,6 +2103,8 @@
 
 ## Ingredient
 ### Alcohol
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
 |[1001 Cocktails](https://en.1001cocktails.com/)|[AdultBar](http://adultbar.com.au/)|[Advanced Mixology](https://advancedmixology.com/)|[Art of Drink](https://www.artofdrink.com/category/recipe)|[Aurabora](https://aurabora.com/blogs/recipes)|
 |[The Bar](https://www.thebar.com/en-gb/recipes)|[**A Bar Above**](https://abarabove.com/recipes/)|[Bevvy](https://bevvy.co/cocktails)|[**Bing Beverage**](https://bingbeverage.com/recipes/)|[**Big Tom Beverages**](https://www.bigtombeverages.com/recipes.php)|
 |[**The Bottle Club**](https://www.thebottleclub.com/)|[Camp Craft Cocktails](https://www.campcraftcocktails.com/blogs/recipes)|[Cocktails and Shots](https://cocktailsandshots.com/)|[Cocktail Book](https://cocktailbook.com/)|[Cocktail Builder](https://www.cocktailbuilder.com/)|
