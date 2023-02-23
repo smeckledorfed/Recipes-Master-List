@@ -1887,6 +1887,7 @@
 - [Varada's Kitchen](https://varadaskitchen.blogspot.com/)
 - [Vecina Vegetariana](https://vecinavegetariana.com/)
 - [VE Eat Cook Bake](https://veeatcookbake.com/)
+- [VEEG](https://veeg.co/)
 - [The Vegan 8](https://thevegan8.com/)
 - [Vegan 3000](https://www.vegan3000.info/en/)
 - [The Vegan Atlas](https://theveganatlas.com/)
@@ -1927,7 +1928,6 @@
 - [Vegan Vocals](https://veganvvocals.com/)
 - [Vegan With Curves](https://veganwithcurves.com/)
 - [Vegan With Gusto](https://veganwithgusto.com/)
-- [The V Word](http://thevword.net/)
 - [Vegan Yack Attack](https://veganyackattack.com/)
 - [Vegan Yumminess](https://veganyumminess.com/)
 - [Vege Home Cooking](https://vegehomecooking.com/)
@@ -1954,6 +1954,7 @@
 - [Very Veganish](https://veryveganish.com/)
 - [Very Vegan Val](https://veryveganval.com/)
 - [The Viet Vegan](https://thevietvegan.com/)
+- [The V Word](http://thevword.net/)
 
 - [Wallflower Kitchen](https://wallflowerkitchen.com/)
 - [Watch, Learn, Eat](https://watchlearneat.com/)
@@ -1978,110 +1979,37 @@
 - [Zsu's Vegan Pantry](http://www.zsusveganpantry.com/)
 
 ### Vegetarian
-- (all websites in the vegan section)
-- [101 Cookbooks](https://www.101cookbooks.com/)
-- [**Actual Veggies**](https://actualveggies.com/pages/recipes)
-- [Aline Made](https://www.aline-made.com/)
-- [**Amy's**](https://www.amys.com/eating-well/recipes)
-- [Anna Jones](https://annajones.co.uk/)
-- [The Awesome Green](https://www.theawesomegreen.com/)
-- [Baking Hermann](https://bakinghermann.com/)
-- [Baking Like a Chef](https://www.bakinglikeachef.com/)
-- [Baking Magique](http://www.bakingmagique.com/)
-- [Baking With Butter](https://bakingwithbutter.com/)
-- [Baking With Sibella](https://bakingwithsibella.com/)
-- [Baku Baker](https://bakubaker.com/)
-- [Beauty and the Beets](https://beautyandthebeets.com/)
-- [Better Baking](https://www.betterbaking.com/)
-- [Bhumika's Cookbook](https://bhumikascookbook.blogspot.com/)
-- [Bigger Bolder Baking](https://www.biggerbolderbaking.com/)
-- [Binjal's Veg Kitchen](https://binjalsvegkitchen.com/)
-- [Blend with Spices](https://www.blendwithspices.com/)
-- [Bless My Food by Payal](https://blessmyfoodbypayal.com/)
-- [Blog Explore](https://blogexplore.com/)
-- [Botanical Online](https://www.botanical-online.com/en/diet/vegetarian-recipes-list)
-- [Burmese Vegan](https://burmesevegan.com/)
-- [Butter Baking](https://www.butterbaking.com/)
-- [Center Stage Wellness](https://centerstagewellness.com/recipes/)
-- [Chez Shuchi](https://www.chezshuchi.com/)
-- [Choosing Chia](https://choosingchia.com/)
-- [Code 2 Cook](https://code2cook.com/)
-- [Coffee & Quinoa](https://www.coffeeandquinoa.com/)
-- [Cook, Click n' Devour](https://www.cookclickndevour.com/)
-- [Cookie and Kate](https://cookieandkate.com/)
-- [Cooking Carnival](https://www.cookingcarnival.com/)
-- [Cooking with Janki](https://cookingwithjanki.com/)
-- [Cook's Hideout](https://www.cookshideout.com/)
-- [A Cook Within](https://acookwithin.com/)
-- [CRS Rice Bowl](https://www.crsricebowl.org/recipe)
-- [CT Buddha Mind](http://www.ctbuddhamind.org/go-veggies/recipes/?lang=en)
-- [Curry and Vanilla](https://curryandvanilla.com/)
-- [Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)
-- [Dish By Ili](https://dishbyili.com/)
-- [Dishcovery](https://dishcovery.in/)
-- [Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)
-- [Evergreen Kitchen](https://evergreenkitchen.ca/)
-- [The Fiery Vegetarian](https://www.thefieryvegetarian.com/)
-- [Fork in the Kitchen](https://www.forkinthekitchen.com/)
-- [Flavours Treat](https://www.flavourstreat.com/)
-- [Gayathri's Cookspot](https://gayathriscookspot.com/)
-- [Gluten-Free Vegetarian](https://gf-veg.com/)
-- [Gourmet Vegetarians](https://gourmetvegetarians.com/)
-- [Grateful Grazer](https://gratefulgrazer.com/)
-- [Happy Veggie Kitchen](https://www.happyveggiekitchen.com/)
-- [Hello Little Home](https://hellolittlehome.com/)
-- [Hetal Kamdar](https://hetalkamdar.com/)
-- [I Heart Vegetables](https://iheartvegetables.com/)
-- [Indian Veggie Delight](https://www.indianveggiedelight.com/)
-- [It's a Veg World After All](https://itsavegworldafterall.com/)
-- [Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)
-- [Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)
-- [The Little Arepa](https://thelittlearepa.com/)
-- [The Live-In Kitchen](https://theliveinkitchen.com/)
-- [Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)
-- [Manjula's Kitchen](https://www.manjulaskitchen.com/)
-- [Milk and Cardamom](https://milkandcardamom.com/)
-- [Mirchi Tales](https://www.mirchitales.com/)
-- [Moon and Spoon and Yum](https://moonandspoonandyum.com/)
-- [**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)
-- [My Vegetarian Roots](https://myvegetarianroots.com/)
-- [My Weekend Kitchen](https://www.myweekendkitchen.in/)
-- [Nam's Corner](https://www.namscorner.com/)
-- [Naturally Elly](https://naturallyella.com/)
-- [**No Bull Burger**](https://nobullburger.com/recipes/)
-- [Pesto and Potatoes](https://pestoandpotatoes.com/)
-- [Priya's Curry Nation](https://www.priyascurrynation.com/)
-- [Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)
-- [Saffron Trail](https://www.saffrontrail.com/)
-- [Simply Vegetarian 777](https://simplyvegetarian777.com/)
-- [Some Indian Girl](https://someindiangirl.com/)
-- [Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)
-- [Sunny's Vegetarian Foodhunt](http://vegefoodhunt.blogspot.com/)
-- [Sweet Potato Soul](https://sweetpotatosoul.com/)
-- [Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)
-- [Tin and Thyme](https://tinandthyme.uk/)
-- [Tinned Tomatoes](https://www.tinnedtomatoes.com/)
-- [Tomato Blues](https://www.tomatoblues.com/)
-- [Vanilla and Bean](https://vanillaandbean.com/)
-- [Varada's Kitchen](https://varadaskitchen.blogspot.com/)
-- [Vege Cravings](https://vegecravings.com/)
-- [Vegetarian Mamma](https://vegetarianmamma.com/)
-- [Vegetarian Resource Guide](https://www.vrg.org/recipes/)
-- [Vegetarian Society](https://vegsoc.org/)
-- [Vegetarian Taste Buds](https://www.vegetariantastebuds.com/)
-- [Vegetarian Times](https://www.vegetariantimes.com/)
-- [Vegetarian Ventures](https://www.vegetarianventures.com/)
-- [Veggie Num Num](https://www.veggienumnum.com/)
-- [Veggies Don't Bite](https://www.veggiesdontbite.com/)
-- [Veggie Soul Food](http://www.veggiesoulfood.com/)
-- [The Veg Hog](http://the-veghog.blogspot.com/)
-- [Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)
-- [Veg Recipes of Karnataka](https://vegrecipesofkarnataka.com/index.php)
-- [V for Veggy](https://vforveggy.com/)
-- [**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)
-- [The Wimpy Vegetarian](https://thewimpyvegetarian.com/)
-- [XO & So](https://www.xoandso.com/)
-- [Your Veg Recipe](https://yourvegrecipe.com/)
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|[101 Cookbooks](https://www.101cookbooks.com/)|[**Actual Veggies**](https://actualveggies.com/pages/recipes)|[Aline Made](https://www.aline-made.com/)|[**Amy's**](https://www.amys.com/eating-well/recipes)|[Anna Jones](https://annajones.co.uk/)|
+|[The Awesome Green](https://www.theawesomegreen.com/)|[Baking Hermann](https://bakinghermann.com/)|[Baking Like a Chef](https://www.bakinglikeachef.com/)|[Baking Magique](http://www.bakingmagique.com/)|[Baking With Butter](https://bakingwithbutter.com/)|
+|[Baking With Sibella](https://bakingwithsibella.com/)|[Baku Baker](https://bakubaker.com/)|[Beauty and the Beets](https://beautyandthebeets.com/)|[Better Baking](https://www.betterbaking.com/)|[Bhumika's Cookbook](https://bhumikascookbook.blogspot.com/)|
+|[Bigger Bolder Baking](https://www.biggerbolderbaking.com/)|[Binjal's Veg Kitchen](https://binjalsvegkitchen.com/)|[Blend with Spices](https://www.blendwithspices.com/)|[Bless My Food by Payal](https://blessmyfoodbypayal.com/)|[Blog Explore](https://blogexplore.com/)|
+|[Botanical Online](https://www.botanical-online.com/en/diet/vegetarian-recipes-list)|[Burmese Vegan](https://burmesevegan.com/)|[Butter Baking](https://www.butterbaking.com/)|[Center Stage Wellness](https://centerstagewellness.com/recipes/)|[Chez Shuchi](https://www.chezshuchi.com/)|
+|[Choosing Chia](https://choosingchia.com/)|[Code 2 Cook](https://code2cook.com/)|[Coffee & Quinoa](https://www.coffeeandquinoa.com/)|[Cook, Click n' Devour](https://www.cookclickndevour.com/)|[Cookie and Kate](https://cookieandkate.com/)|
+|[Cooking Carnival](https://www.cookingcarnival.com/)|[Cooking with Janki](https://cookingwithjanki.com/)|[Cook's Hideout](https://www.cookshideout.com/)|[A Cook Within](https://acookwithin.com/)|[CRS Rice Bowl](https://www.crsricebowl.org/recipe)|
+|[CT Buddha Mind](http://www.ctbuddhamind.org/go-veggies/recipes/?lang=en)|[Curry and Vanilla](https://curryandvanilla.com/)|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|[Dish By Ili](https://dishbyili.com/)|[Dishcovery](https://dishcovery.in/)|
+|[Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)|[Evergreen Kitchen](https://evergreenkitchen.ca/)|[The Fiery Vegetarian](https://www.thefieryvegetarian.com/)|[Fit Meal Ideas](https://fitmealideas.com/)|[Food Quench](https://foodquench.com/)|
+|[Fork in the Kitchen](https://www.forkinthekitchen.com/)|[Flavours Treat](https://www.flavourstreat.com/)|[Gayathri's Cookspot](https://gayathriscookspot.com/)|[Gluten-Free Vegetarian](https://gf-veg.com/)|[Gourmandelle](https://gourmandelle.com/)|
+|[Gourmet Vegetarians](https://gourmetvegetarians.com/)|[Grandad's Cookbook](https://grandadscookbook.co.uk/)|[Grateful Grazer](https://gratefulgrazer.com/)|[Greener Ideal](https://greenerideal.com/recipes/)|[Happy Veggie Kitchen](https://www.happyveggiekitchen.com/)|
+|[Hebbars Kitchen](https://hebbarskitchen.com/)|[Hello Little Home](https://hellolittlehome.com/)|[Herbivoracious](https://www.herbivoracious.com/)|[Hetal Kamdar](https://hetalkamdar.com/)|[I Heart Vegetables](https://iheartvegetables.com/)|
+|[Indian Veggie Delight](https://www.indianveggiedelight.com/)|[Inspiration for All](https://www.inspirationforall.de/en/)|[It's a Veg World After All](https://itsavegworldafterall.com/)|[The Jam Lab](https://thejamlab.co/)|[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|
+|[Karma Free Cooking](https://karma-free-cooking.com/)|[Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)|[The Last Food Blog](https://www.thelastfoodblog.com/)|[Lenten Chef](https://www.lentenchef.com/)|[The Little Arepa](https://thelittlearepa.com/)|
+|[Live Eat Learn](https://www.liveeatlearn.com/)|[The Live-In Kitchen](https://theliveinkitchen.com/)|[Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)|[Manjula's Kitchen](https://www.manjulaskitchen.com/)|[Masala Chilli](https://masalachilli.com/)|
+|[Maya Bugs](http://mayabugs.com/blog/)|[May I Have That Recipe?](https://mayihavethatrecipe.com/)|[Miklia](https://www.miklia.com/)|[Milk and Cardamom](https://milkandcardamom.com/)|[Mirchi Tales](https://www.mirchitales.com/)|
+|[Moon and Spoon and Yum](https://moonandspoonandyum.com/)|[**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)|[My Diverse Kitchen](https://www.mydiversekitchen.com/)|[My Vegetarian Roots](https://myvegetarianroots.com/)|[My Weekend Kitchen](https://www.myweekendkitchen.in/)|
+|[Naive Cook Cooks](https://www.naivecookcooks.com/)|[Nam's Corner](https://www.namscorner.com/)|[Naturally Elly](https://naturallyella.com/)|[Naturally Nidhi](https://naturallynidhi.com/)|[Neha's Cookbook](https://www.nehascookbook.com/)|
+|[**No Bull Burger**](https://nobullburger.com/recipes/)|[Nona Lema](http://nonalemacooking.blogspot.com/)|[Peas and Crayons](https://peasandcrayons.com/)|[Pesto and Potatoes](https://pestoandpotatoes.com/)|[Priya's Curry Nation](https://www.priyascurrynation.com/)|
+|[Rak's Kitchen](https://rakskitchen.net/)|[Recipes18](https://www.recipes18.com/all/)|[Rhubarbarians](https://www.rhubarbarians.com/)|[Ricardo Cuisine](https://www.ricardocuisine.com/en/)|[Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)|
+|[Running in a Skirt](https://www.runninginaskirt.com/)|[Saffron Trail](https://www.saffrontrail.com/)|[Sandhya's Kitchen](https://sandhyahariharan.co.uk/)|[Sang's Kitchen](https://sangskitchen.com/)|[Sanjana Feasts](https://www.sanjanafeasts.co.uk/)|
+|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|[Simply Vegetarian 777](https://simplyvegetarian777.com/)|[Sindhi Rasoi](https://sindhirasoi.com/)|[Some Indian Girl](https://someindiangirl.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|
+|[Spicing Your Life](https://www.spicingyourlife.com/)|[Splash of Taste](https://www.splashoftaste.com/)|[Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)|[Sunny's Vegetarian Foodhunt](http://vegefoodhunt.blogspot.com/)|[Sweet Potato Soul](https://sweetpotatosoul.com/)|
+|[Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)|[Tickling Palates](https://www.ticklingpalates.com/)|[Tin and Thyme](https://tinandthyme.uk/)|[Tinned Tomatoes](https://www.tinnedtomatoes.com/)|[Toaster Oven Love](https://toasterovenlove.com/)|
+|[Tomato Blues](https://www.tomatoblues.com/)|[Trial and Eater](https://www.trialandeater.com/)|[Udupi Recipes](https://udupi-recipes.com/)|[Urban Farmie](https://urbanfarmie.com/)|[Vanilla and Bean](https://vanillaandbean.com/)|
+|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|[Vege Cravings](https://vegecravings.com/)|[Vegetarian Mamma](https://vegetarianmamma.com/)|[Vegetarian Resource Guide](https://www.vrg.org/recipes/)|[Vegetarian Society](https://vegsoc.org/)|
+|[Vegetarian Taste Buds](https://www.vegetariantastebuds.com/)|[Vegetarian Times](https://www.vegetariantimes.com/)|[Vegetarian Ventures](https://www.vegetarianventures.com/)|[Veggie Num Num](https://www.veggienumnum.com/)|[Veggies Don't Bite](https://www.veggiesdontbite.com/)|
+|[Veggie Soul Food](http://www.veggiesoulfood.com/)|[The Veg Hog](http://the-veghog.blogspot.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Veg Recipes of Karnataka](https://vegrecipesofkarnataka.com/index.php)|[Very Good Cook](https://verygoodcook.com/)|
+|[V for Veggy](https://vforveggy.com/)|[**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)|[The Wimpy Vegetarian](https://thewimpyvegetarian.com/)|[XO & So](https://www.xoandso.com/)|[Your Veg Recipe](https://yourvegrecipe.com/)|
 
 ## Historical
 |     |     |     |     |     |
