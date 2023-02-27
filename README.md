@@ -2576,96 +2576,30 @@
 
 | C   |     |     |     |     |
 | --- | --- | --- | --- | --- |
-- [Cafe Delites](https://cafedelites.com/)
-- [Cafe Fernando](http://cafefernando.com/)
-- [Cafe Hailee](https://www.cafehailee.com/)
-- [The Cafe Sucre Farine](https://thecafesucrefarine.com/)
-- [Caffe Il Carro](https://caffeilcarro.ru/en/)
-- [Caitey Jay](https://www.caiteyjay.com/)
-- [Cait Straight Up](https://caitstraightup.com/)
-- [Cake n' Knife](https://www.cakenknife.com/)
-- [Cakes to Kale](https://www.cakestokale.com/)
-- [Cakework Orange](https://cakeworkorange.com/)
-- [Call Her Chef](https://www.callherchef.com/)
-- [Call Me PMc](https://www.callmepmc.com/)
-- [Camille Styles](https://camillestyles.com/category/food/)
-- [Canada Beef](https://canadabeef.ca/recipes/)
-- [The Candid Appetite](https://www.thecandidappetite.com/)
-- [Cardamom and Dill](https://cardamomanddill.com/recipes/)
-- [The Carefree Kitchen](https://thecarefreekitchen.com/)
-- [Carla Hall](https://www.carlahall.com/recipes)
-- [Carlsbad Cravings](https://carlsbadcravings.com/)
-- [Carmy](https://carmyy.com/)
-- [Carol Bee Cooks](https://carolbeecooks.com/)
-- [Carolina Gelen](https://carolinagelen.com/)
-- [Caroline's Cooking](https://www.carolinescooking.com/)
-- [Carrie Carvalho](https://carriecarvalho.com/)
-- [Carrie's Experimental Kitchen](https://www.carriesexperimentalkitchen.com/)
-- [Casa Costello](https://casacostello.com/)
-- [Casserole Crissy](https://casserolecrissy.com/)
-- [Casserole et Chocolat](https://www.casseroleetchocolat.fr/en/)
-- [Casual Epicure](https://casualepicure.com/)
-- [Casually Peckish](https://casuallypeckish.com/)
-- [Catherine's Plates](https://catherinesplates.com/)
-- [A Cedar Spoon](https://www.acedarspoon.com/)
-- [Celebration Generation](https://celebrationgeneration.com/)
-- [Celine's Recipes](https://celinesrecipes.com/)
-- [Center Cut Cook](https://www.centercutcook.com/)
-- [Cents Less Deals](https://centslessdeals.com/)
-- [Ceri Jones Chef](https://cerijoneschef.com/)
-- [Chaaarlotti](https://chaaarlotti.com/)
-- [Charlie Palmer](https://www.charliepalmer.com/recipes/)
-- [Chaotically Yours](https://chaoticallyyours.com/category/recipes/)
-- [Charisse Yu](https://charisseyu.com/)
-- [Charlotte Fashion Plate](https://www.charlottefashionplate.com/recipes/)
-- [The Charmed Kitchen](http://thecharmedkitchen.com/)
-- [Chatelaine](https://www.chatelaine.com/category/recipes/)
-- [Ch-EAT](https://cheat.mt/)
-- [Cheat Day Design](https://cheatdaydesign.com/)
-- [Check Please](https://checkplease.wttw.com/recipes)
-- [Cheerful Cook](https://cheerfulcook.com/)
-- [Cheese Curd in Paradise](https://cheesecurdinparadise.com/)
-- [Chefd](https://chefd.com/recipes/)
-- [Chef de Home](https://www.chefdehome.com/)
-- [Chef Denise](https://www.chefdenise.com/all)
-- [Chef Donna at Home](https://chefdonnaathome.com/)
-- [Chef Garces](https://www.chefgarces.com/recipes)
-- [Chef in Disguise](https://chefindisguise.com/)
-- [Chef in Training](https://www.chef-in-training.com/)
-- [Chef Jack Ovens](https://chefjackovens.com/)
-- [Chef Jar](https://chefjar.com/)
-- [Chef John Besh](https://www.chefjohnbesh.com/recipes2)
-- [Chef Julie Yoon](https://chefjulieyoon.com/)
-- [Chef Kelly Cahoon](https://chefkellycahoon.com/)
-- [Chef Lindsey Farr](https://cheflindseyfarr.com/)
-- [Chef Liu](https://www.chefliu.com/)
-- [Chef Mimi Blog](https://chefmimiblog.com/)
-- [Chef Ming Tsai](https://ming.com/eat-well-with-ming/)
-- [Chef Nathan Lyon](https://chefnathanlyon.wordpress.com/)
-- [Chef Nischan](https://www.chefnischan.com/recipes)
-- [Chef Older](https://www.chefolder.com/)
-- [Chef Q's Travel Recipe](https://chefqstravelrecipe.com/)
-- [Chef Savvy](https://chefsavvy.com/)
-- [The Chef's Cult](https://thechefscult.com/)
-- [Chef's Table](https://chefs-table.homebrewchef.com/)
-- [Chef Times Two](http://www.cheftimestwo.com/)
-- [Chelsea's Messy Apron](https://www.chelseasmessyapron.com/)
-- [Chelsey Amer Nutrition](https://chelseyamernutrition.com/)
-- [Chenee Today](https://cheneetoday.com/)
-- [Cherries in June](https://cherriesinjune.com/)
-- [Cherry on My Sundae](https://www.cherryonmysundae.com/)
-- [Chewing the Fat](https://chewingthefat.us.com/)
-- [Chew Out Loud](https://www.chewoutloud.com/)
-- [Chez Us](https://chezus.com/)
-- [Chicago Tribune](https://www.chicagotribune.com/dining/recipes/)
-- [Chicken Fried Kitchen](https://chickenfriedkitchen.com/)
-- [Child Nutrition Recipe Box](https://theicn.org/cnrb/)
-- [Chili and Tonic](https://chiliandtonic.com/)
-- [Chin Deep](https://chindeep.com/)
-- [Ching's Secret](https://www.chingssecret.com/recipes)
-- [Chipa by the Dozen](https://chipabythedozen.com/en/)
-- [Chisel and Fork](https://www.chiselandfork.com/)
-- [Chloe Ting](https://chloeting.com/recipes)
+|[Cafe Delites](https://cafedelites.com/)|[Cafe Fernando](http://cafefernando.com/)|[Cafe Hailee](https://www.cafehailee.com/)|[The Cafe Sucre Farine](https://thecafesucrefarine.com/)|[Caffe Il Carro](https://caffeilcarro.ru/en/)|
+|[Caitey Jay](https://www.caiteyjay.com/)|[Cait Straight Up](https://caitstraightup.com/)|[Cake n' Knife](https://www.cakenknife.com/)|[Cakes to Kale](https://www.cakestokale.com/)|[Cakework Orange](https://cakeworkorange.com/)|
+|[Call Her Chef](https://www.callherchef.com/)|[Call Me PMc](https://www.callmepmc.com/)|[Camille Styles](https://camillestyles.com/category/food/)|[Canada Beef](https://canadabeef.ca/recipes/)|[The Candid Appetite](https://www.thecandidappetite.com/)|
+|[Cardamom and Dill](https://cardamomanddill.com/recipes/)|[The Carefree Kitchen](https://thecarefreekitchen.com/)|[Carla Hall](https://www.carlahall.com/recipes)|[Carlsbad Cravings](https://carlsbadcravings.com/)|[Carmy](https://carmyy.com/)|
+|[Carol Bee Cooks](https://carolbeecooks.com/)|[Carolina Gelen](https://carolinagelen.com/)|[Caroline's Cooking](https://www.carolinescooking.com/)|[Carrie Carvalho](https://carriecarvalho.com/)|[Carrie's Experimental Kitchen](https://www.carriesexperimentalkitchen.com/)|
+|[Casa Costello](https://casacostello.com/)|[Casserole Crissy](https://casserolecrissy.com/)|[Casserole et Chocolat](https://www.casseroleetchocolat.fr/en/)|[Casual Epicure](https://casualepicure.com/)|[Casually Peckish](https://casuallypeckish.com/)|
+|[Catherine's Plates](https://catherinesplates.com/)|[A Cedar Spoon](https://www.acedarspoon.com/)|[Celebration Generation](https://celebrationgeneration.com/)|[Celine's Recipes](https://celinesrecipes.com/)|[Center Cut Cook](https://www.centercutcook.com/)|
+|[Cents Less Deals](https://centslessdeals.com/)|[Ceri Jones Chef](https://cerijoneschef.com/)|[Chaaarlotti](https://chaaarlotti.com/)|[Charlie Palmer](https://www.charliepalmer.com/recipes/)|[Chaotically Yours](https://chaoticallyyours.com/category/recipes/)|
+|[Charisse Yu](https://charisseyu.com/)|[Charlotte Fashion Plate](https://www.charlottefashionplate.com/recipes/)|[The Charmed Kitchen](http://thecharmedkitchen.com/)|[Chatelaine](https://www.chatelaine.com/category/recipes/)|[Ch-EAT](https://cheat.mt/)|
+|[Cheat Day Design](https://cheatdaydesign.com/)|[Check Please](https://checkplease.wttw.com/recipes)|[Cheerful Cook](https://cheerfulcook.com/)|[Cheese Curd in Paradise](https://cheesecurdinparadise.com/)|[Chefd](https://chefd.com/recipes/)|
+|[Chef de Home](https://www.chefdehome.com/)|[Chef Denise](https://www.chefdenise.com/all)|[Chef Donna at Home](https://chefdonnaathome.com/)|[Chef Garces](https://www.chefgarces.com/recipes)|[Chef in Disguise](https://chefindisguise.com/)|
+|[Chef in Training](https://www.chef-in-training.com/)|[Chef Jack Ovens](https://chefjackovens.com/)|[Chef Jar](https://chefjar.com/)|[Chef John Besh](https://www.chefjohnbesh.com/recipes2)|[Chef Julie Yoon](https://chefjulieyoon.com/)|
+|[Chef Kelly Cahoon](https://chefkellycahoon.com/)|[Chef Lindsey Farr](https://cheflindseyfarr.com/)|[Chef Liu](https://www.chefliu.com/)|[Chef Mimi Blog](https://chefmimiblog.com/)|[Chef Ming Tsai](https://ming.com/eat-well-with-ming/)|
+|[Chef Nathan Lyon](https://chefnathanlyon.wordpress.com/)|[Chef Nischan](https://www.chefnischan.com/recipes)|[Chef Older](https://www.chefolder.com/)|[Chef Q's Travel Recipe](https://chefqstravelrecipe.com/)|[Chef Savvy](https://chefsavvy.com/)|
+|[The Chef's Cult](https://thechefscult.com/)|[Chef's Table](https://chefs-table.homebrewchef.com/)|[Chef Times Two](http://www.cheftimestwo.com/)|[Chelsea's Messy Apron](https://www.chelseasmessyapron.com/)|[Chelsey Amer Nutrition](https://chelseyamernutrition.com/)|
+|[Chenee Today](https://cheneetoday.com/)|[Cherries in June](https://cherriesinjune.com/)|[Cherry on My Sundae](https://www.cherryonmysundae.com/)|[Chewing the Fat](https://chewingthefat.us.com/)|[Chew Out Loud](https://www.chewoutloud.com/)|
+|[Chez Us](https://chezus.com/)|[Chicago Tribune](https://www.chicagotribune.com/dining/recipes/)|[Chicken Fried Kitchen](https://chickenfriedkitchen.com/)|[Child Nutrition Recipe Box](https://theicn.org/cnrb/)|[Chili and Tonic](https://chiliandtonic.com/)|
+- 
+- [Chin Deep](https://chindeep.com/)|
+- [Ching's Secret](https://www.chingssecret.com/recipes)|
+- [Chipa by the Dozen](https://chipabythedozen.com/en/)|
+- [Chisel and Fork](https://www.chiselandfork.com/)|
+- [Chloe Ting](https://chloeting.com/recipes)|
+- 
 - [Chocolate & Zucchini](https://cnz.to/category/ingredients-fine-foods/)
 - [Chocolates and Chai](https://www.chocolatesandchai.com/)
 - [Chocolate with Grace](https://chocolatewithgrace.com/)
