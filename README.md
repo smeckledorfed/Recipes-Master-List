@@ -24,7 +24,7 @@
 |[Savvy Homebody](https://savvyhomebody.com/)|[Savvy Honey](https://www.savvyhoney.com/)|[Savvy Saving Couple](https://www.savvysavingcouple.net/)|[Six Dollar Family](https://sixdollarfamily.com/category/recipes)|[Smart Savvy Living](https://smartsavvyliving.com/)|
 |[Spend with Pennies](https://www.spendwithpennies.com/)|[Sustainable Cooks](https://www.sustainablecooks.com/)|[Taming Twins](https://www.tamingtwins.com/)|[Tasty Thrifty Timely](https://tastythriftytimely.com/)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|
 |[That Frugal Foodie](https://thatfrugalfoodie.com/)|[Thrift & Spice](https://thriftandspice.com/)|[The Thrifty Couple](https://thethriftycouple.com/all-recipes/)|[Thrify Frugal Mom](https://www.thriftyfrugalmom.com/category/recipes/)|[Thrifty Fun](https://www.thriftyfun.com/tf/Food_and_Recipes/index.html)|
-|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|
+|[Thrifty Jinxy](https://thriftyjinxy.com/)|[Two Dollar Eats](https://twodollareats.com/)|[Budget Bytes](https://www.budgetbytes.com/)|[Frugal Nutrition](https://katykicker.com/)|[Two Kids and a Coupon](https://mamaneedscake.com/)
 
 ## Cuisine
 
@@ -1392,7 +1392,7 @@
 |[Texan Erin](https://www.texanerin.com/)|[That Girl Cooks Healthy](https://thatgirlcookshealthy.com/)|[This Mess is Ours](https://thismessisours.com/)|[Three Bakers](https://threebakers.com/category/gluten-free-recipes/)|[Unconventional Baker](https://www.unconventionalbaker.com/)|
 |[Veggie Balance](https://www.veggiebalance.com/)|[VeggieKins](https://veggiekinsblog.com/)|[Veggie Lexi](https://veggielexi.com/)|[Veggies Don't Bite](https://www.veggiesdontbite.com/)|[Watch, Learn, Eat](https://watchlearneat.com/)|
 |[What the Fork Food](https://www.whattheforkfoodblog.com/)|[Wheat by the Wayside](https://wheatbythewayside.com/)|[With Sweet Honey](https://withsweethoney.com/)|[**Wrawp**](https://wrawp.com/blogs/default-blog)|[**XO Baking Co.**](https://xobakingco.com/recipes/)|
-|[The Yummy Bowl](https://theyummybowl.com/)|
+|[The Yummy Bowl](https://theyummybowl.com/)|[This Vivacious Life](https://www.thisvivaciouslife.com/)|
 
 ### Halal
 |     |     |     |     |     |
@@ -1434,7 +1434,7 @@
 |[Queen Keto](https://queenketo.com/)|[Real Balanced](https://realbalanced.com/)|[Real Good Foods](https://realgoodfoods.com/blogs/recipes)|[ruled.me](https://www.ruled.me/keto-recipes/)|[**Sated**](https://sated.com/blogs/news)|
 |[Simply So Healthy](https://simplysohealthy.com/)|[Stem and Spoon](https://stemandspoon.com/)|[Step Away from the Carbs](https://stepawayfromthecarbs.com/)|[Stylish Cravings](https://stylishcravings.com/)|[The Sugar-Free Diva](https://thesugarfreediva.com/)|
 |[Sweet as Honey](https://www.sweetashoney.co/)|[Tastes Lovely](https://www.tasteslovely.com/)|[Tasty Low-Carb](https://www.tasty-lowcarb.com/)|[That Low-Carb Life](https://thatlowcarblife.com/)|[Two Sleevers](https://twosleevers.com/)|
-|[Wholesome Yum](https://www.wholesomeyum.com/)|[Yummy Healthy Keto](https://yummyhealthyketo.com/)|
+|[Wholesome Yum](https://www.wholesomeyum.com/)|[Yummy Healthy Keto](https://yummyhealthyketo.com/)|[Keto Cooking Wins](https://wholesomefarmhouserecipes.com/)
 
 ### Kosher/Jewish
 |     |     |     |     |     |
@@ -1673,6 +1673,7 @@
 |[Well Vegan](https://wellvegan.com/)|[Whole Food Soul Food Kitchen](https://wholefoodsoulfoodkitchen.com/)|[The Whole Scoop Blog](https://thewholescoopblog.com//)|[Wicked Kitchen](https://wickedkitchen.com/vegan-recipes/)|[Woon Heng](https://woonheng.com/)|
 |[World of Vegan](https://www.worldofvegan.com/)|[You Eat Plants](https://youeatplants.com/)|[Yummy Mummy Kitchen](https://www.yummymummykitchen.com/)|[The Yummy Vegan](https://theyummyvegan.com/)|[Yum Vegan Food](https://yumveganlunchideas.com/)|
 |[Yup.. It's Vegan](https://yupitsvegan.com/)|[Zacchary Bird](https://www.zaccharybird.com/)|[Zardy Plants](https://zardyplants.com/)|[Zucker & Jagdwurst](https://www.zuckerjagdwurst.com/en)|[Zsu's Vegan Pantry](http://www.zsusveganpantry.com/)|
+|[Planted365](https://www.planted365.com/)|
 
 ### Vegetarian
 |     |     |     |     |     |
@@ -2171,6 +2172,7 @@
 |[Flavor Fix](https://flavorfix.com/edible-recipes/)|[Good and Baked](http://goodandbaked.com/)|[Happy Pot Farmers](https://happypotfarmer.com/recipes)|[**Holistik Wellness**](https://www.holistikwellness.com/blogs/recipes)|[**Identity Life**](https://identitylife.com/blogs/recipes)|
 |[Kitchen Toke](https://kitchentoke.com/how-to-make-cannabis-infused-recipes/)|[**Levo Oil**](https://levooil.com/blogs/recipes)|[Living Harvest](http://livingharvest.com/#recipes)|[**Magical Butter**](https://magicalbutter.com/pages/recipes)|[**Manitoba Harvest**](https://manitobaharvest.com/blogs/hemp-resource-hub/tagged/recipes)|
 |[**Proof Cannabis**](https://proofcannabis.com/recipes)|[**Pure Kana**](https://purekana.com/blog/cooking-recipes/)|[**Rise Cannabis**](https://risecannabis.com/resources/recipes/)|[**Royal CBD**](https://royalcbd.com/cbd-oil-recipes/)|[**Shroomery**](https://www.shroomery.org/6226/Mushroom-Recipes)|
+|[Emily Kyle](https://emilykylenutrition.com/)
 
 ### Nuts/Nut Butters
 |     |     |     |     |     |
@@ -2436,7 +2438,7 @@
 |[Weekend Bakery](https://www.weekendbakery.com/)|[**Well and Good**](https://wellandgood.com.au/well-and-good-new-food-recipes/)|[What Jessica Baked Next](https://whatjessicabakednext.com/)|[Wheat Beat](https://wheatbeat.com/)|[Wheel of Baking](https://wheelofbaking.com/)|
 |[Whisk Averse Baking](https://whiskaversebaking.com/)|[White on Rice Couple](https://whiteonricecouple.com/)|[Wholesome Patisserie](https://wholesomepatisserie.com/)|[**Wholly Wholesome**](https://www.whollywholesome.com/category/recipes/)|[Wifee Mama Foodie](https://www.wifemamafoodie.com/)|
 |[Willow Bird Baking](http://willowbirdbaking.com/)|[**XO Baking Co.**](https://xobakingco.com/recipes/)|[Your Cup of Cake](https://www.yourcupofcake.com/)|[Youth Sweets](https://youthsweets.com/)|[Zhang Catherine](https://zhangcatherine.com/)|
-|[Zoe Bakes](https://zoebakes.com/)|
+|[Zoe Bakes](https://zoebakes.com/)|[Made By Shade](https://www.madebyshade.com/)
 
 ### Barbecue/Grill
 |     |     |     |     |     |
@@ -2513,7 +2515,7 @@
 |[2 Food Trippers](https://www.2foodtrippers.com/)|[2pots2cook](http://www.2pots2cook.com/)|[2 Sisters Recipes](https://2sistersrecipes.com/)|[3 Boys and a Dog](https://3boysandadog.com/simple-easy-recipes/)|[3 Scoops of Sugar](https://3scoopsofsugar.com/)|
 |[4 Sons R' Us](https://4sonrus.com/)|[12 Recipe Book](http://www.12recipebook.com/)|[30 Day Gourmet](http://30daygourmet.com/)|[31 Daily](https://www.31daily.com)|[The 36th Avenue](https://www.the36thavenue.com/category/recipes/)|
 |[40 Aprons](https://40aprons.com/)|[100k Recipes](https://100krecipes.com/)|[196 Flavors](https://www.196flavors.com/)|[500 Sandwiches](https://500sandwiches.com/)|[500 Spatulas](https://500spatulas.com/)|
-|[1001 Voyages Gourmands](https://1001voyagesgourmands.com/)|
+|[1001 Voyages Gourmands](https://1001voyagesgourmands.com/)|[30 Minute Meals](https://30minutesmeals.com/)|
 
 | A   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2540,7 +2542,7 @@
 |[Ateriet](https://www.ateriet.com/category/recipes/)|[At Home on the Prairie](https://athomeontheprairie.com/)|[At My Kitchen](https://atmykitchen.net/)|[At My Kitchen Table](https://www.atmykitchentable.com/)|[The Atlanta Journal-Constitution](https://www.ajc.com/things-to-do/food-and-recipes/)|
 |[Atta Girl Says](https://www.attagirlsays.com/)|[Aubrey's Kitchen](https://aubreyskitchen.com/)|[Audrey Cooks](https://www.audreycooks.com/)|[Authentic Food Quest](https://www.authenticfoodquest.com/recipes/)|[Authentic World Food](https://www.authenticworldfood.com/en/exotic-recipes/)|
 |[Avatar Nutrition](https://www.avatarnutrition.com/blog/recipes)|[Averie Cooks](https://www.averiecooks.com/)|[Avocados and Ales](https://avocadosandales.com/)|[Away From the Box](https://www.awayfromthebox.com/)|[A Worthey Read](https://www.awortheyread.com/category/recipes/)|
-|[Ayurveda Practice](https://ayurvedapractice.com/recipes/)|
+|[Ayurveda Practice](https://ayurvedapractice.com/recipes/)|[Amy Cakes Bakes](https://amycakesbakes.com/)|
 
 | B   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2573,6 +2575,7 @@
 |[Bunny's Warm Oven](https://bunnyswarmoven.net/)|[Buns in My Oven](https://www.bunsinmyoven.com/)|[Buona Pappa](https://www.buonapappa.net/)|[Burnt My Fingers](https://burntmyfingers.com/)|[Burrata and Bubbles](https://burrataandbubbles.com/)|
 |[The Busy Baker](https://thebusybaker.ca/)|[Busy Beach Life](https://busybeachlife.com/)|[Busy Cooks](https://www.busycooks.net/)|[The Buttered Gnocchi](https://thebutteredgnocchi.com/)|[Buttered Side Up](https://www.butteredsideupblog.com/)|
 |[Buttermilk Pantry](https://buttermilkpantry.wordpress.com/)|[Butter with a Side of Bread](https://butterwithasideofbread.com/)|[Butter Your Biscuit](https://butteryourbiscuit.com/)|[B Vintage Style](https://www.bvintagestyle.com/#cook)|[By Andrew Janssen](https://www.byandreajanssen.com/)|
+|[Bite on the Side](https://walkingonsunshinerecipes.com/)|[Belle of the Kitchen](https://belleofthekitchen.com/)|
 
 | C   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2640,7 +2643,7 @@
 |[The Culinary Cure](https://theculinarycure.com/)|[Culinary Ginger](https://culinaryginger.com/)|[Culinary Immigration](https://culinaryimmigration.com/)|[Culinary Lore](https://culinarylore.com/)|[The Culinary Pro](https://www.theculinarypro.com/)|
 |[Cully's Kitchen](https://cullyskitchen.com/)|[Culturally Ours](https://culturallyours.com/)|[Cultureatz](https://cultureatz.com/)|[Cupcakes and Cashmere](https://cupcakesandcashmere.com/food)|[Curious Cuisiniere](https://www.curiouscuisiniere.com/)|
 |[Curious Nut](https://www.curiousnut.com/)|[The Curious Plate](https://thecuriousplate.com/)|[Curly's Cooking](https://www.curlyscooking.co.uk/)|[Curry Lens](https://currylens.com/)|[Curry Trail](https://www.currytrail.in/)|
-|[Cute Cuisine](https://cute-cuisine.com/)|[The Cutlery Chronicles](https://www.thecutlerychronicles.com/)|[Cuts Everyday](http://www.cutseveryday.com/)|
+|[Cute Cuisine](https://cute-cuisine.com/)|[The Cutlery Chronicles](https://www.thecutlerychronicles.com/)|[Cuts Everyday](http://www.cutseveryday.com/)|[Cook What You Love](https://cookwhatyoulove.com/)|
 
 | D   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2666,11 +2669,11 @@
 |[Don't Sweat the Recipe](https://www.dontsweattherecipe.com/)|[D'Open Kitchen](https://www.dopenkitchen.com.sg/recipes/)|[Dorie Greenspan](https://doriegreenspan.com/recipes/)|[Downshiftology](https://downshiftology.com/)|[Do You Roux?](https://www.doyouroux.com/)|
 |[Dr. Axe](https://draxe.com/recipes/)|[Dreamers Loft](https://dreamersloft.blogspot.com/)|[Dr. Fuhrman](https://www.drfuhrman.com/recipes)|[Drizzle and Dip](https://drizzleanddip.com/)|[Drizzle Me Skinny](https://drizzlemeskinny.com/)|
 |[Dr. McDougall](https://www.drmcdougall.com/recipes/)|[Drupal Apicius](https://www.willdonovan.com/cookbook/)|[Dr. Weil](https://www.drweil.com/diet-nutrition/recipes/)|[Duck and Roses](https://www.duckandroses.com/)|[Dude That Cookz](https://dudethatcookz.com/)|
-|[Dukan Life Recipes](https://dukan-recipes.net/)|[Dukes and Duchesses](https://dukesandduchesses.com/category/in-the-kitchen/)|[Dwell by Michelle](https://dwellbymichelle.com/)|[A Dynamic Life](https://adynamiclife.co.za/recipes/)|
+|[Dukan Life Recipes](https://dukan-recipes.net/)|[Dukes and Duchesses](https://dukesandduchesses.com/category/in-the-kitchen/)|[Dwell by Michelle](https://dwellbymichelle.com/)|[A Dynamic Life](https://adynamiclife.co.za/recipes/)|[Dinner Mom](https://www.dinner-mom.com/)|
 
 | E   |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Earth Food and Fire](https://www.earthfoodandfire.com/)|[Easier Eats](https://easiereats.com/)|[Easy Baby Meals](https://www.easybabymeals.com/)|[Easy and Delish](https://www.easyanddelish.com/)|[Easy Cooking with Molly](https://www.easycookingwithmolly.com/)|
+|[Earth, Food, and Fire](https://www.earthfoodandfire.com/)|[Easier Eats](https://easiereats.com/)|[Easy Baby Meals](https://www.easybabymeals.com/)|[Easy and Delish](https://www.easyanddelish.com/)|[Easy Cooking with Molly](https://www.easycookingwithmolly.com/)|
 |[Easy Family Recipes](https://easyfamilyrecipes.com/)|[Easy Food Cooking Recipes](https://easyfoodcookingrecipes.com/)|[Easy Foods Inc.](https://easyfoodsinc.com/blog/)|[Easy Good Ideas](https://easygoodideas.com/)|[Easy Kitchen](https://easykitchen.com/)|
 |[Easy Peasy Foodie](https://www.easypeasyfoodie.com/)|[Easy Peasy Pleasy](https://easypeasypleasy.com/)|[Easy Weeknight Recipes](https://easyweeknightrecipes.com/)|[Easy Wrap Recipes](https://easywraprecipes.com/)|[Eatahfood](https://eatahfoodtt.com/)|
 |[Eatalier](https://eatalier.com/home-2/)|[Eat Be Mary](https://eatbemary.com/recipes/)|[Eat Drink Love](https://eat-drink-love.com/)|
@@ -2691,7 +2694,7 @@
 |[Ever After in the Woods](https://everafterinthewoods.com/)|[Ever Open Sauce](https://www.everopensauce.com/)|[Everyday Easy Eats](https://www.everydayeasyeats.com/)|[Everyday Family Cooking](https://www.everydayfamilycooking.com/)|[Everyday Great Falls](https://everydaygreatfalls.iga.com/Recipes/)|
 |[Everyday Reading](https://everyday-reading.com/category/recipes/)|[Every Last Bite](https://www.everylastbite.com/)|[Every Nook and Cranny](https://www.everynookandcranny.net/)|[Everything Delish](https://everything-delish.com/)|[Everything Erica](https://www.everythingerica.com/)|
 |[Everything Zoomer](https://www.everythingzoomer.com/food-drink-entertaining)|[Evolving Table](https://www.evolvingtable.com/)|[Explora](https://www.food-explora.com/recipes/)|[Explore Cook Eat](https://explorecookeat.com/)|[Extra Virgin Food & Travel](https://www.extravirginfoodandtravel.com/)|
-|[Eyes Closed Cooking](https://eyesclosedcooking.com/)|
+|[Eyes Closed Cooking](https://eyesclosedcooking.com/)|[Easy Wholesome](https://fooddoodles.com/)|
 
 | F   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2738,7 +2741,7 @@
 |[From a Chef's Kitchen](https://www.fromachefskitchen.com/)|[From Food 2 Fit](https://fromfood2fit.com/)|[From Me to Vuu](https://frommetovuu.com/)|[The From-Scratch Body](https://thefromscratchbody.com/)|[From the Horse's Mouth](https://fromthehorsesmouth.org.uk/category/recipes/)|
 |[From Valerie's Kitchen](https://www.fromvalerieskitchen.com/)|[The Frozen Biscuit](https://thefrozenbiscuit.com/)|[Fueling with Flavour](https://www.fuelingwithflavour.com/)|[The Fulfullment Pill](https://thefulfillmentpill.com/)|[A Full Living](https://afullliving.com/)|
 |[Full Plate Living](https://www.fullplateliving.org/)|[Full Scoops](http://www.fullscoops.net/)|[Fully-Stuffed Geek](https://www.fullystuffedgeek.nl/)|[Fun Food Frolic](https://www.funfoodfrolic.com/)|[Fun Money Mom](https://funmoneymom.com/)|
-|[Fusion Craftiness](https://www.fusioncraftiness.com/)|[The Fussy Palate](http://thefussypalate.blogspot.com/)|[Fuzz and Buzz](https://fuzzandbuzz.com/)|
+|[Fusion Craftiness](https://www.fusioncraftiness.com/)|[The Fussy Palate](http://thefussypalate.blogspot.com/)|[Fuzz and Buzz](https://fuzzandbuzz.com/)|[The Food Blog](https://www.thefoodblog.net/)|[Five Marigolds](https://fivemarigolds.com/blog/)|
 
 | G   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2931,7 +2934,7 @@
 |[My Montana Kitchen](https://mymontanakitchen.com/)|[My Organized Chaos](https://myorganizedchaos.net/)|[My Own Sweet Thyme](https://myownsweetthyme.com/)|[My Pinterventures](https://mypinterventures.com/)|[My Real Life Tips](https://myreallifetips.com/)|
 |[My Recipe Magic](https://www.myrecipemagic.com/)|[My Recipes](https://www.myrecipes.com/)|[My Recipe Treasures](https://myrecipetreasures.com/)|[Myreille Recipes](https://myreillerecipes.com/)|[My Relationship with Food](www.myrelationshipwithfood.com/)|
 |[Myriad Recipes](https://myriadrecipes.com/)|[My Sequined Life](https://www.mysequinedlife.com/)|[My Spice Trunk](https://myspicetrunk.com/)|[My Suburban Kitchen](https://www.mysuburbankitchen.com/)|[My Taemin](https://mytaemin.com/)|
-|[My Turn for Us](https://www.myturnforus.com/)|
+|[My Turn for Us](https://www.myturnforus.com/)|[Mama Needs Cake](https://mamaneedscake.com/)|
 
 | N   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -2990,11 +2993,12 @@
 |[A Pretty Life in the Suburbs](https://aprettylifeinthesuburbs.com/)|[Pretty Providence](https://prettyprovidence.com/category/recipes/)|[Prevention](https://www.prevention.com/food-nutrition/recipes/)|[Prevention RD](https://preventionrd.com/)|[Primavera Kitchen](https://www.primaverakitchen.com/)|
 |[Princess Pinky Girl](https://princesspinkygirl.com/)|[Profusion Curry](https://profusioncurry.com/)|[Project Meal Plan](https://projectmealplan.com/)|[The Protein Chef](https://theproteinchef.co/)|[The Provident Prepper](https://theprovidentprepper.org/recipe/)|
 |[Public Domain Recipes](https://publicdomainrecipes.org/)|[Public Lives Secret Recipes](https://publiclivessecretrecipes.com/)|[Pudge Factor](https://pudgefactor.com/)|[Pulses](https://pulses.org/recipes)|[Pumpkin n' Spice](https://www.pumpkinnspice.com/)|
-|[Pure and Simple Nourishment](https://www.pureandsimplenourishment.com/)|[The Purple Pumpkin Blog](https://www.thepurplepumpkinblog.co.uk/)|
+|[Pure and Simple Nourishment](https://www.pureandsimplenourishment.com/)|[The Purple Pumpkin Blog](https://www.thepurplepumpkinblog.co.uk/)|[Pattern Princess](https://patternprincess.com/recipes/)|
 
 | Q   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Queenslee Appetit](https://www.queensleeappetit.com/)|[Quench Magazine](https://quench.me/recipes/)|[Quest Serendipity](https://www.questserendipity.com/)|[The Quirk and the Cool](https://thequirkandthecool.com/)|[Quisine Queen B.](https://quisinequeenb.com/)|
+|[The Quicker Kitchen](https://thequickerkitchen.com/)|
 
 | R   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -3089,7 +3093,8 @@
 |[The Sweet Joy](https://thesweetjoy.com/category/recipes/)|[Sweet n' Spicy Living](https://sweetnspicyliving.com/)|[Sweet Ordeal](https://sweetordeal.com/)|[A Sweet Pea Chef](https://www.asweetpeachef.com/)|[Sweet Pea Lifestyle](https://sweetpealifestyle.com/)|
 |[Sweet Peas and Saffron](https://sweetpeasandsaffron.com/)|[Sweet Peas Kitchen](https://sweetpeaskitchen.com/)|[SweetPhi](https://sweetphi.com/)|[Sweet Savory and Steph](https://sweetsavoryandsteph.com/)|[Sweet Sour Savory](https://sweetsoursavory.com/)|
 |[A Sweet Spoonful](https://asweetspoonful.com/)|[The Sweet Spot](http://thesweetspot.com.my/)|[Sweet Tea and Sprinkles](https://sweetteaandsprinkles.com/)|[Sweet Tea and Thyme](https://www.sweetteaandthyme.com/)|[Sweet Thought](https://sweetthought.ca/)|
-|[The Sweet Tidings](https://www.thesweettidings.com/search/label/recipes)|[Sweet Zivile](https://sweetzivile.com/)|[Swirls of Flavor](https://swirlsofflavor.com/)|[Sybaritica](https://sybaritica.me/)|
+|[The Sweet Tidings](https://www.thesweettidings.com/search/label/recipes)|[Sweet Zivile](https://sweetzivile.com/)|[Swirls of Flavor](https://swirlsofflavor.com/)|[Sybaritica](https://sybaritica.me/)|[Simply Scrumptious Eats](https://simplyscrumptiouseats.com/)|
+|[Salads for Lunch](https://cheneetoday.com/)|[Sift & Simmer](https://family-friends-food.com/)|
 
 | T   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -3118,7 +3123,7 @@
 |[Tried and True Recipes](https://www.triedandtruerecipe.com/)|[Trivet](https://trivet.recipes/)|[True Art of Cooking](http://trueartofcooking.com/)|[The Tummy Train](https://www.thetummytrain.com/)|[Tum Yum Yum](https://tumyumyum.com/)|
 |[The Turquoise Table](https://theturquoisetable.com/recipe-collection/)|[A Turtle's Life For Me](https://aturtleslifeforme.com/category/recipes/)|[Twigs Cafe](https://twigscafe.com/)|[Twiins in the Kitchen](https://twiinsinthekitchen.com/)|[The Twin Cooking Project](https://thetwincookingproject.net/)|
 |[Twisted Food](https://twistedfood.co.uk/recipes)|[The Two Bananas](https://thetwobananas.com/)|[The Two Bite Club](https://www.thetwobiteclub.com/)|[Two Kooks in the Kitchen](https://twokooksinthekitchen.com/)|[Two of a Kind Cooks](http://www.twoofakindcooks.com/)|
-|[Two Peas and Their Pod](https://www.twopeasandtheirpod.com/)|[Two Pink Peonies](https://www.twopinkpeonies.com/)|[Two Purple Figs](https://www.twopurplefigs.com/)|
+|[Two Peas and Their Pod](https://www.twopeasandtheirpod.com/)|[Two Pink Peonies](https://www.twopinkpeonies.com/)|[Two Purple Figs](https://www.twopurplefigs.com/)
 
 | U   |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -3159,7 +3164,8 @@
 |[Woman's Day](https://www.womansday.com/food-recipes/)|[Women's Weekly Food](https://www.womensweeklyfood.com.au/recipes)|[Wonderful Cook](https://wonderfulcook.com/)|[Wonders of the World](https://www.wonderspodcast.com/recipes)|[The Wong Kitchen](https://thewongkitchen.wordpress.com/)|
 |[The Wonky Spatula](https://thewonkyspatula.com/)|[Wonky Wonderful](https://wonkywonderful.com/)|[The Wooden Skillet](https://thewoodenskillet.com/)|[The Worktop](https://www.theworktop.com/)|[Work Week Lunch](https://workweeklunch.com/)|
 |[World Cuisine](https://worldcuisinehr.com/en/)|[World Food and Wine](https://worldfoodwine.com/)|[World Food Tour](https://worldfoodtour.co.uk/recipe)|[World Local Food](http://worldlocalfood.blogspot.com/)|[World Loving Kitchen](https://world-loving-kitchen.com/)|
-|[Wright Family Table](https://www.wrightfamilytable.com/)|[Wynn's Kitchen](https://wynnskitchen.com/blogs/recipes)|[Wyse Guide](https://www.wyseguide.com/)|
+|[Wright Family Table](https://www.wrightfamilytable.com/)|[Wynn's Kitchen](https://wynnskitchen.com/blogs/recipes)|[Wyse Guide](https://www.wyseguide.com/)|[Windy City Dinner Fairy](https://windycitydinnerfairy.com/)|[With A Blast](https://www.withablast.net/)|
+|Walking Sunshine](https://walkingonsunshinerecipes.com/)|
 
 | Y   |     |     |     |     |
 | --- | --- | --- | --- | --- |
