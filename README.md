@@ -43,11 +43,6 @@
 | --- | --- |
 |[Sweet Pea and Jasmine](https://sweetpeaandjasmine.wordpress.com/)|[The Teal Tadjine](http://thetealtadjine.blogspot.com/)|
 
-#### Burkina Faso
-|     |
-| --- |
-|[Discover Burkina Faso](https://discover-burkinafaso.com/food-beverage/)|
-
 #### Cameroon
 |     |
 | --- |
