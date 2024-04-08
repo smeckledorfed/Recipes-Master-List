@@ -54,9 +54,9 @@
 |[Crumb-Snatched](https://www.crumbsnatched.com/)|
 
 #### Egypt
-|     |     |     |     |
-| --- | --- | --- | --- |
-|[Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)|[Food of Egypt](https://www.foodofegypt.com/)|[Scarf Gal Food](https://scarfgalfood.com/)|[Yum Reads](https://yumreads.com/)|
+|     |     |     |
+| --- | --- | --- |
+|[Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)|[Food of Egypt](https://www.foodofegypt.com/)|[Scarf Gal Food](https://scarfgalfood.com/)|
 
 #### Ethiopia
 |     |
