@@ -59,9 +59,9 @@
 |[Egyptian Cuisine Recipes](https://egyptian-cuisine-recipes.com/)|[Food of Egypt](https://www.foodofegypt.com/)|[Scarf Gal Food](https://scarfgalfood.com/)|
 
 #### Ethiopia
-|     |
-| --- |
-|[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|
+|     |     |
+| --- | --- |
+|[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|[**The Teff Company**](https://teffco.com/teff-recipes/)|
 
 #### Ghana
 |     |     |     |
