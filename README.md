@@ -156,7 +156,7 @@
 |[Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)|[Feeding My Ohana](https://www.feedingmyohana.com/)|[Fitsian Food Life](https://fitsianfoodlife.com/)|[The Floured Camera](https://www.theflouredcamera.com/)|[The Foodie Takes Flight](https://thefoodietakesflight.com/)|
 |[Foxy Folksy](https://www.foxyfolksy.com/)|[Fused By Fiona Uyema](https://fusedbyfionauyema.com/)|[Greedy Girl Gourmet](https://www.greedygirlgourmet.com/)|[Greedy Panda](https://greedy-panda.com/)|[Health Gluten-Free Asian](https://www.healthygfasian.com/)|
 |[Home Cooking With Somjit](https://homecookingwithsomjit.com/)|[Honest Food Talks](https://www.honestfoodtalks.com/)|[Ian Kewks](https://iankewks.com/)|[I Heart Umami](https://iheartumami.com/)|[Jasmine and Tea](https://jasmineandtea.com/)|
-|[Jen's Jip Bap](https://jensjipbap.com/)|[Jun & Tonic](https://junandtonic.com/)|
+|[Jun & Tonic](https://junandtonic.com/)|
 [Karin's Recipe](https://karinisafrauenfeld.blogspot.com/)|[Kawaling Pinoy](https://www.kawalingpinoy.com/)|[Khin's Kitchen](https://khinskitchen.com/)|[Korpino Feed](https://korpinofeed.com/category/a-side-of-recipes/)|
 |[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kwok Spots](https://kwokspots.com/)|[**La Choy**](https://www.lachoy.com/recipes)|[London is Hungry](https://londonishungry.com/)|[Love Food Asia](https://www.lovefoodasia.com/en/)|
 |[Low-Carbing Asian](https://www.lowcarbingasian.com/)|[Mama Loli](https://mamaloli.com/)|[Mikha Eats](https://mikhaeats.com/)|[Mochi Mommy](https://www.mochimommy.com/)|[Modern Asian Baking](https://www.modernasianbaking.com/)|
