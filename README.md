@@ -191,9 +191,9 @@
 |[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
 
 #### Bhutan
-|     |     |     |
-| --- | --- | --- |
-|[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|[Druk Girl](https://www.drukgirl.com/)|[My Bhutan](https://blog.mybhutan.com/food)|
+|     |
+| --- |
+|[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|
 
 #### Burma
 |     |     |
