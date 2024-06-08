@@ -3286,8 +3286,7 @@
 |[Dreaming of Butterflies](https://www.dreamingofbutterflies.co/category/lifestyle/delicious-recipes/)|[DVO](http://www.dvo.com/)|[Edible Communities](https://www.ediblecommunities.com/)|[Epicurious](https://www.epicurious.com/)|[The Feed Feed](https://thefeedfeed.com/)|
 |[Fine Dining Lovers](https://www.finedininglovers.com/recipes)|[Food24](https://www.food24.com/)|[Food52](https://food52.com/)|[Food Champs](https://www.foodchamps.org/)|[Food.com](https://www.food.com/)|
 |[Food Combo](https://foodcombo.com/)|[Food Geeks](https://foodgeeks.com/)|[Foodie Wish](https://foodiewish.com/)|[Food Pair](http://foodpair.com/)|[Food Republic](https://www.foodrepublic.com/)|
-|[Food Social](https://foodsocial.io/)|[Food Talk Daily](https://www.foodtalkdaily.com/recipes)|[Forkly](https://m.forkly.com/recipes/)|[Garden and Gun](https://gardenandgun.com/)|
-|[Goody](https://goody.buzz/us/)|
+|[Food Social](https://foodsocial.io/)|[Food Talk Daily](https://www.foodtalkdaily.com/recipes)|[Forkly](https://m.forkly.com/recipes/)|[Garden and Gun](https://gardenandgun.com/)|[Goody](https://goody.buzz/us/)|
 |[Gourmand Asia](https://www.gourmandasia.com/)|[Gourmandize](https://www.gourmandize.com/)|[Great British Chefs](https://www.greatbritishchefs.com/)|[Greatist](https://greatist.com/program/recipes)|[Group Recipes](http://www.grouprecipes.com/)|
 |[The Guardian](https://www.theguardian.com/tone/recipes)|[The Happy Foodie](https://thehappyfoodie.co.uk/)|[Happy Forks](https://happyforks.com/)|[Hearty Cooks' Room](https://heartycooksroom.com/category/recipes/)|[The Henry Ford](https://www.thehenryford.org/explore/recipes-and-cookbooks/)|
 |[Honest Cooking](https://honestcooking.com/)|[Instructables](https://www.instructables.com/cooking/)|[James Beard](https://www.jamesbeard.org/recipes)|[Join Foody](https://joinfoody.com/)|[Kitchen Nine](https://kitchen.nine.com.au/recipes)|
