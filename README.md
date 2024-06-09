@@ -3250,7 +3250,7 @@
 |[**Whole Foods Market**](https://www.wholefoodsmarket.com/recipes)|[**Wholesome Sweet**](https://wholesomesweet.com/recipes/)|[**Williams Sonoma**](https://www.williams-sonoma.com/m/recipe/)|[**Wilton**](https://www.wilton.com/learn/)|[**Woodland Fods**](https://woodlandfoods.com/recipes)|
 |[**Woodstock Foods**](https://www.woodstock-foods.com/good-cookin.html)|[**Woolworths**](https://www.woolworths.com.au/shop/recipes)|[**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)|[**Yamamoto Yama**](https://yamamotoyama.com/blogs/recipes)|[**Yeo's**](https://yeosusa.com/)|
 |[**Yep Recipes**](https://www.yeprecipes.com/)|[**Yonanas**](https://yonanas.com/blogs/recipes)|[**Your Family Farmer**](https://yourfamilyfarmer.com/)|[**Your Ultimate Menu**](https://www.yourultimatemenu.com/)|[**Yupik**](https://yupik.com/en/blog)|
-|[**Z Natural Foods**](https://www.znaturalfoods.com/blogs/articles)|[**Zoe**](https://joinzoe.com/learn/category/nutrition/recipes)|[**Zojirushi**](https://www.zojirushi.com/)|
+|[**Z Natural Foods**](https://www.znaturalfoods.com/blogs/articles)|[**Zoe**](https://joinzoe.com/learn/category/nutrition/recipes)|
 
 ### Celebrity Chef
 |     |     |     |     |     |
