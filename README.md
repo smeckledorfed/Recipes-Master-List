@@ -3133,8 +3133,7 @@
 |[U Chicago Bite](https://uchicagobite.com/)|[U Cook](https://www.ucook.com/)|[Umami](https://www.umami.site/recipes/)|[Umami Days](https://umamidays.com/)|[Umami Girl](https://umamigirl.com/)|
 |[Umami Inspiration](https://umamiinspiration.org.uk/)|[Unbound Wellness](https://unboundwellness.com/)|[Uncle Jerry's Kitchen](https://www.unclejerryskitchen.com/)|[Uncultured Palate](https://www.unculturedpalate.com/)|[Uncut Recipes](https://uncutrecipes.com/)|
 |[Under 500 Calories](https://under500calories.com/)|[United Noshes](https://www.unitednoshes.com/)|[University of Idaho](https://www.uidaho.edu/extension/seafood-at-its-best/recipes)|[The Unmodern Woman](https://www.theunmodernwoman.com/)|[Unpeeled Journal](https://unpeeledjournal.com/)|
-|[Upstate Ramblings](https://www.upstateramblings.com/)|[Urban Bliss Life](https://urbanblisslife.com/)|[Urban Tummy](https://blog.urbantummy.com/)|[Unsophisticook](https://unsophisticook.com/)|[Urban Domestic Diva](https://urbandomesticdiva.com/cooking-recipes/)|
-|[Utopia](https://utopia.org/food/)|
+|[Upstate Ramblings](https://www.upstateramblings.com/)|[Urban Bliss Life](https://urbanblisslife.com/)|[Unsophisticook](https://unsophisticook.com/)|[Urban Domestic Diva](https://urbandomesticdiva.com/cooking-recipes/)|[Utopia](https://utopia.org/food/)|
 
 | V   |     |     |     |     |
 | --- | --- | --- | --- | --- |
