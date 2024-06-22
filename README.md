@@ -2454,9 +2454,8 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[The Adventure Bite](https://theadventurebite.com/)|[Backpacking Chef](https://www.backpackingchef.com/)|[Be Wild Eats](https://bewildeats.com/)|[Beyond the Tent](https://www.beyondthetent.com/category/camping-food/)|[Camping for Foodies](https://www.campingforfoodies.com/camping-food/)|
-|[**Kent Rollins**](https://kentrollins.com/)|
-|[**Eureka!**](https://www.eurekacamping.com/recipes)|[Frog Mom](https://frogmom.com/)|[Glamper Life](https://glamperlife.com/category/food/)|[**Koa**](https://koa.com/camping-recipes/)|[Let's Camp S'More](https://letscampsmore.com/)|
-|[Real Tree](https://www.realtree.com/timber-2-table-wild-game-recipes)|[**REI**](https://www.rei.com/learn/c/camping/t/recipes)|[Van Life Eats](https://vanlifeeats.com/)|[The Wildwood Glen](https://thewildwoodglen.com/)|
+|[**Kent Rollins**](https://kentrollins.com/)|[**Eureka!**](https://www.eurekacamping.com/recipes)|[Frog Mom](https://frogmom.com/)|[Glamper Life](https://glamperlife.com/category/food/)|[**Koa**](https://koa.com/camping-recipes/)|
+|[Let's Camp S'More](https://letscampsmore.com/)|[Real Tree](https://www.realtree.com/timber-2-table-wild-game-recipes)|[**REI**](https://www.rei.com/learn/c/camping/t/recipes)|[Van Life Eats](https://vanlifeeats.com/)|[The Wildwood Glen](https://thewildwoodglen.com/)|
 
 ### Cast Iron
 |     |     |     |     |     |
@@ -2470,9 +2469,9 @@
 |[Fermenters Club](https://fermentersclub.com/category/recipes/)|[Fermenters Kitchen](https://fermenterskitchen.com/)|[Fermenting for Foodies](https://www.fermentingforfoodies.com/)|[Fermentology](https://fermentology.pubpub.org/recipes)|[Food in Jars](https://foodinjars.com/recipes/)|
 |[Food Preserving](http://www.foodpreserving.org/)|[Great Lakes Prepping](https://www.greatlakesprepping.com/)|[Grow Forage Cook Ferment](https://www.growforagecookferment.com/)|[Homegrown Happiness](https://homegrownhappiness.com/)|[Homespun Seasonal Living](https://homespunseasonalliving.com/)|
 |[Insane in the Brine](https://insaneinthebrine.com/)|[Jem Ferments](https://jemferments.com/blog/)|[Just Dabbling Along](https://www.justdabblingalong.com/homestead-life/food/)|[Lady Lee's Home](https://ladyleeshome.com/)|[Mary's Nest](https://marysnest.com/)|
-|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|[My Fermentation](https://www.myfermentation.com/)|[My Homemade Roots](https://myhomemaderoots.com/)|[Old World Garden Farms](https://oldworldgardenfarms.com/cooking-and-canning-recipes/)|[An Oregon Cottage](https://anoregoncottage.com/)|
-|[Our Gabled Home](https://ourgabledhome.com/)|[Practical Self-Reliance](https://practicalselfreliance.com/)|[Prepared Housewives](http://prepared-housewives.com/food-storage-recipes-index/)|[Preparedness Mama](https://preparednessmama.com/food-storage/food-storage-recipes/)|[The Purposeful Pantry](https://www.thepurposefulpantry.com/)|
-|[Ready and Thriving](https://readyandthriving.com/)|[**Revolution Fermentation**](https://revolutionfermentation.com/en/)|[Schneider Peeps](https://www.schneiderpeeps.com/)|[Wild Fermentation](https://www.wildfermentation.com/)|
+|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|[My Fermentation](https://www.myfermentation.com/)|[Old World Garden Farms](https://oldworldgardenfarms.com/cooking-and-canning-recipes/)|[An Oregon Cottage](https://anoregoncottage.com/)|[Our Gabled Home](https://ourgabledhome.com/)|
+|[Practical Self-Reliance](https://practicalselfreliance.com/)|[Prepared Housewives](http://prepared-housewives.com/food-storage-recipes-index/)|[Preparedness Mama](https://preparednessmama.com/food-storage/food-storage-recipes/)|[The Purposeful Pantry](https://www.thepurposefulpantry.com/)|[Ready and Thriving](https://readyandthriving.com/)|
+|[**Revolution Fermentation**](https://revolutionfermentation.com/en/)|[Schneider Peeps](https://www.schneiderpeeps.com/)|[Wild Fermentation](https://www.wildfermentation.com/)|
 
 ### Pressure Cooker
 |     |     |     |     |     |
