@@ -2348,12 +2348,13 @@
 - #### Bread
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[A Beautiful Plate](https://www.abeautifulplate.com/)|[Artisan Bryan](https://www.artisanbryan.com/)|[Back to Our Roots](https://www.backtoourroots.net/)|[Baking Hermann](https://bakinghermann.com/)|[Biancolievito](https://biancolievito.com/)|
-|[Bread Dad](https://breaddad.com/)|[The Bread Kitchen](http://www.thebreadkitchen.com/)|[Bread Maker Machines](https://www.breadmakermachines.com/)|[**Breadman**](http://www.breadman.com/)|[Breadtopia](https://breadtopia.com/)|
-|[The Clever Carrot](https://www.theclevercarrot.com/)|[Cook 'Til Delicious](https://cooktildelicious.com/)|[Culinary Exploration](https://www.culinaryexploration.eu/blog)|[The Flavor Bells](https://theflavorbells.com/)|[The Fresh Loaf](https://www.thefreshloaf.com/)|
-|[Grant Bakes](https://grantbakes.com/)|[Heghineh](https://heghineh.com/)|[Home-Grown Happiness](https://homegrownhappiness.com/)|[Little Spoon Farm](https://littlespoonfarm.com/)|[Mary's Nest](https://marysnest.com/)|
-|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|[My Odessa Cuisine](http://www.myodessacuisine.com/en/)|[Natasha's Baking](https://natashasbaking.com/)|[Our Gabled Home](https://ourgabledhome.com/)|[Pantry Mama](https://www.pantrymama.com/)|
-|[The Perfect Loaf](https://www.theperfectloaf.com/)|[Sammy Wong's Kitchen](https://sammywongskitchen.com/)|[Sue Bee Homemaker](https://suebeehomemaker.com/)|[True Sourdough](https://truesourdough.com/)|
+|[A Beautiful Plate](https://www.abeautifulplate.com/)|[Back to Our Roots](https://www.backtoourroots.net/)|[Baking Hermann](https://bakinghermann.com/)|[Biancolievito](https://biancolievito.com/)|[Bread Dad](https://breaddad.com/)|
+|[The Bread Kitchen](http://www.thebreadkitchen.com/)|[Bread Maker Machines](https://www.breadmakermachines.com/)|[**Breadman**](http://www.breadman.com/)|[Breadtopia](https://breadtopia.com/)|[The Clever Carrot](https://www.theclevercarrot.com/)|
+|[Cook 'Til Delicious](https://cooktildelicious.com/)|[Culinary Exploration](https://www.culinaryexploration.eu/blog)|[The Flavor Bells](https://theflavorbells.com/)|[The Fresh Loaf](https://www.thefreshloaf.com/)|[Grant Bakes](https://grantbakes.com/)|
+|[Heghineh](https://heghineh.com/)|[Home-Grown Happiness](https://homegrownhappiness.com/)|[Little Spoon Farm](https://littlespoonfarm.com/)|[Mary's Nest](https://marysnest.com/)|
+|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|
+|[Natasha's Baking](https://natashasbaking.com/)|[Our Gabled Home](https://ourgabledhome.com/)|[Pantry Mama](https://www.pantrymama.com/)|[The Perfect Loaf](https://www.theperfectloaf.com/)|[Sammy Wong's Kitchen](https://sammywongskitchen.com/)|
+|[Sue Bee Homemaker](https://suebeehomemaker.com/)|[True Sourdough](https://truesourdough.com/)|
 
 - #### General
 |     |     |     |     |     |
