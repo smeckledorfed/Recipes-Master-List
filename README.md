@@ -2300,8 +2300,8 @@
 ### Tofu
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Hodo**](https://www.hodofoods.com/recipes)|[**House of Leaf and Bean**](https://houseofleafandbean.com/blog/)|[**House Foods**](https://www.house-foods.com/recipes/)|[**Nasoya**](https://www.nasoya.com/recipes/)|[**Phoenix Bean**](https://www.phoenixbean.com/recipes.html)|
-|[**Soy Boy**](https://soyboy.com/recipes/)|[**Sunrise Soya**](https://sunrise-soya.com/recipes/)|[**Wildwood**](https://wildwoodfoods.com/our-recipes/)|
+|[**Hodo**](https://www.hodofoods.com/recipes)|[**House Foods**](https://www.house-foods.com/recipes/)|[**Nasoya**](https://www.nasoya.com/recipes/)|[**Phoenix Bean**](https://www.phoenixbean.com/recipes.html)|[**Soy Boy**](https://soyboy.com/recipes/)|
+|[**Sunrise Soya**](https://sunrise-soya.com/recipes/)|[**Wildwood**](https://wildwoodfoods.com/our-recipes/)|
 
 ### Vegetables
 |     |     |     |     |     |
