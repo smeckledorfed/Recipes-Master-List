@@ -403,7 +403,8 @@
 |[Contemplating Sweets](https://www.contemplatingsweets.com/)|[Cook & Meshiagare](https://meshiagare.tokyo/)|[Cooking With Dog](https://cookingwithdog.com/)|[Create Eat Happy](https://createeathappy.blogspot.com/)|[Ellie Likes Cooking](https://www.ellielikes.cooking/)|
 |[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Hiroko's Recipes](https://www.hirokoliston.com/)|[It's My Dish](https://itsmydish.com/)|[Japan Centre](https://www.japancentre.com/en/recipe)|[Japanese Cooking 101](https://www.japanesecooking101.com/)|
 |[Japan Food Addict](http://www.japanfoodaddict.com/)|[Japanese Food at Home](https://japfoodathome.com/)|[The Japanese Kitchen](https://thejapanesekitchen.com/)|[Japan McConnell](https://japanmcconnell.com/)|[Japan-Recipe](https://www.japan-recipe.com/)|
-|[The Japan Store](https://thejapanstore.us/)|[Japanese Sushi Recipes](https://japanesesushirecipes.info/)|[Japan Taste](https://japan-taste.com/)|[The Japantry](https://thejapantry.com/)|[JP Foodie](https://japanesefoods.net/)|
+
+|[The Japan Store](https://thejapanstore.us/)|[Japan Taste](https://japan-taste.com/)|[The Japantry](https://thejapantry.com/)|[JP Foodie](https://japanesefoods.net/)|
 |[J-Simple Recipes](http://j-simplerecipes.com/)|[Just One Cookbook](https://www.justonecookbook.com/)|[Kozmo Kitchen](https://www.kozmokitchen.com/)|[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kyoto Foodies](https://kyotofoodie.com/category/recipe/)|
 |[La Petit Noisette](https://lapetitnoisette.com/)|[Norio on Wine and Food](https://norioonwine.blogspot.com/)|[Oishi Washoku Recipes](https://www.oishi-washoku-recipes.com/)|[Otaku Food](https://www.otakufood.com/)|[Pickled Plum](https://pickledplum.com/)|
 |[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[RyoKoch](https://ryukoch.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|
@@ -2261,22 +2262,22 @@
 ### Supplements
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**AGN Roots**](https://agnroots.com/blogs/the-best-grassfed-whey-recipes)|[**Ascent Protein**](https://www.ascentprotein.com/blogs/recipes)|[**Bulletproof**](https://www.bulletproof.com/recipes/)|[Chia Seed Recipes](http://www.chiaseedrecipes.com/)|[**Creation Nation**](https://proteinbarmix.com/blogs/recipes)|
-|[**Designer Wellness**](https://designerwellness.com/blogs/recipes)|[**Elemental Raw**](https://elemental-raw.com/blog/)|[**Everipe**](https://everipe.com/blogs/news)|[**Exo Protein**](https://exoprotein.com/blogs/recipes)|[**Feel Good Superfoods**](https://feelgoodsuperfoods.com/blogs/recipes)|
-|[**Flava Naturals**](https://flavanaturals.com/recipes/)|[**Flav City**](https://www.flavcity.com/recipes/)|[**Garden of Life**](https://www.gardenoflife.com/blog/recipes)|[**Go BSN**](https://www.gobsn.com/en-us/recipes)|[**Goldyn Glow**](https://www.goldynglow.com/blogs/recipes)|
-|[**Good Belly**](https://goodbelly.com/recipes/)|[**Great Lakes Wellness**](https://greatlakeswellness.com/blogs/recipes/)|[**Green Kitchen Stories**](https://greenkitchenstories.com/recipe-index/)|[**Green Thumb Foods**](https://greenthumbfoods.com/recipes/)|[**Herba Zest**](https://www.herbazest.com/recipes)|
-|[**Hye Foods**](https://hyefoods.com/food-recipe/)|[**Imlak'esh Organics**](https://imlakeshorganics.com/blogs/recipes)|[**Kachava**](https://www.kachava.com/pages/kachava-kitchen)|[**KOS**](https://kitchen.kos.com/)|[**Koyah**](https://www.koyah.com/blogs/recipes)|
-|[**Legion Athletics**](https://legionathletics.com/category/recipes/)|[**Levels Protein**](https://levelsprotein.com/blogs/recipes)|[**Love Lil' Bucks**](https://lovelilbucks.com/blogs/recipes)|[**Mana**](https://drinkmana.com/pages/recipes)|[**Manitoba Flax**](https://manitobaflax.com/flax-recipes/)|
-|[**Mega Food**](https://megafood.com/blogs/all/tagged/recipes)|[**Mikuna Foods**](https://mikunafoods.com/blogs/regenerative/tagged/recipes)|[**My Nature's Harvest**](https://mynaturesharvest.com.au/blogs/recipes)|[**Naked Nutrition**](https://nakednutrition.com/blogs/recipes)|[**Navitas Organics**](https://navitasorganics.com/blogs/recipes)|
-|[**New Farmers**](https://www.new-farmers.com/pages/how-to)|[**Optimum Nutrition**](https://www.optimumnutrition.com/en-us/recipes)|[**Orgain**](https://orgain.com/blogs/recipes)|[**Oriya Organics**](https://oriyaorganics.com/blogs/news)|[**OWYN**](https://liveowyn.com/blog/categories/recipes/)|
-|[**Planet Protein**](https://planetprotein.com/blogs/recipes)|[**Plant Fusion Life**](https://plantfusion.com/blogs/the-plantfusion-life-recipes)|[**Rheal Superfoods**](https://rhealsuperfoods.com/blogs/recipes)|[**Ryze Superfoods**](https://www.ryzesuperfoods.com/pages/recipes)|[**Simply Fuel**](https://simplyfuel.com/blogs/recipes)|
-|[**Sprout Living**](https://sproutliving.com/blogs/recipes)|[**Sun Wink**](https://sunwink.com/blogs/recipes)|[**Terra Soul**](https://www.terrasoul.com/blogs/recipes)|[**Tou Foods**](https://www.toufood.com/blog/?lang=en)|[**Truth Bar**](https://truthbar.com/blogs/recipes)|
-|[**Ultima Replenisher**](https://www.ultimareplenisher.com/blogs/recipe)|[**Wellious**](https://www.wellious.co/recipes)|[**World of Chia**](https://www.worldofchia.com/chia-recipes/)|[**Yourlixir**](https://yourlixir.com/blogs/recipes-1)|
+|[**AGN Roots**](https://agnroots.com/blogs/the-best-grassfed-whey-recipes)|[**Ascent Protein**](https://www.ascentprotein.com/blogs/recipes)|[**Bulletproof**](https://www.bulletproof.com/recipes/)|[**Creation Nation**](https://proteinbarmix.com/blogs/recipes)|[**Designer Wellness**](https://designerwellness.com/blogs/recipes)|
+|[**Elemental Raw**](https://elementalsuperfood.com/blog/)|[**Exo Protein**](https://exoprotein.com/blogs/recipes)|[**Feel Good Superfoods**](https://feelgoodsuperfoods.com/blogs/recipes)|[**Flava Naturals**](https://flavanaturals.com/recipes/)|[**Flav City**](https://www.flavcity.com/recipes/)|
+|[**Garden of Life**](https://www.gardenoflife.com/blog/recipes)|[**Go BSN**](https://www.gobsn.com/en-us/recipes)|[**Goldyn Glow**](https://www.goldynglow.com/blogs/recipes)|[**Good Belly**](https://goodbelly.com/recipes/)|[**Great Lakes Wellness**](https://greatlakeswellness.com/blogs/recipes/)|
+|[**Green Kitchen Stories**](https://greenkitchenstories.com/recipe-index/)|[**Green Thumb Foods**](https://greenthumbfoods.com/recipes/)|[**Herba Zest**](https://www.herbazest.com/recipes)|[**Hye Foods**](https://hyefoods.com/food-recipe/)|[**Imlak'esh Organics**](https://imlakeshorganics.com/blogs/recipes)|
+|[**Kachava**](https://www.kachava.com/pages/kachava-kitchen)|[**KOS**](https://kitchen.kos.com/)|[**Koyah**](https://www.koyah.com/blogs/recipes)|[**Legion Athletics**](https://legionathletics.com/category/recipes/)|[**Levels Protein**](https://levelsprotein.com/blogs/recipes)|
+|[**Love Lil' Bucks**](https://lovelilbucks.com/blogs/recipes)|[**Mana**](https://drinkmana.com/pages/recipes)|[**Manitoba Flax**](https://manitobaflax.com/flax-recipes/)|[**Mega Food**](https://megafood.com/blogs/all/tagged/recipes)|[**Mikuna Foods**](https://mikunafoods.com/blogs/regenerative/tagged/recipes)|
+|[**My Nature's Harvest**](https://mynaturesharvest.com.au/blogs/recipes)|[**Naked Nutrition**](https://nakednutrition.com/blogs/recipes)|[**Navitas Organics**](https://navitasorganics.com/blogs/recipes)|[**New Farmers**](https://www.new-farmers.com/pages/how-to)|[**Optimum Nutrition**](https://www.optimumnutrition.com/en-us/recipes)|
+|[**Orgain**](https://orgain.com/blogs/recipes)|[**Oriya Organics**](https://oriyaorganics.com/blogs/news)|[**OWYN**](https://liveowyn.com/blog/categories/recipes/)|[**Planet Protein**](https://planetprotein.com/blogs/recipes)|[**Plant Fusion Life**](https://plantfusion.com/blogs/the-plantfusion-life-recipes)|
+|[**Rheal Superfoods**](https://rhealsuperfoods.com/blogs/recipes)|[**Ryze Superfoods**](https://www.ryzesuperfoods.com/pages/recipes)|[**Simply Fuel**](https://simplyfuel.com/blogs/recipes)|[**Sprout Living**](https://sproutliving.com/blogs/recipes)|[**Sun Wink**](https://sunwink.com/blogs/recipes)|
+|[**Terra Soul**](https://www.terrasoul.com/blogs/recipes)|[**Tou Foods**](https://www.toufood.com/blog/?lang=en)|[**Truth Bar**](https://truthbar.com/blogs/recipes)|[**Ultima Replenisher**](https://www.ultimareplenisher.com/blogs/recipe)|[**Wellious**](https://www.wellious.co/recipes)|
+|[**World of Chia**](https://www.worldofchia.com/chia-recipes/)|
 
 ### Sushi
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Crafty Cookbook](https://craftycookbook.com/)|[Ichi Sushi](https://ichisushi.com/category/recipes/)|[Japanese Sushi Recipes](https://japanesesushirecipes.info/)|[Make Sushi](https://www.makesushi.com/)|
+|[Crafty Cookbook](https://craftycookbook.com/)|[Ichi Sushi](https://ichisushi.com/category/recipes/)|[Make Sushi](https://www.makesushi.com/)|
 
 ### Sweeteners
 |     |     |     |     |     |
