@@ -2827,8 +2827,9 @@
 
 | K   |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Kalefornia Kravings](https://kaleforniakravings.com/)|[Kalejunkie](https://kalejunkie.com/)|[Kaluhi's Kitchen](https://www.kaluhiskitchen.com/)|[Kampung Eats](https://kampungeats.com/about-us/)|[Karen's Kitchen Stories](https://www.karenskitchenstories.com/)|
-|[Karista Bennett](https://karistabennett.com/blog/)|[Karthi's Kitchen Studio](https://www.karthiskitchenstudio.com/)|[Kashewar](https://kashewar.com/en)|[Katfewd](https://www.katfewd.com/)|[Katheryn's Kitchen](http://katherynskitchen.com/)|
+|[Kalefornia Kravings](https://kaleforniakravings.com/)|[Kalejunkie](https://kalejunkie.com/)|[Kaluhi's Kitchen](https://www.kaluhiskitchen.com/)|[Kampung Eats](https://kampungeats.com/all-recipes/)|[Karen's Kitchen Stories](https://www.karenskitchenstories.com/)|
+
+|[Karista Bennett](https://karistabennett.com/blog/)|[Karthi's Kitchen Studio](https://www.karthiskitchenstudio.com/)|[Kashewar](https://kashewar.com/en)|[Katfewd](https://www.katfewd.com/)|
 |[Kathleen Ashmore](https://kathleenashmore.com/)|[Kathleen Flinn](https://kathleenflinn.com/recipes/)|[Kathy Miller Time](http://www.kathymillertime.com/signature-recipes/)|[Kathy R. Miller](http://www.kathyrmiller.com/)|[Katie Lee Biegel](https://www.katieleebiegel.com/recipes)|
 |[Katie in Her Kitchen](https://www.katieinherkitchen.com/)|[Katie Pix](https://www.katiepix.com/)|[Katnip Kafe](http://katnipkafe.com/)|[Katy's Food Finds](https://www.katysfoodfinds.com/)|[Kauna Kitchen](https://kaunakitchen.com/)|
 |[Kay Nutrition](https://kaynutrition.com/)|[Kay's Clean Eats](https://www.kayscleaneats.com/)|[KCET](https://www.kcet.org/food-discovery/recipes)|[Kearby's Kitchen](http://kearbyskitchen.blogspot.com/)|[Keef Cooks](https://keefcooks.com/)|
