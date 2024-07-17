@@ -2112,22 +2112,20 @@
 - #### Beef
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Arkansas Beef](https://www.arkansasbeef.org/recipes)|[Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)|[Beef Loving Texans](https://beeflovingtexans.com/)|[**Cape Grim Beef**](https://www.capegrimbeef.com.au/)|[**Certified Angus Beef**](https://www.certifiedangusbeef.com/)|
-|[**Chomps**](https://chomps.com/blogs/recipes)|[**Country Natural Beef**](https://countrynaturalbeef.com/blogs/recipes)|[**Grassland Beef**](https://discover.grasslandbeef.com/blog/category/recipes/)|[**Grischuna**](https://www.grischuna.ch/en/produkte/buendnerfleisch/)|[**Nathan's Franks**](https://nathansfranks.sfdbrands.com/en-us/recipes/)|
-|[New Mexico Beef](https://nmbeef.com/recipes)|[**Omnivore Meats**](https://omnivoremeats.com/blogs/recipes)|[**Pasture Prime Wagyu**](https://www.pastureprimewagyu.com/)|[**Pre**](https://www.eatpre.com/pages/all-recipes)|[**Rumba Meats**](https://rumbameats.com/recipes/)|
-|[**Stryve**](https://stryve.com/blogs/biltong/tagged/category-recipes)|[**Sun-Fed Ranch**](https://www.sunfedranch.com/category/recipes/)|[**Teton Waters Ranch**](https://www.tetonwatersranch.com/blogs/recipes)|[**Three Jerks Jerky**](https://www.threejerksjerky.com/blogs/news)|[**Trail's End Beef**](https://trailsendbeef.com/ranch-kitchen/recipes/)|
-|[**Verde Farms**](https://www.verdefarms.com/blog/)|
+|[Arkansas Beef](https://www.arkansasbeef.org/recipes)|[Beef: It's What's for Dinner](https://www.beefitswhatsfordinner.com/)|[Beef Loving Texans](https://beeflovingtexans.com/)|[**Cape Grim Beef**](https://www.capegrimbeef.com.au/recipes.html)|[**Certified Angus Beef**](https://www.certifiedangusbeef.com/)|
+|[**Chomps**](https://chomps.com/blogs/recipes)|[**Country Natural Beef**](https://countrynaturalbeef.com/blogs/recipes)|[**Grassland Beef**](https://discover.grasslandbeef.com/blog/category/recipes/)|[**Nathan's Franks**](https://nathansfranks.sfdbrands.com/en-us/recipes/)|[New Mexico Beef](https://nmbeef.com/recipes)|
+|[**Rumba Meats**](https://rumbameats.com/recipes/)|[**Stryve**](https://stryve.com/blogs/biltong/tagged/category-recipes)|[**Sun-Fed Ranch**](https://www.sunfedranch.com/category/recipes/)|[**Teton Waters Ranch**](https://www.tetonwatersranch.com/blogs/recipes)|[**Three Jerks Jerky**](https://www.threejerksjerky.com/blogs/news)|
+|[**Trail's End Beef**](https://trailsendbeef.com/ranch-kitchen/recipes/)|[**Verde Farms**](https://www.verdefarms.com/blog/)|
 - #### Chicken
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Aggelakis**](https://aggelakis.gr/en/syntages/)|[**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)|[All Chicken Recipes](https://www.allchickenrecipes.com/)|[**Bell and Evans**](https://www.bellandevans.com/)|[**Bilinski**](https://bilinski.com/our-recipes/)|
-|[Chicken Roost](https://www.chickenroost.com/)|[The Chicken Website](https://www.thechickenwebsite.com/)|[Easy Chicken Recipes](https://easychickenrecipes.com/)|[**Expresco Foods**](https://exprescofoods.com/recipes/)|[**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)|
-|[**Just Bare Chicken**](https://www.justbarechicken.com/recipes-tips/)|[**Miller Poultry**](https://millerpoultry.com/recipes/)|[**Perdue**](https://www.perdue.com/recipes/)|[**Roli Roti**](https://roliroti.com/recipes/)|[**Sanderson Farms**](https://sandersonfarms.com/recipes/)|
-|[**Sandra's Chicken**](https://sandraschicken.com/recipe-ideas)|[**Tyson**](https://www.tyson.com/recipes/)|
+|[**Aggelakis**](https://aggelakis.gr/en/syntages/)|[**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)|[All Chicken Recipes](https://www.allchickenrecipes.com/)|[**Bell and Evans**](https://www.bellandevans.com/)|[Chicken Roost](https://www.chickenroost.com/)|
+|[Easy Chicken Recipes](https://easychickenrecipes.com/)|[**Expresco Foods**](https://exprescofoods.com/recipes/)|[**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)|[**Just Bare**](https://www.justbarefoods.com/recipes/)|[**Miller Poultry**](https://millerpoultry.com/recipes/)|
+|[**Perdue**](https://www.perdue.com/recipes/)|[**Roli Roti**](https://roliroti.com/recipes/)|[**Sanderson Farms**](https://sandersonfarms.com/recipes/)|[**Tyson**](https://www.tyson.com/recipes/)|
 - #### Duck
 |     |     |
 | --- | --- |
-|[**Duck Fat Spray**](https://duckfatspray.com/better-for-food/recipes/)|[**Luv-A-Duck**](https://www.luvaduck.com.au/)|
+|[**Duck Fat Spray**](https://duckfatspray.com/pages/recipes)|[**Luv-A-Duck**](https://www.luvaduck.com.au/)|
 - #### Goat
 |     |     |
 | --- | --- |
@@ -2139,11 +2137,11 @@
 - #### Pork
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Applegate**](https://applegate.com/recipes)|[**Bavarian Meats**](https://bavarianmeats.com/)|[Bensa Bacon Lovers](https://bensabaconlovers.com/)|[**Bierman Bacon**](https://biermanbacon.com/blogs/news)|[**duBreton**](https://www.dubretonrecipes.com/en-us/recipes/)|
-|[Eat Pork](http://www.eatpork.org/)|[**Farmland Foods**](https://farmlandfoods.sfdbrands.com/en-us/recipes/)|[**Gaspar's Sausage**](https://www.gasparssausage.com/favrec.html)|[**Gwaltney Foods**](https://gwaltneyfoods.sfdbrands.com/en-us/recipes/)|[**Habbersett Scrapple**](https://www.habbersettscrapple.com/recipes)|
-|[**Hempler's**](https://hemplers.com/our-recipes/)|[**Jolly Posh Foods**](https://jollyposhfoods.com/blogs/recipes)|[**Mulay's**](https://mulays.com/pages/recipes)|[**Naked Bacon Co.**](https://www.nakedbaconco.com/blogs/recipes)|[**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)|
-|[Pork.org](https://www.pork.org/cooking-techniques/)|[**Silva Sausage**](https://www.silvasausage.com/recipes2021)|[**Southern Recipe Small Batch**](https://www.southernrecipesmallbatch.com/recipes)|[**Spam**](https://www.spam.com/recipes)|[**Tender Belly**](https://www.tenderbelly.com/blogs/recipes)|
-|[**True Story Foods**](https://www.truestoryfoods.com/recipes/)|[**Wright Brand**](https://www.wrightbrand.com/recipes/)|
+|[**Applegate**](https://applegate.com/recipes)|[**Bavarian Meats**](https://bavarianmeats.com/)|[Bensa Bacon Lovers](https://bensabaconlovers.com/)|[**duBreton**](https://www.dubretonrecipes.com/en-us/recipes/)|[Eat Pork](http://www.eatpork.org/)|
+|[**Farmland Foods**](https://farmlandfoods.sfdbrands.com/en-us/recipes/)|[**Gaspar's Sausage**](https://www.gasparssausage.com/favrec.html)|[**Gwaltney Foods**](https://gwaltneyfoods.sfdbrands.com/en-us/recipes/)|[**Habbersett Scrapple**](https://www.habbersettscrapple.com/recipes)|[**Hempler's**](https://hemplers.com/our-recipes/)|
+|[**Jolly Posh Foods**](https://jollyposhfoods.com/blogs/recipes)|[**Mulay's**](https://mulays.com/pages/recipes)|[**Naked Bacon Co.**](https://www.nakedbaconco.com/blogs/recipes)|[**Ontario Pork**](https://www.ontariopork.on.ca/recipes/)|[Pork.org](https://www.pork.org/cooking-techniques/)|
+|[**Silva Sausage**](https://www.silvasausage.com/recipes2021)|[**Southern Recipe Small Batch**](https://www.southernrecipesmallbatch.com/recipes)|[**Spam**](https://www.spam.com/recipes)|[**Tender Belly**](https://www.tenderbelly.com/blogs/recipes)|[**True Story Foods**](https://www.truestoryfoods.com/recipes/)|
+|[**Wright Brand**](https://www.wrightbrand.com/recipes/)|
 - #### Turkey
 |     |     |     |
 | --- | --- | --- |
