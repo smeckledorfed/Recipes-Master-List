@@ -2668,8 +2668,7 @@
 |[Erren's Kitchen](https://www.errenskitchen.com/)|[Escoffier Online](https://www.escoffieronline.com/blog/)|[Espresso and Lime](https://espressoandlime.com/)|[Ester Kocht](https://www.esterkocht.com/)|[Ethan Chlebowski](https://www.ethanchlebowski.com/cooking-techniques-recipes)|
 |[Ever After in the Woods](https://everafterinthewoods.com/)|[Ever Open Sauce](https://www.everopensauce.com/)|[Everyday Easy Eats](https://www.everydayeasyeats.com/)|[Everyday Family Cooking](https://www.everydayfamilycooking.com/)|[Everyday Great Falls](https://everydaygreatfalls.iga.com/Recipes/)|
 |[Everyday Reading](https://everyday-reading.com/category/recipes/)|[Every Last Bite](https://www.everylastbite.com/)|[Every Nook and Cranny](https://www.everynookandcranny.net/)|[Everything Delish](https://everything-delish.com/)|[Everything Erica](https://www.everythingerica.com/)|
-|[Everything Zoomer](https://www.everythingzoomer.com/food-drink-entertaining)|[Evolving Table](https://www.evolvingtable.com/)|[Explore Cook Eat](https://explorecookeat.com/)|[Extra Virgin Food & Travel](https://www.extravirginfoodandtravel.com/)|[Eyes Closed Cooking](https://eyesclosedcooking.com/)|
-|[Easy Wholesome](https://fooddoodles.com/)|
+|[Everything Zoomer](https://www.everythingzoomer.com/food-drink-entertaining)|[Evolving Table](https://www.evolvingtable.com/)|[Explore Cook Eat](https://explorecookeat.com/)|[Eyes Closed Cooking](https://eyesclosedcooking.com/)|[Easy Wholesome](https://fooddoodles.com/)|
 
 | F   |     |     |     |     |
 | --- | --- | --- | --- | --- |
