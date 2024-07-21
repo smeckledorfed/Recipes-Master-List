@@ -2064,9 +2064,9 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**Carolina Rice**](https://carolinarice.com/)|[**Daawat**](https://www.daawat.com/recipes)|[**European Rice**](https://www.europeanrice.eu/recipes/)|[**Lion Brand**](https://www.lionbrand.com.au/recipes/)|[**Lotus Foods**](https://www.lotusfoods.com/blogs/recipes)|
-|[**Minute Rice**](https://minuterice.com/recipes/)|[**Rice-a-Roni**](https://www.ricearoni.com/recipes)|[**Riceland**](https://www.riceland.com/recipes)|[**Rice Select**](https://riceselect.com/recipes)|[**RightRice**](https://rightrice.com/blogs/recipes)|
-|[**Riso Scotti**](https://www.risoscotti.com/creative-cooking/)|[**Success Rice**](https://successrice.com/recipes/)|[**Sunwhite**](https://sunwhite.me/en/rice-recipes/)|[**Tilda Rice**](https://www.tilda.com/recipes/)|[**Tinkyada**](https://www.tinkyada.com/good-recipe)|
-|[**White House Farms**](https://whitehousefarms.com/blogs/recipes)|[**Zatarain's**](https://www.mccormick.com/zatarains/recipes)|
+|[**Minute Rice**](https://minuterice.com/recipes/)|[**Rice-a-Roni**](https://www.ricearoni.com/recipes)|[**Riceland**](https://www.riceland.com/recipes)|[**Rice Select**](https://riceselect.com/recipes)|[**Riso Scotti**](https://www.risoscotti.com/creative-cooking/)|
+|[**Success Rice**](https://successrice.com/recipes/)|[**Sunwhite**](https://sunwhite.me/en/rice-recipes/)|[**Tilda Rice**](https://www.tilda.com/recipes/)|[**Tinkyada**](https://www.tinkyada.com/good-recipe)|[**White House Farms**](https://whitehousefarms.com/blogs/recipes)|
+|[**Zatarain's**](https://www.mccormick.com/zatarains/recipes)|
 
 ### Herbs & Spices
 |     |     |     |     |     |
