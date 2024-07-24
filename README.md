@@ -1950,17 +1950,16 @@
 - #### Ice Cream
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Blue Bell**](https://www.bluebell.com/recipes/)|[Damn Good Ice Cream](https://damngoodicecream.com/)|[**Gallivant Ice Creams**](https://gallivanticecreams.com/blogs/news/all-recipes)|[Gelato Boss](https://gelatoboss.com/)|[Ice Cream From Scratch](https://icecreamfromscratch.com/)|
-|[Serving Ice Cream](https://www.serving-ice-cream.com/)|[**Sweet Tree Creamery**](https://sweettreecreamery.com/ideas-and-recipes)|[**True Scoops**](https://maketruescoops.com/blogs/blog)|[**Turkey Hill**](https://www.turkeyhill.com/recipes)|[**Wink Frozen Desserts**](https://winkfrozendesserts.com/)|
+|[**Blue Bell**](https://www.bluebell.com/recipes/)|[Damn Good Ice Cream](https://damngoodicecream.com/)|[**Gallivant Ice Creams**](https://gallivanticecreams.com/recipes/)|[Ice Cream From Scratch](https://icecreamfromscratch.com/)|[Serving Ice Cream](https://www.serving-ice-cream.com/)|
+|[**True Scoops**](https://maketruescoops.com/blogs/blog)|[**Turkey Hill**](https://www.turkeyhill.com/recipes)|[**Wink Frozen Desserts**](https://winkfrozendesserts.com/)|
 
 - #### Milk
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**A2 Milk**](https://a2milk.com/recipes)|[**Advik Foos**](https://aadvikfoods.com/blogs/recipes)|[**Alta Dena Dairy**](https://altadenadairy.com/recipes/)|[**Arizona Milk**](https://arizonamilk.org/nutrition-and-recipes/recipes/)|[**Banana Wave**](https://bananawave.love/recipes)|
-|[**Carnation**](https://www.carnationmilk.ca/En/Recipes/Categories/Desserts)|[Coctione](http://www.coctione.com/)|[**Desert Farms**](https://desertfarms.com/blogs/recipes)|[**Eagle Brand**](https://www.eaglebrand.com/recipes/)|[**FairLife**](https://fairlife.com/recipes/)|
-|[**Florida Dairy Farmers**](https://www.floridamilk.com/in-the-kitchen/recipes/)|[**Garelick Farms**](https://garelickfarms.com/recipes/)|[**La Lechera**](https://www.goodnes.com/la-lechera/recipes/)|[**Lavva**](https://lovvelavva.com/in-the-wild/category/recipes/)|[**Media Crema**](https://www.goodnes.com/media-crema/recipes/all/)|
-|[**Murray's**](https://www.murrayscheese.com/great-taste)|[**Nestle Carnation**](https://www.verybestbaking.com/carnation/)|[**PET Milk**](https://www.petmilk.com/petmilk-recipes)|[**Real California Milk**](https://www.realcaliforniamilk.com/foodservicerecipes)|[**T.G. Lee Dairy**](https://tgleedairy.com/recipes/)|
-|[**Tuscan Dairy**](https://tuscandairy.com/recipes/)|
+|[**A2 Milk**](https://a2milk.com/recipes)|[**Advik Foos**](https://aadvikfoods.com/blogs/recipes)|[**Alta Dena Dairy**](https://altadenadairy.com/recipes/)|[**Arizona Milk**](https://arizonamilk.org/nutrition-and-recipes/recipes/)|[**Carnation**](https://www.carnationmilk.ca/En/Recipes/Categories/Desserts)|
+|[Coctione](http://www.coctione.com/)|[**Eagle Brand**](https://www.eaglebrand.com/recipes/)|[**FairLife**](https://fairlife.com/recipes/)|[**Florida Dairy Farmers**](https://www.floridamilk.com/in-the-kitchen/recipes/)|[**Garelick Farms**](https://garelickfarms.com/recipes/)|
+|[**La Lechera**](https://www.goodnes.com/la-lechera/recipes/)|[**Lavva**](https://lovvelavva.com/in-the-wild/category/recipes/)|[**Media Crema**](https://www.goodnes.com/media-crema/recipes/all/)|[**Murray's**](https://www.murrayscheese.com/great-taste)|[**Nestle Carnation**](https://www.verybestbaking.com/carnation/)|
+|[**PET Milk**](https://www.petmilk.com/petmilk-recipes)|[**Real California Milk**](https://www.realcaliforniamilk.com/foodservicerecipes)|[**T.G. Lee Dairy**](https://tgleedairy.com/recipes/)|[**Tuscan Dairy**](https://tuscandairy.com/recipes/)|
 
 - #### Yogurt
 |     |     |     |     |     |
