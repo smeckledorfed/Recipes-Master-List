@@ -2481,9 +2481,8 @@
 | #   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[2 Food Trippers](https://www.2foodtrippers.com/)|[2pots2cook](http://www.2pots2cook.com/)|[2 Sisters Recipes](https://2sistersrecipes.com/)|[3 Boys and a Dog](https://3boysandadog.com/simple-easy-recipes/)|[3 Scoops of Sugar](https://3scoopsofsugar.com/)|
-|[4 Sons R' Us](https://4sonrus.com/)|[12 Recipe Book](http://www.12recipebook.com/)|[30 Day Gourmet](http://30daygourmet.com/)|[31 Daily](https://www.31daily.com)|[The 36th Avenue](https://www.the36thavenue.com/category/recipes/)|
-|[40 Aprons](https://40aprons.com/)|[100k Recipes](https://100krecipes.com/)|[196 Flavors](https://www.196flavors.com/)|[500 Sandwiches](https://500sandwiches.com/)|[500 Spatulas](https://500spatulas.com/)|
-|[1001 Voyages Gourmands](https://1001voyagesgourmands.com/)|[30 Minute Meals](https://30minutesmeals.com/)|
+|[4 Sons R' Us](https://4sonrus.com/)|[31 Daily](https://www.31daily.com)|[The 36th Avenue](https://www.the36thavenue.com/category/recipes/)|[40 Aprons](https://40aprons.com/)|[100k Recipes](https://100krecipes.com/)|
+|[196 Flavors](https://www.196flavors.com/)|[500 Sandwiches](https://500sandwiches.com/)|[500 Spatulas](https://500spatulas.com/)|[1001 Voyages Gourmands](https://1001voyagesgourmands.com/)|[30 Minute Meals](https://30minutesmeals.com/)|
 
 | A   |     |     |     |     |
 | --- | --- | --- | --- | --- |
