@@ -1393,44 +1393,42 @@
 ### Halal
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Easy Halal Recipes](https://www.easyhalalrecipes.com/)|[ET Food Voyage](https://www.etfoodvoyage.com/)|[Halaal](https://halaal.recipes/)|[Halal Girl About Town](https://www.halalgirlabouttown.com/category/hgat-life/recipes/)|[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|
-|[Have Halal Will Travel](https://www.havehalalwilltravel.com/category/travel-guide/recipes)|[Hungry for Halaal](https://hungryforhalaal.co.za/category/recipes/)|[Islami Mommy](https://islamimommy.com/category/foodie/)|[Islamwich](https://islamwich.com/)|[Kitchen Flavours](https://kitchenflavours.net/)|
-|[**Midamar Halal**](https://midamarhalal.com/blogs/recipes)|[My Big Fat Halal Blog](http://www.mybigfathalalblog.com/)|[My Halal Restaurants](https://myhalalrestaurants.com/category/halal-recipes/)|[The Odehlicious](https://theodehlicious.com/)|[**With a Spin**](https://withaspin.com/eat/)|
-|[**Zabiha Halal**](https://zabihahalal.com/recipes/)|
+|[ET Food Voyage](https://www.etfoodvoyage.com/)|[Halaal](https://halaal.recipes/)|[Halal Girl About Town](https://www.halalgirlabouttown.com/category/hgat-life/recipes/)|[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Have Halal Will Travel](https://www.havehalalwilltravel.com/category/travel-guide/recipes)|
+|[Hungry for Halaal](https://hungryforhalaal.co.za/category/recipes/)|[Islami Mommy](https://islamimommy.com/category/foodie/)|[Islamwich](https://islamwich.com/)|[Kitchen Flavours](https://kitchenflavours.net/)|[**Midamar Halal**](https://midamarhalal.com/blogs/recipes)|
+|[My Big Fat Halal Blog](http://www.mybigfathalalblog.com/)|[My Halal Restaurants](https://myhalalrestaurants.com/category/halal-recipes/)|[The Odehlicious](https://theodehlicious.com/)|[**Zabiha Halal**](https://zabihahalal.com/recipes/)|
 
 ### High-Protein
 |     |
 | --- |
-|[Hurry the Food Up](https://hurrythefoodup.com/)|
+|(Eat the Gains)[https://eatthegains.com/]|[Hurry the Food Up](https://hurrythefoodup.com/)|(Lauren Fit Foods)[https://laurenfitfoodie.com/]|(Oh Snap Macros)[https://ohsnapmacros.com/]|(The Protein Chef)[https://theproteinchef.co/]|
 
 ### Jain
 |     |     |
 | --- | --- |
-|[Jain Foodie](https://www.jainfoodie.com/)|[Your Veg Recipe](https://yourvegrecipe.com/)|
+|[Your Veg Recipe](https://yourvegrecipe.com/)|
 
 ### Keto/Low-Carb
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[All Day I Dream About Food](https://alldayidreamaboutfood.com/)|[All Nutritious](https://allnutritious.com/)|[Around My Family Table](https://www.aroundmyfamilytable.com/eats-and-sweets/)|[Atkins (Canada)](https://atkins.ca/recipes/)|[Atkins (USA)](https://www.atkins.com/recipes)|
-|[The Best Keto Recipes](https://thebestketorecipes.com/)|[Better Than Bread Keto](https://betterthanbreadketo.com/)|[Black Tie Kitchen](https://www.blacktiekitchen.com/)|[**California Country Gal**](https://www.californiacountrygal.com/)|[Carb Manager](https://www.carbmanager.com/recipes/)|
-|[Cast Iron Keto](https://www.castironketo.net/)|[Castle in the Mountains](https://castleinthemountains.com/)|[Charlie Foundation](https://charliefoundation.org/keto-recipes/)|[Chi Chi Uguru](https://www.chichiuguru.com/)|[**Choc Zero**](https://www.choczero.com/blogs/recipes)|
-|[Culinary Lion](https://www.culinarylion.com/)|[Daily Rebecca](https://www.dailyrebecca.com/)|[Ditch the Carbs](https://www.ditchthecarbs.com/)|[Ditch the Wheat](https://ditchthewheat.com/)|[Dr. Berg](https://www.drberg.com/keto-recipes)|
-|[**Eat Sweet Logic**](https://eatsweetlogic.com/blogs/news)|[Explorer Momma](https://explorermomma.com/)|[Fat for Weight Loss](https://www.fatforweightloss.com.au/)|[Fearless Keto](https://fearlessketo.com/)|[Fit Mom Journey](https://fitmomjourney.com/)|
-|[Flour Me with Love](https://flourmewithlove.com/)|[Gnom Gnom](https://www.gnom-gnom.com/)|[**Good Good**](https://goodgoodbrand.com/blogs/recipes)|[Greek Goes Keto](https://www.greekgoesketo.com/)|[Greek Keto](https://greekketo.com/)|
-|[Headbanger's Kitchen](https://headbangerskitchen.com/)|[Health Benefits Times](https://www.healthbenefitstimes.com/recipe/)|[Healthful Pursuit](https://www.healthfulpursuit.com/)|[Healthy Recipes Blogs](https://healthyrecipesblogs.com/)|[Healy Eats Real](https://healyeatsreal.com/)|
-|[Hip 2 Keto](https://hip2keto.com/)|[Holistic Yum](https://holisticyum.com/)|[How to Cook with Vesna](https://howtocookwithvesna.com/)|[How to This and That](https://howtothisandthat.com/)|[The Hungry Elephant](https://www.thehungryelephant.ca/)|
-|[Hungry Squirrel](https://www.hungrysquirrel.com/blogs/recipes)|[I Breathe I'm Hungry](https://www.ibreatheimhungry.com/)|[I'd Rather Be a Chef](https://www.idratherbeachef.com/)|[Jennifer Banz](https://jenniferbanz.com/)|[Kalyn's Kitchen](https://kalynskitchen.com/)|
-|[Kasey Trenum](https://kaseytrenum.com/)|[**Keto and Co.**](https://ketoand.co/blogs/recipes)|[**Keto Farms**](https://ketofarms.com/blogs/recipes)|[Keto Focus](https://www.ketofocus.com/)|[**Keto Foods**](https://ketofoods.com/blogs/recipes)|
-|[KETohh](https://ketohh.com/)|[Keto in Pearls](https://ketoinpearls.com/)|[Keto Jules](https://www.ketojules.com/)|[Keto Karma](https://ketokarma.com/)|[Keto Meals and Recipes](https://www.ketomealsandrecipes.com/)|
+|[The Best Keto Recipes](https://thebestketorecipes.com/)|[Better Than Bread Keto](https://betterthanbreadketo.com/)|[Black Tie Kitchen](https://www.blacktiekitchen.com/)|[Carb Manager](https://www.carbmanager.com/recipes/)|[Cast Iron Keto](https://www.castironketo.net/)|
+|[Castle in the Mountains](https://castleinthemountains.com/)|[Charlie Foundation](https://charliefoundation.org/keto-recipes/)|[Chi Chi Uguru](https://www.chichiuguru.com/)|[**Choc Zero**](https://www.choczero.com/blogs/recipes)|[Culinary Lion](https://www.culinarylion.com/)|
+|[Daily Rebecca](https://www.dailyrebecca.com/)|[Ditch the Carbs](https://www.ditchthecarbs.com/)|[Ditch the Wheat](https://ditchthewheat.com/)|[Dr. Berg](https://www.drberg.com/keto-recipes)|[**Eat Sweet Logic**](https://eatsweetlogic.com/blogs/news)|
+|[Explorer Momma](https://explorermomma.com/)|[Fat for Weight Loss](https://www.fatforweightloss.com.au/)|[Fearless Keto](https://fearlessketo.com/)|[Fit Mom Journey](https://fitmomjourney.com/)|[Gnom Gnom](https://www.gnom-gnom.com/)|
+|[**Good Good**](https://goodgoodbrand.com/blogs/recipes)|[Greek Goes Keto](https://www.greekgoesketo.com/)|[Headbanger's Kitchen](https://headbangerskitchen.com/)|[Health Benefits Times](https://www.healthbenefitstimes.com/recipe/)|[Healthful Pursuit](https://www.healthfulpursuit.com/)|
+|[Healthy Recipes Blogs](https://healthyrecipesblogs.com/)|[Healy Eats Real](https://healyeatsreal.com/)|[Hip 2 Keto](https://hip2keto.com/)|[Holistic Yum](https://holisticyum.com/)|[How to Cook with Vesna](https://howtocookwithvesna.com/)|
+|[How to This and That](https://howtothisandthat.com/)|[The Hungry Elephant](https://www.thehungryelephant.ca/)|[Hungry Squirrel](https://www.hungrysquirrel.com/blogs/recipes)|[I Breathe I'm Hungry](https://www.ibreatheimhungry.com/)|[I'd Rather Be a Chef](https://www.idratherbeachef.com/)|
+|[Jennifer Banz](https://jenniferbanz.com/)|[Kalyn's Kitchen](https://kalynskitchen.com/)|[Kasey Trenum](https://kaseytrenum.com/)|[**Keto Farms**](https://ketofarms.com/blogs/recipes)|[Keto Focus](https://www.ketofocus.com/)|
+|[**Keto Foods**](https://ketofoods.com/blogs/recipes)|[KETohh](https://ketohh.com/)|[Keto in Pearls](https://ketoinpearls.com/)|[Keto Karma](https://ketokarma.com/)|[Keto Meals and Recipes](https://www.ketomealsandrecipes.com/)|
 |[Keto Size Me](https://ketosizeme.com/)|[Kicking Carbs](https://kicking-carbs.com/)|[Kiss My Keto](https://blog.kissmyketo.com/recipes/)|[Lara Clevenger](https://laraclevenger.com/)|[Lena's Kitchen Blog](https://lenaskitchenblog.com/)|
-[Life Made Keto](https://lifemadeketo.com/)|[The Little Pine](https://www.thelittlepine.com/recipes/)|[Lovin' It Keto](https://www.lovinitketo.com/)|[Low-Carb Africa](https://lowcarbafrica.com/)|[Low-Carbing Asian](https://www.lowcarbingasian.com/)|
+|[Life Made Keto](https://lifemadeketo.com/)|[The Little Pine](https://www.thelittlepine.com/recipes/)|[Lovin' It Keto](https://www.lovinitketo.com/)|[Low-Carb Africa](https://lowcarbafrica.com/)|[Low-Carbing Asian](https://www.lowcarbingasian.com/)|
 |[Low Carb Love](https://www.lowcarblove.com/)|[Low-Carb Maven](https://www.lowcarbmaven.com/)|[Low-Carb Nikki](https://www.lowcarbnikki.com/)|[Low-Carb Yum](https://lowcarbyum.com/)|[Maebells](https://www.maebells.com/)|
-|[Mama Bear's Cookbook](https://mamabearscookbook.com/)|[Maria Mind Body Health](https://mariamindbodyhealth.com/)|[My Crast Test Life](https://mycrashtestlife.com/)|[My Keto Kitchen](https://www.myketokitchen.com/)|[My Ketogenic Kitchen](https://www.myketogenickitchen.com/)|
-|[North-South Blonde](https://northsouthblonde.com/category/recipes/)|[The Nourished Caveman](https://thenourishedcaveman.com/)|[Peace Love and Low-Carb](https://peaceloveandlowcarb.com/)|[The Perfect Curry](https://theperfectcurry.com/)|[Perfect Keto](https://perfectketo.com/recipes/)|
-|[Queen Keto](https://queenketo.com/)|[Real Balanced](https://realbalanced.com/)|[Real Good Foods](https://realgoodfoods.com/blogs/recipes)|[ruled.me](https://www.ruled.me/keto-recipes/)|[**Sated**](https://sated.com/blogs/news)|
-|[Simply So Healthy](https://simplysohealthy.com/)|[Stem and Spoon](https://stemandspoon.com/)|[Step Away from the Carbs](https://stepawayfromthecarbs.com/)|[Stylish Cravings](https://stylishcravings.com/)|[The Sugar-Free Diva](https://thesugarfreediva.com/)|
-|[Sweet as Honey](https://www.sweetashoney.co/)|[Tastes Lovely](https://www.tasteslovely.com/)|[Tasty Low-Carb](https://www.tasty-lowcarb.com/)|[That Low-Carb Life](https://thatlowcarblife.com/)|[Two Sleevers](https://twosleevers.com/)|
-|[Wholesome Yum](https://www.wholesomeyum.com/)|[Yummy Healthy Keto](https://yummyhealthyketo.com/)|[Keto Cooking Wins](https://wholesomefarmhouserecipes.com/)
+|[Mama Bear's Cookbook](https://mamabearscookbook.com/)|[Maria Mind Body Health](https://mariamindbodyhealth.com/)|[My Crast Test Life](https://mycrashtestlife.com/)|[My Keto Kitchen](https://www.myketokitchen.com/)|[North-South Blonde](https://northsouthblonde.com/category/recipes/)|
+|[The Nourished Caveman](https://thenourishedcaveman.com/)|[Peace Love and Low-Carb](https://peaceloveandlowcarb.com/)|[The Perfect Curry](https://theperfectcurry.com/)|[Perfect Keto](https://perfectketo.com/recipes/)|[Queen Keto](https://queenketo.com/)|
+|[Real Balanced](https://realbalanced.com/)|[Real Good Foods](https://realgoodfoods.com/blogs/recipes)|[ruled.me](https://www.ruled.me/keto-recipes/)|[**Sated**](https://sated.com/blogs/news)|[Simply So Healthy](https://simplysohealthy.com/)|
+|[Stem and Spoon](https://stemandspoon.com/)|[Step Away from the Carbs](https://stepawayfromthecarbs.com/)|[Stylish Cravings](https://stylishcravings.com/)|[The Sugar-Free Diva](https://thesugarfreediva.com/)|[Sweet as Honey](https://www.sweetashoney.co/)|
+|[Tastes Lovely](https://www.tasteslovely.com/)|[Tasty Low-Carb](https://www.tasty-lowcarb.com/)|[That Low-Carb Life](https://thatlowcarblife.com/)|[Two Sleevers](https://twosleevers.com/)|[Wholesome Yum](https://www.wholesomeyum.com/)|
+|[Yummy Healthy Keto](https://yummyhealthyketo.com/)|[Keto Cooking Wins](https://wholesomefarmhouserecipes.com/)
 
 ### Kosher/Jewish
 |     |     |     |     |     |
@@ -1438,12 +1436,11 @@
 |[Aish](https://aish.com/jewlish/recipes/)|[Batel's Kitchen](https://batelskitchen.com/)|[Bubbe Lottie](https://www.bubbelottie.com/)|[Busy in Brooklyn](https://busyinbrooklyn.com/recipe-index/)|[Eitan Bernath](https://www.eitanbernath.com/)|
 |[Family Friends Food](https://family-friends-food.com/)|[The Global Jewish Kitchen](https://www.theglobaljewishkitchen.com/)|[Jennifer Abadi](https://jenniferabadi.com/)|[The Kosher Baker](https://thekosherbaker.com/)|[Kosher.com](https://www.kosher.com/)|
 |[Kosher Cooking](http://www.koshercooking.com/)|[Kosher Cowboy](https://koshercowboy.com/)|[Kosher Delight](https://kosherdelight.com/)|[Kosher Everyday](https://koshereveryday.com/)|[Kosher Eye](https://koshereye.com/)|
-|[Kosher in the Kitch](https://www.kosherinthekitch.com/)|[Jamie Geller](https://jamiegeller.com/)|[Jewish Cookery](https://jewishcookery.com/)|[Jewish Food](https://jewishfood.wordpress.com/)|[Jewish Food Hero](https://jewishfoodhero.com/)|
-|[Jewish Food List](http://www.jewishfood-list.com/recipes/recipe_index.html)|[Jewish Food Society](https://www.jewishfoodsociety.org/)|[The Jewish Kitchen](https://thejewishkitchen.com/)|[Jewish Women's Archive](https://jwa.org/blog/food-corner)|[Joan Nathan](http://joannathan.com/recipes/)|
-|[Kashrut](https://www.kashrut.com/recipes/)|[Leah Cooks Kosher](https://www.leahcookskosher.com/)|[Levana Cooks](https://levanacooks.com/)|[Monday Morning Cooking](https://mondaymorningcookingclub.com.au/ourrecipes/)|[My Jewish Learning](https://www.myjewishlearning.com/the-nosher/)|
-|[OMG Yummy](https://omgyummy.com/)|[OU Kosher](https://oukosher.org/recipes/)|[Proportional Plate](https://www.proportionalplate.com/)|[Renana's Kitchen](https://renanas.kitchen/)|[Sephardic Food](https://sephardicfood.com/)|
-|[Street Smart Kitchen](https://www.streetsmartkitchen.com/)|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[This American Bite](https://thisamericanbite.com/)|[**Western Kosher**](https://www.westernkosher.com/los-angeles-pico/recipes)|[West of the Loop](https://www.westoftheloop.com/)|
-|[What Jew Wanna Eat](https://whatjewwannaeat.com/)|[Yay Kosher](https://yaykosher.com/)|
+|[Kosher in the Kitch](https://www.kosherinthekitch.com/)|[Jamie Geller](https://jamiegeller.com/)|[Jewish Cookery](https://jewishcookery.com/)|[Jewish Food](https://jewishfood.wordpress.com/)|[Jewish Food List](http://www.jewishfood-list.com/recipes/recipe_index.html)|
+|[Jewish Food Society](https://www.jewishfoodsociety.org/)|[The Jewish Kitchen](https://thejewishkitchen.com/)|[Jewish Women's Archive](https://jwa.org/blog/food-corner)|[Joan Nathan](http://joannathan.com/recipes/)|[Kashrut](https://www.kashrut.com/recipes/)|
+|[Leah Cooks Kosher](https://www.leahcookskosher.com/)|[Levana Cooks](https://levanacooks.com/)|[Monday Morning Cooking](https://mondaymorningcookingclub.com.au/ourrecipes/)|[My Jewish Learning](https://www.myjewishlearning.com/the-nosher/)|[OMG Yummy](https://omgyummy.com/)|
+|[OU Kosher](https://oukosher.org/recipes/)|[Proportional Plate](https://www.proportionalplate.com/)|[Renana's Kitchen](https://renanas.kitchen/)|[Sephardic Food](https://sephardicfood.com/)|[Street Smart Kitchen](https://www.streetsmartkitchen.com/)|
+|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[This American Bite](https://thisamericanbite.com/)|[West of the Loop](https://www.westoftheloop.com/)|[What Jew Wanna Eat](https://whatjewwannaeat.com/)|[Yay Kosher](https://yaykosher.com/)|
 
 ### Krishna
 |     |     |
