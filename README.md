@@ -1459,29 +1459,28 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[The 104 Homestead](https://104homestead.com/topics/real-food/)|[918 Plate](https://www.918plate.com/)|[Acadian Family Farm](https://www.acadianfamilyfarm.com/)|[Adventures in Cooking](https://adventuresincooking.com/)|
-[Alfa Farmers](https://alfafarmers.org/recipes/)|[Allotment Garden](https://www.allotment-garden.org/recipe/)|
-|[Along the Grapevine](https://alongthegrapevine.wordpress.com/)|[An American Homestead](https://anamericanhomestead.com/category/inthekitchen/offgridrecipes/)|[Arkansas Local Food Network](https://arkansaslocalfoodnetwork.org/category/recipes/)|[Art of Natural Living](https://artofnaturalliving.com/)|[Ask the Food Geek](https://askthefoodgeek.com/)|
+[Alfa Farmers](https://alfafarmers.org/recipes/)|
+|[Allotment Garden](https://www.allotment-garden.org/recipe/)|[Along the Grapevine](https://alongthegrapevine.wordpress.com/)|[Arkansas Local Food Network](https://arkansaslocalfoodnetwork.org/category/recipes/)|[Art of Natural Living](https://artofnaturalliving.com/)|[Ask the Food Geek](https://askthefoodgeek.com/)|
 |[Attainable Sustainable](https://www.attainable-sustainable.net/blog/)|[Back to Organic](https://www.backtoorganic.com/)|[Beyond the Chicken Coop](https://www.beyondthechickencoop.com/)|[Big Family Homestead](https://www.bigfamilyhomestead.com/recipes-1)|[Botanical Arts Press](https://www.botanicalartspress.com/blog)|
 |[Brooklyn Farm Girl](https://brooklynfarmgirl.com/)|[Busch's Local](https://buschslocal.com/home/)|[Cedar Swamp Homestead](https://cedarswamphomestead.com/blog/)|[Chasing Food Club](https://www.chasingfood.club/)|[Chicago's Food Bank](https://www.chicagosfoodbank.org/recipe-library/)|
 |[Common Sense Home](https://commonsensehome.com/)|[Country File](https://www.countryfile.com/how-to/food-recipes/)|[The Crooked Carrot](https://thecrookedcarrot.com/)|[Crowded Earth Kitchen](https://crowdedearthkitchen.com/)|[A Day in the Life on the Farm](http://adayinthelifeonthefarm.blogspot.com/)|
 |[Dishing Up the Dirt](https://dishingupthedirt.com/)|[Edible Wild Food](https://www.ediblewildfood.com/wild-food-recipes.aspx)|[The Elliott Homestead](https://theelliotthomestead.com/category/recipes/)|[Farm to Fork](https://www.farmtofork.com.au/recipes)|[Farm to Jar](https://farmtojar.com/)|
-|[Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)|[Forager Chef](https://foragerchef.com/)|[A Frenchtown Kitchen & Garden](http://frenchkitcheninamerica.blogspot.com/)|[Fresh Exchange](https://freshexchange.com/)|[Frigot Europe](https://fricoteurope.wordpress.com/)|
-|[From Scratch Farmstead](https://fromscratchfarmstead.com/)|[A Garden for the House](https://www.agardenforthehouse.com/)|[Garnish and Gather](https://garnishandgather.com/blog/category/all-things-food)|[Gartur Stitch Farm](https://garturstitchfarm.com/blog)|[Goats and Greens](https://goatsandgreens.wordpress.com/)|
-|[Great Lakes Prepping](https://www.greatlakesprepping.com/)|[Grove Farm](https://www.grovefarm.com/sustainability/sustainable-culture/recipes)|[Grow Forage Cook Ferment](https://www.growforagecookferment.com/)|[Halfway Homesteaders](https://halfwayhomesteaders.com/)|[Harvesting Nature](https://harvestingnature.com/category/wild-recipes/)|
-|[Harvest to Table](https://harvesttotable.com/recipes/)|[Hedgecombers](https://hedgecombers.com/)|[Hema Magesh](https://hemamagesh.com/)|[Hidden Springs Homestead](https://www.hiddenspringshomestead.com/category/in-the-kitchen/)|[Hillsborough Homesteading](https://hillsborough-homesteading.com/)|
-|[Home-Grown, Hand-Gathered](https://homegrownhandgathered.com/)|[Homespun Seasonal Living](https://homespunseasonalliving.com/)|[Homestead Acres](https://www.homestead-acres.com/recipeindex/)|[Homesteaders of America](https://homesteadersofamerica.com/category/food-recipes/)|[Homestead Honey](https://homestead-honey.com/category/inthekitchen/)|
-|[Homesteading Family](https://homesteadingfamily.com/cook/)|[The Homesteading Hippy](https://thehomesteadinghippy.com/)|[Homestead Survival Site](https://homesteadsurvivalsite.com/food/recipes/)|[Home to Homestead](https://hometohomestead.com/)|[Honest Food](https://honest-food.net/)|
-|[The House and Homestead](https://thehouseandhomestead.com/)|[Insteading](https://insteading.com/food/)|[An Island Cooking](https://anisland.cooking/)|[Joybilee Farm](https://joybileefarm.com/)|[Kale & Caramel](https://kaleandcaramel.com/)|
-|[kiyafries](https://kiyafries.com/category/recipes/)|[Lady Lee's Home](https://ladyleeshome.com/)|[Lemons + Anchovies](https://lemonsandanchovies.com/)|[Life is Just Ducky](https://www.lifeisjustducky.com/homestead-recipes/)|[Love Food Hate Waste](https://www.lovefoodhatewaste.com/)|
-|[Mary Pat Sass](https://www.marypatsass.com/)|[Melissa K. Norris](https://melissaknorris.com/)|[Modern Carnivore](https://modcarn.com/category/recipe/)|[Monica Wilde Forager](https://monicawilde.com/blog/)|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|
-|[My Homemade Roots](https://myhomemaderoots.com/)|[New Life on a Homestead](https://www.newlifeonahomestead.com/the-homestead-kitchen/recipes/)|[Nitty Gritty Life](https://nittygrittylife.com/)|[Not So Modern](https://www.notsomodern.com/category/homestead-recipes/)|[Off-Grid with Doug and Stacy](https://offgridwithdougandstacy.com/)|
+|[Farm-to-Table Asian Secrets](https://farmtotableasiansecrets.wordpress.com/)|[Forager Chef](https://foragerchef.com/)|[A Frenchtown Kitchen & Garden](http://frenchkitcheninamerica.blogspot.com/)|[Frigot Europe](https://fricoteurope.wordpress.com/)|[From Scratch Farmstead](https://fromscratchfarmstead.com/)|
+|[A Garden for the House](https://www.agardenforthehouse.com/)|[Goats and Greens](https://goatsandgreens.wordpress.com/)|[Great Lakes Prepping](https://www.greatlakesprepping.com/)|[Grove Farm](https://www.grovefarm.com/sustainability/sustainable-culture/recipes)|[Grow Forage Cook Ferment](https://www.growforagecookferment.com/)|
+|[Halfway Homesteaders](https://halfwayhomesteaders.com/)|[Harvesting Nature](https://harvestingnature.com/category/wild-recipes/)|[Harvest to Table](https://harvesttotable.com/recipes/)|[Hedgecombers](https://hedgecombers.com/)|[Hema Magesh](https://hemamagesh.com/)|
+|[Hidden Springs Homestead](https://www.hiddenspringshomestead.com/category/in-the-kitchen/)|[Hillsborough Homesteading](https://hillsborough-homesteading.com/)|[Home-Grown, Hand-Gathered](https://homegrownhandgathered.com/)|[Homespun Seasonal Living](https://homespunseasonalliving.com/)|[Homestead Acres](https://www.homestead-acres.com/recipeindex/)|
+|[Homesteaders of America](https://homesteadersofamerica.com/category/food-recipes/)|[Homestead Honey](https://homestead-honey.com/category/inthekitchen/)|[Homesteading Family](https://homesteadingfamily.com/cook/)|[The Homesteading Hippy](https://thehomesteadinghippy.com/)|[Homestead Survival Site](https://homesteadsurvivalsite.com/food/recipes/)|
+|[Home to Homestead](https://hometohomestead.com/)|[Honest Food](https://honest-food.net/)|[The House and Homestead](https://thehouseandhomestead.com/)|[Insteading](https://insteading.com/food/)|[An Island Cooking](https://anisland.cooking/)|
+|[Joybilee Farm](https://joybileefarm.com/)|[Kale & Caramel](https://kaleandcaramel.com/)|[kiyafries](https://kiyafries.com/category/recipes/)|[Lady Lee's Home](https://ladyleeshome.com/)|[Lemons + Anchovies](https://lemonsandanchovies.com/)|
+|[Life is Just Ducky](https://www.lifeisjustducky.com/homestead-recipes/)|[Love Food Hate Waste](https://www.lovefoodhatewaste.com/)|[Mary Pat Sass](https://www.marypatsass.com/)|[Modern Carnivore](https://modcarn.com/category/recipe/)|[Monica Wilde Forager](https://monicawilde.com/blog/)|
+|[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|[My Homemade Roots](https://myhomemaderoots.com/)|[New Life on a Homestead](https://www.newlifeonahomestead.com/the-homestead-kitchen/recipes/)|[Nitty Gritty Life](https://nittygrittylife.com/)|[Off-Grid with Doug and Stacy](https://offgridwithdougandstacy.com/)|
 |[The Old Walsh Farm](https://theoldwalshfarm.com/)|[Old World Garden Farms](https://oldworldgardenfarms.com/cooking-and-canning-recipes/)|[One Willow Apothecaries](https://onewillowapothecaries.com/category/nourishment/)|[An Oregon Cottage](https://anoregoncottage.com/)|[Our Homestead Adventures](https://www.ourhomesteadadventures.com/recipes/)|
 |[Our Little Homestead](https://ourlittlehomestead.org/recipes/)|[Our Simple Homestead](https://oursimplehomestead.com/)|[Phytoalimurgia](https://phytoalimurgia.com/category/recipes/)|[Practical Self-Reliance](https://practicalselfreliance.com/)|[The Prairie Homestead](https://www.theprairiehomestead.com/category/real-food-recipes-tutorials)|
 |[Ready and Thriving](https://readyandthriving.com/)|[The Real Meal Deal](https://www.therealmealdeal.com/)|[Real Tree](https://www.realtree.com/timber-2-table-wild-game-recipes)|[Rosevine Cottage Girls](https://rosevinecottagegirls.com/tag/homestead-recipes/)|[The Rustic Elk](https://www.therusticelk.com/)|
-|[Salt in My Coffee](https://saltinmycoffee.com/)|[Seasonal Eating](http://www.seasonaleating.net/)|[The Seasonal Homestead](https://www.theseasonalhomestead.com/category/all-recipes/)|[Simplify Live Love](https://simplifylivelove.com/category/recipes/)|[Simply Made Homestead](https://simplymadehomestead.com/)|
+|[Salt in My Coffee](https://saltinmycoffee.com/)|[Seasonal Eating](http://www.seasonaleating.net/)|[The Seasonal Homestead](https://www.theseasonalhomestead.com/recipe-index/)|[Simplify Live Love](https://simplifylivelove.com/category/recipes/)|[Simply Made Homestead](https://simplymadehomestead.com/)|
 |[Sporting Chef](https://sportingchef.com/)|[Sprouting Fam](https://sproutingfam.com/)|[Star of Nature](https://starofnature.org/category/wild-food/)|[Sungrown Kitchen](https://www.sungrownkitchen.com/)|[Sustainable Corvallis](https://sustainablecorvallis.org/what-we-do/action-teams/food/simply-seasonal-recipes/)|
 |[Taste the Wild](https://tastethewild.co.uk/category/recipes/)|[Texas Homesteader](https://texashomesteader.com/)|[This Pilgrim Life](https://www.thispilgrimlife.com/)|[Thyme Herbal](https://www.thymeherbal.com/blog/)|[The Toronto Beet](https://thetorontobeet.wordpress.com/)|
-|[Tribute](http://enjoytribute.com/recipes/)|[Urban Overalls](https://urbanoveralls.net/category/homestead-recipes/)|[use real butter](http://userealbutter.com/)|[**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)|[The Wildwood Glen](https://thewildwoodglen.com/)|
+|[Urban Overalls](https://urbanoveralls.net/category/homestead-recipes/)|[use real butter](http://userealbutter.com/)|[**The Whole Carrot**](https://thewholecarrot.com/category/recipe/)|[The Wildwood Glen](https://thewildwoodglen.com/)|
 
 ### Low-Fat
 |     |
@@ -1494,7 +1493,7 @@
 |[Bay's Kitchen](https://www.bayskitchen.com/)|[Casa de Sante](https://casadesante.com/blogs/low-fodmap-meal-plans-low-fodmap-recipes)|[Cook, Click n' Devour](https://www.cookclickndevour.com/)|[Delicious As It Looks](https://deliciousasitlooks.com/)|[EA Stewart](https://www.eastewart.com/category/recipes-and-nutrition/)|
 |[Fit Fab FODMAP](https://www.fitfabfodmap.com/category/all-recipes/)|[FODMAP Everyday](https://www.fodmapeveryday.com/)|[FODMAP Formula](https://www.fodmapformula.com/)|[FODMAP Friendly](https://fodmapfriendly.com/)|[**FODY Foods**](https://www.fodyfoods.com/blogs/low-fodmap-recipes)|
 |[Fun Without FODMAPs](https://funwithoutfodmaps.com/)|[Good Noms Honey](https://www.goodnomshoney.com/)|[**Gourmend Foods**](https://www.gourmendfoods.com/pages/low-fodmap-recipes)|[Half-Tablespoon](https://www.halftablespoon.com/)|[The Irritable Vegan](https://www.theirritablevegan.com/)|
-|[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|[Karlijn's Kitchen](https://www.karlijnskitchen.com/en/)|[A Little Bit Yummy](https://alittlebityummy.com/)|[Rachel Paul's Food](https://www.rachelpaulsfood.com/low-fodmap-blog/)|[Strands of My Life](https://www.strandsofmylife.com/)|
+|[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|[Karlijn's Kitchen](https://www.karlijnskitchen.com/en/)|[A Little Bit Yummy](https://alittlebityummy.com/)|[Rachel Paul's Food](https://rachelpaulsfood.com/)|[Strands of My Life](https://www.strandsofmylife.com/)|
 
 ### Low-Protein
 |     |
@@ -1514,7 +1513,7 @@
 ### Migraine-Friendly
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[The Dizzy Cook](https://thedizzycook.com/)|[Migraine Relief Plan](https://migrainereliefplan.com/recipes/)|[Migraine Relief Recipes](https://migrainereliefrecipes.com/)|[Migraine Savvy](https://www.migrainesavvy.com/migraine-food.html)|
+|[The Dizzy Cook](https://thedizzycook.com/)|[Migraine Relief Plan](https://migrainereliefplan.com/recipes/)|[Migraine Relief Recipes](https://migrainereliefrecipes.com/)|
 
 ### Oil-Free
 |     |     |     |     |     |
@@ -1524,8 +1523,8 @@
 ### Pagan
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[The Cauldron](https://www.ecauldron.net/samhainfood.php)|[Green Man Meadows](https://greenmanmeadows.com/blog/)|[Learn Religions](https://www.learnreligions.com/samhain-recipes-4145789)|[The Magic Kitchen](https://www.themagickkitchen.com/category/recipes-2/)|[Pagan Song](https://pagansong.com/recipes-and-crafts/)|
-|[Recipes for a Pagan Soul](http://recipesforapagansoul.weebly.com/)|[Shirley Two Feathers](https://shirleytwofeathers.com/The_Blog/pagancalendar/pagan-calendar-2/seasonal-recipes/)|[Writings of a Pagan Witch](https://writingsofapaganwitch.wordpress.com/kitchen-witch-recipes/)|
+|[The Cauldron](https://www.ecauldron.net/samhainfood.php)|[Learn Religions](https://www.learnreligions.com/samhain-recipes-4145789)|[The Magic Kitchen](https://www.themagickkitchen.com/category/recipes-2/)|[Pagan Song](https://pagansong.com/recipes-and-crafts/)|[Recipes for a Pagan Soul](http://recipesforapagansoul.weebly.com/)|
+|[Shirley Two Feathers](https://shirleytwofeathers.com/The_Blog/pagancalendar/pagan-calendar-2/seasonal-recipes/)|[Writings of a Pagan Witch](https://writingsofapaganwitch.wordpress.com/kitchen-witch-recipes/)|
 
 ### Paleo
 |     |     |     |     |     |
@@ -1533,11 +1532,10 @@
 |[Ancestral Nutrition](https://ancestral-nutrition.com/recipe-index/)|[Back Porch Paleo](https://backporchpaleo.com/)|[Cavegirl Cuisine](http://www.cavegirlcuisine.com/)|[College M Lee](https://colleenmlee.wordpress.com/category/recipes/)|[Deliciously Organic](https://deliciouslyorganic.net/deliciously-organic-recipe-index/)|
 |[Ditch the Wheat](https://ditchthewheat.com/)|[Don't Eat the Spatula](http://donteatthespatula.blogspot.com/)|[Eat Beautiful](https://eatbeautiful.net/)|[**Eat Sweet Logic**](https://eatsweetlogic.com/blogs/news)|[Feelin' Fabulous with Kayla](https://feelinfabulouswithkayla.com/)|
 |[The Honest Spoonful](https://thehonestspoonful.com/)|[Lichen Paleo, Loving AIP](https://lichenpaleolovingaip.com/)|[Living Healthy with Chocolate](https://livinghealthywithchocolate.com/)|[Nom Nom Paleo](https://nomnompaleo.com/)|[The Nourished Caveman](https://thenourishedcaveman.com/)|
-|[The Paleo Diet](https://thepaleodiet.com/)|[Paleo Flourish](https://paleoflourish.com/)|[Paleo Gluten-Free](https://paleoglutenfree.com/)|[Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)|[Paleo Grubs](https://paleogrubs.com/)|
-|[Paleo Hacks](https://blog.paleohacks.com/)|[Paleo Leap](https://paleoleap.com/)|[**Paleo NoLa**](https://paleonola.com/blogs/recipes)|[PaleOMG](https://paleomg.com/)|[**Paleo Powder Seasoning**](https://www.paleopowderseasoning.com/blogs/recipes)|
-|[Paleo Running Momma](https://www.paleorunningmomma.com/)|[Paleo Scaleo](https://www.paleoscaleo.com/)|[Peace Love and Low-Carb](https://peaceloveandlowcarb.com/)|[Perry's Plate](https://www.perrysplate.com/)|[Pretend It's a Donut](https://pretenditsadonut.com/)|
-|[Spirited and Then Some](https://www.spiritedandthensome.com/)|[Texan Erin](https://www.texanerin.com/)|[That Paleo Couple](https://thatpaleocouple.com/)|[Whitty Paleo](https://whittypaleo.com/)|[Whole Food for 7](https://wholefoodfor7.com/)|
-|[Wicked Spatula](https://www.wickedspatula.com/)|
+|[The Paleo Diet](https://thepaleodiet.com/)|[Paleo Gluten-Free](https://paleoglutenfree.com/)|[Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)|[Paleo Grubs](https://paleogrubs.com/)|[Paleo Hacks](https://blog.paleohacks.com/)|
+|[Paleo Leap](https://paleoleap.com/)|[**Paleo NoLa**](https://paleonola.com/blogs/recipes)|[PaleOMG](https://paleomg.com/)|[**Paleo Powder Seasoning**](https://www.paleopowderseasoning.com/blogs/recipes)|[Paleo Running Momma](https://www.paleorunningmomma.com/)|
+|[Paleo Scaleo](https://www.paleoscaleo.com/)|[Peace Love and Low-Carb](https://peaceloveandlowcarb.com/)|[Perry's Plate](https://www.perrysplate.com/)|[Pretend It's a Donut](https://pretenditsadonut.com/)|[Spirited and Then Some](https://www.spiritedandthensome.com/)|
+|[Texan Erin](https://www.texanerin.com/)|[That Paleo Couple](https://thatpaleocouple.com/)|[Whitty Paleo](https://whittypaleo.com/)|[Whole Food for 7](https://wholefoodfor7.com/)|[Wicked Spatula](https://www.wickedspatula.com/)|
 
 ### PCOS/D-Friendly
 |     |     |
@@ -1547,15 +1545,14 @@
 ### Pescatarian
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Dem the Pesc](https://demthepesc.com/)|[Greener Ideal](https://greenerideal.com/recipes/)|[The Pescatarian Diet](https://thepescatariandiet.net/)|[Pescetarian Kitchen](https://pescetarian.kitchen/)|[Posh Pescatarian](https://www.poshpescatarian.com/)|
-|[Running in a Skirt](https://www.runninginaskirt.com/)|[Weekday Pescatarian](https://weekdaypescatarian.com/)|
+|[Greener Ideal](https://greenerideal.com/recipes/)|[The Pescatarian Diet](https://thepescatariandiet.net/)|[Pescetarian Kitchen](https://pescetarian.kitchen/)|[Posh Pescatarian](https://www.poshpescatarian.com/)|[Running in a Skirt](https://www.runninginaskirt.com/)|
+|[Weekday Pescatarian](https://weekdaypescatarian.com/)|
 
 ### Pregnancy
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Baby Center](https://www.babycenter.com/pregnancy/diet-and-fitness#subtopic-pregnancy-best-foods)|[Baby Centre](https://www.babycentre.co.uk/c25004191/pregnancy-recipes)|[Baby Chick](https://www.baby-chick.com/category/pregnancy/recipes-pregnancy/)|[Birth Eat Love](https://www.birtheatlove.com/pregnancy-recipes/)|[**Enfamil**](https://www.enfamil.com/prenatal/recipes/)|
-|[The Gestational Diabetic](https://thegestationaldiabetic.com/)|[My Baba](https://www.mybaba.com/topics/food-recipes/)|[My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)|[Ovia Health](https://www.oviahealth.com/blog/pregnancy/pregnancy-nutrition/)|[**Protiva Mom**](https://protivamom.com/recipes-advice)|
-|[What to Expect](https://www.whattoexpect.com/family/recipes/)|
+|[Baby Center](https://www.babycenter.com/pregnancy/diet-and-fitness#subtopic-pregnancy-best-foods)|[Baby Centre](https://www.babycentre.co.uk/c25004191/pregnancy-recipes)|[Birth Eat Love](https://www.birtheatlove.com/pregnancy-recipes/)|[**Enfamil**](https://www.enfamil.com/prenatal/recipes/)|[The Gestational Diabetic](https://thegestationaldiabetic.com/)|
+|[My Baba](https://www.mybaba.com/topics/food-recipes/)|[My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)|[Ovia Health](https://www.oviahealth.com/blog/pregnancy/pregnancy-nutrition/)|[**Protiva Mom**](https://protivamom.com/recipes-advice)|[What to Expect](https://www.whattoexpect.com/family/recipes/)|
 
 ### Skincare
 |     |     |     |     |     |
