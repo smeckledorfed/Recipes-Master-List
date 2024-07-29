@@ -1234,7 +1234,7 @@
 #### Australia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Australian Good Food Guide](https://www.agfg.com.au/)|[Australia's Best Recipes](https://www.bestrecipes.com.au/)|[Cooking With Nana Ling](https://www.cookingwithnanaling.com/)|[Food Gold Coast](https://foodgoldcoast.com.au/category/recipes/)|[SA Life](https://salife.com.au/wine-and-dine/)|
+|[Australia's Best Recipes](https://www.bestrecipes.com.au/)|[Cooking With Nana Ling](https://www.cookingwithnanaling.com/)|[Food Gold Coast](https://foodgoldcoast.com.au/category/recipes/)|[SA Life](https://salife.com.au/wine-and-dine/)|
 
 #### Fiji
 |     |
@@ -1246,11 +1246,6 @@
 | --- | --- | --- |
 |[Annie's Chamorro Kitchen](https://www.annieschamorrokitchen.com/)|[Guampedia](https://www.guampedia.com/chamorro-food/chamorro-recipes/)|[Paula Q](https://m.paulaq.com/index.html)|
 
-#### Samoa
-|     |     |
-| --- | --- |
-|[American Aiga](https://www.americanaiga.com/)|[Anava Samoana](https://anavasamoana.com/section/samoanfood/)|
-
 ### South America
 
 #### Andean
@@ -1261,7 +1256,7 @@
 #### Argentina
 |     |     |     |
 | --- | --- | --- |
-|[Argentine Chef](https://www.argentinechef.com/recipes-gral/)|[En Casa Cooking Space](https://www.encasacookingspace.com/)|[Parnell the Chef](https://parnellthechef.com/)|
+|[En Casa Cooking Space](https://www.encasacookingspace.com/)|[Parnell the Chef](https://parnellthechef.com/)|
 
 #### Bolivia
 |     |
