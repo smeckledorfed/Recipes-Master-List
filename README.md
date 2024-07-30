@@ -1099,8 +1099,8 @@
 #### Puerto Rico
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)|[El Boricua](http://www.elboricua.com/recipes.html)|[Kitchen de Lujo](https://kitchendelujo.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|
-|[Salima's Kitchen](https://salimaskitchen.com/)|[Welcome to Puerto Rico](https://welcome.topuertorico.org/cocina/)|
+|[Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)|[Kitchen de Lujo](https://kitchendelujo.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|[Salima's Kitchen](https://salimaskitchen.com/)|
+|[Welcome to Puerto Rico](https://welcome.topuertorico.org/cocina/)|
 
 #### Trinidad & Tobago
 |     |     |     |     |     |
@@ -1127,14 +1127,13 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Acadiana Table](https://acadianatable.com/)|[**Brennan's New Orleans**](https://www.brennansneworleans.com/recipes)|[The Cagle Diaries](https://thecaglediaries.com/)|[Cajun Cooking Recipes](https://www.cajuncookingrecipes.com/)|[A Cajun Family's Recipe Collection](https://www.cajun-recipes.com/)|
-|[**The Cajun Spoon**](https://thecajunspoon.com/)|[Charlie the Cook Andrews](https://www.charliethecookandrews.com/)|[Dandy Don](https://www.dandydon.com/recipes/)|[Feaux Cajun](https://feauxcajun.blogspot.com/)|[First... You Have a Beer](https://www.sweetdaddy-d.com/)|
-|[Gumbo Pages](https://www.gumbopages.com/food/)|[NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)|[Real Cajun Recipes](https://www.realcajunrecipes.com/)|[**Savoies Foods**](https://www.savoiesfoods.com/)|[Spoonful of NoLa](https://spoonfulofnola.com/)|
+|[Charlie the Cook Andrews](https://www.charliethecookandrews.com/)|[Dandy Don](https://www.dandydon.com/recipes/)|[Feaux Cajun](https://feauxcajun.blogspot.com/)|[First... You Have a Beer](https://www.sweetdaddy-d.com/)|[Gumbo Pages](https://www.gumbopages.com/food/)|
+|[Real Cajun Recipes](https://www.realcajunrecipes.com/)|[**Savoies Foods**](https://www.savoiesfoods.com/)|
 - ##### Creole
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Acadiana Table](https://acadianatable.com/)|[Arnaud's Restaurant](https://www.arnaudsrestaurant.com/category/recipes)|[The Cagle Diaries](https://thecaglediaries.com/)|[Creole Contessa](https://www.creolecontessa.com/)|[Custom Catering](https://www.customcatering.net/recipes.html)|
-|[First... You Have a Beer](https://www.sweetdaddy-d.com/)|[Gumbo Pages](https://www.gumbopages.com/food/)|[Kolby Kash](http://www.kolbykash.com/)|[**Mr B's Bistro**](http://www.mrbsbistro.com/recipes.php)|[NoLa Cuisine](http://www.nolacuisine.com/creole-cajun-recipe-page/)|
-|[Spoonful of NoLa](https://spoonfulofnola.com/)|[**Tony Chachere's**](https://www.tonychachere.com/recipes/)|
+|[First... You Have a Beer](https://www.sweetdaddy-d.com/)|[Gumbo Pages](https://www.gumbopages.com/food/)|[Kolby Kash](http://www.kolbykash.com/)|[**Mr B's Bistro**](http://www.mrbsbistro.com/recipes.php)|[**Tony Chachere's**](https://www.tonychachere.com/recipes/)|
 
 - ##### Hawaii
 |     |     |     |     |     |
@@ -1158,7 +1157,7 @@
 - ###### Cherokee
 |     |     |     |
 | --- | --- | --- |
-|[Cherokee By Blood](http://www.cherokeebyblood.com/Cherokee_by_blood/Recipes.html)|[Cherokee Tribal Food Distribution Program](https://food.ebci-nsn.gov/recipes/)|[The United Cherokee Nation](http://theucn.com/recipes.html)|
+|[Cherokee Tribal Food Distribution Program](https://food.ebci-nsn.gov/recipes/)|[The United Cherokee Nation](http://theucn.com/recipes.html)|
 - ###### Chickasaw
 |     |
 | --- |
@@ -1175,18 +1174,17 @@
 - ##### Northeast
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[A Coalcracker in the Kitchen](https://www.acoalcrackerinthekitchen.com/)|[Coal Region](https://www.coalregion.com/recipes.php)|
-|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|[Edible Berkshires](edibleberkshires.com)|[Edible Boston](https://www.edibleboston.com/recipes-1)|[Edible Brooklyn](ediblebrooklyn.com)|[Edible Cape Cod](ediblecapecod.ediblecommunities.com)|
-|[Edible Capital District](ediblecapitaldistrict.ediblecommunities.com)|[Edible CT East](ediblecteast.ediblecommunities.com)|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|[Edible Finger Lakes](ediblefingerlakes.com)|[Edible Hudson Valley](ediblehudsonvalley.ediblecommunities.com)|
-|[Edible Maine](ediblemaine.com)|[Edible Nutmeg](ediblenutmeg.ediblecommunities.com)|[Edible Philly](ediblephilly.ediblecommunities.com)|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|[Edible South Shore](ediblesouthshore.com)|
-|[Edible Vermont](ediblevermont.ediblecommunities.com)|[Edible Vineyard](ediblevineyard.com)|[Edible Westchester](ediblewestchester.ediblecommunities.com)|[Edible Western NY](ediblewesternny.ediblecommunities.com)|[Edible Worcester](edibleworcester.com)|
+|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[A Coalcracker in the Kitchen](https://www.acoalcrackerinthekitchen.com/)|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|
+|[Edible Boston](https://www.edibleboston.com/recipes-1)|[Edible Brooklyn](ediblebrooklyn.com)|[Edible Cape Cod](ediblecapecod.ediblecommunities.com)|[Edible Capital District](ediblecapitaldistrict.ediblecommunities.com)|[Edible CT East](ediblecteast.ediblecommunities.com)|
+|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|[Edible Hudson Valley](ediblehudsonvalley.ediblecommunities.com)|[Edible Nutmeg](ediblenutmeg.ediblecommunities.com)|[Edible Philly](ediblephilly.ediblecommunities.com)|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|
+|[Edible South Shore](ediblesouthshore.com)|[Edible Vermont](ediblevermont.ediblecommunities.com)|[Edible Vineyard](ediblevineyard.com)|[Edible Westchester](ediblewestchester.ediblecommunities.com)|[Edible Western NY](ediblewesternny.ediblecommunities.com)|
 |[Home in the Finger Lakes](https://homeinthefingerlakes.com/)|[New England](https://newengland.com/category/food/)|[Sip and Feast](https://www.sipandfeast.com/)|
 
 - ##### Soul Food
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/about-us/)|[Cooks with Soul](https://cookswithsoul.com/)|[Food Fidelity](https://www.foodfidelity.com/)|[Old School Soul Food](https://www.oldschoolsoulfood.com/)|
-|[Sould Food Cooking 101](https://www.soulfoodcooking101.com/)|[The Soul Food Pot](https://thesoulfoodpot.com/)|[Veggie Soul Food](http://www.veggiesoulfood.com/)|
+|[Soul Food Cooking 101](https://www.soulfoodcooking101.com/)|[The Soul Food Pot](https://thesoulfoodpot.com/)|[Veggie Soul Food](http://www.veggiesoulfood.com/)|
 
 - ##### South
 |     |     |     |     |     |
@@ -1207,7 +1205,7 @@
 |[Smarty Pants Kitchen](https://www.smartypantskitchen.com/)|[Southern Bite](https://southernbite.com/)|[**Southern Cast Iron**](https://southerncastiron.com/)|[Southern Discourse](https://southerndiscourse.com/)|[Southern Kissed](https://www.southernkissed.com/)|
 |[Southern Living](https://www.southernliving.com/recipes)|[The Southern Lady Cooks](https://thesouthernladycooks.com/)|[Southern Plate](https://www.southernplate.com/)|[South Your Mouth](https://www.southyourmouth.com/)|[Spicy Southern Kitchen](https://spicysouthernkitchen.com/)|
 |[Sur Le Plat](https://surleplat.com/)|[A Taste of Kentucky](https://atasteofkentucky.com/)|[Texas Cooking](https://www.texascooking.com/)|[Texas de Brazil](https://texasdebrazil.com/recipes/)|[Texas Recipe Cookbook](https://www.recipeworkbook.com/recipes/)|
-|[Texicureans](https://www.texicureans.com/)|[Two Red Bowls](https://tworedbowls.com/)|[Urban Cowgirl Life](https://urbancowgirllife.com/)|[A Yummy Bite](https://ayummybite.net/)|
+|[Texicureans](https://www.texicureans.com/)|[Two Red Bowls](https://tworedbowls.com/)|[Urban Cowgirl Life](https://urbancowgirllife.com/)|
 
 - ##### Southwest
 |     |     |     |     |     |
