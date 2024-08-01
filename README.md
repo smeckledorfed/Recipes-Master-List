@@ -977,12 +977,12 @@
 ### Mediterranean
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Aegean Delight](https://aegeandelight.com/)|[Amira's Pantry](https://amiraspantry.com/)|[Apron and Whisk](https://apronandwhisk.com/)|[Clifford A. Wright](http://www.cliffordawright.com/caw/recipes/recipes.html)|[Cook Coquus](https://cook-coquus.com/)|
-|[Cooking With Gaul](https://cookingwithgaul.com/)|[Craving Something Healthy](https://cravingsomethinghealthy.com/)|[Cucina Caruso](https://cucinacaruso.com/)|[Delectabilia](https://www.delectabilia.com/)|[Deliciously Mediterranean](https://deliciouslymediterranean.com/)|
-|[Foodathlon](https://foodathlon.com/)|[Hanady Kitchen](https://hanadykitchen.com/category/recipes/)|[**Kosterina**](https://www.kosterina.com/blogs/from-the-kosterina-kitchen/)|[Little Ferraro Kitchen](https://littleferrarokitchen.com/)|[Maltese History and Heritage](https://vassallohistory.wordpress.com/traditional-recipies/)|
-|[The Matbakh](https://thematbakh.com/)|[The Mediterranean Dish](https://www.themediterraneandish.com/)|[Mediterranean Latin Love Affair](https://mediterraneanlatinloveaffair.com/)|[**Mediterranean Living**](https://www.mediterraneanliving.com/mediterranean-diet-recipes/)|[Med Munch](https://medmunch.com/)|
-|[My Excellent Degustations](https://www.myexcellentdegustations.com/)|[My Greek Salad](https://www.mygreeksalad.com/)|[**Odysea**](https://www.odysea.com/recipes/)|[Olive Tomato](https://www.olivetomato.com/)|[OMG Food](https://omgfood.com/)|
-|[The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)|[Tasty Mediterraneo](https://www.tastymediterraneo.com/)|[Tavola Mediterranea](https://tavolamediterranea.com/category/recipes-by-region/)|[Tori Avey](https://toriavey.com/)|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
+|[Aegean Delight](https://aegeandelight.com/)|[Amira's Pantry](https://amiraspantry.com/)|[Apron and Whisk](https://apronandwhisk.com/)|[Cook Coquus](https://cook-coquus.com/)|[Craving Something Healthy](https://cravingsomethinghealthy.com/)|
+|[Cucina Caruso](https://cucinacaruso.com/)|[Delectabilia](https://www.delectabilia.com/)|[Deliciously Mediterranean](https://deliciouslymediterranean.com/)|[Foodathlon](https://foodathlon.com/)|[Hanady Kitchen](https://hanadykitchen.com/category/recipes/)|
+|[**Kosterina**](https://www.kosterina.com/blogs/from-the-kosterina-kitchen/)|[Little Ferraro Kitchen](https://littleferrarokitchen.com/)|[Maltese History and Heritage](https://vassallohistory.wordpress.com/traditional-recipies/)|[The Matbakh](https://thematbakh.com/)|[The Mediterranean Dish](https://www.themediterraneandish.com/)|
+|[Mediterranean Latin Love Affair](https://mediterraneanlatinloveaffair.com/)|[**Mediterranean Living**](https://www.mediterraneanliving.com/mediterranean-diet-recipes/)|[Med Munch](https://medmunch.com/)|[My Greek Salad](https://www.mygreeksalad.com/)|[**Odysea**](https://www.odysea.com/recipes/)|
+|[Olive Tomato](https://www.olivetomato.com/)|[OMG Food](https://omgfood.com/)|[The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)|[Tasty Mediterraneo](https://www.tastymediterraneo.com/)|[Tori Avey](https://toriavey.com/)|
+|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
 
 ### North America
 
@@ -999,12 +999,12 @@
 #### Barbados
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Barbados.org](https://barbados.org/barbados-recipes.htm)|[Loop Barbados](https://loopbarbados.com/blogtag/food)|[My Bajan Cooking](https://mybajan.com/)|[Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)|
+|[Barbados.org](https://barbados.org/barbados-recipes.htm)|[My Bajan Cooking](https://mybajan.com/)|[Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)|
 
 #### Belize
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Belize.com](https://belize.com/belizean-recipes/)|[Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)|[**Grace Kennedy Belize**](https://www.gracekennedybelize.com/)|[Taste Dee Valley](https://tastedeevalley.wales/food/)|
+|[Belize.com](https://belize.com/belizean-recipes/)|[Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)|[**Grace Kennedy Belize**](https://www.gracekennedybelize.com/)|
 
 #### Canada
 |     |     |     |     |     |
@@ -1014,7 +1014,7 @@
 - ##### Acadia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Acadian Explorations](http://www.acadian-explorations.ca/home/traditional-recipes/)|[**Acadian Maple**](https://acadianmaple.com/blogs/recipes)|[Acadian.org](https://www.acadian.org/culture/popular-acadian-recipies/)|[Fav Club](https://www.favclub.org/acadian-recipes.html)|[Yarmouth & Acadian Shore](https://www.yarmouthandacadianshores.com/en/things-to-do/eat-drink/local-recipes/)|
+|[**Acadian Maple**](https://acadianmaple.com/blogs/recipes)|[Acadian.org](https://www.acadian.org/culture/popular-acadian-recipies/)|[Fav Club](https://www.favclub.org/acadian-recipes.html)|[Yarmouth & Acadian Shore](https://www.yarmouthandacadianshores.com/en/things-to-do/eat-drink/local-recipes/)|
 - ##### Manitoba
 |     |
 | --- |
@@ -1023,11 +1023,10 @@
 #### Caribbean
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/)|[Butter Be Ready](https://www.butterbeready.com/)|[Caribbean Lifestyle](https://caribbeanlifestyle.com/)|[Caribbean Pot](https://caribbeanpot.com/)|
-|[Classic Bakes](https://classicbakes.com/)|[Cooking With Ria](https://cookingwithria.com/)|[Crumb-Snatched](https://www.crumbsnatched.com/)|[Global Kitchen Travels](https://globalkitchentravels.com/)|[**Hutwise**](https://hutwise.com/blogs/recipes)|
-|[Jehan Can Cook](https://jehancancook.com/)|[Jirie Caribbean](https://jiriecaribbean.com/indexes/recipe-index/)|[Keesha's Kitchen](https://keeshaskitchen.com/)|[**Nestle Recipes Caribbean**](https://www.nestlerecipescaribbean.com/)|[News Amaericas Now](https://www.newsamericasnow.com/category/caribbean-recipes-and-food-news/)|
-|[Original Flava](https://originalflava.com/)|[The Recipe Island](https://therecipeisland.blog/)|[Seasoned Skillet Blog](https://seasonedskilletblog.com/)|[Sian's Cooking](https://sianscooking.com/)|[Sweed and Sorrel](https://www.sweetandsorrel.com/)|
-|[Taste the Islands TV](https://tastetheislandstv.com/category/recipes/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|[This Bago Girl](https://www.thisbagogirl.com/)|[Yummy Medley](https://www.yummymedley.com/)|
+|[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/)|[Butter Be Ready](https://www.butterbeready.com/)|[Caribbean Pot](https://caribbeanpot.com/)|[Classic Bakes](https://classicbakes.com/)|
+|[Cooking With Ria](https://cookingwithria.com/)|[Crumb-Snatched](https://www.crumbsnatched.com/)|[Global Kitchen Travels](https://globalkitchentravels.com/)|[Jehan Can Cook](https://jehancancook.com/)|[Keesha's Kitchen](https://keeshaskitchen.com/)|
+|[**Nestle Recipes Caribbean**](https://www.nestlerecipescaribbean.com/)|[News Amaericas Now](https://www.newsamericasnow.com/category/caribbean-recipes-and-food-news/)|[Original Flava](https://originalflava.com/)|[Seasoned Skillet Blog](https://seasonedskilletblog.com/)|[Sweed and Sorrel](https://www.sweetandsorrel.com/)|
+|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|[This Bago Girl](https://www.thisbagogirl.com/)|[Yummy Medley](https://www.yummymedley.com/)|
 
 #### Cuba
 |     |     |     |     |     |
