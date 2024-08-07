@@ -630,16 +630,15 @@
 ### Europe
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)|[Angie's Web](https://angiesweb.com/category/recipes/)|[By Lena](https://www.bylena.com/)|[Eastern European Cuisine](http://easterneuropeancuisine.com/)|[Eating European](https://eatingeuropean.com/)|
-|[Euro Rich](https://eurorich.ph/blogs/easy-european-recipes)|[European Cuisines](http://www.europeancuisines.com/recipe-collections-and-links-to-more)|[The European Dish](https://theeuropeandish.com/)|[**European Food Express**](https://europeanfoodexpress.com/browse-recipes/)|[European Kitchen](https://europeankitchen.org/)|
-|[The European Pantry](https://theeuropeanpantry.com/)|[European Pork](https://eupork.com/recipes/)|[(F)eastern Europe](https://feasterneurope.com/)|[Frigot Europe](https://fricoteurope.wordpress.com/)|[**Indo-European Foods Inc.**](https://www.indo-euro.com/recipes/)|
-|[ISAC Pittsburgh](https://isacpittsburgh.org/category/europe-recipes/)|[Peter Sommer](https://www.petersommer.com/blog/category/food)|[Recipes from Europe](https://www.recipesfromeurope.com/)|[St. Christophers](https://www.st-christophers.co.uk/travel-blog/easy-european-dishes-to-cook-at-home/)|[Sunday Baker](https://sundaybaker.co/)|
-|[YEN JEV](http://www.yeni.org/minority-cook-blog/)|
+|[Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)|[Angie's Web](https://angiesweb.com/category/recipes/)|[By Lena](https://www.bylena.com/)|[Eating European](https://eatingeuropean.com/)|[Euro Rich](https://eurorich.ph/blogs/easy-european-recipes)|
+|[The European Dish](https://theeuropeandish.com/)|[European Kitchen](https://europeankitchen.org/)|[The European Pantry](https://theeuropeanpantry.com/)|[European Pork](https://eupork.com/recipes/)|[Frigot Europe](https://fricoteurope.wordpress.com/)|
+|[**Indo-European Foods Inc.**](https://www.indo-euro.com/recipes/)|[ISAC Pittsburgh](https://isacpittsburgh.org/category/europe-recipes/)|[Peter Sommer](https://www.petersommer.com/blog/category/food)|[Recipes from Europe](https://www.recipesfromeurope.com/)|[St. Christophers](https://www.st-christophers.co.uk/travel-blog/easy-european-dishes-to-cook-at-home/)|
+|[Sunday Baker](https://sundaybaker.co/)|[YEN JEV](http://www.yeni.org/minority-cook-blog/)|
 
 #### Albania
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)|[Mimi's Recipes](https://www.mimisrecipes.com/)|[My Albanian Food](https://www.myalbanianfood.com/)|[Uprooted Abroad](https://uprootedabroad.wordpress.com/tag/recipe/)|[When Feta Met Olive](https://whenfetametolive.com/)|
+|[Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)|[Mimi's Recipes](https://www.mimisrecipes.com/)|[My Albanian Food](https://www.myalbanianfood.com/)|[Uprooted Abroad](https://uprootedabroad.wordpress.com/tag/recipe/)|
 
 #### Andorra
 |     |
@@ -664,11 +663,6 @@
 |     |     |
 | --- | --- |
 |[Buber's Basque Page](https://www.buber.net/Basque/Food/Recipes/)|[Euskal Kazeta](https://euskalkazeta.com/category/culture/food-2/recipes/)|
-
-#### Bosnia
-|     |
-| --- |
-|[Bosnian Foods](https://bosnianfoods.weebly.com/)|
 
 #### Bulgaria
 |     |
@@ -712,11 +706,10 @@
 |[A Baking Journey](https://www.abakingjourney.com/)|[Bordeaux Kitchen](https://bordeauxkitchen.com/)|[Cerise Cherie](https://rebeccasherrow.com/)|[Chez Le Reve Francais](https://chezlerevefrancais.com/)|[Cuisine Daubery](https://www.cuisinedaubery.com/home_en/)|
 |[Distilleries Provence](https://www.distilleries-provence.com/en/blog/recettes-c2)|[The Everyday French Chef](https://everydayfrenchchef.com/)|[France Just For You](https://www.france-justforyou.com/blog/french-food-wine)|[France This Way](https://www.francethisway.com/frenchfood.php)|[French Cooking Acadamy](https://www.thefrenchcookingacademy.com/recipes)|
 |[French Revolution](http://www.frenchrevolutionfood.com/)|[French Women Don't Get Fat](https://frenchwomendontgetfat.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Hertzmann](https://www.hertzmann.com/index/index.php)|[Interfrance](http://www.interfrance.com/cuisines_en.html)|
-|[A Lady in France](https://aladyinfrance.com/)|[La Tartine Gourmande](https://www.latartinegourmande.com/)|
-[Le Chef's Wife](https://lechefswife.com/)|[Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)|[Love French Food](https://www.lovefrenchfood.com/)|[Mad About Macarons](https://www.madaboutmacarons.com/)|
-|[Mon Petit Four](https://www.monpetitfour.com/recipes/)|[My Parisian Kitchen](https://www.myparisiankitchen.com/en/)|[On Rue Tatin](https://onruetatin.com/recipe-archive/)|[Pardon Your French](https://www.pardonyourfrench.com/)|[Simple French Cooking](https://www.simplefrenchcooking.com/)|
-|[Snippets of Paris](https://snippetsofparis.com/category/french-food/)|[Taste France](https://www.tastefrance.com/us/recipes)|[Terres Dazur](https://terres-dazur.com/en/category/recipe-ideas/)|[Traditional French Food](https://www.traditionalfrenchfood.com/)|[Virginie in Provence](https://www.virginieinprovence.com/blog/categories/recipes)|
-|[Wind From the North](https://windfromthenorth.com/category/recipes/)|[Your Guardian Chef](https://yourguardianchef.com/)|
+|[A Lady in France](https://aladyinfrance.com/)|[La Tartine Gourmande](https://www.latartinegourmande.com/)|[Le Chef's Wife](https://lechefswife.com/)|[Leon Cechenal](https://leoncechenal.com/art-de-vivre/french-food/)|[Love French Food](https://www.lovefrenchfood.com/)|[Mad About Macarons](https://www.madaboutmacarons.com/)|
+|[Mon Petit Four](https://www.monpetitfour.com/recipes/)|[On Rue Tatin](https://onruetatin.com/recipe-archive/)|[Pardon Your French](https://www.pardonyourfrench.com/)|[Simple French Cooking](https://www.simplefrenchcooking.com/)|[Snippets of Paris](https://snippetsofparis.com/category/french-food/)|
+|[Taste France](https://www.tastefrance.com/us/recipes)|[Terres Dazur](https://terres-dazur.com/en/category/recipe-ideas/)|[Traditional French Food](https://www.traditionalfrenchfood.com/)|[Virginie in Provence](https://www.virginieinprovence.com/blog/categories/recipes)|[Wind From the North](https://windfromthenorth.com/category/recipes/)|
+|[Your Guardian Chef](https://yourguardianchef.com/)|
 - ##### Alsace
 |     |
 | --- |
@@ -730,9 +723,9 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[All Tastes German](https://alltastesgerman.com/)|[Deutsche Delikatessen](https://deutsche-delikatessen.de/en/)|[Diary of a Mad Hausfrau](https://diaryofamadhausfrau.com/)|[Dirndl Kitchen](https://dirndlkitchen.com/)|[German Food Guide](http://www.germanfoodguide.com/cooking.cfm)|
-|[German Foods](https://germanfoods.org/)|[Inspiration for All](https://www.inspirationforall.de/en/)|[Kitchen Frau](https://www.kitchenfrau.com/)|[**MixMarkt**](https://www.mixmarkt.eu/en/germany/recipes/)|[My Best German Recipes](https://mybestgermanrecipes.com/)|
-|[My Dinner](https://mydinner.co.uk/)|[My German Recipes](https://mygerman.recipes/)|[My German Table](https://www.mygermantable.com/)|[Kitchen Lionness](http://kitchenlioness.blogspot.com/)|[The Kitchen Maus](https://www.thekitchenmaus.com/)|
-|[The Oma Way](https://www.theomaway.com/)|[Pretzel and Me](https://pretzelandme.blog/)|[Quick German Recipes](https://www.quick-german-recipes.com/)|[A Sausage Has Two](https://www.asausagehastwo.com/)|[Thomas Sixt](https://thomassixt.de/en/)|
+|[German Foods](https://germanfoods.org/)|[Inspiration for All](https://www.inspirationforall.de/en/)|[Kitchen Frau](https://www.kitchenfrau.com/)|[My Best German Recipes](https://mybestgermanrecipes.com/)|[My Dinner](https://mydinner.co.uk/)|
+|[My German Recipes](https://mygerman.recipes/)|[My German Table](https://www.mygermantable.com/)|[Kitchen Lionness](http://kitchenlioness.blogspot.com/)|[The Kitchen Maus](https://www.thekitchenmaus.com/)|[The Oma Way](https://www.theomaway.com/)|
+|[Pretzel and Me](https://pretzelandme.blog/)|[Quick German Recipes](https://www.quick-german-recipes.com/)|[A Sausage Has Two](https://www.asausagehastwo.com/)|[Thomas Sixt](https://thomassixt.de/en/)|
 - ##### Bavaria
 |     |     |
 | --- | --- |
@@ -744,14 +737,14 @@
 |[30 Days of Greek Food](https://30daysofgreekfood.com/)|[776 Deluxe](https://776deluxe.com/recipes/)|[California Greek Girl](https://www.californiagreekgirl.com/)|[Cook Like a Greek Blog](https://cooklikeagreekblog.com/)|[Cucina Caruso](https://cucinacaruso.com/)|
 |[Diane Kochilas](https://www.dianekochilas.com/)|[Dimitra's Dishes](https://www.dimitrasdishes.com/)|[Eat Yourself Greek](https://eatyourselfgreek.com/)|[Eleni Saltas](https://elenisaltas.com/)|[Foood Love](https://www.fooodlove.com/)|
 |[Greece High Definition](https://www.greecehighdefinition.com/recipes)|[The Greek Chef](https://thegreekchef.us/recipes/)|[Greek City Times](https://greekcitytimes.com/greek-lifestyle-and-events-from-around-the-world/recipes/)|[Greek Cooking Sisters](https://greeksisters.com/)|[Greeker Than Greeks](https://greekerthanthegreeks.com/category/greek-cuisine)|
-|[Greek Food Alchemist](https://greekfoodalchemist.com/)|[Greek Goes Keto](https://www.greekgoesketo.com/)|[The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)|[The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)|[Greek Keto](https://greekketo.com/)|
-|[Greek Reporter](https://greekreporter.com/greek-food/)|[The Greek Vegan](https://thegreekvegan.com/)|[Heart Healthy Greek](https://www.hearthealthygreek.com/)|[The Hellenic Odyssey](https://www.thehellenicodyssey.com/)|[iCookGreek](https://en.icookgreek.com/)|
-|[Irini Cooks](https://irinicooks.com/)|[Kali Orexi](https://www.kali-orexi.com.au/)|[Kalofagas](https://www.kalofagas.ca/category/recipes/)|[Kardamas](https://www.kardamas.com/blog/)|[Katerina Kouzina](https://katerinaskouzina.com/)|
-|[Kopiaste](https://www.kopiaste.org/)|[**Kourellas**](https://kourellas.com/recipes/)|[Kytherian Association](https://www.kytherianassociation.com.au/subcommittees/kitchen_recipes.html)|[Lemon & Olives](https://www.lemonandolives.com/)|[Maria Dernikos](https://mariadernikos.com/)|
-|[Marilena's Kitchen](https://www.marilenaskitchen.com/)|[Me To Mati](https://www.metomati.com/)|[Mia Kouppa](https://miakouppa.com/)|[Mostly Greek](https://mostly-greek.com/)|[My Family's Food Diary](https://myfamilysfooddiary.com/)|
-|[My Greek Dish](https://www.mygreekdish.com/)|[My Greek Salad](https://www.mygreeksalad.com/)|[My Horio](https://myhorio.com/)|[The Olive and the Sea](https://theoliveandthesea.com/)|[OMG Food](https://omgfood.com/)|
-|[The Rado Table](https://theradotable.com/)|[Real Greek Recipes](https://www.realgreekrecipes.com/)|[Saint Nectario's Shrine](http://www.saintnectariosshrine.org/)|[Socratic Food](http://socraticfood.com/)|[Souvlaki for the Soul](https://souvlakiforthesoul.com/)|
-|[Sweet Greek](https://mysweetgreek.com/recipe-index/)|[Sympossio](https://www.sympossio.gr/recipes-2/)|[Vicki's Greek Recipes](https://www.vickisgreekrecipes.com/)|[Zorba Book](https://www.zorbabook.com/recipe-home)|
+|[Greek Food Alchemist](https://greekfoodalchemist.com/)|[Greek Goes Keto](https://www.greekgoesketo.com/)|[The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)|[The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)|[Greek Reporter](https://greekreporter.com/greek-food/)|
+|[The Greek Vegan](https://thegreekvegan.com/)|[Heart Healthy Greek](https://www.hearthealthygreek.com/)|[The Hellenic Odyssey](https://www.thehellenicodyssey.com/)|[iCookGreek](https://en.icookgreek.com/)|[Irini Cooks](https://irinicooks.com/)|
+|[Kali Orexi](https://www.kali-orexi.com.au/)|[Kalofagas](https://www.kalofagas.ca/category/recipes/)|[Kardamas](https://www.kardamas.com/blog/)|[Katerina Kouzina](https://katerinaskouzina.com/)|[Kopiaste](https://www.kopiaste.org/)|
+|[**Kourellas**](https://kourellas.com/recipes/)|[Kytherian Association](https://www.kytherianassociation.com.au/subcommittees/kitchen_recipes.html)|[Lemon & Olives](https://www.lemonandolives.com/)|[Maria Dernikos](https://mariadernikos.com/)|[Marilena's Kitchen](https://www.marilenaskitchen.com/)|
+|[Me To Mati](https://www.metomati.com/)|[Mia Kouppa](https://miakouppa.com/)|[Mostly Greek](https://mostly-greek.com/)|[My Family's Food Diary](https://myfamilysfooddiary.com/)|[My Greek Dish](https://www.mygreekdish.com/)|
+|[My Greek Salad](https://www.mygreeksalad.com/)|[My Horio](https://myhorio.com/)|[The Olive and the Sea](https://theoliveandthesea.com/)|[OMG Food](https://omgfood.com/)|[The Rado Table](https://theradotable.com/)|
+|[Real Greek Recipes](https://www.realgreekrecipes.com/)|[Socratic Food](http://socraticfood.com/)|[Souvlaki for the Soul](https://souvlakiforthesoul.com/)|[Sweet Greek](https://mysweetgreek.com/recipe-index/)|[Sympossio](https://www.sympossio.gr/recipes-2/)|
+|[Vicki's Greek Recipes](https://www.vickisgreekrecipes.com/)|[Zorba Book](https://www.zorbabook.com/recipe-home)|
 - ##### Crete
 |     |
 | --- |
@@ -772,35 +765,34 @@
 #### Ireland
 |     |
 | --- |
-|[Ballymaloe](https://www.ballymaloe.ie/content/ballymaloe-recipe)|[Bord Bia](https://www.bordbia.ie/)|[Ireland Calling](https://ireland-calling.com/irish-recipes/)|[Irish American Mom](https://www.irishamericanmom.com/)|[Irish Central](https://www.irishcentral.com/culture/food-drink/)|
-|[Real Irish Desserts](https://realirishdesserts.com/)|[Tommy Moloney's](https://www.tommymoloneys.com/recipes/)|
+|[Bord Bia](https://www.bordbia.ie/)|[Ireland Calling](https://ireland-calling.com/irish-recipes/)|[Irish American Mom](https://www.irishamericanmom.com/)|[Irish Central](https://www.irishcentral.com/culture/food-drink/)|[Real Irish Desserts](https://realirishdesserts.com/)|
+|[Tommy Moloney's](https://www.tommymoloneys.com/recipes/)|
 
 #### Italy
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Aldo zilli](https://aldozilli.com/recipes)|[Alessandra's Food is Love](https://alessandrasfoodislove.com/)|[All Our Way](https://allourway.com/)|[A Modo Mio](https://a-modo-mio.com/)|[Anna Maria Volpi](http://www.annamariavolpi.com/public_html/)|
+|[Aldo Zilli](https://aldozilli.com/recipes)|[Alessandra's Food is Love](https://alessandrasfoodislove.com/)|[All Our Way](https://allourway.com/)|[A Modo Mio](https://a-modo-mio.com/)|[Anna Maria Volpi](http://www.annamariavolpi.com/public_html/)|
 |[Bell 'Alimento](https://bellalimento.com/)|[The Bella Vita](https://www.the-bella-vita.com/)|[Biancolievito](https://biancolievito.com/)|[**Bottega di Calabria**](https://www.bottegadicalabria.com/blog/recipes)|[Cafe Osharak](https://www.osharak.com/)|
 |[Cerise Cherie](https://rebeccasherrow.com/)|[Chef Bikeski](https://www.chefbikeski.com/)|[The Chiappas](https://thechiappas.com/)|[Ciao Bella Kitchen](https://ciaobellakitchen.com/)|[Ciao Chow Bambina](https://ciaochowbambina.com/)|
-|[Ciao Florentina](https://ciaoflorentina.com/)|[Ciao Italia](https://www.ciaoitalia.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Clifford A. Wright](http://www.cliffordawright.com/caw/recipes/recipes.html)|[Coley Cooks](https://coleycooks.com/)|
-|[Cookies from Italy](https://cookiesfromitaly.com/recipes.htm)|[Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Cooking With Manuela](https://www.cookingwithmanuela.com/)|[Cooking With Nonna](https://www.cookingwithnonna.com/)|
-|[Cooking With Patty](http://cookingwithpatty.com/)|[Cucina Antica](https://cucina-antica.com/blogs/recipes)|[Cucina By Elena](https://www.cucinabyelena.com/)|[**Delallo**](https://www.delallo.com/recipe-finder)|[Eatalian with Roberto](https://www.eatalianwithroberto.com/)|
-|[Elizabeth Minchilli](https://www.elizabethminchilli.com/recipes/)|[Erica De Mane](https://ericademane.com/)|[The Eternal Table](https://www.theeternaltable.com/historicalrecipes)|[Feeling Foodish](https://feelingfoodish.com/)|[Flavor of Italy](https://flavorofitaly.com/fi-recipes/)|
-|[Fleurty Herald](https://fleurtyherald.wordpress.com/2013/09/03/recipes-from-renaissance-italy/)|[Gennaro Contaldo](https://gennarocontaldo.com/category/recipes/)|[Giallo Zafferano](https://www.giallozafferano.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Gourmet Project](https://www.gourmetproject.net/)|
-|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|[Great Italian Chefs](https://www.greatitalianchefs.com/)|[Heart of Abruzzo](https://heartofabruzzo.com/category/abruzzo-recipes/)|[Historical Italian Cooking](https://historicalitaliancooking.home.blog/)|[Identita Golose](https://www.identitagolose.com/sito/en/12/recipes.html)|
-|[Ilaria's Perfect Recipes](https://www.ilariasperfectrecipes.com/category/recipes/)|[Il Globo](https://ilglobo.com/en/recipes/explore/)|[**Il Gusto**](https://www.oliocarli.us/magazine/italian-recipes)|[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Inside the Rustic Kitchen](https://www.insidetherustickitchen.com/)|
-|[Ita Food Baby Blog](https://ltafoodbabyblog.wordpress.com/)|[Italian Chef](https://italianchef.com/)|[Italian Cook](http://www.italiancook.ca/)|[Italian Food Forever](https://www.italianfoodforever.com/)|[Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)|
-|[An Italian in My Kitchen](https://anitalianinmykitchen.com/)|[Italian Notes](https://italiannotes.com/food/)|[The Italian Sauce](https://theitaliansauce.com/)|[Italian Spoon](https://www.italianspoon.com.au/)|[Italian Style Cooking](https://www.italianstylecooking.net/en/)|
-|[Italy Mamma Mia](https://www.italymammamia.com/venice-food.html)|[Italy Revisited](http://www.italyrevisited.org/)|[Josie and Nina](https://josieandnina.com/)|[La Cucina Italiana](https://www.lacucinaitaliana.com/)|[Lida Bastianich](https://lidiasitaly.com/)|
-|[Living a Life in Colour](https://www.livingalifeincolour.com/recipes/)|[Magnus Made](https://www.magnusmade.com/category/food/recipe/)|[Mama Blip](https://www.mamablip.com/en/recipes)|[Mangia This](https://mangiathis.net/)|[Manu's Menu](https://www.manusmenu.com/)|
-|[Marcellina in Cucina](https://www.marcellinaincucina.com/)|[Maria Liberati](https://marialiberati.com/blog2/recipes-articles/)|[Memorie Di Angelina](https://memoriediangelina.com/)|[The Monday Pasta Club](https://www.themondaypastaclub.com/)|[**Mortadella Head**](https://mortadellahead.com/category/recipes/)|
-|[My Italian](https://myitalian.recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|[Nonna Box](https://www.nonnabox.com/recipes/)|[No Plate Like Home](https://noplatelikehome.com/)|
-|[Our Italian Journey](https://ouritalianjourney.com/)|[Our Italian Table](https://ouritaliantable.com/)|[Pascquale Sciarappa](https://orsararecipes.net/)|[Pasta Grammar](https://www.pastagrammar.com/blog)|[The Pasta Project](https://www.the-pasta-project.com/)|
-|[PhilosoKitchen](https://philosokitchen.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[Pietru Furnar](http://www.pietrufurnar.com/)|[Polenta e Baccala](https://polentaebaccala.com/)|[Proud Italian Cook](https://www.prouditaliancook.com/)|
-|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[The Real Italian Food](https://therealitalianfood.com/)|[Recipes from Italy](https://www.recipesfromitaly.com/)|[Ritrovo](https://ritrovo.com/collections/recipes)|[Rubber Slippers inItaly](https://rubberslippersinitaly.wordpress.com/)|
-|[Sal e Pepe](https://www.salepepe.com/recipes/)|[Sarah's Cucina Bella](https://sarahscucinabella.com/)|[Savoring Italy](https://www.savoringitaly.com/)|[Scordo](http://www.scordo.com/)|[She Loves Biscotti](https://www.shelovesbiscotti.com/)|
-|[Silvia's Cucina](https://silviascucina.net/)|[Sip and Feast](https://www.sipandfeast.com/)|[The Slow Roasted Italian](https://www.theslowroasteditalian.com/)|[Spaghetti Sauce and Meatballs](https://saucesnlove.com/recipes/)|[Spicy Goulash](https://spicygoulash.com/)|
-|[Sugar Love Spices](https://www.sugarlovespices.com/)|[The Tiny Italian](https://thetinyitalian.com/)|[Veroni](https://www.veroni.com/recipes/)|[Very EATalian](http://www.veryeatalian.com/)|[Vincenzo's Plate](https://www.vincenzosplate.com/)|
-|[What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/)|[Your Guardian Chef](https://yourguardianchef.com/)|
+|[Ciao Florentina](https://ciaoflorentina.com/)|[Ciao Italia](https://www.ciaoitalia.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Coley Cooks](https://coleycooks.com/)|[Cookies from Italy](https://cookiesfromitaly.com/recipes.htm)|
+|[Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Cooking With Manuela](https://www.cookingwithmanuela.com/)|[Cooking With Nonna](https://www.cookingwithnonna.com/)|[Cooking With Patty](http://cookingwithpatty.com/)|
+|[Cucina Antica](https://cucina-antica.com/blogs/recipes)|[Cucina By Elena](https://www.cucinabyelena.com/)|[**Delallo**](https://www.delallo.com/recipe-finder)|[Eatalian with Roberto](https://www.eatalianwithroberto.com/)|[Elizabeth Minchilli](https://www.elizabethminchilli.com/recipes/)|
+|[Erica De Mane](https://ericademane.com/)|[The Eternal Table](https://www.theeternaltable.com/historicalrecipes)|[Feeling Foodish](https://feelingfoodish.com/)|[Flavor of Italy](https://flavorofitaly.com/fi-recipes/)|[Fleurty Herald](https://fleurtyherald.wordpress.com/2013/09/03/recipes-from-renaissance-italy/)|
+|[Gennaro Contaldo](https://gennarocontaldo.com/category/recipes/)|[Giallo Zafferano](https://www.giallozafferano.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Gourmet Project](https://www.gourmetproject.net/)|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|
+|[Great Italian Chefs](https://www.greatitalianchefs.com/)|[Historical Italian Cooking](https://historicalitaliancooking.home.blog/)|[Ilaria's Perfect Recipes](https://www.ilariasperfectrecipes.com/category/recipes/)|[Il Globo](https://ilglobo.com/en/recipes/explore/)|[**Il Gusto**](https://www.oliocarli.us/magazine/italian-recipes)|
+|[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Inside the Rustic Kitchen](https://www.insidetherustickitchen.com/)|[Ita Food Baby Blog](https://ltafoodbabyblog.wordpress.com/)|[Italian Chef](https://italianchef.com/)|[Italian Cook](http://www.italiancook.ca/)|
+|[Italian Food Forever](https://www.italianfoodforever.com/)|[Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)|[An Italian in My Kitchen](https://anitalianinmykitchen.com/)|[Italian Notes](https://italiannotes.com/food/)|[The Italian Sauce](https://theitaliansauce.com/)|
+|[Italian Spoon](https://www.italianspoon.com.au/)|[Italian Style Cooking](https://www.italianstylecooking.net/en/)|[Italy Mamma Mia](https://www.italymammamia.com/venice-food.html)|[Italy Revisited](http://www.italyrevisited.org/)|[Josie and Nina](https://josieandnina.com/)|
+|[La Cucina Italiana](https://www.lacucinaitaliana.com/)|[Lida Bastianich](https://lidiasitaly.com/)|[Living a Life in Colour](https://www.livingalifeincolour.com/recipes/)|[Magnus Made](https://www.magnusmade.com/category/food/recipe/)|[Mama Blip](https://www.mamablip.com/en/recipes)|
+|[Mangia This](https://mangiathis.net/)|[Manu's Menu](https://www.manusmenu.com/)|[Marcellina in Cucina](https://www.marcellinaincucina.com/)|[Maria Liberati](https://marialiberati.com/blog2/recipes-articles/)|[Memorie Di Angelina](https://memoriediangelina.com/)|
+|[The Monday Pasta Club](https://www.themondaypastaclub.com/)|[**Mortadella Head**](https://mortadellahead.com/category/recipes/)|[My Italian](https://myitalian.recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|
+|[Nonna Box](https://www.nonnabox.com/recipes/)|[No Plate Like Home](https://noplatelikehome.com/)|[Our Italian Journey](https://ouritalianjourney.com/)|[Our Italian Table](https://ouritaliantable.com/)|[Pascquale Sciarappa](https://orsararecipes.net/)|
+|[Pasta Grammar](https://www.pastagrammar.com/blog)|[The Pasta Project](https://www.the-pasta-project.com/)|[PhilosoKitchen](https://philosokitchen.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[Pietru Furnar](http://www.pietrufurnar.com/)|
+|[Polenta e Baccala](https://polentaebaccala.com/)|[Proud Italian Cook](https://www.prouditaliancook.com/)|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[The Real Italian Food](https://therealitalianfood.com/)|[Recipes from Italy](https://www.recipesfromitaly.com/)|
+|[Ritrovo](https://ritrovo.com/collections/recipes)|[Rubber Slippers in Italy](https://rubberslippersinitaly.wordpress.com/)|[Sal e Pepe](https://www.salepepe.com/recipes/)|[Sarah's Cucina Bella](https://sarahscucinabella.com/)|[Savoring Italy](https://www.savoringitaly.com/)|
+|[Scordo](http://www.scordo.com/)|[She Loves Biscotti](https://www.shelovesbiscotti.com/)|[Silvia's Cucina](https://silviascucina.net/)|[Sip and Feast](https://www.sipandfeast.com/)|[The Slow Roasted Italian](https://www.theslowroasteditalian.com/)|
+|[Spaghetti Sauce and Meatballs](https://saucesnlove.com/recipes/)|[Spicy Goulash](https://spicygoulash.com/)|[Sugar Love Spices](https://www.sugarlovespices.com/)|[The Tiny Italian](https://thetinyitalian.com/)|[Veroni](https://www.veroni.com/recipes/)|
+|[Very EATalian](http://www.veryeatalian.com/)|[Vincenzo's Plate](https://www.vincenzosplate.com/)|[What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/)|[Your Guardian Chef](https://yourguardianchef.com/)|
 - ##### Abruzzo
 |     |
 | --- |
@@ -816,8 +808,7 @@
 - ##### Sicily
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Enzo the Sicilian Chef](https://www.thesicilianchef.co.uk/)|[Mangia Bedda](https://www.mangiabedda.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|[Sicilian Food Culture](https://sicilianfoodculture.com/categories/)|[A Sicilian Peasants Table](http://asicilianpeasantstable.com/)|
-|[Solo Dolce](https://solo-dolce.com/)|
+|[Enzo the Sicilian Chef](https://www.thesicilianchef.co.uk/)|[Mangia Bedda](https://www.mangiabedda.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|[Sicilian Food Culture](https://sicilianfoodculture.com/categories/)|[Solo Dolce](https://solo-dolce.com/)|
 - ##### Tuscany
 |     |     |     |
 | --- | --- | --- |
@@ -860,14 +851,13 @@
 #### Nordic
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[The Adagio Blog](https://www.adagioblog.com/)|[My Nordic Kitchen](https://www.mynordickitchen.no/)|[Nordic Food Living](https://nordicfoodliving.com/)|[True North Kitchen](https://true-north-kitchen.com/)|
+|[The Adagio Blog](https://www.adagioblog.com/)|[Nordic Food Living](https://nordicfoodliving.com/)|[True North Kitchen](https://true-north-kitchen.com/)|
 
 #### Norway
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Arctic Grub](https://arcticgrub.com/)|[Daughters of Norway](https://www.daughtersofnorway.org/heritage/nordic-foods/)|[Gladkokken](https://gladkokken.com/)|[North Wild Kitchen](https://northwildkitchen.com/)|[Norway Hei](https://www.norway-hei.com/norwegian-recipes.html)|
-|[Norwegian American](https://www.norwegianamerican.com/category/food/)|[Outside Oslo](https://outside-oslo.com/)|[Seafood from Norway](https://fromnorway.com/recipes/)|[Sons of Norway](https://www.sofn.com/norwegian_culture/recipe_box/)|[Thanks for the Food](http://thanksforthefood.com/)|
-|[Tine Brunost](http://www.tinebrunost.com/recipes)|
+|[Norwegian American](https://www.norwegianamerican.com/category/food/)|[Seafood from Norway](https://fromnorway.com/recipes/)|[Sons of Norway](https://www.sofn.com/norwegian_culture/recipe_box/)|[Tine Brunost](http://www.tinebrunost.com/recipes)|
 
 #### Poland
 |     |     |     |     |     |
@@ -878,8 +868,8 @@
 #### Portugal
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Ana's Portuguese Cooking](https://portuguesecooking.com/)|[Easy Portuguese Recipes](https://www.easyportugueserecipes.com/)|[Eu Amo Portugal](https://euamoportugal.com/en/recipes)|[Food from Portgual](https://www.foodfromportugal.com/)|[Just Cook with Michael](https://justcookwithmichael.com/)|
-|[Photos and Food](https://www.photosandfood.ca/)|[The Portuguese American Mom](https://theportugueseamericanmom.com/)|[Portuguese Recipes](https://portugueserecipes.ca/)|[We Travel Portugal](https://wetravelportugal.com/category/recipes/)|
+|[Ana's Portuguese Cooking](https://portuguesecooking.com/)|[Eu Amo Portugal](https://euamoportugal.com/en/recipes)|[Food from Portgual](https://www.foodfromportugal.com/)|[Just Cook with Michael](https://justcookwithmichael.com/)|[Photos and Food](https://www.photosandfood.ca/)|
+|[The Portuguese American Mom](https://theportugueseamericanmom.com/)|[Portuguese Recipes](https://portugueserecipes.ca/)|[We Travel Portugal](https://wetravelportugal.com/category/recipes/)|
 - ##### Azoria
 |     |
 | --- |
@@ -902,11 +892,10 @@
 #### Spain
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Basco Fine Foods](https://www.bascofinefoods.com/)|[Bella Vista](https://bellavista.barcelona/)|[Chef H. Delgado](https://www.chefhdelgado.com/post)|[**Donostia Foods**](https://www.donostiafoods.com/pages/recipes-serving-suggestions)|[Fascinating Spain](https://fascinatingspain.com/etiquetasgastronomiaespana/spanish-traditional-cuisine/)|
-|[Grandad's Cookbook](https://grandadscookbook.co.uk/)|[Hola Foodie](http://holafoodie.com/category/spanish-recipes/)|[Hot Paella](https://www.hotpaella.com/Departments/Spanish-Food.aspx)|[Nicola Fairbrother](https://nicolafairbrother.com/category/recipes/)|[Spain on a Fork](https://spainonafork.com/)|
-|[Spain Recipes](https://www.spain-recipes.com/)|[The Spanish Chef](https://www.thespanishchef.com/recipes)|[Spanish By Nuria](http://www.spanishrecipesbynuria.com/)|[Spanish Fiestas](https://www.spanish-fiestas.com/)|[Spanish Food Guide](https://www.spanishfoodguide.com/)|
-|[Spanish Passion Foods](https://www.spanishpassionfoods.co.uk/recipe/)|[The Spanish Radish](https://thespanishradish.com/)|[Spanish Sabores](https://spanishsabores.com/)|[Teresa Food Recipes](https://teresafoodrecipes.blogspot.com/)|[**Tienda**](https://www.tienda.com/recipes/)|
-|[World Food Story](https://www.worldfoodstory.co.uk/)|
+|[Bella Vista](https://bellavista.barcelona/)|[Chef H. Delgado](https://www.chefhdelgado.com/post)|[**Donostia Foods**](https://www.donostiafoods.com/pages/recipes-serving-suggestions)|[Fascinating Spain](https://fascinatingspain.com/etiquetasgastronomiaespana/spanish-traditional-cuisine/)|[Grandad's Cookbook](https://grandadscookbook.co.uk/)|
+|[Hot Paella](https://www.hotpaella.com/Departments/Spanish-Food.aspx)|[Nicola Fairbrother](https://nicolafairbrother.com/category/recipes/)|[Spain on a Fork](https://spainonafork.com/)|[Spain Recipes](https://www.spain-recipes.com/)|[The Spanish Chef](https://www.thespanishchef.com/recipes)|
+|[Spanish By Nuria](http://www.spanishrecipesbynuria.com/)|[Spanish Fiestas](https://www.spanish-fiestas.com/)|[Spanish Food Guide](https://www.spanishfoodguide.com/)|[Spanish Passion Foods](https://www.spanishpassionfoods.co.uk/recipe/)|[The Spanish Radish](https://thespanishradish.com/)|
+|[Spanish Sabores](https://spanishsabores.com/)|[Teresa Food Recipes](https://teresafoodrecipes.blogspot.com/)|[**Tienda**](https://www.tienda.com/recipes/)|[World Food Story](https://www.worldfoodstory.co.uk/)|
 - ##### Andalucia
 |     |     |     |
 | --- | --- | --- |
@@ -946,23 +935,23 @@
 ##### Russia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Babushka Cooking](https://www.babushkacooking.com/)|[Meet Russia](https://meetrussia.online/russian-food/)|[RusCuisine](http://www.ruscuisine.com/)|[Russia Beyond](https://www.rbth.com/russian-kitchen)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|
-|[Russian Recipe Book](https://russianrecipebook.com/)|[Russian Spirit](https://ruspirit.ru/en/russain_food_with_recipes)|[Russland Journal](https://www.russlandjournal.de/en/russian-recipes/)|
+|[Babushka Cooking](https://www.babushkacooking.com/)|[RusCuisine](http://www.ruscuisine.com/)|[Russia Beyond](https://www.rbth.com/russian-kitchen)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|[Russian Recipe Book](https://russianrecipebook.com/)|
+|[Russian Spirit](https://ruspirit.ru/en/russain_food_with_recipes)|[Russland Journal](https://www.russlandjournal.de/en/russian-recipes/)|
 ##### Ukraine
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Anna Voloshyna](https://annavoloshyna.com/)|[Authentic Ukraine](https://authenticukraine.com.ua/en/food)|[Etnocook](https://etnocook.com/)|[Klopotenko](https://klopotenko.com/en/)|[Let the Baking Begin](https://letthebakingbegin.com/)|
-|[My Odessa Kitchen](http://www.myodessacuisine.com/en/)|[**Proborsch**](https://proborsch.com/)|[Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)|[Ukraine Food](https://ukrainefood.info/)|
+|[My Odessa Kitchen](http://www.myodessacuisine.com/recipes/)|[**Proborsch**](https://proborsch.com/)|[Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)|[Ukraine Food](https://ukrainefood.info/)|
 
 ##### United Kingdom
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Britain Express](https://www.britainexpress.com/articles/Food/index.htm)|[British Food History](https://britishfoodhistory.com/)|[Fuss-Free Flavours](https://fussfreeflavours.com/)|[Grandad's Cookbook](https://grandadscookbook.co.uk/)|[Great British Puddings](https://www.greatbritishpuddings.com/)|
-|[Medieval Britain](https://medievalbritain.com/category/type/medieval-life/medieval-recipes/)|[Recipes 4 Us](https://www.recipes4us.co.uk/)|
+|[Medieval Britain](https://medievalbritain.com/category/type/medieval-life/medieval-recipes/)|
 - ###### England
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[The English Kitchen](https://www.theenglishkitchen.co/)|[Foods of England](http://www.foodsofengland.co.uk/index.htm)|[Lavender and Lovage](https://www.lavenderandlovage.com/)|[Neil Cooks Grigson](https://neilcooksgrigson.com/)|[Tradition Yorkshire Recipes](https://traditional-yorkshire-recipes.info/)|
+|[The English Kitchen](https://www.theenglishkitchen.co/)|[Lavender and Lovage](https://www.lavenderandlovage.com/)|[Neil Cooks Grigson](https://neilcooksgrigson.com/)|[Tradition Yorkshire Recipes](https://traditional-yorkshire-recipes.info/)|
 - ###### Scotland
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
