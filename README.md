@@ -571,8 +571,8 @@
 #### Turkey
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[AZ Cookbook](https://azcookbook.com/)|[Give Recipe](https://www.giverecipe.com/)|[Kuzubudu](http://eng.kuzubudu.com/our-recipe-book/)|[My Home Diary in Turkey](https://myhomediaryinturkey.blogspot.com/)|[Ozlem's Turkish Table](https://ozlemsturkishtable.com/recipes/)|
-|[Turkish Food Chef](https://turkishfoodchef.com/)|[Turkish Food Travel](https://www.turkishfoodtravel.com/)|[Turkish Style Cooking](https://turkishstylecooking.com/)|[Vidar Bergum](https://vidarbergum.com/all-recipes/)|[When Feta Met Olive](https://whenfetametolive.com/)|
+|[AZ Cookbook](https://azcookbook.com/)|[Give Recipe](https://www.giverecipe.com/)|[My Home Diary in Turkey](https://myhomediaryinturkey.blogspot.com/)|[Ozlem's Turkish Table](https://ozlemsturkishtable.com/recipes/)|[Turkish Food Chef](https://turkishfoodchef.com/)|
+|[Turkish Food Travel](https://www.turkishfoodtravel.com/)|[Turkish Style Cooking](https://turkishstylecooking.com/)|[Vidar Bergum](https://vidarbergum.com/all-recipes/)|[When Feta Met Olive](https://whenfetametolive.com/)|
 
 #### United Arab Emirates
 |     |
@@ -588,13 +588,12 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Alli Vuong](https://allivuong.com/)|[Beyond Sweet and Savoury](https://beyondsweetandsavory.com/)|[Boriville](http://boriville.blogspot.com/)|[Bun Bo Bae](https://bunbobae.com/)|[Cook With Manali](https://www.cookwithmanali.com/)|
-|[Cuisine of Vietnam](https://cuisineofvietnam.com/)|[d'anis et d'etoiles](https://danisetdetoilesdotcom.wordpress.com/)|[Frankly Awesome Food](https://franklyawesomefood.com/)|[Grandma's Safe Place](https://grandmassafeplace.com/)|[Helen Recipes](https://helenrecipes.com/home-en/)|
+|[Cuisine of Vietnam](https://cuisineofvietnam.com/)|[d'anis et d'etoiles](https://danisetdetoilesdotcom.wordpress.com/)|[Frankly Awesome Food](https://franklyawesomefood.com/)|[Helen Recipes](https://helenrecipes.com/home-en/)|
 |[Hue Cooking Class](https://huecookingclass.com/recipes/)|[Hungry Huy](https://www.hungryhuy.com/)|[Jen H. Dao](https://jenhdao.com/)|[Juliee Ho](https://juleeho.com/julee-ho-cooks/)|[Katie's Test Kitchen](https://katiestestkitchen.com/)|
 |[La Vie Partagee](https://laviepartagee.com/)|[Mama's Now Cooks](https://mamasnowcooks.com/)|[MM Bon Appetit](https://mmbonappetit.com/)|[**Nguyen Coffee Supply**](https://nguyencoffeesupply.com/blogs/creative-vietnamese-coffee-drink-recipes)|[No Limit Cooking](https://nolimitcooking.com/)|
 |[A Peachy Plate](https://apeachyplate.com/)|[The Ravenous Couple](https://theravenouscouple.com/)|[Rice n' Flour](http://www.ricenflour.com/)|[Scruff and Steph](https://scruffandsteph.com/)|[Simply Vietnamese](https://simplyvietnamese.wordpress.com/)|
-|[Spoonful of Yum](https://spoonfulofyum.com/)|[Tasty Little Dumpling](https://tastylittledumpling.com/)|[Tasty Touch](https://tastytouch.net/)|[Travinh Networks](https://travinhnetworks.wordpress.com/)|[Uyen Luu](https://www.uyenluu.com/)|
-|[Vicky Pham](https://www.vickypham.com/)|[Vietnamese Cuisines](https://vietnamesecuisines.com/)|[The Viet Dish](https://www.thevietdish.com/)|[Vietnamese Food](https://vietnamesefood.com.vn/vietnamese-recipes/)|[Viet Spices](http://vietspices.blogspot.com/)|
-|[The Viet Vegan](https://thevietvegan.com/)|[Viet World Kitchen](https://www.vietworldkitchen.com/)|[Wok and Kin](https://www.wokandkin.com/)|[YummY Vietnam](http://yummyvietnam.net/)|
+|[Travinh Networks](https://travinhnetworks.wordpress.com/)|[Uyen Luu](https://www.uyenluu.com/)|[Vicky Pham](https://www.vickypham.com/)|[The Viet Dish](https://www.thevietdish.com/)|[Vietnamese Food](https://vietnamesefood.com.vn/vietnamese-recipes/)|
+|[Viet Spices](http://vietspices.blogspot.com/)|[The Viet Vegan](https://thevietvegan.com/)|[Viet World Kitchen](https://www.vietworldkitchen.com/)|[Wok and Kin](https://www.wokandkin.com/)|
 
 #### Yemen
 |     |     |
