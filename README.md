@@ -467,23 +467,18 @@
 | --- | --- |
 |[Hsaba](https://hsaba.com/recipes)|[Meemalee](http://www.meemalee.com/)|
 
-#### Nepal
-|     |
-| --- |
-|[Anup's Kitchen](https://www.anupskitchen.com/)|
-
 #### Pakistan
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Chai and Churros](https://chaiandchurros.com/)|[Chili to Choc](https://www.chilitochoc.com/)|[Cook With Faiza](https://cookwithfaiza.net/)|[Diary of a PMP Mom](https://diaryofapmpmom.com/from-my-kitchen/)|[Fa's Kitchen](https://www.faskitchen.com/)|
 |[Fatima Cooks](https://fatimacooks.net/)|[Four and Spice Blog](https://www.flourandspiceblog.com/)|[Food Fusion](https://www.foodfusion.com/)|[Mirchi Tales](https://www.mirchitales.com/)|[Mostly Masala](https://mostlymasala.com/)|
-|[Pakistan Eats](https://www.pakistaneats.com/)|[Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)|[The Recipes PK](https://www.therecipespk.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Sakeenah Begum](http://sakeenahbegum.com/category/food/)|
-|[Tea for Turmeric](https://www.teaforturmeric.com/)|[Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)|[Zaiqa](https://www.zaiqa.com/)|
+|[Pakistan Eats](https://www.pakistaneats.com/)|[Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)|[The Recipes PK](https://www.therecipespk.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Tea for Turmeric](https://www.teaforturmeric.com/)|
+|[Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)|[Zaiqa](https://www.zaiqa.com/)|
 
 #### Palestine
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Almond and Fig](https://www.almondandfig.com/)|[Falasteeni Foodie](https://falasteenifoodie.com/)|[Palestine in a Dish](https://palestineinadish.com/)|[Taste of Palestine](https://tasteofpalestine.org/)|[Welcome to Palestine](https://www.welcometopalestine.com/food/)|
+|[Almond and Fig](https://www.almondandfig.com/)|[Falasteeni Foodie](https://falasteenifoodie.com/)|[Palestine in a Dish](https://palestineinadish.com/)|[Welcome to Palestine](https://www.welcometopalestine.com/food/)|
 
 #### The Philippines
 |     |     |     |     |     |
@@ -491,24 +486,20 @@
 |[Aling Oday's Kitchen](https://alingodays.co.uk/)|[Amiable Foods](https://amiablefoods.com/)|[Amusing Maria](https://www.amusingmaria.com/)|[Ang Sarap](https://www.angsarap.net/)|[Any tots](https://anytots.com/category/recipes/)|
 |[Atbp.ph](https://www.atbp.ph/)|[Authentic Filipino Recipes](https://authenticfilipinorecipes.com/)|[Bertie Talimongan](https://bertietalimongan.wordpress.com/)|[Best of Ilocanos](http://best-of-ilocanos.blogspot.com/)|[Be With Mia](https://bewithmia.com/)|
 |[Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)|[Chef Ron Bilaro](http://chefronbilaro.com/)|[Cooking With Kurt](https://www.cookingwithkurt.com/)|[Cooking With Peachy](https://www.cookingwithpeachy.com/wordpress/)|[The Cooking Pinay](http://thecookingpinay.com/)|
-|[Cooking Pinoy](https://www.cookingpinoy.com/)|[Dee Cuisine](https://www.deecuisine.com/)|[Easy to Make Meals](https://easytomakemeals.com/)|[Eat Like Pinoy](https://eatlikepinoy.com/)|[Filcan Bites](https://filcanbites.com/)|
-|[Filipino Egg Rolls](https://filipinoeggrolls.com/)|[Filipino Food Recipes](https://www.filipino-food-recipes.com/)|[Filipino Foods and Recipes](https://www.filipinofoodsrecipes.com/)|[Filipino Food Store](http://www.filipinofoodstore.com/recipes/)|[Filipino Recipe Site](https://www.filipinorecipesite.com/)|
-|[Filipino Recipes Lutong Pinoy](https://www.filipino-recipes-lutong-pinoy.com/)|[Flavours of Iloilo](https://flavoursofiloilo.blogspot.com/)|[Foodamn Philippines](https://www.foodamn.com/)|[Food Panda](https://www.foodpanda.ph/contents/recipes)|[Food with Mae](http://www.foodwithmae.com/)|
-|[Foxy Folksy](https://www.foxyfolksy.com/)|[Friend Cheap Menu](https://www.friendcheapmenu.com/)|[Happy Feets and Paws](https://www.happyfeetsandpaws.com/my-recipes-and-cooking/)|[Happy Tummy Recipes](https://www.happytummyrecipes.com/)|[Home Cooking with Nona Lema](http://nonalemacooking.blogspot.com/)|
-|[**Hot Crispy Oil**](https://hotcrispyoil.com/blogs/recipes)|[Hungry Huy](https://www.hungryhuy.com/)|[iankewks](https://iankewks.com/)|[Ilocana](https://isnabera.com/)|[Iloilo Food Trip](https://iloilofoodtrip.blogspot.com/)|
-|[Inato Iang Filipino Cuisine](http://bisayajudkaayo.blogspot.com/)|[In My Kitchen](http://geoliskitchen.blogspot.com/)|[Inuyaki](http://www.inuyaki.com/)|[It's Fork and Spoon](https://itsforkandspoon.com/)|[JeanellEats](https://jeanelleats.com/)|
-|[JOZ Mahal](https://www.jozmahal.com/)|[Junblog](http://blog.junbelen.com/)|[Kawaling Pinoy](https://www.kawalingpinoy.com/)|[Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)|[Kusina Master Recipes](http://www.kusina-master-recipes.com/)|
-|[Lahat Sarap](https://lahatsarap.blogspot.com/)|[Lola Kusinera](https://lolakusinera.com/)|[Lucky Mom 2009](https://luckymom2009.wordpress.com/)|[Lutong Bahay Recipes](http://lutongbahayrecipes.com/)|[Mabuhay Food Trip](https://mabuhayfoodtrip.com/)|
-|[MAGGI Philippines](https://www.maggi.ph/)|[Magluto](http://www.magluto.com/)|[Manila Spoon](https://www.manilaspoon.com/)|[Maputing Cooking](https://maputingcooking.com/)|[Maria Franco](https://www.maria-franco.com/search/label/Recipes)|
-|[Mhild's Kitchen](https://mhildskitchen.com/)|[The Modern Nanay](https://relaxlangmom.com/)|[The Not So Creative Cook](http://thenotsocreativecook.com/)|[The Odehlicious](https://theodehlicious.com/)|[Out of Town Blog](https://outoftownblog.com/lifestyle/food-trips/recipes/amp/)|
-|[Overseas Pinoy Cooking](https://www.overseaspinoycooking.net/)|[Pagkaing Pinoy TV](https://www.pagkaingpinoytv.com/)|[Pansalang Pinoy](https://panlasangpinoy.com/)|[Pansalang Pinoy Meat Recipes](https://www.panlasangpinoymeatrecipes.com/)|[Pepper](https://pepper.ph/recipes)|
-|[Pilipina's Recipes](https://pilipinasrecipes.com/)|[Pinay in Texas Cooking](http://www.pinaycookingcorner.com/)|[Ping Desserts](https://www.pingdesserts.com/)|[Pinoy Bites](https://pinoybites.com/)|[Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)|
-|[Pinoy Food Recipes](https://pinoyfoodblog.com/)|[Pinoy Hapagkainan](https://www.pinoyhapagkainan.com/)|[Pinoy Recipe](https://www.pinoyrecipe.net/)|[Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/)|[Piyaparan a Manok](https://piyaparanamanok.wordpress.com/)|
-|[Plant-Based Passport](https://plantbased-passport.com/)|[The Quirino Kitchen](https://thequirinokitchen.com/)|[Reel and Grill](http://reelandgrill.blogspot.com/)|[Recipedia](https://www.recipedia.com/en-ph/)|[Recipes by Nora](https://www.recipesbynora.com/)|
-|[Rezel Kealoha](https://rezelkealoha.com/)|[River Ten Kitchen](https://www.rivertenkitchen.com/)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|[Sago Show](https://www.sagoshow.com/)|[Salu Salo](https://salu-salo.com/)|
-|[Savor Filipino Food](https://savorfilipino.food.blog/)|[**Seafood City**](https://www.seafoodcity.com/category/recipes/)|[Simply Bakings](https://simplybakings.com/)|[Simpol](https://www.simpol.ph/recipes)|[The Skinny Pot](https://theskinnypot.com/)|
-|[**Ubeness**](https://ubeness.com/category/recipes/)|[The Unlikely Baker](https://theunlikelybaker.com/)|[Usapang Foodtrip](https://usapangfoodtrip.com/)|[What to Eat PH](https://whattoeatph.com/category/what-to-cook/)|[Yummy Food](https://yummyfood.ph/)|
-|[Yummy Kitchen TV](https://yummykitchentv.com/)|
+|[Dee Cuisine](https://www.deecuisine.com/)|[Easy to Make Meals](https://easytomakemeals.com/)|[Eat Like Pinoy](https://eatlikepinoy.com/)|[Filcan Bites](https://filcanbites.com/)|[Filipino Egg Rolls](https://filipinoeggrolls.com/)|
+|[Filipino Food Store](http://www.filipinofoodstore.com/recipes/)|[Filipino Recipes Lutong Pinoy](https://www.filipino-recipes-lutong-pinoy.com/)|[Flavours of Iloilo](https://flavoursofiloilo.blogspot.com/)|[Foodamn Philippines](https://www.foodamn.com/)|[Food Panda](https://www.foodpanda.ph/contents/recipes)|
+|[Food with Mae](http://www.foodwithmae.com/)|[Foxy Folksy](https://www.foxyfolksy.com/)|[Friend Cheap Menu](https://www.friendcheapmenu.com/)|[Happy Feets and Paws](https://www.happyfeetsandpaws.com/my-recipes-and-cooking/)|[Home Cooking with Nona Lema](http://nonalemacooking.blogspot.com/)|
+|[**Hot Crispy Oil**](https://hotcrispyoil.com/blogs/recipes)|[iankewks](https://iankewks.com/)|[Ilocana](https://isnabera.com/)|[Iloilo Food Trip](https://iloilofoodtrip.blogspot.com/)|[Inato Iang Filipino Cuisine](http://bisayajudkaayo.blogspot.com/)|
+|[In My Kitchen](http://geoliskitchen.blogspot.com/)|[Inuyaki](http://www.inuyaki.com/)|[It's Fork and Spoon](https://itsforkandspoon.com/)|[JeanellEats](https://jeanelleats.com/)|[JOZ Mahal](https://www.jozmahal.com/)|
+|[Junblog](http://blog.junbelen.com/)|[Kawaling Pinoy](https://www.kawalingpinoy.com/)|[Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)|[Lahat Sarap](https://lahatsarap.blogspot.com/)|[Lucky Mom 2009](https://luckymom2009.wordpress.com/)|
+|[**MAGGI Philippines**](https://www.maggi.ph/)|[Magluto](http://www.magluto.com/)|[Manila Spoon](https://www.manilaspoon.com/)|[Maputing Cooking](https://maputingcooking.com/)|[Maria Franco](https://www.maria-franco.com/search/label/Recipes)|
+|[The Modern Nanay](https://relaxlangmom.com/)|[The Not So Creative Cook](http://thenotsocreativecook.com/)|[The Odehlicious](https://theodehlicious.com/)|[Overseas Pinoy Cooking](https://www.overseaspinoycooking.net/)|[Pansalang Pinoy](https://panlasangpinoy.com/)|
+|[Pansalang Pinoy Meat Recipes](https://www.panlasangpinoymeatrecipes.com/)|[Pilipina's Recipes](https://pilipinasrecipes.com/)|[Pinay in Texas Cooking](http://www.pinaycookingcorner.com/)|[Ping Desserts](https://www.pingdesserts.com/)|[Pinoy Bites](https://pinoybites.com/)|
+|[Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)|[Pinoy Food Recipes](https://pinoyfoodblog.com/)|[Pinoy Recipe](https://www.pinoyrecipe.net/)|[Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/)|[Piyaparan a Manok](https://piyaparanamanok.wordpress.com/)|
+|[Plant-Based Passport](https://plantbased-passport.com/)|[The Quirino Kitchen](https://thequirinokitchen.com/)|[Recipedia](https://www.recipedia.com/en-ph/)|[Recipes by Nora](https://www.recipesbynora.com/)|[Rezel Kealoha](https://rezelkealoha.com/)|
+|[River Ten Kitchen](https://www.rivertenkitchen.com/)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|[Sago Show](https://www.sagoshow.com/)|[Salu Salo](https://salu-salo.com/)|[Savor Filipino Food](https://savorfilipino.food.blog/)|
+|[**Seafood City**](https://www.seafoodcity.com/category/recipes/)|[Simply Bakings](https://simplybakings.com/)|[The Skinny Pot](https://theskinnypot.com/)|[**Ubeness**](https://ubeness.com/category/recipes/)|[The Unlikely Baker](https://theunlikelybaker.com/)|
+|[Usapang Foodtrip](https://usapangfoodtrip.com/)|[What to Eat PH](https://whattoeatph.com/category/what-to-cook/)|[Yummy Food](https://yummyfood.ph/)|[Yummy Kitchen TV](https://yummykitchentv.com/)|
 
 #### Singapore
 |     |     |     |     |     |
