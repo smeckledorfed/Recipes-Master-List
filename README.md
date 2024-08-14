@@ -244,8 +244,7 @@
 #### Georgia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Advantour](https://www.advantour.com/georgia/dishes.html)|[Cafe Osharak](https://www.osharak.com/)|[Cookies and the Caucasus](https://cookiesandthecaucasus.wordpress.com/)|[Georgian Cook](https://georgiancook.com/)|[Georgian Recipes.com](https://georgianrecipes.com/)|
-|[Georgian Recipes.net](https://georgianrecipes.net/)|[No Frills Kitchen](https://nofrillskitchen.com/)|
+|[Cafe Osharak](https://www.osharak.com/)|[Cookies and the Caucasus](https://cookiesandthecaucasus.wordpress.com/)|[Georgian Recipes.com](https://georgianrecipes.com/)|[Georgian Recipes.net](https://georgianrecipes.net/)|
 
 #### Hmong
 |     |
@@ -260,47 +259,43 @@
 #### India
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**24 Mantra Organic**](https://www.24mantra.com/blogs/)|[Aahaaram Online](https://aahaaramonline.com/)|[Abby's Plate](https://abbysplate.com/)|[Akuner](https://akuner.com/)|[American Tadka](https://www.americantadka.com/)|
-|[Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)|[Archana's Kitchen](https://www.archanaskitchen.com/)|[Awesome Cuisine](https://www.awesomecuisine.com/)|[Bab's Projects](https://www.babsprojects.com/)|[Baku Baker](https://bakubaker.com/)|
-|[Banglar Rannaghor](https://www.banglarrannaghor.com/)|[Bawarchi](https://www.bawarchi.com/)|[Be ExtraVegant](https://beextravegant.com/)|[Bhumika's Cookbook](https://bhumikascookbook.blogspot.com/)|[Binjal's Veg Kitchen](https://binjalsvegkitchen.com/)|
-|[Blend with Spices](https://www.blendwithspices.com/)|[Blissful Bites By Tay](https://blissfulbitesbytay.com/)|[Blog Explore](https://blogexplore.com/)|[Bon Gong](https://bongong.com/index.html)|[Bridget White-Kumar](https://bridget-white.com/)|
-|[Caramel Tinted Life](https://carameltintedlife.com/)|[Charmaine Solomon](https://www.charmainesolomon.com/recipe-blog)|[Chatora Indore](https://www.chatoraindore.com/recipes/)|[Chez Shuchi](https://www.chezshuchi.com/)|[Chilli Talks](http://www.chillitalks.com/)|
-|[Chitra's Foodbook](https://www.chitrasfoodbook.com/)|[Chrizzo's Grub Scene](https://chrizzosgrubscene.com/)|[Code 2 Cook](https://code2cook.com/)|[Cooking Curries](https://www.cookingcurries.com/)|[Cooking Shooking](https://cookingshooking.com/)|
-|[Cooking With Benazir](https://cookingwithbenazir.com/)|[Cook With Parul](https://cookwithparul.com/)|[Cook With Renu](https://cookwithrenu.com/)|[Culinary Shades](https://culinaryshades.com/)|[Curry and Vanilla](https://curryandvanilla.com/)|
-|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|[Desert Food Feed](https://desertfoodfeed.com/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes)|[Dishcovery](https://dishcovery.in/)|[East Indian Recipes](https://eastindianrecipes.net/)|
-|[Famous Dishes](https://famousdishes.in/)|[Farida's Cookbook](https://faridascookbook.com/)|[Fa's Kitchen](https://www.faskitchen.com/)|[Fine Dining Indian](https://finediningindian.com/)|[Fitter Eats](https://www.fittereats.com/)|
-|[Flavors of Mumbai](http://www.flavorsofmumbai.com/)|[Flavours of My Kitchen](https://flavoursofmykitchen.com/)|[Flavours to Savour](http://www.flavourstosavour.com/category/recipes)|[Foodie's Hut Recipes](https://www.foodieshutrecipes.com/)|[Foodie Trail](https://www.foodie-trail.com/)|
-|[Food Veda](https://foodveda.wpcomstaging.com/)|[Garu's Kitchen](http://www.garuskitchen.com/)|[The Gastronomic Bong](https://thegastronomicbong.com/)|[Geeta ki Duniya](https://www.geetakiduniya.com/)|[Haala's Dastarkhaan](https://haalasdastarkhaan.com/)|
-|[Hari Ghotra](https://www.harighotra.co.uk/)|[Hassan Chef](https://www.hassanchef.com/)|[Hatty Foods](https://hattyfoods.com/)|[Healthy Cooking with Mitha](https://healthy-cooking-with-mitha.com/)|[Hebbar's Kitchen](https://hebbarskitchen.com/)|
-|[Hema Magesh](https://hemamagesh.com/)|[Hooked on Heat](https://www.hookedonheat.com/)|[Indian Ambrosia](https://indianambrosia.com/)|[India Netzone](https://www.indianetzone.com/food/)|[Indian Feast](https://indianfeast.tripod.com/)|
-|[Indian Food Forever](https://www.indianfoodforever.com/)|[Indian Kitchen and Spices](https://indiankitchenandspices.com/)|[Indian Recipes](https://indianrecipes.com/)|[Indian Veggie Delight](https://www.indianveggiedelight.com/)|[IndoBase](http://www.indobase.com/)|
-|[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|[Joo's Food](https://joosfood.com/)|[Jopreet's Kitchen](https://www.jopreetskitchen.com/)|[**Just Go To Chef**](https://www.justgotochef.com/recipes/category)|[Kali Mirch](https://kalimirchbysmita.com/)|
+|[**24 Mantra Organic**](https://www.24mantra.com/blogs/)|[Aahaaram Online](https://aahaaramonline.com/)|[Abby's Plate](https://abbysplate.com/)|[Anglo-Indian Cuisine](https://anglo-indianfood.blogspot.com/)|[Archana's Kitchen](https://www.archanaskitchen.com/)|
+|[Awesome Cuisine](https://www.awesomecuisine.com/)|[Bab's Projects](https://www.babsprojects.com/)|[Banglar Rannaghor](https://www.banglarrannaghor.com/)|[Bawarchi](https://www.bawarchi.com/)|[Be ExtraVegant](https://beextravegant.com/)|
+|[Bhumika's Cookbook](https://bhumikascookbook.blogspot.com/)|[Binjal's Veg Kitchen](https://binjalsvegkitchen.com/)|[Blend with Spices](https://www.blendwithspices.com/)|[Blissful Bites By Tay](https://blissfulbitesbytay.com/)|[Blog Explore](https://blogexplore.com/)|
+|[Bon Gong](https://bongong.com/index.html)|[Bridget White-Kumar](https://bridget-white.com/)|[Caramel Tinted Life](https://carameltintedlife.com/)|[Charmaine Solomon](https://www.charmainesolomon.com/recipe-blog)|[Chez Shuchi](https://www.chezshuchi.com/)|
+|[Chilli Talks](http://www.chillitalks.com/)|[Chitra's Foodbook](https://www.chitrasfoodbook.com/)|[Chrizzo's Grub Scene](https://chrizzosgrubscene.com/)|[Code 2 Cook](https://code2cook.com/)|[Cooking Curries](https://www.cookingcurries.com/)|
+|[Cooking Shooking](https://cookingshooking.com/)|[Cooking With Benazir](https://cookingwithbenazir.com/)|[Cook With Parul](https://cookwithparul.com/)|[Cook With Renu](https://cookwithrenu.com/)|[Culinary Shades](https://culinaryshades.com/)|
+|[Curry and Vanilla](https://curryandvanilla.com/)|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|[Desert Food Feed](https://desertfoodfeed.com/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes)|[Dishcovery](https://dishcovery.in/)|
+|[East Indian Recipes](https://eastindianrecipes.net/)|[Famous Dishes](https://famousdishes.in/)|[Farida's Cookbook](https://faridascookbook.com/)|[Fa's Kitchen](https://www.faskitchen.com/)|[Fine Dining Indian](https://finediningindian.com/)|
+|[Fitter Eats](https://www.fittereats.com/)|[Flavors of Mumbai](http://www.flavorsofmumbai.com/)|[Flavours of My Kitchen](https://flavoursofmykitchen.com/)|[Foodie Trail](https://www.foodie-trail.com/)|[The Gastronomic Bong](https://thegastronomicbong.com/)|
+|[Geeta ki Duniya](https://www.geetakiduniya.com/)|[Haala's Dastarkhaan](https://haalasdastarkhaan.com/)|[Hari Ghotra](https://www.harighotra.co.uk/)|[Hassan Chef](https://www.hassanchef.com/)|[Healthy Cooking with Mitha](https://healthy-cooking-with-mitha.com/)|
+|[Hebbar's Kitchen](https://hebbarskitchen.com/)|[Hema Magesh](https://hemamagesh.com/)|[Hooked on Heat](https://www.hookedonheat.com/)|[Indian Ambrosia](https://indianambrosia.com/)|[India Netzone](https://www.indianetzone.com/food/)|
+|[Indian Feast](https://indianfeast.tripod.com/)|[Indian Food Forever](https://www.indianfoodforever.com/)|[Indian Kitchen and Spices](https://indiankitchenandspices.com/)|[Indian Recipes](https://indianrecipes.com/)|[Indian Veggie Delight](https://www.indianveggiedelight.com/)|
+|[IndoBase](http://www.indobase.com/)|[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|[Joo's Food](https://joosfood.com/)|[**Just Go To Chef**](https://www.justgotochef.com/recipes/category)|[Kali Mirch](https://kalimirchbysmita.com/)|
 |[Kannamma Cooks](https://www.kannammacooks.com/)|[Kitchen Flavours](https://kitchenflavours.net/)|[Kitchen Mai](https://kitchenmai.com/)|[Kitchen Mish Mash](http://kitchenmishmash.blogspot.com/)|[Kothiya Vunu](https://www.kothiyavunu.com/)|
 |[Lathi's Kitchen](https://www.lathiskitchen.org/)|[Let's Be Foodie](https://letsbefoodie.com/)|[Licious](https://www.licious.in/blog/)|[Living Smart and Healthy](https://www.livingsmartandhealthy.com/recipes/)|[The Love of Spice](https://www.theloveofspice.com/)|
-|[Maayeka](https://maayeka.com/)|[Madhura's Recipe](https://madhurasrecipe.com/)|[Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)|[Maharashtrian Recipes](https://www.maharashtrianrecipes.com/)|[Manjula's Kitchen](https://www.manjulaskitchen.com/)|
-|[Mary's Kitchen](https://maryzkitchen.com/)|[Masala and Chai](https://masalaandchai.com/)|[Masala Chilli](https://masalachilli.com/)|[Masala Korb](https://www.masalakorb.com/)|[Maunika Gowardhan](https://maunikagowardhan.co.uk/)|
-|[Maya Bugs](http://mayabugs.com/blog/)|[**Maya Kaimal**](https://www.mayakaimal.com/recipes/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|[Mellow Masala](https://www.mellowmasala.com/)|[Ministry of Curry](https://ministryofcurry.com/)|
-|[Mirchi Tales](https://www.mirchitales.com/)|[Mom and Ideas](https://momandideas.com/category/recipes/)|[A Mom's Cookbook](https://amomscookbook.com/)|[My Cooking Journey](https://www.mycookingjourney.com/)|[My Curry Veda](https://www.mycurryveda.com/)|
-|[My Dainty Soul Curry](https://www.mydaintysoulcurry.com/)|[My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)|[My Heart Beets](https://myheartbeets.com/)|[My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)|[My Spice](https://myspice.in/)|
-|[My Vegetarian Roots](https://myvegetarianroots.com/)|[My Weekend Kitchen](https://www.myweekendkitchen.in/)|[Naive Cook Cooks](https://www.naivecookcooks.com/)|[Nam's Corner](https://www.namscorner.com/)|[NDTV Food](https://food.ndtv.com/)|
-|[Neha's Cookbook](https://www.nehascookbook.com/)|[Nisha Madhulika](https://nishamadhulika.com/en/)|[Nish Kitchen](https://nishkitchen.com/)|[Nitha's Kitchen](https://www.nithaskitchen.com/)|[Nupur's Indian Kitchen](https://nupursindiankitchen.com/)|
-|[One Teaspoon of Life](https://www.oneteaspoonoflife.com/)|[Padhu's Kitchen](https://www.padhuskitchen.com/)|[Palate's Desire](https://www.palatesdesire.com/)|[Pammi's Kitchen](https://pammiskitchen.weebly.com/)|[Pavani's Kitchen](https://www.pavaniskitchen.com/)|
-|[Pep Kitchen](https://pepkitchen.com/)|[Pepper Chilli and Vanilla](http://pepperchilliandvanilla.blogspot.com/)|[Polka Puffs](https://polkapuffs.in/)|[Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)|[Priya's Virundhu](https://www.priyasvirundhu.com/)|
-|[Pure Curry](https://www.purecurry.com/)|[**Pure Indian Foods**](https://blog.pureindianfoods.com/)|[Rajshri Food](https://rajshrifood.com/)|[Raks Kitchen](https://rakskitchen.net/)|[Ranveer Brar](https://ranveerbrar.com/)|
-|[RasoiTak](https://www.rasoitak.com/)|[Ravi Sisodiya](https://ravisisodiya.com/)|[Recipes18](https://www.recipes18.com/all/)|[Recipes Are Simple](https://recipesaresimple.com/)|[Recipes of Home](https://recipesofhome.com/)|
-|[Ribbons to Pasta](https://ribbonstopastas.com/)|[Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)|[Rumki's Golden Spoon](https://rumkisgoldenspoon.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Sailu's Food](https://www.sailusfood.com/)|
-|[Sameera's Kitchen](https://udarbharna.com/)|[Sananimam](https://sananimam.com/food-2/)|[Sandhiya's Cookbook](https://www.sandhiyascookbook.com/)|[Sandhya's Kitchen](https://sandhyahariharan.co.uk/)|[Sang's Kitchen](https://sangskitchen.com/)|
-|[Sanjeev Kapoor](https://www.sanjeevkapoor.com/)|[Scratching Canvas](https://www.scratchingcanvas.com/)|[Secret Indian Recipe](https://secretindianrecipe.com/)|[Seduce Your Tastebuds](https://seduceyourtastebuds.com/)|[Sharmi's Passions](https://www.sharmispassions.com/)|
-|[Shelly Food Spot](https://www.shellyfoodspot.com/)|[Show Me the Curry](https://showmethecurry.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|[Simmer to Slimmer](https://simmertoslimmer.com/)|[Simple Sumptuous Cooking](https://www.mrishtanna.com/)|
-|[Simply Tadka](https://simplytadka.com/)|[Sindhi Food Mazaa](http://www.sindhifoodmazaa.com/)|[Sindhi Rasoi](https://sindhirasoi.com/)|[Sinfully Spicy](https://sinfullyspicy.com/)|[Slurrp](https://www.slurrp.com/)|
-|[SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)|[Some Indian Girl](https://someindiangirl.com/)|[Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)|[Spice India Online](https://www.spiceindiaonline.com/)|[Spice It Upp](https://spiceitupp.com/recipes/)|
-|[The Spice Mess](https://thespicemess.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[SpicYum](https://www.spicyum.com/)|[Subbu's Kitchen](https://www.subbuskitchen.com/)|[Suji's Cooking](https://www.sujiscooking.com/)|
-|[Sunayana Gupta](https://www.sunayanagupta.com/)|[Sunera Kitchen](https://www.sunerakitchen.com/)|[Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)|[Swasthi's Recipes](https://www.indianhealthyrecipes.com/)|[Swati's Kitchen](https://swatisani.net/kitchen/)|
-|[The Take It Easy Chef](https://www.thetakeiteasychef.com/)|[Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)|[Tastes of Malabar](https://www.tastesofmalabar.com/)|[Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)|[Tickling Palates](https://www.ticklingpalates.com/)|
-|[Times of India](https://recipes.timesofindia.com/us/recipes)|[Times Recipe](https://timesrecipe.com/en/)|[Tomato Blues](https://www.tomatoblues.com/)|[Vah Rehvah](https://www.vahrehvah.com/)|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|
-|[Vegecravings](https://vegecravings.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Vismai Food](https://vismaifood.com/en)|[WeRecipes](https://werecipes.com/)|[Whisk Affair](https://www.whiskaffair.com/)|
-|[Yummefy](https://www.yummefy.com/)|[Yummy Asha's Kitchen](https://yummyashaskitchen.com/)|[Yummy Sooo Yummy](http://yummysoooyummy.blogspot.com/)|[Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)|[Zaiqa](https://www.zaiqa.com/)|
-|[Zayka Ka Tadka](https://www.zaykakatadka.com/)|[Zeel's Kitchen](https://www.zeelskitchen.com/)|[Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)|
+|[Maayeka](https://maayeka.com/)|[Madhura's Recipe](https://madhurasrecipe.com/)|[Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)|[Manjula's Kitchen](https://www.manjulaskitchen.com/)|[Mary's Kitchen](https://maryzkitchen.com/)|
+|[Masala and Chai](https://masalaandchai.com/)|[Masala Chilli](https://masalachilli.com/)|[Masala Korb](https://www.masalakorb.com/)|[Maunika Gowardhan](https://maunikagowardhan.co.uk/)|[Maya Bugs](http://mayabugs.com/blog/)|
+|[**Maya Kaimal**](https://www.mayakaimal.com/recipes/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|[Mellow Masala](https://www.mellowmasala.com/)|[Ministry of Curry](https://ministryofcurry.com/)|[Mirchi Tales](https://www.mirchitales.com/)|
+|[Mom and Ideas](https://momandideas.com/category/recipes/)|[A Mom's Cookbook](https://amomscookbook.com/)|[My Cooking Journey](https://www.mycookingjourney.com/)|[My Curry Veda](https://www.mycurryveda.com/)|[My Dainty Soul Curry](https://www.mydaintysoulcurry.com/)|
+|[My Ginger Garlic Kitchen](https://www.mygingergarlickitchen.com/)|[My Heart Beets](https://myheartbeets.com/)|[My Little Moppet](https://www.mylittlemoppet.com/recipes-finder/)|[My Vegetarian Roots](https://myvegetarianroots.com/)|[My Weekend Kitchen](https://www.myweekendkitchen.in/)|
+|[Naive Cook Cooks](https://www.naivecookcooks.com/)|[Nam's Corner](https://www.namscorner.com/)|[NDTV Food](https://food.ndtv.com/)|[Neha's Cookbook](https://www.nehascookbook.com/)|[Nisha Madhulika](https://nishamadhulika.com/en/)|
+|[Nish Kitchen](https://nishkitchen.com/)|[Nitha's Kitchen](https://www.nithaskitchen.com/)|[Nupur's Indian Kitchen](https://nupursindiankitchen.com/)|[One Teaspoon of Life](https://www.oneteaspoonoflife.com/)|[Padhu's Kitchen](https://www.padhuskitchen.com/)|
+|[Pammi's Kitchen](https://pammiskitchen.weebly.com/)|[Pavani's Kitchen](https://www.pavaniskitchen.com/)|[Pep Kitchen](https://pepkitchen.com/)|[Priya Easy n' Tasty Recipes](http://priyaeasyntastyrecipes.blogspot.com/)|[Priya's Virundhu](https://www.priyasvirundhu.com/)|
+|[Pure Curry](https://www.purecurry.com/)|[**Pure Indian Foods**](https://blog.pureindianfoods.com/)|[Rajshri Food](https://rajshrifood.com/)|[Raks Kitchen](https://rakskitchen.net/)|[Ranveer Brar](https://ranveerbrar.com/)|[RasoiTak](https://www.rasoitak.com/)|
+|[Recipes18](https://www.recipes18.com/all/)|[Recipes Are Simple](https://recipesaresimple.com/)|[Recipes of Home](https://recipesofhome.com/)|[Ribbons to Pasta](https://ribbonstopastas.com/)|[Ruchi's Veg Kitchen](https://ruchisvegkitchen.com/)|
+|[Rumki's Golden Spoon](https://rumkisgoldenspoon.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Sailu's Food](https://www.sailusfood.com/)|[Sameera's Kitchen](https://udarbharna.com/)|[Sananimam](https://sananimam.com/food-2/)|
+|[Sandhiya's Cookbook](https://www.sandhiyascookbook.com/)|[Sandhya's Kitchen](https://sandhyahariharan.co.uk/)|[Sang's Kitchen](https://sangskitchen.com/)|[Sanjeev Kapoor](https://www.sanjeevkapoor.com/)|[Scratching Canvas](https://www.scratchingcanvas.com/)|
+|[Seduce Your Tastebuds](https://seduceyourtastebuds.com/)|[Sharmi's Passions](https://www.sharmispassions.com/)|[Shelly Food Spot](https://www.shellyfoodspot.com/)|[Show Me the Curry](https://showmethecurry.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|
+|[Simmer to Slimmer](https://simmertoslimmer.com/)|[Simple Sumptuous Cooking](https://www.mrishtanna.com/)|[Simply Tadka](https://simplytadka.com/)|[Sindhi Food Mazaa](http://www.sindhifoodmazaa.com/)|[Sindhi Rasoi](https://sindhirasoi.com/)|
+|[Sinfully Spicy](https://sinfullyspicy.com/)|[Slurrp](https://www.slurrp.com/)|[SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)|[Some Indian Girl](https://someindiangirl.com/)|[Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)|
+|[Spice India Online](https://www.spiceindiaonline.com/)|[Spice It Upp](https://spiceitupp.com/recipes/)|[The Spice Mess](https://thespicemess.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[SpicYum](https://www.spicyum.com/)|
+|[Subbu's Kitchen](https://www.subbuskitchen.com/)|[Suji's Cooking](https://www.sujiscooking.com/)|[Sunayana Gupta](https://www.sunayanagupta.com/)|[Sunera Kitchen](https://www.sunerakitchen.com/)|[Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)|
+|[Swasthi's Recipes](https://www.indianhealthyrecipes.com/)|[Swati's Kitchen](https://swatisani.net/kitchen/)|[The Take It Easy Chef](https://www.thetakeiteasychef.com/)|[Tastes of Malabar](https://www.tastesofmalabar.com/)|[Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)|
+|[Tickling Palates](https://www.ticklingpalates.com/)|[Times of India](https://recipes.timesofindia.com/us/recipes)|[Times Recipe](https://timesrecipe.com/en/)|[Tomato Blues](https://www.tomatoblues.com/)|[Vah Rehvah](https://www.vahrehvah.com/)|
+|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|[Vegecravings](https://vegecravings.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Vismai Food](https://vismaifood.com/en)|[WeRecipes](https://werecipes.com/)|
+|[Whisk Affair](https://www.whiskaffair.com/)|[Yummefy](https://www.yummefy.com/)|[Yummy Asha's Kitchen](https://yummyashaskitchen.com/)|[Yummy Sooo Yummy](http://yummysoooyummy.blogspot.com/)|[Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)|
+|[Zaiqa](https://www.zaiqa.com/)|[Zayka Ka Tadka](https://www.zaykakatadka.com/)|[Zeel's Kitchen](https://www.zeelskitchen.com/)|[Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)|
 - ##### Assam
 |     |
 | --- |
@@ -308,9 +303,7 @@
 - ##### Bengal
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Bong Eats](https://www.bongeats.com/category/recipe)|[Chow Man](https://chowman.net/)|[Cosmopolitan Currymania](https://www.cosmopolitancurrymania.com/)|[Debjanir Rannaghar](https://kitchenofdebjani.com/)|[Dolce and Masala](http://www.dolceandmasala.com/)|
-|[Experiences of A Gastronomad](https://experiencesofagastronomad.com/)|[Finally Foodie](https://finallyfoodie.com/)|[Foodie's Hut](https://www.foodieshutrecipes.com/)|[Go Sum It Up](https://gosumitup.com/recipes)|[Playful Cooking](https://www.playfulcooking.com/)|
-|[Raanna](http://www.raanna.com/)|[Speaking Aloud](https://speakingaloud.in/)|
+|[Bong Eats](https://www.bongeats.com/category/recipe)|[Debjanir Rannaghar](https://kitchenofdebjani.com/)|[Dolce and Masala](http://www.dolceandmasala.com/)|[Experiences of A Gastronomad](https://experiencesofagastronomad.com/)|[Finally Foodie](https://finallyfoodie.com/)|[Go Sum It Up](https://gosumitup.com/recipes)|[Playful Cooking](https://www.playfulcooking.com/)|[Raanna](http://www.raanna.com/)|[Speaking Aloud](https://speakingaloud.in/)|
 - ##### Bihar
 |     |
 | --- |
@@ -318,7 +311,7 @@
 - ##### Chettinad
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Annam's Recipes](http://annamsrecipes.com/)|[Chettinad Cookbook](https://chettinadcookbook.org/)|[Chettinad Recipes](http://chettinadrecipesblog.blogspot.com/)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|
+|[Chettinad Cookbook](https://chettinadcookbook.org/)|[Chettinad Recipes](http://chettinadrecipesblog.blogspot.com/)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|
 - ##### Garo
 |     |     |
 | --- | --- |
@@ -351,15 +344,11 @@
 - ##### Mangalore
 |     |     |     |
 | --- | --- | --- |
-|[One Plate Please](https://www.oneplateplease.com/)|[Ruchik Randhap](https://www.ruchikrandhap.com/)|[Sherryl's Good Food](https://delicioussweetaroma.com/2017/03/05/mangalorean-snacks/)|
+|[One Plate Please](https://www.oneplateplease.com/)|[Ruchik Randhap](https://www.ruchikrandhap.com/)|
 - ##### Odia
 |     |
 | --- |
 |[Odia Recipes](https://odiarecipes.com/index.php)|
-- ##### Parsi
-|     |
-| --- |
-|[Bawi Bride](https://bawibride.com/)|
 - ##### Udupi
 |     |
 | --- |
@@ -368,11 +357,10 @@
 #### Indonesia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)|[Come 2 Indonesia](https://come2indonesia.com/blog-indonesian-food-recipes/)|[Cooking Tackle](https://cookingtackle.blogspot.com/)|[Cook Me Indonesian](https://www.cookmeindonesian.com/)|[Daily Cooking Quest](https://dailycookingquest.com/)|
-|[Dapurkorn Hills](https://dapurkornhills.com/)|[I Love Culinary Indonesia](http://iloveculinaryindonesia.blogspot.com/)|[Indonesian Cooking 101](https://www.indonesiancooking101.com/)|[Indonesian Original Recipes](http://indonesiaoriginalrecipes.blogspot.com/)|[Indonesia Secret Kitchen](http://indonesiasecretkitchen.blogspot.com/)|
-|[Indo Recipe](https://www.indorecipe.com/)|[A Journey Bespoke](https://www.ajourneybespoke.com/?category=Food)|[Karin's Recipe](https://karinisafrauenfeld.blogspot.com/)|[Mindfull of Cooking](https://mindfullofcooking.com/)|[Monica is in the Kitchen](https://monicaisinthekitchen.wordpress.com/)|
-|[Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/)|[Panomnom](https://panomnom.com/en)|[Pisang Susu](https://pisangsusu.com/en/)|[Recipes Indonesia](https://recipesindonesia.com/)|[Tasia and Gracia](https://www.tasiaandgracia.com/recipes)|
-|[Toast to Home](https://toasttohome.com/)|[Toine's Kitchen](https://www.toineskitchen.com/)|
+|[Belindo](http://www.belindo.com/indonesia/indonesian-recipes/106)|[Cooking Tackle](https://cookingtackle.blogspot.com/)|[Cook Me Indonesian](https://www.cookmeindonesian.com/)|[Daily Cooking Quest](https://dailycookingquest.com/)|[I Love Culinary Indonesia](http://iloveculinaryindonesia.blogspot.com/)|
+|[Indonesian Original Recipes](http://indonesiaoriginalrecipes.blogspot.com/)|[Indonesia Secret Kitchen](http://indonesiasecretkitchen.blogspot.com/)|[Indo Recipe](https://www.indorecipe.com/)|[A Journey Bespoke](https://www.ajourneybespoke.com/?category=Food)|[Karin's Recipe](https://karinisafrauenfeld.blogspot.com/)|
+|[Mindfull of Cooking](https://mindfullofcooking.com/)|[Monica is in the Kitchen](https://monicaisinthekitchen.wordpress.com/)|[Original Indonesian Recipe](http://original-indonesian-recipe.blogspot.com/)|[Panomnom](https://panomnom.com/en)|[Recipes Indonesia](https://recipesindonesia.com/)|
+|[Tasia and Gracia](https://www.tasiaandgracia.com/recipes)|[Toast to Home](https://toasttohome.com/)|[Toine's Kitchen](https://www.toineskitchen.com/)|
 - ##### Bali
 |     |
 | --- |
@@ -402,13 +390,12 @@
 |[Ayana Gohan](https://ayana-gohan.com/)|[Bebe Love Okazu](https://bebeloveokazu.com/)|[Chef Ja Cooks](https://chefjacooks.com/en/)|[Chef Sohum](https://www.chefsohum.com/)|[Chopstick Chronicles](https://www.chopstickchronicles.com/)|
 |[Contemplating Sweets](https://www.contemplatingsweets.com/)|[Cook & Meshiagare](https://meshiagare.tokyo/)|[Cooking With Dog](https://cookingwithdog.com/)|[Create Eat Happy](https://createeathappy.blogspot.com/)|[Ellie Likes Cooking](https://www.ellielikes.cooking/)|
 |[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Hiroko's Recipes](https://www.hirokoliston.com/)|[It's My Dish](https://itsmydish.com/)|[Japan Centre](https://www.japancentre.com/en/recipe)|[Japanese Cooking 101](https://www.japanesecooking101.com/)|
-|[Japan Food Addict](http://www.japanfoodaddict.com/)|[Japanese Food at Home](https://japfoodathome.com/)|[The Japanese Kitchen](https://thejapanesekitchen.com/)|[Japan McConnell](https://japanmcconnell.com/)|[Japan-Recipe](https://www.japan-recipe.com/)|
-|[The Japan Store](https://thejapanstore.us/)|[Japan Taste](https://japan-taste.com/)|[The Japantry](https://thejapantry.com/)|[JP Foodie](https://japanesefoods.net/)|
-|[J-Simple Recipes](http://j-simplerecipes.com/)|[Just One Cookbook](https://www.justonecookbook.com/)|[Kozmo Kitchen](https://www.kozmokitchen.com/)|[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kyoto Foodies](https://kyotofoodie.com/category/recipe/)|
-|[La Petit Noisette](https://lapetitnoisette.com/)|[Norio on Wine and Food](https://norioonwine.blogspot.com/)|[Oishi Washoku Recipes](https://www.oishi-washoku-recipes.com/)|[Otaku Food](https://www.otakufood.com/)|[Pickled Plum](https://pickledplum.com/)|
-|[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[RyoKoch](https://ryukoch.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|
-|[**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)|[Sudachi Recipes](https://sudachirecipes.com/)|[Suki Desu](https://skdesu.com/en/tag/japan/culinaria/)|[Sushi Day](https://sushiday.com/)|[Sylvia Wakana](https://sylviawakana.com/)|
-|[Thanks for the Meal](https://www.thanksforthemeal.net/)|[Tiffoodss](https://tiffoodss.com/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
+|[Japan Food Addict](http://www.japanfoodaddict.com/)|[Japanese Food at Home](https://japfoodathome.com/)|[The Japanese Kitchen](https://thejapanesekitchen.com/)|[Japan McConnell](https://japanmcconnell.com/)|[The Japan Store](https://thejapanstore.us/)|
+|[The Japantry](https://thejapantry.com/)|[JP Foodie](https://japanesefoods.net/)|[J-Simple Recipes](http://j-simplerecipes.com/)|[Just One Cookbook](https://www.justonecookbook.com/)|[Kozmo Kitchen](https://www.kozmokitchen.com/)|
+|[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kyoto Foodies](https://kyotofoodie.com/category/recipe/)|[La Petit Noisette](https://lapetitnoisette.com/)|[Norio on Wine and Food](https://norioonwine.blogspot.com/)|[Oishi Washoku Recipes](https://www.oishi-washoku-recipes.com/)|
+|[Pickled Plum](https://pickledplum.com/)|[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|
+|[**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)|[Sudachi Recipes](https://sudachirecipes.com/)|[Sushi Day](https://sushiday.com/)|[Sylvia Wakana](https://sylviawakana.com/)|[Thanks for the Meal](https://www.thanksforthemeal.net/)|
+|[Tiffoodss](https://tiffoodss.com/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
 
 #### Jordan
 |     |
@@ -423,14 +410,13 @@
 #### Laos
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[A Dash of Dolly](https://adashofdolly.com/)|[Food from Northern Laos](https://foodfromnorthernlaos.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Saeng's Kitchen](https://www.saengskitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
+|[A Dash of Dolly](https://adashofdolly.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Saeng's Kitchen](https://www.saengskitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
 #### Lebanon
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Al Wadi](https://www.alwadi.com/english/recipes)|[Cosette's Kitchen](https://cosetteskitchen.com/)|[Forks and Foliage](https://forksandfoliage.com/)|[Hadia's Lebanese Cuisine](https://hadiaslebanesecuisine.com/newsite/)|[Julie Taboulie](https://www.julietaboulie.com/)|
-|[Mama's Lebanese Kitchen](https://www.mamaslebanesekitchen.com/)|[Maureen Abood](https://www.maureenabood.com/)|[Simply Lebanese](https://www.simplyleb.com/)|[Thyme To](http://www.thymeto.com/)|[Your Lebanon](https://yourlebanon.com/)|
-|[Zaatar and Zaytoun](https://zaatarandzaytoun.com/)|
+|[Mama's Lebanese Kitchen](https://www.mamaslebanesekitchen.com/)|[Maureen Abood](https://www.maureenabood.com/)|[Simply Lebanese](https://www.simplyleb.com/)|[Your Lebanon](https://yourlebanon.com/)|[Zaatar and Zaytoun](https://zaatarandzaytoun.com/)|
 
 #### Macau
 |     |
@@ -440,27 +426,25 @@
 #### Malaysia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)|[**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)|[Da Vina Vegan](http://davinadavegan.com/)|[Dish By Ili](https://dishbyili.com/)|[**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)|
-|[Fried Chillies](https://friedchillies.com/)|[Good Life with Gan](https://goodlifewithgan.com/)|[Huang Kitchen](https://www.huangkitchen.com/)|[Julia Olive](https://www.julieolive.co.uk/)|[Keto Jules](https://www.ketojules.com/)|
-|[Kitchen Tigress](https://kitchentigress.com/)|[Lisa's Lemony Kitchen](https://www.mykeuken.com/)|[Loka Taste](https://www.lokataste.com/recipe/)|[Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)|[Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)|
-|[The Malaysian Kitchen](https://themalaysiankitchen.com/)|[**Mama Lam's**](https://mamalams.com/recipes/)|[Minty's Kitchen](http://mintyskitchen.blogspot.com/)|[New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)|[**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)|
-|[Patyskitchen](http://patyskitchen.blogspot.com/)|[Rasa Malaysia](https://rasamalaysia.com/)|[Roti n' Rice](https://www.rotinrice.com/)|[Set the Tables](https://setthetables.com/category/recipes/)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|
-|[Thokoh Makan](https://thokohmakan.com/)|[Wendy Inkk](https://wendyinkk.blogspot.com/)|
+|[Ajinomoto Malaysia](https://www.ajinomoto.com.my/recipes)|[**Auria's Malaysian Kitchen**](https://auriasmalaysiankitchen.com/)|[Da Vina Vegan](http://davinadavegan.com/)|[**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)|[Fried Chillies](https://friedchillies.com/)|
+|[Huang Kitchen](https://www.huangkitchen.com/)|[Julia Olive](https://www.julieolive.co.uk/)|[Kitchen Tigress](https://kitchentigress.com/)|[Lisa's Lemony Kitchen](https://www.mykeuken.com/)|[Loka Taste](https://www.lokataste.com/recipe/)|
+|[Lucinda Family Kitchen](http://lucindafamilykitchen.blogspot.com/)|[Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)|[The Malaysian Kitchen](https://themalaysiankitchen.com/)|[**Mama Lam's**](https://mamalams.com/recipes/)|[Minty's Kitchen](http://mintyskitchen.blogspot.com/)|
+|[New Malaysian Kitchen](https://www.newmalaysiankitchen.com/)|[**Panasonic Malaysia**](https://www.panasonic.com/my/consumer/kitchen-appliances-learn.html)|[Patyskitchen](http://patyskitchen.blogspot.com/)|[Rasa Malaysia](https://rasamalaysia.com/)|[Roti n' Rice](https://www.rotinrice.com/)|
+|[Set the Tables](https://setthetables.com/category/recipes/)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|[Thokoh Makan](https://thokohmakan.com/)|[Wendy Inkk](https://wendyinkk.blogspot.com/)|
 
 #### Maldives
 |     |     |
 | --- | --- |
-|[Lonumedhu](https://lonumedhu.com/)|[Maldives Cook](https://maldivescook.com/)|
+|[Lonumedhu](https://lonumedhu.com/)|
 
 #### Middle East
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)|[Amira's Pantry](https://amiraspantry.com/)|[Anissa's](https://www.anissas.com/)|[**Beit Sitti Shop**](https://beitsittishop.com/en/recipes/)|[But First Chai](https://butfirstchai.com/)|
-|[Cardamom and Tea](https://cardamomandtea.com/)|[Chef in Disguise](https://chefindisguise.com/)|[Chef Tariq](https://www.cheftariq.com/)|[Chilli Talks](http://www.chillitalks.com/)|[Cooking With Gaul](https://cookingwithgaul.com/)|
-|[Cooking With Zahra](https://cookingwithzahra.com/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Fufu's Kitchen](https://www.fufuskitchen.com/)|[Hungry Paprikas](https://www.hungrypaprikas.com/)|[I Love Arabic Food](https://ilovearabicfood.com/)|
-|[Jennifer Abadi](https://jenniferabadi.com/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|[Nutrizonia](https://www.nutrizonia.com/)|[One Arab Vegan](https://www.onearabvegan.com/)|
-|[Savory Spin](https://savoryspin.com/)|[Sour and Sweets](https://sourandsweets.com/)|[**Sweet Pillar**](http://www.sweetpillar.com/)|[Taste of Beirut](https://www.tasteofbeirut.com/)|[UAE Universe](https://uaeuniverse.com/category/lifestyle/food/)|
-|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
+|[Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)|[Amira's Pantry](https://amiraspantry.com/)|[But First Chai](https://butfirstchai.com/)|[Cardamom and Tea](https://cardamomandtea.com/)|[Chef in Disguise](https://chefindisguise.com/)|
+|[Chef Tariq](https://www.cheftariq.com/)|[Chilli Talks](http://www.chillitalks.com/)|[Cooking With Zahra](https://cookingwithzahra.com/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Fufu's Kitchen](https://www.fufuskitchen.com/)|
+|[Hungry Paprikas](https://www.hungrypaprikas.com/)|[I Love Arabic Food](https://ilovearabicfood.com/)|[Jennifer Abadi](https://jenniferabadi.com/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|
+|[One Arab Vegan](https://www.onearabvegan.com/)|[Savory Spin](https://savoryspin.com/)|[Sour and Sweets](https://sourandsweets.com/)|[**Sweet Pillar**](http://www.sweetpillar.com/)|
+|[Taste of Beirut](https://www.tasteofbeirut.com/)|[UAE Universe](https://uaeuniverse.com/category/lifestyle/food/)|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
 
 #### Myanmar
 |     |     |
