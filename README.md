@@ -418,11 +418,6 @@
 |[Al Wadi](https://www.alwadi.com/english/recipes)|[Cosette's Kitchen](https://cosetteskitchen.com/)|[Forks and Foliage](https://forksandfoliage.com/)|[Hadia's Lebanese Cuisine](https://hadiaslebanesecuisine.com/newsite/)|[Julie Taboulie](https://www.julietaboulie.com/)|
 |[Mama's Lebanese Kitchen](https://www.mamaslebanesekitchen.com/)|[Maureen Abood](https://www.maureenabood.com/)|[Simply Lebanese](https://www.simplyleb.com/)|[Your Lebanon](https://yourlebanon.com/)|[Zaatar and Zaytoun](https://zaatarandzaytoun.com/)|
 
-#### Macau
-|     |
-| --- |
-|[Macanese Recipes](https://www.macaneserecipes.com/recipes/all.html)|
-
 #### Malaysia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
