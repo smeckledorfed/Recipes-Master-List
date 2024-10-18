@@ -3017,8 +3017,8 @@
 | Z   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Zag Left](https://zagleft.com/)|[Zars Kitchen](https://zarskitchen.com/)|[Zenbelly](https://www.zenbelly.com/)|[Zen Can Cook](http://www.zencancook.com/)|[Zenhealth](https://zenhealth.net/recipe-index/)|
-|[Zestful Kitchen](https://zestfulkitchen.com/)|[Zestuous](https://www.zestuous.com/)|[Z Fooding](http://zfooding.blogspot.com/)|[Ziba Kitchen](https://zibakitchen.com/)|[Zona Cooks](https://zonacooks.com/)|
-|[Zonya](https://zonya.com/recipes/)|[Zuranaz Recipe](https://zuranazrecipe.com/)|
+|[Zestful Kitchen](https://zestfulkitchen.com/)|[Zestuous](https://www.zestuous.com/)|[Z Fooding](http://zfooding.blogspot.com/)|[Zona Cooks](https://zonacooks.com/)|[Zonya](https://zonya.com/recipes/)|
+|[Zuranaz Recipe](https://zuranazrecipe.com/)|
 
 ### Brand
 |     |     |     |     |     |
