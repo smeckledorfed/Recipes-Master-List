@@ -1345,7 +1345,7 @@
 ### High-Protein
 |     |
 | --- |
-|[Eat the Gains](https://eatthegains.com/)|[Hurry the Food Up](https://hurrythefoodup.com/)|(Lauren Fit Foods)[https://laurenfitfoodie.com/]|(Oh Snap Macros)[https://ohsnapmacros.com/]|(The Protein Chef)[https://theproteinchef.co/]|
+|[Eat the Gains](https://eatthegains.com/)|[Hurry the Food Up](https://hurrythefoodup.com/)|[Lauren Fit Foods](https://laurenfitfoodie.com/)|[Oh Snap Macros](https://ohsnapmacros.com/)|[The Protein Chef](https://theproteinchef.co/)|
 
 ### Jain
 |     |     |
