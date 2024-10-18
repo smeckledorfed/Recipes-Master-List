@@ -428,18 +428,18 @@
 |[Set the Tables](https://setthetables.com/category/recipes/)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|[Thokoh Makan](https://thokohmakan.com/)|[Wendy Inkk](https://wendyinkk.blogspot.com/)|
 
 #### Maldives
-|     |     |
-| --- | --- |
+|     |
+| --- |
 |[Lonumedhu](https://lonumedhu.com/)|
 
 #### Middle East
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Always Two Fabulous](https://alwaystwofabulous.com/category/lifestyle/recipes/)|[Amira's Pantry](https://amiraspantry.com/)|[But First Chai](https://butfirstchai.com/)|[Cardamom and Tea](https://cardamomandtea.com/)|[Chef in Disguise](https://chefindisguise.com/)|
-|[Chef Tariq](https://www.cheftariq.com/)|[Chilli Talks](http://www.chillitalks.com/)|[Cooking With Zahra](https://cookingwithzahra.com/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Fufu's Kitchen](https://www.fufuskitchen.com/)|
-|[Hungry Paprikas](https://www.hungrypaprikas.com/)|[I Love Arabic Food](https://ilovearabicfood.com/)|[Jennifer Abadi](https://jenniferabadi.com/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|
-|[One Arab Vegan](https://www.onearabvegan.com/)|[Savory Spin](https://savoryspin.com/)|[Sour and Sweets](https://sourandsweets.com/)|[**Sweet Pillar**](http://www.sweetpillar.com/)|
-|[Taste of Beirut](https://www.tasteofbeirut.com/)|[UAE Universe](https://uaeuniverse.com/category/lifestyle/food/)|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
+|[Amira's Pantry](https://amiraspantry.com/)|[But First Chai](https://butfirstchai.com/)|[Cardamom and Tea](https://cardamomandtea.com/)|[Chef in Disguise](https://chefindisguise.com/)|[Chef Tariq](https://www.cheftariq.com/)|
+|[Chilli Talks](http://www.chillitalks.com/)|[Cooking With Zahra](https://cookingwithzahra.com/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Fufu's Kitchen](https://www.fufuskitchen.com/)|[Hungry Paprikas](https://www.hungrypaprikas.com/)|
+|[I Love Arabic Food](https://ilovearabicfood.com/)|[Jennifer Abadi](https://jenniferabadi.com/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|[One Arab Vegan](https://www.onearabvegan.com/)|
+|[Savory Spin](https://savoryspin.com/)|[Sour and Sweets](https://sourandsweets.com/)|[**Sweet Pillar**](http://www.sweetpillar.com/)|[Taste of Beirut](https://www.tasteofbeirut.com/)|[UAE Universe](https://uaeuniverse.com/category/lifestyle/food/)|
+|[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
 
 #### Myanmar
 |     |     |
