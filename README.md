@@ -86,7 +86,7 @@
 #### Mauritius
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Cocozil](http://cocozil.com/)|[Ever Peckish](https://everpeckish.com/)|[Mauritian Cuisine](https://mauritian-cuisine.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
+[Ever Peckish](https://everpeckish.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
 #### Morocco
 |     |     |     |     |     |
