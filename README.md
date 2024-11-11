@@ -84,8 +84,8 @@
 |[The Libyan Kitchen](https://www.thelibyankitchen.com/)|
 
 #### Mauritius
-|     |     |     |     |
-| --- | --- | --- | --- |
+|     |     |
+| --- | --- |
 [Ever Peckish](https://everpeckish.com/)|[Mauritian Food Recipes](https://mauritianfoodrecipes.com/all-recipes/)|
 
 #### Morocco
