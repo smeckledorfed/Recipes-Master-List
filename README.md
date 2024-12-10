@@ -951,13 +951,13 @@
 |[**Bahama Breeze**](https://m.bahamabreeze.com/recipes)|
 
 #### Barbados
-|     |     |     |     |
-| --- | --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
 |[Barbados.org](https://barbados.org/barbados-recipes.htm)|[My Bajan Cooking](https://mybajan.com/)|[Totally Barbados](https://www.totallybarbados.com/articles/barbados-recipes/)|
 
 #### Belize
-|     |     |     |     |
-| --- | --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
 |[Belize.com](https://belize.com/belizean-recipes/)|[Chaa Creek](https://belize-travel-blog.chaacreek.com/category/belize-recipes/)|[**Grace Kennedy Belize**](https://www.gracekennedybelize.com/)|
 
 #### Canada
@@ -966,8 +966,8 @@
 |[Canada's Food Island](https://canadasfoodisland.ca/)|[Canadian Food Focus](https://canadianfoodfocus.org/)|[A Canadian Foodie](https://www.acanadianfoodie.com/)|[Canadian Living](https://www.canadianliving.com/section/food)|[Edible Ottawa](edibleottawa.ediblecommunities.com)|
 |[Edible Vancouver](ediblevancouver.com)|[Food Bloggers of Canada](https://www.foodbloggersofcanada.com/category/recipes-2/)|[Kitchen Frau](https://www.kitchenfrau.com/)|
 - ##### Acadia
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
+|     |     |     |     |
+| --- | --- | --- | --- |
 |[**Acadian Maple**](https://acadianmaple.com/blogs/recipes)|[Acadian.org](https://www.acadian.org/culture/popular-acadian-recipies/)|[Fav Club](https://www.favclub.org/acadian-recipes.html)|[Yarmouth & Acadian Shore](https://www.yarmouthandacadianshores.com/en/things-to-do/eat-drink/local-recipes/)|
 - ##### Manitoba
 |     |
