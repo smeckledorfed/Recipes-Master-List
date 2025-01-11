@@ -687,10 +687,10 @@
 #### Germany
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[All Tastes German](https://alltastesgerman.com/)|[[Diary of a Mad Hausfrau](https://diaryofamadhausfrau.com/)|[Dirndl Kitchen](https://dirndlkitchen.com/)|[German Food Guide](http://www.germanfoodguide.com/cooking.cfm)|
-|[German Foods](https://germanfoods.org/)|[Inspiration for All](https://www.inspirationforall.de/en/)|[Kitchen Frau](https://www.kitchenfrau.com/)|[My Best German Recipes](https://mybestgermanrecipes.com/)|[My Dinner](https://mydinner.co.uk/)|
-|[My German Recipes](https://mygerman.recipes/)|[My German Table](https://www.mygermantable.com/)|[Kitchen Lionness](http://kitchenlioness.blogspot.com/)|[The Kitchen Maus](https://www.thekitchenmaus.com/)|[The Oma Way](https://www.theomaway.com/)|
-|[Pretzel and Me](https://pretzelandme.blog/)|[Quick German Recipes](https://www.quick-german-recipes.com/)|[A Sausage Has Two](https://www.asausagehastwo.com/)|[Thomas Sixt](https://thomassixt.de/en/)|
+|[All Tastes German](https://alltastesgerman.com/)|[Diary of a Mad Hausfrau](https://diaryofamadhausfrau.com/)|[Dirndl Kitchen](https://dirndlkitchen.com/)|[German Food Guide](http://www.germanfoodguide.com/cooking.cfm)|[German Foods](https://germanfoods.org/)|
+|[Inspiration for All](https://www.inspirationforall.de/en/)|[Kitchen Frau](https://www.kitchenfrau.com/)|[My Best German Recipes](https://mybestgermanrecipes.com/)|[My Dinner](https://mydinner.co.uk/)|[My German Recipes](https://mygerman.recipes/)|
+|[My German Table](https://www.mygermantable.com/)|[Kitchen Lionness](http://kitchenlioness.blogspot.com/)|[The Kitchen Maus](https://www.thekitchenmaus.com/)|[The Oma Way](https://www.theomaway.com/)|[Pretzel and Me](https://pretzelandme.blog/)|
+|[Quick German Recipes](https://www.quick-german-recipes.com/)|[A Sausage Has Two](https://www.asausagehastwo.com/)|[Thomas Sixt](https://thomassixt.de/en/)|
 - ##### Bavaria
 |     |     |
 | --- | --- |
