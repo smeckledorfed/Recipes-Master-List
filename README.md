@@ -30,12 +30,11 @@
 ### Africa
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Africa Food Love](https://www.africanfood.recipes/)|[African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)|[African Food Network](https://afrifoodnetwork.com/)|[AfroVitalityEats](https://afrovitalityeats.com/)|[Amuna Foods](https://amunafoods.com/)|
-|[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/)|[The Canadian African](https://thecanadianafrican.com/)|[The Congo Cookbook](http://www.congocookbook.com/)|[Cooking With Gaul](https://cookingwithgaul.com/)|
-|[Eat Well Abi](https://eatwellabi.com/)|[Ev's Eats](https://evseats.com/)|[Food Plus Words](https://foodpluswords.com/)|[Humble Vege](https://humblevege.com/)|[Jayne Rain](https://jayne-rain.com/)|
-|[Je Gbese](https://jegbese.com/)|[Keesha's Kitchen](https://keeshaskitchen.com/)|[Low-Carb Africa](https://lowcarbafrica.com/)|[My Active Kitchen](https://www.myactivekitchen.com/)|[My Burnt Orange](https://www.myburntorange.com/)|
-|[Natura Yum](https://www.naturayum.com/)|[Pan-African](https://pan-african.net/recipe/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|[We Eat at Last](https://weeatatlast.com/)|[West Africa Cooks](https://www.westafricacooks.com/africa/)|
-|[**Yolele**](https://yolele.com/recipes)|[Yummy Medley](https://www.yummymedley.com/)|
+|[African Diaspora Cooking Australia](https://africandiasporacookingaustralia.wordpress.com/)|[AfroVitalityEats](https://afrovitalityeats.com/)|[Black Foodie](https://www.blackfoodie.co/recipes/)|[Black People's Recipes](https://blackpeoplesrecipes.com/)|[Cooking With Gaul](https://cookingwithgaul.com/)|
+|[Eat Well Abi](https://eatwellabi.com/)|[Ev's Eats](https://evseats.com/)|[Food Plus Words](https://foodpluswords.com/)|[Humble Vege](https://humblevege.com/)|[Jayne Rain](https://jayne-rain.com/)|[Je Gbese](https://jegbese.com/)|
+|[Keesha's Kitchen](https://keeshaskitchen.com/)|[Low-Carb Africa](https://lowcarbafrica.com/)|[My Active Kitchen](https://www.myactivekitchen.com/)|[My Burnt Orange](https://www.myburntorange.com/)|[Natura Yum](https://www.naturayum.com/)|
+|[Pan-African](https://pan-african.net/recipe/)|[That Sister](https://www.thatsister.com/category/african-and-caribbean-food-and-cooking/)|[We Eat at Last](https://weeatatlast.com/)|[West Africa Cooks](https://www.westafricacooks.com/africa/)|[**Yolele**](https://yolele.com/recipes)|
+|[Yummy Medley](https://www.yummymedley.com/)|
 
 #### Algeria
 |     |     |
@@ -70,7 +69,7 @@
 #### Kenya
 |     |     |     |
 | --- | --- | --- |
-|[All Kenyan Recipes](https://allkenyanrecipes.com/)|[Jikoni Magic](https://jikonimagic.com/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|
+|[Jikoni Magic](https://jikonimagic.com/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|
 
 #### Liberia
 |     |     |
@@ -90,7 +89,7 @@
 #### Morocco
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Cape to Casa](https://www.capetocasa.com/morocco/food-and-recipes/)|[Maroc Mama](https://marocmama.com/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
+|[Cape to Casa](https://capetocasa.com/category/food/)|[Maroc Mama](https://marocmama.com/)|[Moroccanzest](https://moroccanzest.com/)|[My Moorish Plate](https://mymoorishplate.com/)|[My Moroccan Food](http://www.mymoroccanfood.com/)|
 |[Salima's Kitchen](https://salimaskitchen.com/)|[Taste of Maroc](https://tasteofmaroc.com/)|
 
 #### Nigeria
