@@ -157,16 +157,14 @@
 |[Love Food Asia](https://www.lovefoodasia.com/en/)|[Low-Carbing Asian](https://www.lowcarbingasian.com/)|[Mama Loli](https://mamaloli.com/)|[Mikha Eats](https://mikhaeats.com/)|[Mochi Mommy](https://www.mochimommy.com/)|
 |[Modern Asian Baking](https://www.modernasianbaking.com/)|[Ms. Shi and Mr. He](https://msshiandmrhe.com/)|[My Kitchen](https://mykitch3n.blogspot.com/)|[My Kitchen 101](https://mykitchen101en.com/)|[My Lovely Recipes](https://www.mylovelyrecipes.com/)|
 |[Nom Nom Paleo](https://nomnompaleo.com/)|[NOMSS.COM](https://www.nomss.com/)|[Noob Cook](https://noobcook.com/)|[No Recipes](https://norecipes.com/)|[Nut-Free Wok](https://nutfreewok.com/)|
-|[**NutriAsia**](https://nutriasia.com/recipes/)|
-
-|[Nyonya Cooking](https://www.nyonyacooking.com/)|[Oh My Food Recipes](https://www.ohmyfoodrecipes.com/)|[Oishi Book](https://oishibook.com/)|[Oriental Food](http://www.orientalfood.com/)|[Peng's Kitchen](https://pengskitchen.blogspot.com/)|
+|[**NutriAsia**](https://nutriasia.com/recipes/)|[Nyonya Cooking](https://www.nyonyacooking.com/)|[Oh My Food Recipes](https://www.ohmyfoodrecipes.com/)|[Oishi Book](https://oishibook.com/)|[Peng's Kitchen](https://pengskitchen.blogspot.com/)|
 |[Pups with Chopsticks](https://pupswithchopsticks.com/)|[Py's Kitchen](https://pyskitchen.com/)|[RunAwayRice](https://runawayrice.com/)|[Saucepans and Spices](https://www.saucepansandspices.com/)|[The Savory Chopstick](https://www.thesavorychopstick.com/)|
 |[School of Wok](https://schoolofwok.co.uk/tips-and-recipes)|[Sea Salt with Food](http://www.seasaltwithfood.com/)|[Season with Spice](https://www.seasonwithspice.com/)|[Shiokman Recipes](https://www.shiokmanrecipes.com/category/local-kueh/)|[Sift and Simmer](https://www.siftandsimmer.com/)|
-|[**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)|[Simply Asian Home](https://www.simplyasianhome.com/)|[Smelly Lunchbox](https://smellylunchbox.com/)|[Souper Diaries](https://souperdiaries.com/)|[Spice n' Pans](https://www.spicenpans.com/)|
-|[Spice the Plate](https://www.spicetheplate.com/)|[Straight Up Eats](https://straightupeats.com/)|[The Subversive Table](https://thesubversivetable.com/)|[Sunflower Recipes](http://sunflower-recipes.blogspot.com/)|[Takes Two Eggs](https://takestwoeggs.com/)|
-|[Taste Asian Food](https://tasteasianfood.com/)|[That Cute Dish](https://www.thatcutedish.com/)|[That Spicy Chick](https://thatspicychick.com/)|[Tiff Loves Tofu](https://tifflovestofu.com/)|[Tiffy Cooks](https://tiffycooks.com/)|
-|[Two Plaid Aprons](https://twoplaidaprons.com/)|[Untold Recipes By Nosheen](https://untoldrecipesbynosheen.com/)|[Veggie Anh](https://veggieanh.com/)|[Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)|[What to Cook Today](https://whattocooktoday.com/)|
-|[Wok and Skillet](https://www.wokandskillet.com/)|[**Wong She**](https://wongshe.com.au/category/recipe/)|[Woo Can Cook](https://www.woocancook.com/)|[Woon Heng](https://woonheng.com/)|[Zhang Catherine](https://zhangcatherine.com/)|
+|[**Simply Asia**](https://www.mccormick.com/simply-asia/recipes)|[Simply Asian Home](https://www.simplyasianhome.com/)|[Smelly Lunchbox](https://smellylunchbox.com/)|[Souper Diaries](https://souperdiaries.com/)|[Spice the Plate](https://www.spicetheplate.com/)|
+|[Straight Up Eats](https://straightupeats.com/)|[The Subversive Table](https://thesubversivetable.com/)|[Sunflower Recipes](http://sunflower-recipes.blogspot.com/)|[Takes Two Eggs](https://takestwoeggs.com/)|[Taste Asian Food](https://tasteasianfood.com/)|
+|[That Cute Dish](https://www.thatcutedish.com/)|[That Spicy Chick](https://thatspicychick.com/)|[Tiff Loves Tofu](https://tifflovestofu.com/)|[Tiffy Cooks](https://tiffycooks.com/)|[Two Plaid Aprons](https://twoplaidaprons.com/)|
+|[Untold Recipes By Nosheen](https://untoldrecipesbynosheen.com/)|[Veggie Anh](https://veggieanh.com/)|[Wai Yee Hong](https://www.waiyeehong.com/recipes-and-culture/)|[What to Cook Today](https://whattocooktoday.com/)|[Wok and Skillet](https://www.wokandskillet.com/)|
+|[Woo Can Cook](https://www.woocancook.com/)|[Woon Heng](https://woonheng.com/)|[Zhang Catherine](https://zhangcatherine.com/)|
 
 #### Afghanistan
 |     |     |     |     |     |
