@@ -172,16 +172,16 @@
 |[Afghan Culture Unveiled](https://www.afghancultureunveiled.com/work)|[Afghan Kitchen Recipes](http://www.afghankitchenrecipes.com/)|[Afghan Yummy Food](https://www.afghanyummyfood.com/)|[Cooking County](https://cookingcounty.com/)|[Imanistan](https://www.imanistan.com/)|
 
 #### Armenia
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|[Adventures in Armenian Cooking](http://www.armeniapedia.org/index.php?title=Adventures_in_Armenian_Cooking)|[The Armenian Kitchen](https://thearmeniankitchen.com/)|[The Armenian Mirror Specator](https://mirrorspectator.com/category/recipes/)|[Mom's Notes](https://www.momsnotes.me/)|[The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)|
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[The Armenian Kitchen](https://thearmeniankitchen.com/)|[The Armenian Mirror Specator](https://mirrorspectator.com/category/recipes/)|[Mom's Notes](https://www.momsnotes.me/)|[The Stuffed Grape Leaf](https://thestuffedgrapeleaf.com/)|
 
 #### Azerbaijan
 |     |     |
 | --- | --- |
 |[AZ Cookbook](https://azcookbook.com/)|[Flavors of Baku](https://flavorsofbaku.com/)|
 
-#### Bangladesh
+#### Bangladesh LOC
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
