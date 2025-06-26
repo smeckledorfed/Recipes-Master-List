@@ -181,15 +181,10 @@
 | --- | --- |
 |[AZ Cookbook](https://azcookbook.com/)|[Flavors of Baku](https://flavorsofbaku.com/)|
 
-#### Bangladesh LOC
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[The Bangladeshi Kitchen](https://www.thebangladeshikitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
-
-#### Bhutan
-|     |
-| --- |
-|[The Bhutanese Food Site](https://thinley.tripod.com/recipe/)|
+#### Bangladesh
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Afelia's Kitchen](https://www.afeliaskitchen.com/)|[Cooking Canary](https://cookingcanary.com/)|[Loving Bandladeshi Kitchen](http://www.lovingbangladeshikitchen.com/)|[Rownak's Kitchen](https://banglarecipes.com.au/)|
 
 #### Burma
 |     |     |
@@ -197,21 +192,16 @@
 |[Burmalicious by Suu](https://www.theburmalicious.com/)|[Burmese Vegan](https://burmesevegan.com/)|
 
 #### Cambodia
-|     |     |     |
-| --- | --- | --- |
-|[Angkor Food](https://www.angkorfood.com/recipes/index.html)|[Cambodia Recipe](https://cambodiarecipe.com/)|[Chef Nak](https://www.chefnak.com/recipes)|
+|     |     |
+| --- | --- |
+|[Angkor Food](https://www.angkorfood.com/recipes/index.html)|[Chef Nak](https://www.chefnak.com/recipes)|
 
 #### China
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Alice C. Sun](https://www.alicecsun.com/recipes)|[Asian Cooking Mom](https://www.asiancookingmom.com/)|[Auntie Emily's Kitchen](https://auntieemily.com/)|[The Burning Kitchen](https://theburningkitchen.com/)|[Butter Over Bae](https://butteroverbae.com/)|
-|[Celestial Peach](https://www.celestialpeach.com/blog/category/Recipes)|[Chinese American Family](https://www.chineseamericanfamily.com/)|[Chinese Cooking Recipes](https://www.chinesecookingrecipes.net/)|[Chinese Food Bar](https://www.chinesefoodbar.com/)|[Chinese Food DIY](http://www.chinesefooddiy.com/)|
-|[Chinese Foods Recipe](https://chinesefoodsrecipe.com/)|[Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)|[Chinese Recipes for All](https://chineserecipesforall.com/)|[Chow Man](https://chowman.net/)|[Christine's Recipes](https://en.christinesrecipes.com/)|
-|[Cinnamon Society](https://cinnamonsociety.com/)|[Cooking Bomb](https://www.cookingbomb.com/)|[A Daily Food](https://www.adailyfood.com/)|[Dumpling Connection](https://www.dumplingconnection.com/)|[Easy Chinese Recipes](https://www.easychineserecipes.com/)|
-|[Eating China](https://www.eatingchina.com/)|[Echo's Kitchen](http://www.echoskitchen.com/)|[Everybunny Eats](https://www.everybunnyeats.com/)|[Flavor and Fortune](http://www.flavorandfortune.com/ffdataaccess/recipes.php)|[Fun Chinese Cooking](https://fun-chinese-cooking.blogspot.com/)|
-|[Fuchsia Dunlop](http://www.fuchsiadunlop.com/category/recipe/)|[Guai Shu Shu](https://www.guaishushu1.com/)|[The Hakka Cookbook](https://thehakkacookbook.com/)|[Healthy Nibbles and Bits](https://healthynibblesandbits.com/)|[Hello Tea Cup](https://helloteacup.com/category/chinese-food/)|
-|[Hungry Huy](https://www.hungryhuy.com/)|[It's My Dish](https://itsmydish.com/)|[Let's Be Foodie](https://letsbefoodie.com/)|[Let's PlayDough](https://lets-playdough.com/)|[London is Hungry](https://londonishungry.com/)|
-|[Lost Laowai](https://www.lostlaowai.com/)|[Made With Lau](https://www.madewithlau.com/)|[Magnifissance](https://magnifissance.com/good-eats/)|[Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)|[Mao Mao Mom](http://maomaomom.com/)|
+|[Celestial Peach](https://www.celestialpeach.com/blog/category/Recipes)|[Chinese American Family](https://www.chineseamericanfamily.com/)|[Chinese Cooking Recipes](https://www.chinesecookingrecipes.net/)|[Chinese Food DIY](http://www.chinesefooddiy.com/)|[Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)|[Chinese Recipes for All](https://chineserecipesforall.com/)|[Christine's Recipes](https://en.christinesrecipes.com/)|[A Daily Food](https://www.adailyfood.com/)|[Eating China](https://www.eatingchina.com/)|[Echo's Kitchen](http://www.echoskitchen.com/)|[Everybunny Eats](https://www.everybunnyeats.com/)|[Flavor and Fortune](http://www.flavorandfortune.com/ffdataaccess/recipes.php)|[Fun Chinese Cooking](https://fun-chinese-cooking.blogspot.com/)|[Fuchsia Dunlop](http://www.fuchsiadunlop.com/category/recipe/)|[Guai Shu Shu](https://www.guaishushu1.com/)|[The Hakka Cookbook](https://thehakkacookbook.com/)|[Healthy Nibbles and Bits](https://healthynibblesandbits.com/)|[Hello Tea Cup](https://helloteacup.com/category/chinese-food/)|[Hungry Huy](https://www.hungryhuy.com/)|[It's My Dish](https://itsmydish.com/)|[Let's Be Foodie](https://letsbefoodie.com/)|[Let's PlayDough](https://lets-playdough.com/)|[Made With Lau](https://www.madewithlau.com/)|[Malaysian Chinese Kitchen](https://www.malaysianchinesekitchen.com/)|
+
 |[Mary's Test Kitchen](https://www.marystestkitchen.com/)|[Mindfull of Cooking](https://mindfullofcooking.com/about/)|[Miss Chinese Food](https://misschinesefood.com/)|[Mrs. P's Kitchen](https://www.mrspskitchen.net/)|[My Chinese Home Kitchen](https://mychinesehomekitchen.com/)|
 |[My Chinese Recipes](https://www.mychineserecipes.com/)|[My Chinese Soul Food](https://mychinesesoulfood.com/)|[Nicole Mones](https://nicolemones.com/food-lovers/recipes/)|[NOMSS.COM](https://www.nomss.com/)|[Oh Snap Let's Eat](https://ohsnapletseat.com/)|
 |[Omnivore's Cookbook](https://omnivorescookbook.com/)|[The Plant-Based Wok](https://theplantbasedwok.com/)|[Rasa Malaysia](https://rasamalaysia.com/)|[Recipes by Nora](https://www.recipesbynora.com/)|[Red Cook](https://redcook.net/)|
