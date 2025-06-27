@@ -231,8 +231,8 @@
 |[Dolan Chick](https://www.dolanchick.com/)|[Far West China](https://www.farwestchina.com/cuisine/)|[Uyghur Collective](https://uyghurcollective.com/community?blogcategory=Food)|
 
 #### Georgia
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
+|     |     |     |     |
+| --- | --- | --- | --- |
 |[Cafe Osharak](https://www.osharak.com/)|[Cookies and the Caucasus](https://cookiesandthecaucasus.wordpress.com/)|[Georgian Recipes.com](https://georgianrecipes.com/)|[Georgian Recipes.net](https://georgianrecipes.net/)|
 
 #### Hmong
@@ -254,6 +254,7 @@
 |[Bon Gong](https://bongong.com/index.html)|[Bridget White-Kumar](https://bridget-white.com/)|[Caramel Tinted Life](https://carameltintedlife.com/)|[Charmaine Solomon](https://www.charmainesolomon.com/recipe-blog)|[Chez Shuchi](https://www.chezshuchi.com/)|
 |[Chilli Talks](http://www.chillitalks.com/)|[Chitra's Foodbook](https://www.chitrasfoodbook.com/)|[Chrizzo's Grub Scene](https://chrizzosgrubscene.com/)|[Code 2 Cook](https://code2cook.com/)|[Cooking Curries](https://www.cookingcurries.com/)|
 |[Cooking Shooking](https://cookingshooking.com/)|[Cooking With Benazir](https://cookingwithbenazir.com/)|[Cook With Parul](https://cookwithparul.com/)|[Cook With Renu](https://cookwithrenu.com/)|[Culinary Shades](https://culinaryshades.com/)|
+
 |[Curry and Vanilla](https://curryandvanilla.com/)|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|[Desert Food Feed](https://desertfoodfeed.com/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes)|[Dishcovery](https://dishcovery.in/)|
 |[East Indian Recipes](https://eastindianrecipes.net/)|[Famous Dishes](https://famousdishes.in/)|[Farida's Cookbook](https://faridascookbook.com/)|[Fa's Kitchen](https://www.faskitchen.com/)|[Fine Dining Indian](https://finediningindian.com/)|
 |[Fitter Eats](https://www.fittereats.com/)|[Flavors of Mumbai](http://www.flavorsofmumbai.com/)|[Flavours of My Kitchen](https://flavoursofmykitchen.com/)|[Foodie Trail](https://www.foodie-trail.com/)|[The Gastronomic Bong](https://thegastronomicbong.com/)|
@@ -279,12 +280,8 @@
 |[Simmer to Slimmer](https://simmertoslimmer.com/)|[Simple Sumptuous Cooking](https://www.mrishtanna.com/)|[Simply Tadka](https://simplytadka.com/)|[Sindhi Food Mazaa](http://www.sindhifoodmazaa.com/)|[Sindhi Rasoi](https://sindhirasoi.com/)|
 |[Sinfully Spicy](https://sinfullyspicy.com/)|[Slurrp](https://www.slurrp.com/)|[SnehDeep's Kitchen](https://snehdeepskitchensite.wordpress.com/)|[Some Indian Girl](https://someindiangirl.com/)|[Something's Cooking with Alpa](https://somethingscookingwithalpa.com/)|
 |[Spice India Online](https://www.spiceindiaonline.com/)|[Spice It Upp](https://spiceitupp.com/recipes/)|[The Spice Mess](https://thespicemess.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[SpicYum](https://www.spicyum.com/)|
-|[Subbu's Kitchen](https://www.subbuskitchen.com/)|[Suji's Cooking](https://www.sujiscooking.com/)|[Sunayana Gupta](https://www.sunayanagupta.com/)|[Sunera Kitchen](https://www.sunerakitchen.com/)|[Sunny Family Kitchenette](https://www.sunnyfamilykitchenette.com/)|
-|[Swasthi's Recipes](https://www.indianhealthyrecipes.com/)|[Swati's Kitchen](https://swatisani.net/kitchen/)|[The Take It Easy Chef](https://www.thetakeiteasychef.com/)|[Tastes of Malabar](https://www.tastesofmalabar.com/)|[Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)|
-|[Tickling Palates](https://www.ticklingpalates.com/)|[Times of India](https://recipes.timesofindia.com/us/recipes)|[Times Recipe](https://timesrecipe.com/en/)|[Tomato Blues](https://www.tomatoblues.com/)|[Vah Rehvah](https://www.vahrehvah.com/)|
-|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|[Vegecravings](https://vegecravings.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Vismai Food](https://vismaifood.com/en)|[WeRecipes](https://werecipes.com/)|
-|[Whisk Affair](https://www.whiskaffair.com/)|[Yummefy](https://www.yummefy.com/)|[Yummy Asha's Kitchen](https://yummyashaskitchen.com/)|[Yummy Sooo Yummy](http://yummysoooyummy.blogspot.com/)|[Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)|
-|[Zaiqa](https://www.zaiqa.com/)|[Zayka Ka Tadka](https://www.zaykakatadka.com/)|[Zeel's Kitchen](https://www.zeelskitchen.com/)|[Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)|
+
+|[Subbu's Kitchen](https://www.subbuskitchen.com/)|[Suji's Cooking](https://www.sujiscooking.com/)|[Sunayana Gupta](https://www.sunayanagupta.com/)|[Sunera Kitchen](https://www.sunerakitchen.com/)|[Swasthi's Recipes](https://www.indianhealthyrecipes.com/)|[Swati's Kitchen](https://swatisani.net/kitchen/)|[The Take It Easy Chef](https://www.thetakeiteasychef.com/)|[Tasty Indian Recipes](http://www.tasty-indian-recipes.com/)|[Times of India](https://recipes.timesofindia.com/us/recipes)|[Times Recipe](https://timesrecipe.com/en/)|[Tomato Blues](https://www.tomatoblues.com/)|[Vah Rehvah](https://www.vahrehvah.com/)|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|[Vegecravings](https://vegecravings.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Vismai Food](https://vismaifood.com/en)|[WeRecipes](https://werecipes.com/)|[Whisk Affair](https://www.whiskaffair.com/)|[Yummefy](https://www.yummefy.com/)|[Yummy Asha's Kitchen](https://yummyashaskitchen.com/)|[Yummy Sooo Yummy](http://yummysoooyummy.blogspot.com/)|[Yummy Tummy Aarthi](https://www.yummytummyaarthi.com/)|[Zaiqa](https://www.zaiqa.com/)|[Zayka Ka Tadka](https://www.zaykakatadka.com/)|[Zeel's Kitchen](https://www.zeelskitchen.com/)|[Zesty South Indian Kitchen](https://zestysouthindiankitchen.com/)|
 - ##### Assam
 |     |
 | --- |
@@ -292,14 +289,15 @@
 - ##### Bengal
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Bong Eats](https://www.bongeats.com/category/recipe)|[Debjanir Rannaghar](https://kitchenofdebjani.com/)|[Dolce and Masala](http://www.dolceandmasala.com/)|[Experiences of A Gastronomad](https://experiencesofagastronomad.com/)|[Finally Foodie](https://finallyfoodie.com/)|[Go Sum It Up](https://gosumitup.com/recipes)|[Playful Cooking](https://www.playfulcooking.com/)|[Raanna](http://www.raanna.com/)|[Speaking Aloud](https://speakingaloud.in/)|
+|[Bong Eats](https://www.bongeats.com/category/recipe)|[Debjanir Rannaghar](https://kitchenofdebjani.com/)|[Experiences of A Gastronomad](https://experiencesofagastronomad.com/)|[Go Sum It Up](https://gosumitup.com/recipes)|[Playful Cooking](https://www.playfulcooking.com/)|
+|[Raanna](http://www.raanna.com/)|[Speaking Aloud](https://speakingaloud.in/)|
 - ##### Bihar
 |     |
 | --- |
 |[Bihar and Jharkhand](https://www.biharandjharkhand.com/recipe/)|
 - ##### Chettinad
-|     |     |     |     |
-| --- | --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
 |[Chettinad Cookbook](https://chettinadcookbook.org/)|[Chettinad Recipes](http://chettinadrecipesblog.blogspot.com/)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|
 - ##### Garo
 |     |     |
@@ -310,10 +308,6 @@
 | --- | --- | --- | --- | --- |
 |[Aromatic Essence](https://aromaticessence.co/)|[Big Fat Tummy](https://www.bigfattummy.com/)|[Celebration in My Kitchen](https://www.celebrationinmykitchen.com/)|[Florency Dias](https://florencydias.blogspot.com/)|[Goan Food Recipes](https://www.goanfoodrecipes.com/)|
 |[Raksha's Kitchen](https://www.rakshaskitchen.com/)|[Xantilicious](https://xantilicious.com/)|
-- ##### Gujarati
-|     |
-| --- |
-|[Gujarati Rasoi](https://www.gujrasoi.com/)|
 - ##### Jharkhand
 |     |
 | --- |
