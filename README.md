@@ -4,7 +4,6 @@
 - If a website doesn't seem to have a particular focus on anything, it will be in the *Miscellaneous* section.
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it.
 - Brands have been **bolded**.
-
 ## Budget
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -255,9 +254,8 @@
 |[Chilli Talks](http://www.chillitalks.com/)|[Chitra's Foodbook](https://www.chitrasfoodbook.com/)|[Chrizzo's Grub Scene](https://chrizzosgrubscene.com/)|[Code 2 Cook](https://code2cook.com/)|[Cooking Curries](https://www.cookingcurries.com/)|
 |[Cooking Shooking](https://cookingshooking.com/)|[Cooking With Benazir](https://cookingwithbenazir.com/)|[Cook With Parul](https://cookwithparul.com/)|[Cook With Renu](https://cookwithrenu.com/)|[Culinary Shades](https://culinaryshades.com/)|
 
-|[Curry and Vanilla](https://curryandvanilla.com/)|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|[Desert Food Feed](https://desertfoodfeed.com/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes)|[Dishcovery](https://dishcovery.in/)|
-|[East Indian Recipes](https://eastindianrecipes.net/)|[Famous Dishes](https://famousdishes.in/)|[Farida's Cookbook](https://faridascookbook.com/)|[Fa's Kitchen](https://www.faskitchen.com/)|[Fine Dining Indian](https://finediningindian.com/)|
-|[Fitter Eats](https://www.fittereats.com/)|[Flavors of Mumbai](http://www.flavorsofmumbai.com/)|[Flavours of My Kitchen](https://flavoursofmykitchen.com/)|[Foodie Trail](https://www.foodie-trail.com/)|[The Gastronomic Bong](https://thegastronomicbong.com/)|
+|[Curry and Vanilla](https://curryandvanilla.com/)|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|[Desert Food Feed](https://desertfoodfeed.com/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes)|[East Indian Recipes](https://eastindianrecipes.net/)|[Famous Dishes](https://famousdishes.in/)|[Farida's Cookbook](https://faridascookbook.com/)|[Fa's Kitchen](https://www.faskitchen.com/)|[Fine Dining Indian](https://finediningindian.com/)|[Flavors of Mumbai](http://www.flavorsofmumbai.com/)|[Flavours of My Kitchen](https://flavoursofmykitchen.com/)|[Foodie Trail](https://www.foodie-trail.com/)|[The Gastronomic Bong](https://thegastronomicbong.com/)|
+
 |[Geeta ki Duniya](https://www.geetakiduniya.com/)|[Haala's Dastarkhaan](https://haalasdastarkhaan.com/)|[Hari Ghotra](https://www.harighotra.co.uk/)|[Hassan Chef](https://www.hassanchef.com/)|[Healthy Cooking with Mitha](https://healthy-cooking-with-mitha.com/)|
 |[Hebbar's Kitchen](https://hebbarskitchen.com/)|[Hema Magesh](https://hemamagesh.com/)|[Hooked on Heat](https://www.hookedonheat.com/)|[Indian Ambrosia](https://indianambrosia.com/)|[India Netzone](https://www.indianetzone.com/food/)|
 |[Indian Feast](https://indianfeast.tripod.com/)|[Indian Food Forever](https://www.indianfoodforever.com/)|[Indian Kitchen and Spices](https://indiankitchenandspices.com/)|[Indian Recipes](https://indianrecipes.com/)|[Indian Veggie Delight](https://www.indianveggiedelight.com/)|
