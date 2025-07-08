@@ -103,8 +103,8 @@
 |[Xawaash](http://xawaash.com/)|
 
 #### South Africa
-|     |     |     |
-| --- | --- | --- |
+|     |     |
+| --- | --- |
 |[SA People](https://www.sapeople.com/category/recipes/)|[The South African](https://www.thesouthafrican.com/lifestyle/food/recipes/)|
 - ##### Cape Malay
 |     |     |
@@ -324,8 +324,8 @@
 | --- |
 |[The Big Sweet Tooth](https://www.thebigsweettooth.com/)|
 - ##### Mangalore
-|     |     |     |
-| --- | --- | --- |
+|     |     |
+| --- | --- |
 |[One Plate Please](https://www.oneplateplease.com/)|[Ruchik Randhap](https://www.ruchikrandhap.com/)|
 - ##### Odia
 |     |
@@ -373,10 +373,8 @@
 |[Halal in Japan](https://www.halalinjapan.com/halal-recipes.html)|[Hiroko's Recipes](https://www.hirokoliston.com/)|[It's My Dish](https://itsmydish.com/)|[Japan Centre](https://www.japancentre.com/en/recipe)|[Japanese Cooking 101](https://www.japanesecooking101.com/)|
 |[Japan Food Addict](http://www.japanfoodaddict.com/)|[Japanese Food at Home](https://japfoodathome.com/)|[The Japanese Kitchen](https://thejapanesekitchen.com/)|[Japan McConnell](https://japanmcconnell.com/)|[The Japan Store](https://thejapanstore.us/)|
 |[The Japantry](https://thejapantry.com/)|[JP Foodie](https://japanesefoods.net/)|[J-Simple Recipes](http://j-simplerecipes.com/)|[Just One Cookbook](https://www.justonecookbook.com/)|[Kozmo Kitchen](https://www.kozmokitchen.com/)|
-|[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kyoto Foodies](https://kyotofoodie.com/category/recipe/)|[La Petit Noisette](https://lapetitnoisette.com/)|[Norio on Wine and Food](https://norioonwine.blogspot.com/)|[Oishi Washoku Recipes](https://www.oishi-washoku-recipes.com/)|
-|[Pickled Plum](https://pickledplum.com/)|[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|
-|[**Soy Sauce Japan**](https://soysauce-japan.com/blogs/recipes)|[Sudachi Recipes](https://sudachirecipes.com/)|[Sylvia Wakana](https://sylviawakana.com/)|[Thanks for the Meal](https://www.thanksforthemeal.net/)|[Tiffoodss](https://tiffoodss.com/)|
-|[We Love Japanese Food](https://welovejapanesefood.com/)|
+
+|[Kurumi Cooks](https://www.kurumicooks.co.uk/)|[Kyoto Foodies](https://kyotofoodie.com/category/recipe/)|[La Petit Noisette](https://lapetitnoisette.com/)|[Norio on Wine and Food](https://norioonwine.blogspot.com/)|[Oishi Washoku Recipes](https://www.oishi-washoku-recipes.com/)|[Pickled Plum](https://pickledplum.com/)|[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|[Sudachi Recipes](https://sudachirecipes.com/)|[Sylvia Wakana](https://sylviawakana.com/)|[Thanks for the Meal](https://www.thanksforthemeal.net/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
 
 #### Jordan
 |     |
@@ -389,8 +387,8 @@
 |[Cooking County](https://cookingcounty.com/)|
 
 #### Laos
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
+|     |     |     |     |
+| --- | --- | --- | --- |
 |[A Dash of Dolly](https://adashofdolly.com/)|[Little Lao Kitchen](https://www.littlelaokitchen.com/)|[Saeng's Kitchen](https://www.saengskitchen.com/)|[Vegan Lao Food](https://www.veganlaofood.com/)|
 
 #### Lebanon
@@ -436,8 +434,8 @@
 |[Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)|[Zaiqa](https://www.zaiqa.com/)|
 
 #### Palestine
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
+|     |     |     |     |
+| --- | --- | --- | --- |
 |[Almond and Fig](https://www.almondandfig.com/)|[Falasteeni Foodie](https://falasteenifoodie.com/)|[Palestine in a Dish](https://palestineinadish.com/)|[Welcome to Palestine](https://www.welcometopalestine.com/food/)|
 
 #### The Philippines
