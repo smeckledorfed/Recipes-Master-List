@@ -66,8 +66,8 @@
 |[Biscuits and Ladles](https://biscuitsandladles.com/)|[Ginger and Sea Salt](https://gingerandseasalt.com/)|[Zoe's Ghana Kitchen](https://www.zoesghanakitchen.com/recipes)|
 
 #### Kenya
-|     |     |     |
-| --- | --- | --- |
+|     |     |
+| --- | --- |
 |[Jikoni Magic](https://jikonimagic.com/)|[Mayuri's Jikoni](https://mayuris-jikoni.com/)|
 
 #### Liberia
