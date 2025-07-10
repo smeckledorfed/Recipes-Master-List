@@ -377,7 +377,7 @@
 |[Pickled Plum](https://pickledplum.com/)|[Plant-Based Matters](https://plantbasedmatters.net/)|[RecipeTin Japan](https://japan.recipetineats.com/)|[Sal y Pimiento](https://www.sal-pimienta.com/en/home/)|[Sanchi](https://sanchi.co.uk/recipes/)|
 |[Sudachi Recipes](https://sudachirecipes.com/)|[Sylvia Wakana](https://sylviawakana.com/)|[Thanks for the Meal](https://www.thanksforthemeal.net/)|[We Love Japanese Food](https://welovejapanesefood.com/)|
 
-#### Jordan %%%%%%
+#### Jordan
 |     |
 | --- |
 |[The Odehlicious](https://theodehlicious.com/)|
@@ -417,7 +417,7 @@
 | --- | --- | --- | --- | --- |
 |[Amira's Pantry](https://amiraspantry.com/)|[But First Chai](https://butfirstchai.com/)|[Cardamom and Tea](https://cardamomandtea.com/)|[Chef in Disguise](https://chefindisguise.com/)|[Chef Tariq](https://www.cheftariq.com/)|
 |[Chilli Talks](http://www.chillitalks.com/)|[Cooking With Zahra](https://cookingwithzahra.com/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Fufu's Kitchen](https://www.fufuskitchen.com/)|[Hungry Paprikas](https://www.hungrypaprikas.com/)|
-|[I Love Arabic Food](https://ilovearabicfood.com/)|[Jennifer Abadi](https://jenniferabadi.com/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|[One Arab Vegan](https://www.onearabvegan.com/)|
+|[I Love Arabic Food](https://ilovearabicfood.com/)|[Jennifer Abadi](https://jenniferabadi.com/recipe-abadi/)|[Middle East Kitchen](https://www.middleeastkitchen.com/)|[MidEastChef](http://www.mideastchef.com/)|[One Arab Vegan](https://www.onearabvegan.com/)|
 |[Savory Spin](https://savoryspin.com/)|[Sour and Sweets](https://sourandsweets.com/)|[**Sweet Pillar**](http://www.sweetpillar.com/)|[Taste of Beirut](https://www.tasteofbeirut.com/)|[UAE Universe](https://uaeuniverse.com/category/lifestyle/food/)|
 |[Unicorns in the Kitchen](https://www.unicornsinthekitchen.com/)|
 
@@ -426,7 +426,7 @@
 | --- | --- |
 |[Hsaba](https://hsaba.com/recipes)|[Meemalee](http://www.meemalee.com/)|
 
-#### Pakistan
+#### Pakistan %%%%%%%
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Chai and Churros](https://chaiandchurros.com/)|[Chili to Choc](https://www.chilitochoc.com/)|[Cook With Faiza](https://cookwithfaiza.net/)|[Diary of a PMP Mom](https://diaryofapmpmom.com/from-my-kitchen/)|[Fa's Kitchen](https://www.faskitchen.com/)|
