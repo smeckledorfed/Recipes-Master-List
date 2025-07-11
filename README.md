@@ -426,20 +426,20 @@
 | --- | --- |
 |[Hsaba](https://hsaba.com/recipes)|[Meemalee](http://www.meemalee.com/)|
 
-#### Pakistan %%%%%%%
+#### Pakistan
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Chai and Churros](https://chaiandchurros.com/)|[Chili to Choc](https://www.chilitochoc.com/)|[Cook With Faiza](https://cookwithfaiza.net/)|[Diary of a PMP Mom](https://diaryofapmpmom.com/from-my-kitchen/)|[Fa's Kitchen](https://www.faskitchen.com/)|
 |[Fatima Cooks](https://fatimacooks.net/)|[Four and Spice Blog](https://www.flourandspiceblog.com/)|[Food Fusion](https://www.foodfusion.com/)|[Mirchi Tales](https://www.mirchitales.com/)|[Mostly Masala](https://mostlymasala.com/)|
-|[Pakistan Eats](https://www.pakistaneats.com/)|[Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)|[The Recipes PK](https://www.therecipespk.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Tea for Turmeric](https://www.teaforturmeric.com/)|
-|[Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)|[Zaiqa](https://www.zaiqa.com/)|
+|[Pakistan Eats](https://www.pakistaneats.com/)|[Pakistan Chef Recipes](http://www.pakistanichefrecipes.com/)|[Sabiha's Kitchen](https://sabihaskitchen.com/)|[Tea for Turmeric](https://www.teaforturmeric.com/)|[Untold Recipes by Nosheen](https://untoldrecipesbynosheen.com/)|
+|[Zaiqa](https://www.zaiqa.com/)|
 
 #### Palestine
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Almond and Fig](https://www.almondandfig.com/)|[Falasteeni Foodie](https://falasteenifoodie.com/)|[Palestine in a Dish](https://palestineinadish.com/)|[Welcome to Palestine](https://www.welcometopalestine.com/food/)|
 
-#### The Philippines
+#### The Philippines %%%%%%%%
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Aling Oday's Kitchen](https://alingodays.co.uk/)|[Amiable Foods](https://amiablefoods.com/)|[Amusing Maria](https://www.amusingmaria.com/)|[Ang Sarap](https://www.angsarap.net/)|[Any tots](https://anytots.com/category/recipes/)|
