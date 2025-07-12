@@ -442,29 +442,28 @@
 #### The Philippines 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Amiable Foods](https://amiablefoods.com/)|[Amusing Maria](https://www.amusingmaria.com/)|[Ang Sarap](https://www.angsarap.net/)|[Any tots](https://anytots.com/category/recipes/)|[Bertie Talimongan](https://bertietalimongan.wordpress.com/)|[Best of Ilocanos](http://best-of-ilocanos.blogspot.com/)|[Be With Mia](https://bewithmia.com/)|[Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)|[Chef Ron Bilaro](http://chefronbilaro.com/)|[Cooking With Kurt](https://www.cookingwithkurt.com/)|[Cooking With Peachy](https://www.cookingwithpeachy.com/wordpress/)|[The Cooking Pinay](http://thecookingpinay.com/)|[Dee Cuisine](https://www.deecuisine.com/)|[Easy to Make Meals](https://easytomakemeals.com/)|[Eat Like Pinoy](https://eatlikepinoy.com/)|[Filcan Bites](https://filcanbites.com/)|[Filipino Egg Rolls](https://filipinoeggrolls.com/)|
-
-|[Filipino Food Store](http://www.filipinofoodstore.com/recipes/)|[Filipino Recipes Lutong Pinoy](https://www.filipino-recipes-lutong-pinoy.com/)|[Flavours of Iloilo](https://flavoursofiloilo.blogspot.com/)|[Foodamn Philippines](https://www.foodamn.com/)|[Food Panda](https://www.foodpanda.ph/contents/recipes)|
+|[Amiable Foods](https://amiablefoods.com/)|[Amusing Maria](https://www.amusingmaria.com/)|[Ang Sarap](https://www.angsarap.net/)|[Any tots](https://anytots.com/category/recipes/)|[Bertie Talimongan](https://bertietalimongan.wordpress.com/)|
+|[Best of Ilocanos](http://best-of-ilocanos.blogspot.com/)|[Be With Mia](https://bewithmia.com/)|[Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)|[Chef Ron Bilaro](http://chefronbilaro.com/)|[Cooking With Kurt](https://www.cookingwithkurt.com/)|
+|[Cooking With Peachy](https://www.cookingwithpeachy.com/wordpress/)|[The Cooking Pinay](http://thecookingpinay.com/)|[Dee Cuisine](https://www.deecuisine.com/)|[Easy to Make Meals](https://easytomakemeals.com/)|[Eat Like Pinoy](https://eatlikepinoy.com/)|
+|[Filcan Bites](https://filcanbites.com/)|[Filipino Egg Rolls](https://filipinoeggrolls.com/)|[Flavours of Iloilo](https://flavoursofiloilo.blogspot.com/)|[Foodamn Philippines](https://www.foodamn.com/)|[Food Panda](https://www.foodpanda.ph/contents/recipes)|
 |[Food with Mae](http://www.foodwithmae.com/)|[Foxy Folksy](https://www.foxyfolksy.com/)|[Friend Cheap Menu](https://www.friendcheapmenu.com/)|[Happy Feets and Paws](https://www.happyfeetsandpaws.com/my-recipes-and-cooking/)|[Home Cooking with Nona Lema](http://nonalemacooking.blogspot.com/)|
 |[**Hot Crispy Oil**](https://hotcrispyoil.com/blogs/recipes)|[iankewks](https://iankewks.com/)|[Ilocana](https://isnabera.com/)|[Iloilo Food Trip](https://iloilofoodtrip.blogspot.com/)|[Inato Iang Filipino Cuisine](http://bisayajudkaayo.blogspot.com/)|
-|[In My Kitchen](http://geoliskitchen.blogspot.com/)|[Inuyaki](http://www.inuyaki.com/)|[It's Fork and Spoon](https://itsforkandspoon.com/)|[JeanellEats](https://jeanelleats.com/)|[JOZ Mahal](https://www.jozmahal.com/)|
-|[Junblog](http://blog.junbelen.com/)|[Kawaling Pinoy](https://www.kawalingpinoy.com/)|[Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)|[Lahat Sarap](https://lahatsarap.blogspot.com/)|[Lucky Mom 2009](https://luckymom2009.wordpress.com/)|
-|[**MAGGI Philippines**](https://www.maggi.ph/)|[Magluto](http://www.magluto.com/)|[Manila Spoon](https://www.manilaspoon.com/)|[Maputing Cooking](https://maputingcooking.com/)|[Maria Franco](https://www.maria-franco.com/search/label/Recipes)|
-|[The Modern Nanay](https://relaxlangmom.com/)|[The Not So Creative Cook](http://thenotsocreativecook.com/)|[The Odehlicious](https://theodehlicious.com/)|[Overseas Pinoy Cooking](https://www.overseaspinoycooking.net/)|[Pansalang Pinoy](https://panlasangpinoy.com/)|
-|[Pansalang Pinoy Meat Recipes](https://www.panlasangpinoymeatrecipes.com/)|[Pilipina's Recipes](https://pilipinasrecipes.com/)|[Pinay in Texas Cooking](http://www.pinaycookingcorner.com/)|[Ping Desserts](https://www.pingdesserts.com/)|[Pinoy Bites](https://pinoybites.com/)|
-|[Pinoy Easy Recipes](https://www.pinoyeasyrecipes.com/)|[Pinoy Food Recipes](https://pinoyfoodblog.com/)|[Pinoy Recipe](https://www.pinoyrecipe.net/)|[Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/)|[Piyaparan a Manok](https://piyaparanamanok.wordpress.com/)|
-|[Plant-Based Passport](https://plantbased-passport.com/)|[The Quirino Kitchen](https://thequirinokitchen.com/)|[Recipedia](https://www.recipedia.com/en-ph/)|[Recipes by Nora](https://www.recipesbynora.com/)|[Rezel Kealoha](https://rezelkealoha.com/)|
-|[River Ten Kitchen](https://www.rivertenkitchen.com/)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|[Sago Show](https://www.sagoshow.com/)|[Salu Salo](https://salu-salo.com/)|[Savor Filipino Food](https://savorfilipino.food.blog/)|
-|[**Seafood City**](https://www.seafoodcity.com/category/recipes/)|[Simply Bakings](https://simplybakings.com/)|[The Skinny Pot](https://theskinnypot.com/)|[**Ubeness**](https://ubeness.com/category/recipes/)|[The Unlikely Baker](https://theunlikelybaker.com/)|
-|[Usapang Foodtrip](https://usapangfoodtrip.com/)|[What to Eat PH](https://whattoeatph.com/category/what-to-cook/)|[Yummy Food](https://yummyfood.ph/)|[Yummy Kitchen TV](https://yummykitchentv.com/)|
+|[In My Kitchen](http://geoliskitchen.blogspot.com/)|[Inuyaki](http://www.inuyaki.com/)|[It's Fork and Spoon](https://itsforkandspoon.com/)|[JeanellEats](https://jeanelleats.com/)|[Junblog](http://blog.junbelen.com/)|
+|[Kawaling Pinoy](https://www.kawalingpinoy.com/)|[Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)|[Lahat Sarap](https://lahatsarap.blogspot.com/)|[Lucky Mom 2009](https://luckymom2009.wordpress.com/)|[**MAGGI Philippines**](https://www.maggi.ph/)|
+|[Magluto](http://www.magluto.com/)|[Manila Spoon](https://www.manilaspoon.com/)|[Maputing Cooking](https://maputingcooking.com/)|[Maria Franco](https://www.maria-franco.com/search/label/Recipes)|[The Modern Nanay](https://relaxlangmom.com/)|
+|[The Not So Creative Cook](http://thenotsocreativecook.com/)|[The Odehlicious](https://theodehlicious.com/)|[Overseas Pinoy Cooking](https://www.overseaspinoycooking.net/)|[Pansalang Pinoy](https://panlasangpinoy.com/)|[Pansalang Pinoy Meat Recipes](https://www.panlasangpinoymeatrecipes.com/)|
+|[Pilipina's Recipes](https://pilipinasrecipes.com/)|[Pinay in Texas Cooking](http://www.pinaycookingcorner.com/)|[Ping Desserts](https://www.pingdesserts.com/)|[Pinoy Bites](https://pinoybites.com/)|[Pinoy Food Recipes](https://pinoyfoodblog.com/)|
+|[Pinoy Recipe](https://www.pinoyrecipe.net/)|[Pinoy Yum Meals](http://pinoyyummeals.blogspot.com/)|[Piyaparan a Manok](https://piyaparanamanok.wordpress.com/)|[The Quirino Kitchen](https://thequirinokitchen.com/)|[Recipedia](https://www.recipedia.com/en-ph/)|
+|[Recipes by Nora](https://www.recipesbynora.com/)|[Rezel Kealoha](https://rezelkealoha.com/)|[River Ten Kitchen](https://www.rivertenkitchen.com/)|[Russian Filipino Kitchen](http://www.russianfilipinokitchen.com/)|[Sago Show](https://www.sagoshow.com/)|
+|[Salu Salo](https://salu-salo.com/)|[Savor Filipino Food](https://savorfilipino.food.blog/)|[Simply Bakings](https://simplybakings.com/)|[The Skinny Pot](https://theskinnypot.com/)|[**Ubeness**](https://ubeness.com/category/recipes/)|
+|[The Unlikely Baker](https://theunlikelybaker.com/)|[Usapang Foodtrip](https://usapangfoodtrip.com/)|[Yummy Food](https://yummyfood.ph/)|[Yummy Kitchen TV](https://yummykitchentv.com/)|
 
 #### Singapore
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Anncoo Journal](https://www.anncoojournal.com/)|[Carry It Like Harry](https://carryitlikeharry.com/)|[Eat What Tonight](https://eatwhattonight.com/)|[Eat with Tom](https://eatwithtom.com/)|[Feast to the World](http://www.feasttotheworld.com/)|
-|[Homemade Singapore Food Recipe](https://www.comp.nus.edu.sg/~e0260255/index.html)|[I Eat, I Shoot, I Post](https://ieatishootipost.sg/category/cook/)|[The MeatMen](https://themeatmen.sg/all-recipes/)|[My Singapore Food](http://mysingaporefood.com/)|[Nomadette](http://nomadette.com/)|
-|[**Sadia**](https://www.sadia.sg/recipes)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|[Singapore Best Food Blogs](https://www.aspirantsg.com/top-food-blogger-singapore-best-food-blogs/?amp)|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|[Singapore Food](https://singaporelocalfavourites.com/)|
-|[Singapore Noodles](https://www.sgpnoodles.com/freerecipes)|[Tummy Troll](https://tummytroll.wordpress.com/)|
+|[Anncoo Journal](https://www.anncoojournal.com/)|[Carry It Like Harry](https://carryitlikeharry.com/)|[Eat What Tonight](https://eatwhattonight.com/)|[Eat with Tom](https://eatwithtom.com/)|[I Eat, I Shoot, I Post](https://ieatishootipost.sg/category/cook/)|
+|[My Singapore Food](http://mysingaporefood.com/)|[Nomadette](http://nomadette.com/)|[**Sadia**](https://www.sadia.sg/recipes)|[Singaporean-Malaysian Recipes](https://www.singaporeanmalaysianrecipes.com/)|[Singapore Best Food Blogs](https://www.aspirantsg.com/top-food-blogger-singapore-best-food-blogs/?amp)|
+|[Singapore Chettinad Recipes](http://singaporechettinadrecipes.blogspot.com/)|[Singapore Food](https://singaporelocalfavourites.com/)|[Tummy Troll](https://tummytroll.wordpress.com/)|
 
 #### South Korea
 |     |     |     |     |     |
@@ -479,7 +478,7 @@
 |[OMG Yummy](https://omgyummy.com/)|[Rachee Rach Heats](http://racheerachheats.blogspot.com/)|[Seasoned By Jin](https://seasonedbyjin.com/)|[Seonkyoung Longest](https://seonkyounglongest.com/)|[Stella n' Spice](https://stellanspice.com/)|
 |[**Taehwa Food**](http://www.taehwafood.com/en/kong/recipe/)|[TeeKeatz](https://teekeatz.com/)|[Two Red Bowls](https://tworedbowls.com/)|[We Love You](https://weloveyou.com/recipes/)|[Zen Kimchi](https://zenkimchi.com/)|
 
-#### Sri Lanka
+#### Sri Lanka %%%%
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[The Hungry Lankan](https://www.hungrylankan.com/)|[Island Smile](https://www.islandsmile.org/)|[Peckish Me](https://www.peckishme.com/)|[The Perfect Curry](https://theperfectcurry.com/)|[Savory Spin](https://savoryspin.com/)|
