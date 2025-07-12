@@ -439,13 +439,11 @@
 | --- | --- | --- | --- |
 |[Almond and Fig](https://www.almondandfig.com/)|[Falasteeni Foodie](https://falasteenifoodie.com/)|[Palestine in a Dish](https://palestineinadish.com/)|[Welcome to Palestine](https://www.welcometopalestine.com/food/)|
 
-#### The Philippines %%%%%%%%
+#### The Philippines 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Aling Oday's Kitchen](https://alingodays.co.uk/)|[Amiable Foods](https://amiablefoods.com/)|[Amusing Maria](https://www.amusingmaria.com/)|[Ang Sarap](https://www.angsarap.net/)|[Any tots](https://anytots.com/category/recipes/)|
-|[Atbp.ph](https://www.atbp.ph/)|[Authentic Filipino Recipes](https://authenticfilipinorecipes.com/)|[Bertie Talimongan](https://bertietalimongan.wordpress.com/)|[Best of Ilocanos](http://best-of-ilocanos.blogspot.com/)|[Be With Mia](https://bewithmia.com/)|
-|[Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)|[Chef Ron Bilaro](http://chefronbilaro.com/)|[Cooking With Kurt](https://www.cookingwithkurt.com/)|[Cooking With Peachy](https://www.cookingwithpeachy.com/wordpress/)|[The Cooking Pinay](http://thecookingpinay.com/)|
-|[Dee Cuisine](https://www.deecuisine.com/)|[Easy to Make Meals](https://easytomakemeals.com/)|[Eat Like Pinoy](https://eatlikepinoy.com/)|[Filcan Bites](https://filcanbites.com/)|[Filipino Egg Rolls](https://filipinoeggrolls.com/)|
+|[Amiable Foods](https://amiablefoods.com/)|[Amusing Maria](https://www.amusingmaria.com/)|[Ang Sarap](https://www.angsarap.net/)|[Any tots](https://anytots.com/category/recipes/)|[Bertie Talimongan](https://bertietalimongan.wordpress.com/)|[Best of Ilocanos](http://best-of-ilocanos.blogspot.com/)|[Be With Mia](https://bewithmia.com/)|[Casa Baluarte](https://www.casabaluartefilipinorecipes.com/)|[Chef Ron Bilaro](http://chefronbilaro.com/)|[Cooking With Kurt](https://www.cookingwithkurt.com/)|[Cooking With Peachy](https://www.cookingwithpeachy.com/wordpress/)|[The Cooking Pinay](http://thecookingpinay.com/)|[Dee Cuisine](https://www.deecuisine.com/)|[Easy to Make Meals](https://easytomakemeals.com/)|[Eat Like Pinoy](https://eatlikepinoy.com/)|[Filcan Bites](https://filcanbites.com/)|[Filipino Egg Rolls](https://filipinoeggrolls.com/)|
+
 |[Filipino Food Store](http://www.filipinofoodstore.com/recipes/)|[Filipino Recipes Lutong Pinoy](https://www.filipino-recipes-lutong-pinoy.com/)|[Flavours of Iloilo](https://flavoursofiloilo.blogspot.com/)|[Foodamn Philippines](https://www.foodamn.com/)|[Food Panda](https://www.foodpanda.ph/contents/recipes)|
 |[Food with Mae](http://www.foodwithmae.com/)|[Foxy Folksy](https://www.foxyfolksy.com/)|[Friend Cheap Menu](https://www.friendcheapmenu.com/)|[Happy Feets and Paws](https://www.happyfeetsandpaws.com/my-recipes-and-cooking/)|[Home Cooking with Nona Lema](http://nonalemacooking.blogspot.com/)|
 |[**Hot Crispy Oil**](https://hotcrispyoil.com/blogs/recipes)|[iankewks](https://iankewks.com/)|[Ilocana](https://isnabera.com/)|[Iloilo Food Trip](https://iloilofoodtrip.blogspot.com/)|[Inato Iang Filipino Cuisine](http://bisayajudkaayo.blogspot.com/)|
