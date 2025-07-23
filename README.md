@@ -576,15 +576,10 @@
 |[**Indo-European Foods Inc.**](https://www.indo-euro.com/recipes/)|[ISAC Pittsburgh](https://isacpittsburgh.org/category/europe-recipes/)|[Peter Sommer](https://www.petersommer.com/blog/category/food)|[Recipes from Europe](https://www.recipesfromeurope.com/)|[St. Christophers](https://www.st-christophers.co.uk/travel-blog/easy-european-dishes-to-cook-at-home/)|
 |[Sunday Baker](https://sundaybaker.co/)|
 
-#### Albania %%%
+#### Albania 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)|[Mimi's Recipes](https://www.mimisrecipes.com/)|[My Albanian Food](https://www.myalbanianfood.com/)|[Uprooted Abroad](https://uprootedabroad.wordpress.com/tag/recipe/)|
-
-#### Andorra
-|     |
-| --- |
-|[Visit Andorra](https://visitandorra.com/en/indigenous-products/andorran-recipes/)|
 
 #### Austria
 |     |     |
@@ -596,9 +591,9 @@
 |[Steirische Spezialitaeten](https://www.steirische-spezialitaeten.at/en/)|
 
 #### Balkans
-|     |     |     |     |
-| --- | --- | --- | --- |
-|[The Balkan Foodie](https://www.thebalkanfoodie.com/)|[The Balkan Hostess](https://thebalkanhostess.com/)|[Balkan Lunchbox](https://balkanlunchbox.com/)|[Balkan Recipes](https://balkanrecipes.com/)|
+|     |     |     |
+| --- | --- | --- |
+|[The Balkan Hostess](https://thebalkanhostess.com/)|[Balkan Lunchbox](https://balkanlunchbox.com/)|[Balkan Recipes](https://balkanrecipes.com/)|
 
 #### Basque Region
 |     |     |
@@ -620,7 +615,7 @@
 | --- | --- |
 |[Cyprus Island](https://www.cyprusisland.net/cyprus-cuisine)|[My Cypriot Life](https://mycypriotlife.wordpress.com/)|
 
-#### Czech Republic
+#### Czech Republic %%%%
 |     |     |     |
 | --- | --- | --- |
 |[Czech Cookbook](https://www.czechcookbook.com/)|[Cook Like Czechs](https://www.cooklikeczechs.com/)|[Very Good Cook](https://verygoodcook.com/)|
