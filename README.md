@@ -478,11 +478,10 @@
 |[OMG Yummy](https://omgyummy.com/)|[Rachee Rach Heats](http://racheerachheats.blogspot.com/)|[Seasoned By Jin](https://seasonedbyjin.com/)|[Seonkyoung Longest](https://seonkyounglongest.com/)|[Stella n' Spice](https://stellanspice.com/)|
 |[**Taehwa Food**](http://www.taehwafood.com/en/kong/recipe/)|[TeeKeatz](https://teekeatz.com/)|[Two Red Bowls](https://tworedbowls.com/)|[We Love You](https://weloveyou.com/recipes/)|[Zen Kimchi](https://zenkimchi.com/)|
 
-#### Sri Lanka %%%%
+#### Sri Lanka 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[The Hungry Lankan](https://www.hungrylankan.com/)|[Island Smile](https://www.islandsmile.org/)|[Peckish Me](https://www.peckishme.com/)|[The Perfect Curry](https://theperfectcurry.com/)|[Savory Spin](https://savoryspin.com/)|
-|[Top Sri Lankan Recipe](https://www.topsrilankanrecipe.com/)|
+|[The Hungry Lankan](https://www.hungrylankan.com/)|[Island Smile](https://www.islandsmile.org/)|[The Perfect Curry](https://theperfectcurry.com/)|[Savory Spin](https://savoryspin.com/)|[Top Sri Lankan Recipe](https://www.topsrilankanrecipe.com/)|
 
 #### Syria
 |     |
@@ -493,7 +492,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Angel Wong's Kitchen](https://www.angelwongskitchen.com/)|[Baking Taitai](https://www.bakingtaitai.com/)|[Che Jorge](https://chejorge.com/)|[Cooking Chinglish](https://cookinginchinglish.com/)|[It's My Dish](https://itsmydish.com/)|
-|[Kung Fu Mama](https://www.kungfumama.co.uk/)|[Oh Snap Let's Eat](https://ohsnapletseat.com/)|[Uncle Bill's Kitchen](https://unclebillskitchen.com/category/recipes/)|
+|[Kung Fu Mama](https://www.kungfumama.co.uk/)|[Oh Snap Let's Eat](https://ohsnapletseat.com/)|
 
 #### Thailand
 |     |     |     |     |     |
@@ -503,8 +502,8 @@
 |[Messy Vegan Cook](https://www.messyvegancook.com/)|[Pranee's Thai Kitchen](https://praneesthaikitchen.com/)|[Rachel Cooks Thai](https://rachelcooksthai.com/)|[Real Thai Recipes](https://www.realthairecipes.com/)|[**Rosa's Thai**](https://rosasthai.com/recipes)|
 |[**Sabai**](https://www.thaispa.ca/blog/categories/recipes)|[She Simmers](https://shesimmers.com/)|[Siamese Comfort Club](https://siamesecomfortclub.com/)|[Simply Suwanee](https://www.simplysuwanee.com/)|[Taste of Siam](https://taste-of-siam.blogspot.com/)|
 |[**A Taste of Thai**](https://atasteofthai.com/)|[Tasty Thais](https://www.tastythais.com/)|[Temple of Thai](https://www.templeofthai.com/)|[Thai Caliente](https://thaicaliente.com/)|[Thai Coconut](https://www.thaicoconut.com/recipes)|
-|[Thai Cookbook](https://www.thaicookbook.tv/)|[Thaiest](https://thaiest.com/thai-food/recipes)|[Thai Food and Travel](http://www.thaifoodandtravel.com/recipe.html)|[Thai Food Heritage](http://www.thaifoodheritage.com/en/recipe_category)|[Thai Foodie](https://thai-foodie.com/)|
-|[**Thai Food Online**](https://www.thai-food-online.co.uk/)|[**Thai Kitchen** (Canada)](https://www.clubhouse.ca/en-ca/thai-kitchen/recipes)|[**Thai Kitchen** (USA)](https://www.mccormick.com/thai-kitchen/recipes)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|[**Yai's Thai**](https://www.yaisthai.com/blogs/recipes)|
+|[Thai Cookbook](https://www.thaicookbook.tv/)|[Thaiest](https://thaiest.com/thai-food/recipes)|[Thai Food and Travel](http://www.thaifoodandtravel.com/recipe.html)|[Thai Foodie](https://thai-foodie.com/)|[**Thai Food Online**](https://www.thai-food-online.co.uk/)|
+|[**Thai Kitchen** (Canada)](https://www.clubhouse.ca/en-ca/thai-kitchen/recipes)|[**Thai Kitchen** (USA)](https://www.mccormick.com/thai-kitchen/recipes)|[Thailand 1 Dollar Meals](https://thailand1dollarmeals.com/)|
 
 #### Tibet
 |     |
@@ -514,10 +513,10 @@
 #### Turkey
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[AZ Cookbook](https://azcookbook.com/)|[Give Recipe](https://www.giverecipe.com/)|[My Home Diary in Turkey](https://myhomediaryinturkey.blogspot.com/)|[Ozlem's Turkish Table](https://ozlemsturkishtable.com/recipes/)|[Turkish Food Chef](https://turkishfoodchef.com/)|
-|[Turkish Food Travel](https://www.turkishfoodtravel.com/)|[Turkish Style Cooking](https://turkishstylecooking.com/)|[Vidar Bergum](https://vidarbergum.com/all-recipes/)|[When Feta Met Olive](https://whenfetametolive.com/)|
+|[Give Recipe](https://www.giverecipe.com/)|[My Home Diary in Turkey](https://myhomediaryinturkey.blogspot.com/)|[Ozlem's Turkish Table](https://ozlemsturkishtable.com/recipes/)|[Turkish Food Travel](https://www.turkishfoodtravel.com/)|[Turkish Style Cooking](https://turkishstylecooking.com/)|
+|[Vidar Bergum](https://vidarbergum.com/all-recipes/)|
 
-#### United Arab Emirates
+#### United Arab Emirates %%%%
 |     |
 | --- |
 |[The Big Sweet Tooth](https://www.thebigsweettooth.com/)|
