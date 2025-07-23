@@ -615,7 +615,7 @@
 | --- | --- |
 |[Cyprus Island](https://www.cyprusisland.net/cyprus-cuisine)|[My Cypriot Life](https://mycypriotlife.wordpress.com/)|
 
-#### Czech Republic %%%%
+#### Czech Republic
 |     |     |     |
 | --- | --- | --- |
 |[Czech Cookbook](https://www.czechcookbook.com/)|[Cook Like Czechs](https://www.cooklikeczechs.com/)|[Very Good Cook](https://verygoodcook.com/)|
@@ -655,7 +655,7 @@
 | --- |
 |[Provence](https://perfectlyprovence.co/category/food-drink-provence/provencal-recipes/)|
 
-#### Germany
+#### Germany %%%
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[All Tastes German](https://alltastesgerman.com/)|[Diary of a Mad Hausfrau](https://diaryofamadhausfrau.com/)|[Dirndl Kitchen](https://dirndlkitchen.com/)|[German Food Guide](http://www.germanfoodguide.com/cooking.cfm)|[German Foods](https://germanfoods.org/)|
