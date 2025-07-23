@@ -568,15 +568,15 @@
 | --- |
 |[Nicagaruan Recipes](https://nicaraguanrecipes.com/)|
 
-### Europe %%%%%
+### Europe 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Angie's Eurasian Kitchen](https://www.angieseurasiankitchen.com/)|[Angie's Web](https://angiesweb.com/category/recipes/)|[By Lena](https://www.bylena.com/)|[Eating European](https://eatingeuropean.com/)|[Euro Rich](https://eurorich.ph/blogs/easy-european-recipes)|
 |[The European Dish](https://theeuropeandish.com/)|[European Kitchen](https://europeankitchen.org/)|[The European Pantry](https://theeuropeanpantry.com/)|[European Pork](https://eupork.com/recipes/)|[Frigot Europe](https://fricoteurope.wordpress.com/)|
 |[**Indo-European Foods Inc.**](https://www.indo-euro.com/recipes/)|[ISAC Pittsburgh](https://isacpittsburgh.org/category/europe-recipes/)|[Peter Sommer](https://www.petersommer.com/blog/category/food)|[Recipes from Europe](https://www.recipesfromeurope.com/)|[St. Christophers](https://www.st-christophers.co.uk/travel-blog/easy-european-dishes-to-cook-at-home/)|
-|[Sunday Baker](https://sundaybaker.co/)|[YEN JEV](http://www.yeni.org/minority-cook-blog/)|
+|[Sunday Baker](https://sundaybaker.co/)|
 
-#### Albania
+#### Albania %%%
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)|[Mimi's Recipes](https://www.mimisrecipes.com/)|[My Albanian Food](https://www.myalbanianfood.com/)|[Uprooted Abroad](https://uprootedabroad.wordpress.com/tag/recipe/)|
