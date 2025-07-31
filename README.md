@@ -671,8 +671,15 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[30 Days of Greek Food](https://30daysofgreekfood.com/)|[776 Deluxe](https://776deluxe.com/recipes/)|[California Greek Girl](https://www.californiagreekgirl.com/)|[Cook Like a Greek Blog](https://cooklikeagreekblog.com/)|[Cucina Caruso](https://cucinacaruso.com/)|
-%%%%%
-|[Diane Kochilas](https://www.dianekochilas.com/)|[Dimitra's Dishes](https://www.dimitrasdishes.com/)|[Eleni Saltas](https://elenisaltas.com/)|[Foood Love](https://www.fooodlove.com/)|[Greece High Definition](https://www.greecehighdefinition.com/recipes)|[The Greek Chef](https://thegreekchef.us/recipes/)|[Greek City Times](https://greekcitytimes.com/greek-lifestyle-and-events-from-around-the-world/recipes/)|[Greek Cooking Sisters](https://greeksisters.com/)|[Greeker Than Greeks](https://greekerthanthegreeks.com/category/greek-cuisine)|[Greek Food Alchemist](https://greekfoodalchemist.com/)|[Greek Goes Keto](https://www.greekgoesketo.com/)|[The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)|[The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)|[Greek Reporter](https://greekreporter.com/greek-food/)|[The Greek Vegan](https://thegreekvegan.com/)|[Heart Healthy Greek](https://www.hearthealthygreek.com/)|[The Hellenic Odyssey](https://www.thehellenicodyssey.com/)|[iCookGreek](https://en.icookgreek.com/)|[Irini Cooks](https://irinicooks.com/)|[Kali Orexi](https://www.kali-orexi.com.au/)|[Kalofagas](https://www.kalofagas.ca/category/recipes/)|[Kardamas](https://www.kardamas.com/blog/)|[Katerina Kouzina](https://katerinaskouzina.com/)|[Kopiaste](https://www.kopiaste.org/)|[**Kourellas**](https://kourellas.com/recipes/)|[Kytherian Association](https://www.kytherianassociation.com.au/subcommittees/kitchen_recipes.html)|[Lemon & Olives](https://www.lemonandolives.com/)|[Maria Dernikos](https://mariadernikos.com/)|[Marilena's Kitchen](https://www.marilenaskitchen.com/)|[Me To Mati](https://www.metomati.com/)|[Mia Kouppa](https://miakouppa.com/)|[Mostly Greek](https://mostly-greek.com/)|[My Family's Food Diary](https://myfamilysfooddiary.com/)|[My Greek Dish](https://www.mygreekdish.com/)|[My Greek Salad](https://www.mygreeksalad.com/)|[My Horio](https://myhorio.com/)|[The Olive and the Sea](https://theoliveandthesea.com/)|[OMG Food](https://omgfood.com/)|[The Rado Table](https://theradotable.com/)|[Real Greek Recipes](https://www.realgreekrecipes.com/)|[Socratic Food](http://socraticfood.com/)|[Souvlaki for the Soul](https://souvlakiforthesoul.com/)|[Sweet Greek](https://mysweetgreek.com/recipe-index/)|[Sympossio](https://www.sympossio.gr/recipes-2/)|[Vicki's Greek Recipes](https://www.vickisgreekrecipes.com/)|[Zorba Book](https://www.zorbabook.com/recipe-home)|
+|[Diane Kochilas](https://www.dianekochilas.com/)|[Dimitra's Dishes](https://www.dimitrasdishes.com/)|[Eleni Saltas](https://elenisaltas.com/)|[Foood Love](https://www.fooodlove.com/)|[Greece High Definition](https://www.greecehighdefinition.com/recipes)|
+|[The Greek Chef](https://thegreekchef.us/recipes/)|[Greek City Times](https://greekcitytimes.com/greek-lifestyle-and-events-from-around-the-world/recipes/)|[Greek Cooking Sisters](https://greeksisters.com/)|[Greeker Than Greeks](https://greekerthanthegreeks.com/category/greek-cuisine)|[Greek Food Alchemist](https://greekfoodalchemist.com/)|
+|[Greek Goes Keto](https://www.greekgoesketo.com/)|[The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)|[The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)|[Greek Reporter](https://greekreporter.com/greek-food/)|[The Greek Vegan](https://thegreekvegan.com/)|
+|[Heart Healthy Greek](https://www.hearthealthygreek.com/)|[The Hellenic Odyssey](https://www.thehellenicodyssey.com/)|[iCookGreek](https://en.icookgreek.com/)|[Irini Cooks](https://irinicooks.com/)|[Kali Orexi](https://www.kali-orexi.com.au/)|
+|[Kalofagas](https://www.kalofagas.ca/category/recipes/)|[Kardamas](https://www.kardamas.com/blog/)|[Katerina Kouzina](https://katerinaskouzina.com/)|[Kopiaste](https://www.kopiaste.org/)|[**Kourellas**](https://kourellas.com/recipes/)|
+|[Kytherian Association](https://www.kytherianassociation.com.au/subcommittees/kitchen_recipes.html)|[Lemon & Olives](https://www.lemonandolives.com/)|[Maria Dernikos](https://mariadernikos.com/)|[Marilena's Kitchen](https://www.marilenaskitchen.com/)|[Mia Kouppa](https://miakouppa.com/)|
+|[Mostly Greek](https://mostly-greek.com/)|[My Family's Food Diary](https://myfamilysfooddiary.com/)|[My Greek Dish](https://www.mygreekdish.com/)|[My Greek Salad](https://www.mygreeksalad.com/)|[My Horio](https://myhorio.com/)|
+|[The Olive and the Sea](https://theoliveandthesea.com/)|[OMG Food](https://omgfood.com/)|[The Rado Table](https://theradotable.com/)|[Real Greek Recipes](https://www.realgreekrecipes.com/)|[Socratic Food](http://socraticfood.com/)|
+|[Souvlaki for the Soul](https://souvlakiforthesoul.com/)|[Sweet Greek](https://mysweetgreek.com/recipe-index/)|[Sympossio](https://www.sympossio.gr/recipes-2/)|[Zorba Book](https://www.zorbabook.com/recipe-home)|
 - ##### Crete
 |     |
 | --- |
@@ -694,9 +701,9 @@
 |     |
 | --- |
 |[Bord Bia](https://www.bordbia.ie/)|[Ireland Calling](https://ireland-calling.com/irish-recipes/)|[Irish American Mom](https://www.irishamericanmom.com/)|[Irish Central](https://www.irishcentral.com/culture/food-drink/)|[Real Irish Desserts](https://realirishdesserts.com/)|
-|[Tommy Moloney's](https://www.tommymoloneys.com/recipes/)|
+|[Tommy Moloney's](https://tommymoloneys.com/blogs/recipes)|
 
-#### Italy
+#### Italy %%%%
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Aldo Zilli](https://aldozilli.com/recipes)|[Alessandra's Food is Love](https://alessandrasfoodislove.com/)|[All Our Way](https://allourway.com/)|[A Modo Mio](https://a-modo-mio.com/)|[Anna Maria Volpi](http://www.annamariavolpi.com/public_html/)|
