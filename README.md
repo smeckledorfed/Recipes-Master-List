@@ -2975,16 +2975,15 @@
 | Y   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Yang's Nourishing Kitchen](https://www.yangsnourishingkitchen.com/)|[Yawesome](https://yawesome.com/category/recipe)|[Yay For Food](https://www.yayforfood.com/)|[A Year Cooking the World](https://ayearcookingtheworld.com/)|[Yeji's Kitchen Stories](https://yejiskitchenstories.com/)|
-|[Yellow Bliss Road](https://www.yellowblissroad.com/)|[The Yellow Table](https://www.theyellowtable.com/)|[Yellow Thyme](https://www.yellowthyme.com/)|[YesterKitchen](https://yesterkitchen.com/)|[Yes to Yolks](https://yestoyolks.com/)|
-|[Yey Food](https://yeyfood.com/)|[You Queen](https://youqueen.com/food/)|[Your Home-Based Mom](https://www.yourhomebasedmom.com/)|[Yumecipe](https://www.yumecipe.com/)|[Yummy Addiction](https://yummyaddiction.com/)|
-|[The Yummy Delights](https://theyummydelights.com/)|[Yummy Globe](https://www.yummyglobe.com/)|[Yummy Healthy Easy](https://www.yummyhealthyeasy.com/)|[Yummy Notes](https://yummynotes.net/)|[Yummy Toddler Food](https://www.yummytoddlerfood.com/)|
-|[Yumsome](https://www.yumsome.com/)|[The Yum Yum Club](https://theyumyumclub.com/)|[Yuzu Bakes](https://www.yuzubakes.com/)|
+|[Yellow Bliss Road](https://www.yellowblissroad.com/)|[The Yellow Table](https://www.theyellowtable.com/)|[Yellow Thyme](https://www.yellowthyme.com/)|[Yes to Yolks](https://yestoyolks.com/)|[Yey Food](https://yeyfood.com/)|
+|[You Queen](https://youqueen.com/food/)|[Your Home-Based Mom](https://www.yourhomebasedmom.com/)|[Yumecipe](https://www.yumecipe.com/)|[Yummy Addiction](https://yummyaddiction.com/)|[The Yummy Delights](https://theyummydelights.com/)|
+|[Yummy Globe](https://www.yummyglobe.com/)|[Yummy Healthy Easy](https://www.yummyhealthyeasy.com/)|[Yummy Notes](https://yummynotes.net/)|[Yummy Toddler Food](https://www.yummytoddlerfood.com/)|[Yumsome](https://www.yumsome.com/)|
+|[The Yum Yum Club](https://theyumyumclub.com/)|[Yuzu Bakes](https://www.yuzubakes.com/)|
 
 | Z   |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Zag Left](https://zagleft.com/)|[Zars Kitchen](https://zarskitchen.com/)|[Zenbelly](https://www.zenbelly.com/)|[Zen Can Cook](http://www.zencancook.com/)|[Zenhealth](https://zenhealth.net/recipe-index/)|
-|[Zestful Kitchen](https://zestfulkitchen.com/)|[Zestuous](https://www.zestuous.com/)|[Z Fooding](http://zfooding.blogspot.com/)|[Zona Cooks](https://zonacooks.com/)|[Zonya](https://zonya.com/recipes/)|
-|[Zuranaz Recipe](https://zuranazrecipe.com/)|
+|[Zag Left](https://zagleft.com/)|[Zars Kitchen](https://zarskitchen.com/)|[Zenbelly](https://www.zenbelly.com/)|[Zenhealth](https://zenhealth.net/recipe-index/)|[Zestful Kitchen](https://zestfulkitchen.com/)|
+|[Zestuous](https://www.zestuous.com/)|[Z Fooding](http://zfooding.blogspot.com/)|[Zona Cooks](https://zonacooks.com/)|[Zonya](https://zonya.com/recipes/)|[Zuranaz Recipe](https://zuranazrecipe.com/)|
 
 ### Brand
 |     |     |     |     |     |
