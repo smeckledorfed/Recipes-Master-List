@@ -2943,8 +2943,8 @@
 | V   |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Valentina's Corner](https://valentinascorner.com/)|[Valerie Bertinelli](https://www.valeriebertinelli.com/recipes/)|[Valya's Taste of Home](https://www.valyastasteofhome.com/)|[Venturists](https://www.venturists.net/international-recipes/)|[Veronika's Kitchen](https://veronikaskitchen.com/)|
-|[The View from Great Island](https://theviewfromgreatisland.com/)|[Vikalinka](https://vikalinka.com/)|[Vini's Cookbook](https://www.viniscookbook.com/)|[Vintage Kitchen Vixen](https://vintagekitchenvixen.com/category/recipes/)|[Vintage Kitty](https://vintagekitty.com/)|
-|[The Vintage Mixer](https://www.thevintagemixer.com/)|[Virtuous Bread](https://www.virtuousbread.com/30-a-week/recipes/)|[VJ Cooks](https://vjcooks.com/)|[V-ZUG](https://lifestyle.vzug.com/en/rezepte/)|
+|[The View from Great Island](https://theviewfromgreatisland.com/)|[Vikalinka](https://vikalinka.com/)|[Vintage Kitchen Vixen](https://vintagekitchenvixen.com/category/recipes/)|[Vintage Kitty](https://vintagekitty.com/)|[The Vintage Mixer](https://www.thevintagemixer.com/)|
+|[Virtuous Bread](https://www.virtuousbread.com/30-a-week/recipes/)|[VJ Cooks](https://vjcooks.com/)|[V-ZUG](https://lifestyle.vzug.com/en/rezepte/)|
 
 | W   |     |     |     |     |
 | --- | --- | --- | --- | --- |
