@@ -2814,8 +2814,7 @@
 
 | Q   |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Queenslee Appetit](https://www.queensleeappetit.com/)|[Quench Magazine](https://quench.me/recipes/)|[Quest Serendipity](https://www.questserendipity.com/)|[The Quirk and the Cool](https://thequirkandthecool.com/)|[Quisine Queen B.](https://quisinequeenb.com/)|
-|[The Quicker Kitchen](https://thequickerkitchen.com/)|
+|[Queenslee Appetit](https://www.queensleeappetit.com/)|[Quench Magazine](https://quench.me/recipes/)|[The Quirk and the Cool](https://thequirkandthecool.com/)|[Quisine Queen B.](https://quisinequeenb.com/)|[The Quicker Kitchen](https://thequickerkitchen.com/)|
 
 | R   |     |     |     |     |
 | --- | --- | --- | --- | --- |
