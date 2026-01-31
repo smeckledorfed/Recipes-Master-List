@@ -673,7 +673,7 @@
 |[30 Days of Greek Food](https://30daysofgreekfood.com/)|[776 Deluxe](https://776deluxe.com/recipes/)|[California Greek Girl](https://www.californiagreekgirl.com/)|[Cook Like a Greek Blog](https://cooklikeagreekblog.com/)|[Cucina Caruso](https://cucinacaruso.com/)|
 |[Diane Kochilas](https://www.dianekochilas.com/)|[Dimitra's Dishes](https://www.dimitrasdishes.com/)|[Eleni Saltas](https://elenisaltas.com/)|[Foood Love](https://www.fooodlove.com/)|[Greece High Definition](https://www.greecehighdefinition.com/recipes)|
 |[The Greek Chef](https://thegreekchef.us/recipes/)|[Greek City Times](https://greekcitytimes.com/greek-lifestyle-and-events-from-around-the-world/recipes/)|[Greek Cooking Sisters](https://greeksisters.com/)|[Greeker Than Greeks](https://greekerthanthegreeks.com/category/greek-cuisine)|[Greek Food Alchemist](https://greekfoodalchemist.com/)|
-|[Greek Goes Keto](https://www.greekgoesketo.com/)|[The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)|[The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)|[Greek Reporter](https://greekreporter.com/greek-food/)|[The Greek Vegan](https://thegreekvegan.com/)|
+|[Greek Goes Keto](https://www.greekgoesketo.com/)|[The Greek Herald](https://greekherald.com.au/category/lifestyle/food-lifestyle/)|[The Greekish Life](https://www.thegreekishlife.com/eat-and-drink)|[Greek Reporter](https://greekreporter.com/greek-food/)|
 |[Heart Healthy Greek](https://www.hearthealthygreek.com/)|[The Hellenic Odyssey](https://www.thehellenicodyssey.com/)|[iCookGreek](https://en.icookgreek.com/)|[Irini Cooks](https://irinicooks.com/)|[Kali Orexi](https://www.kali-orexi.com.au/)|
 |[Kalofagas](https://www.kalofagas.ca/category/recipes/)|[Kardamas](https://www.kardamas.com/blog/)|[Katerina Kouzina](https://katerinaskouzina.com/)|[Kopiaste](https://www.kopiaste.org/)|[**Kourellas**](https://kourellas.com/recipes/)|
 |[Kytherian Association](https://www.kytherianassociation.com.au/subcommittees/kitchen_recipes.html)|[Lemon & Olives](https://www.lemonandolives.com/)|[Maria Dernikos](https://mariadernikos.com/)|[Marilena's Kitchen](https://www.marilenaskitchen.com/)|[Mia Kouppa](https://miakouppa.com/)|
@@ -703,11 +703,11 @@
 |[Bord Bia](https://www.bordbia.ie/)|[Ireland Calling](https://ireland-calling.com/irish-recipes/)|[Irish American Mom](https://www.irishamericanmom.com/)|[Irish Central](https://www.irishcentral.com/culture/food-drink/)|[Real Irish Desserts](https://realirishdesserts.com/)|
 |[Tommy Moloney's](https://tommymoloneys.com/blogs/recipes)|
 
-#### Italy %%%%
+#### Italy 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Aldo Zilli](https://aldozilli.com/recipes)|[Alessandra's Food is Love](https://alessandrasfoodislove.com/)|[All Our Way](https://allourway.com/)|[A Modo Mio](https://a-modo-mio.com/)|[Anna Maria Volpi](http://www.annamariavolpi.com/public_html/)|
-|[Bell 'Alimento](https://bellalimento.com/)|[The Bella Vita](https://www.the-bella-vita.com/)|[Biancolievito](https://biancolievito.com/)|[**Bottega di Calabria**](https://www.bottegadicalabria.com/blog/recipes)|[Cafe Osharak](https://www.osharak.com/)|
+|[Bell 'Alimento](https://bellalimento.com/)|[The Bella Vita](https://www.the-bella-vita.com/)|[Cafe Osharak](https://www.osharak.com/)|
 |[Cerise Cherie](https://rebeccasherrow.com/)|[Chef Bikeski](https://www.chefbikeski.com/)|[The Chiappas](https://thechiappas.com/)|[Ciao Bella Kitchen](https://ciaobellakitchen.com/)|[Ciao Chow Bambina](https://ciaochowbambina.com/)|
 |[Ciao Florentina](https://ciaoflorentina.com/)|[Ciao Italia](https://www.ciaoitalia.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Coley Cooks](https://coleycooks.com/)|[Cookies from Italy](https://cookiesfromitaly.com/recipes.htm)|
 |[Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Cooking With Manuela](https://www.cookingwithmanuela.com/)|[Cooking With Nonna](https://www.cookingwithnonna.com/)|[Cooking With Patty](http://cookingwithpatty.com/)|
@@ -723,15 +723,11 @@
 |[The Monday Pasta Club](https://www.themondaypastaclub.com/)|[**Mortadella Head**](https://mortadellahead.com/category/recipes/)|[My Italian](https://myitalian.recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|
 |[Nonna Box](https://www.nonnabox.com/recipes/)|[No Plate Like Home](https://noplatelikehome.com/)|[Our Italian Journey](https://ouritalianjourney.com/)|[Our Italian Table](https://ouritaliantable.com/)|[Pascquale Sciarappa](https://orsararecipes.net/)|
 |[Pasta Grammar](https://www.pastagrammar.com/blog)|[The Pasta Project](https://www.the-pasta-project.com/)|[PhilosoKitchen](https://philosokitchen.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[Pietru Furnar](http://www.pietrufurnar.com/)|
-|[Polenta e Baccala](https://polentaebaccala.com/)|[Proud Italian Cook](https://www.prouditaliancook.com/)|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[The Real Italian Food](https://therealitalianfood.com/)|[Recipes from Italy](https://www.recipesfromitaly.com/)|
-|[Ritrovo](https://ritrovo.com/collections/recipes)|[Rubber Slippers in Italy](https://rubberslippersinitaly.wordpress.com/)|[Sal e Pepe](https://www.salepepe.com/recipes/)|[Sarah's Cucina Bella](https://sarahscucinabella.com/)|[Savoring Italy](https://www.savoringitaly.com/)|
+|[Polenta e Baccala](https://polentaebaccala.com/)|[Proud Italian Cook](https://www.prouditaliancook.com/)|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[Recipes from Italy](https://www.recipesfromitaly.com/)|
+|[Rubber Slippers in Italy](https://rubberslippersinitaly.wordpress.com/)|[Sal e Pepe](https://www.salepepe.com/recipes/)|[Sarah's Cucina Bella](https://sarahscucinabella.com/)|[Savoring Italy](https://www.savoringitaly.com/)|
 |[Scordo](http://www.scordo.com/)|[She Loves Biscotti](https://www.shelovesbiscotti.com/)|[Silvia's Cucina](https://silviascucina.net/)|[Sip and Feast](https://www.sipandfeast.com/)|[The Slow Roasted Italian](https://www.theslowroasteditalian.com/)|
 |[Spaghetti Sauce and Meatballs](https://saucesnlove.com/recipes/)|[Spicy Goulash](https://spicygoulash.com/)|[Sugar Love Spices](https://www.sugarlovespices.com/)|[The Tiny Italian](https://thetinyitalian.com/)|[Veroni](https://www.veroni.com/recipes/)|
 |[Very EATalian](http://www.veryeatalian.com/)|[Vincenzo's Plate](https://www.vincenzosplate.com/)|[What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/)|[Your Guardian Chef](https://yourguardianchef.com/)|
-- ##### Abruzzo
-|     |
-| --- |
-|[Life in Abruzzo](https://lifeinabruzzo.com/eating-drinking/food-recipes/)|
 - ##### Genoa
 |     |
 | --- |
@@ -771,7 +767,7 @@
 #### Malta
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Apron and Whisk](https://apronandwhisk.com/)|[I Love Food.com.mt](https://www.ilovefood.com.mt/maltese-cuisine/)|[Maltese Cuisine](https://maltesecuisine.com/)|[A Maltese Mouthful](https://www.amaltesemouthful.com/)|
+|[Apron and Whisk](https://apronandwhisk.com/)|[I Love Food.com.mt](https://www.ilovefood.com.mt/maltese-cuisine/)|[Maltese Cuisine](https://maltesecuisine.com/)|
 
 #### Moldova
 |     |
@@ -851,7 +847,7 @@
 #### Sweden
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Food Etc. Cooks](https://foodetccooks.com/)|[Home Sweet Sweden](https://homesweetsweden.com/)|[Swedes in the Sates](https://swedesinthestates.com/category/recipes/)|[Swedish Freak](https://www.swedishfreak.com/)|[Swdish Food](https://www.swedishfood.com/)|
+|[Food Etc. Cooks](https://foodetccooks.com/)|[Home Sweet Sweden](https://homesweetsweden.com/)|[Swedes in the Sates](https://swedesinthestates.com/category/recipes/)|[Swedish Freak](https://www.swedishfreak.com/)|[Swedish Food](https://www.swedishfood.com/)|
 |[Swedish Spoon](https://swedishspoon.com/)|[Visit Sweden](https://visitsweden.com/what-to-do/food-drink/recipes/)|[Without a Path](https://www.withoutapath.com/category/food/)|
 
 #### Switzerland
@@ -863,10 +859,6 @@
 |     |     |
 | --- | --- |
 |[Food Perestroika](https://foodperestroika.com/)|[Slavic Vegan](http://www.slavicvegan.com/)|
-##### Belarus
-|     |
-| --- |
-|[Belarus.by](https://www.belarus.by/en/about-belarus/cuisine/belarusian-recipes)|
 ##### Russia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -876,7 +868,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Anna Voloshyna](https://annavoloshyna.com/)|[Authentic Ukraine](https://authenticukraine.com.ua/en/food)|[Etnocook](https://etnocook.com/)|[Klopotenko](https://klopotenko.com/en/)|[Let the Baking Begin](https://letthebakingbegin.com/)|
-|[My Odessa Kitchen](http://www.myodessacuisine.com/recipes/)|[**Proborsch**](https://proborsch.com/)|[Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)|[Ukraine Food](https://ukrainefood.info/)|
+|[**Proborsch**](https://proborsch.com/)|[Ukrainian Classic Kitchen](http://www.ukrainianclassickitchen.ca/index.php?PHPSESSID=f0sq0q2tdilfi02vcdafv4ush2&)|[Ukraine Food](https://ukrainefood.info/)|
 
 ##### United Kingdom
 |     |     |     |     |     |
@@ -896,7 +888,7 @@
 - ###### Wales
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Cadw](https://cadw.gov.wales/learn/histories/foods-fashions-lifestyles/tasty-tudor-recipes)|[Cailleach's Herbarium](https://cailleachs-herbarium.com/category/herbalism/)|[The Rare Welsh Bit](https://www.therarewelshbit.com/)|[Visit Wales](https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes)|
+|[Cadw](https://cadw.gov.wales/learn/histories/foods-fashions-lifestyles/tasty-tudor-recipes)|[The Rare Welsh Bit](https://www.therarewelshbit.com/)|[Visit Wales](https://www.visitwales.com/things-do/food-and-drink/welsh-food-and-recipes)|
 
 ### Mediterranean
 |     |     |     |     |     |
@@ -933,7 +925,7 @@
 #### Canada
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Canada's Food Island](https://canadasfoodisland.ca/)|[Canadian Food Focus](https://canadianfoodfocus.org/)|[A Canadian Foodie](https://www.acanadianfoodie.com/)|[Canadian Living](https://www.canadianliving.com/section/food)|[Edible Ottawa](edibleottawa.ediblecommunities.com)|
+|[Canada's Food Island](https://canadasfoodisland.ca/)|[Canadian Food Focus](https://canadianfoodfocus.org/)|[A Canadian Foodie](https://www.acanadianfoodie.com/)|[Canadian Living](https://www.canadianliving.com/section/food)|
 |[Edible Vancouver](ediblevancouver.com)|[Food Bloggers of Canada](https://www.foodbloggersofcanada.com/category/recipes-2/)|[Kitchen Frau](https://www.kitchenfrau.com/)|
 - ##### Acadia
 |     |     |     |     |
@@ -976,7 +968,7 @@
 #### Haiti
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Haitian Cooking](http://haitiancooking.com/)|[Haitian Recipes](https://haitian-recipes.com/)|[Pegz Cooks](https://pegzcooks.com/)|[Savory Thoughts](https://www.savorythoughts.com/)|
+|[Haitian Recipes](https://haitian-recipes.com/)|[Pegz Cooks](https://pegzcooks.com/)|[Savory Thoughts](https://www.savorythoughts.com/)|
 
 #### Jamaica
 |     |     |     |     |     |
@@ -1010,10 +1002,6 @@
 |[Muy Delish](https://www.muydelish.com/)|[My Latina Table](https://www.mylatinatable.com/)|[My Slice of Mexico](https://mysliceofmexico.ca/)|[Sabor Mexicano](https://sabormexicano.com/recipes)|[Stell n' Spice](https://stellanspice.com/)|
 |[Taco Guy](https://tacoguy.com.au/recipes/)|[Thai Caliente](https://thaicaliente.com/)|[Thrift & Spice](https://thriftandspice.com/)|[**Tucson Tamale**](https://tucsontamale.com/pages/our-secret-recipes)|[Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)|
 |[Villa Cocina](https://villacocina.com/)|
-- #### Baja
-|     |
-| --- |
-|[My Bajan](https://mybajan.com/)|
 - #### Maya
 |     |
 | --- |
@@ -1069,7 +1057,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Accidental Happy Baker](https://www.accidentalhappybaker.com/)|[Akron Ohio Moms](https://www.akronohiomoms.com/recipe/)|[Common Ground Nebraska](https://commongroundnebraska.com/recipes/)|[Cooking in the Midwest](https://www.cookinginthemidwest.com/)|[Culinary Hill](https://www.culinaryhill.com/)|
-|[Edible Indy](edibleindy.ediblecommunities.com)|[Edible Madison](ediblemadison.com)|[Edible Michiana](ediblemichiana.ediblecommunities.com)|[Edible Ohio Valley](edibleohiovalley.com)|[Edible Wow](ediblewow.ediblecommunities.com)|
+|[Edible Madison](ediblemadison.com)|[Edible Wow](ediblewow.ediblecommunities.com)|
 |[Fresh Coast Eats](https://freshcoasteats.com/)|[From Michigan to the Table](https://frommichigantothetable.com/)|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|[Let's Go Iowa](https://www.letsgoiowa.com/iowa-food/)|[Midwest Life and Style](https://www.midwestlifeandstyle.com/category/recipes/)|
 |[My Food Story](https://myfoodstory.com/)|
 
@@ -1097,10 +1085,8 @@
 - ##### Northeast
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[A Coalcracker in the Kitchen](https://www.acoalcrackerinthekitchen.com/)|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|
-|[Edible Boston](https://www.edibleboston.com/recipes-1)|[Edible Brooklyn](ediblebrooklyn.com)|[Edible Cape Cod](ediblecapecod.ediblecommunities.com)|[Edible Capital District](ediblecapitaldistrict.ediblecommunities.com)|[Edible CT East](ediblecteast.ediblecommunities.com)|
-|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|[Edible Hudson Valley](ediblehudsonvalley.ediblecommunities.com)|[Edible Nutmeg](ediblenutmeg.ediblecommunities.com)|[Edible Philly](ediblephilly.ediblecommunities.com)|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|
-|[Edible South Shore](ediblesouthshore.com)|[Edible Vermont](ediblevermont.ediblecommunities.com)|[Edible Vineyard](ediblevineyard.com)|[Edible Westchester](ediblewestchester.ediblecommunities.com)|[Edible Western NY](ediblewesternny.ediblecommunities.com)|
+|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|
+|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|
 |[Home in the Finger Lakes](https://homeinthefingerlakes.com/)|[New England](https://newengland.com/category/food/)|[Sip and Feast](https://www.sipandfeast.com/)|
 
 - ##### Soul Food
@@ -1116,9 +1102,9 @@
 |[Back to my Southern Roots](https://www.backtomysouthernroots.com/)|[Basil and Bubbly](https://basilandbubbly.com/)|[Be With Mia](https://bewithmia.com/)|[Butter Be Ready](https://www.butterbeready.com/)|[The Cagle Diaries](https://thecaglediaries.com/)|
 |[Carving a Journey](https://www.carvingajourney.com/)|[Coastal Community Cookbook](https://mississippiriverdelta.org/recipes/)|[Colonial Williamsburg](https://www.colonialwilliamsburg.org/learn/recipes/)|[Cooking Bride](https://cookingbride.com/)|[Cooks with Soul](https://cookswithsoul.com/)|
 |[Damaris Phillips](https://www.damarisphillips.com/recipes)|[Damon Lee Fowler](https://www.damonleefowler.com/index.htm)|[Deep South Dish](https://www.deepsouthdish.com/)|[Destination BBQ](https://destination-bbq.com/)|[Discover South Carolina](https://discoversouthcarolina.com/recipes)|
-|[Diva's Can Cook](https://divascancook.com/)|[Edible Asheville](edibleasheville.com)|[Edible Blue Ridge](edibleblueridge.ediblecommunities.com)|[Edible Charleston](ediblecharleston.ediblecommunities.com)|[Edible Columbia](ediblecolumbia.ediblecommunities.com)|
-|[Edible Kentucky](https://ediblekentucky.ediblecommunities.com/)|[Edible Memphis](ediblememphis.com)|[Edible Nashville](ediblenashville.ediblecommunities.com)|[Edible Northeast Florida](ediblenortheastflorida.ediblecommunities.com)|[Edible Orlando](edibleorlando.com)|
-|[Edible Rio Grande Valley](edibleriograndevalley.com)|[Edible Sarasota](ediblesarasota.ediblecommunities.com)|[Edible South Florida](https://ediblesouthflorida.ediblecommunities.com/)|[Fueling a Southern Soul](https://www.fuelingasouthernsoul.com/)|[Grandma Raised in the South](https://grandmaraisedinthesouth.com/)|
+|[Diva's Can Cook](https://divascancook.com/)|
+|[Edible Kentucky](https://ediblekentucky.ediblecommunities.com/)|[Edible Northeast Florida](ediblenortheastflorida.ediblecommunities.com)|
+|[Edible Rio Grande Valley](edibleriograndevalley.com)|[Edible South Florida](https://ediblesouthflorida.ediblecommunities.com/)|[Fueling a Southern Soul](https://www.fuelingasouthernsoul.com/)|[Grandma Raised in the South](https://grandmaraisedinthesouth.com/)|
 |[Grits and Pinecones](https://www.gritsandpinecones.com/)|[Homesick Texan](https://www.homesicktexan.com/)|[House of Yumm](https://houseofyumm.com)|[Huckleberry Life](https://huckleberrylife.com/)|[I Heart Recipes](https://iheartrecipes.com/)|
 |[Julia's Simply Southern](https://juliassimplysouthern.com/)|[**Justin Wilson**](https://justinwilson.com/recipes/)|[Kenneth Temple](https://kennethtemple.com/)|[Kentucky Tourism](https://www.kentuckytourism.com/culinary/recipes)|[Live Love Texas](https://livelovetexas.com/)|
 |[The Local Palate](https://thelocalpalate.com/recipes/)|[Louisiana Cookin'](https://www.louisianacookin.com/)|[Louisiana Kitchen and Culture](https://louisiana.kitchenandculture.com/)|[**Louisiana Seafood**](https://www.louisianaseafood.com/)|[Louisiana Travel](https://www.louisianatravel.com/culinary/louisiana-recipes)|
@@ -1135,8 +1121,8 @@
 | --- | --- | --- | --- | --- |
 |[Denver Green Chili](https://denvergreenchili.com/recipes/)|[Edible Aspen](https://edibleaspen.ediblecommunities.com/)|[Edible Bozeman](ediblebozeman.com)|[Edible Denver](https://www.edibledenver.com/)|[Edible East Bay](edibleeastbay.com)|
 |[Edible Inland NW](edibleinlandnw.com)|[Edible LA](ediblela.com)|[Edible Marin and Wine Country](ediblemarinandwinecountry.ediblecommunities.com)|[Edible Monterey Bay](ediblemontereybay.com)|[Edible New Mexico](https://www.ediblenm.com/category/recipes/)|
-|[Edible Orange County](edibleorangecounty.ediblecommunities.com)|[Edible Reno-Tahoe](ediblerenotahoe.com)|[Edible Sacramento](ediblesacramento.com)|[Edible San Diego](ediblesandiego.com)|[Edible San Francisco](ediblesanfrancisco.com)|
-|[Edible San Joaquin](ediblesanjoaquin.com)|[Edible San Luis Obispo](ediblesanluisobispo.com)|[Edible Santa Barbara](ediblesantabarbara.com)|[Edible Seattle](edibleseattle.com)|[Edible Vancouver Island](ediblevancouverisland.ediblecommunities.com)|
+|[Edible Orange County](edibleorangecounty.ediblecommunities.com)|[Edible Reno-Tahoe](ediblerenotahoe.com)|[Edible San Francisco](ediblesanfrancisco.com)|
+|[Edible San Luis Obispo](ediblesanluisobispo.com)|[Edible Santa Barbara](ediblesantabarbara.com)|
 |[Edible Ventura County](edibleventuracounty.com)|[Everyday Southwest](https://www.everydaysouthwest.com/)|[Highlands Ranch Foodie](https://highlandsranchfoodie.com/)|[Made in New Mexico](https://madeinnewmexico.com/blogs/recipes)|[New Mexican Foodie](https://www.newmexicanfoodie.com/)|
 |[New Mexico Nomad](https://newmexiconomad.com/resources/food/recipes/)|[New Mexico.org](https://www.newmexico.org/things-to-do/cuisine/recipes/)|[Sweet Life Bake](https://sweetlifebake.com/)|
 
@@ -1244,7 +1230,7 @@
 |[Calm Eats](https://calmeats.com/)|[Clean Plate Mama](https://cleanplatemama.com/)|[**Cooggies**](https://www.cooggies.com/blogs/recipes)|[The Cookie Dough Diaries](https://thecookiedoughdiaries.com/)|[Cook Nourish Bliss](https://cooknourishbliss.com/)|
 |[Cringey Kitchen](https://cringeykitchen.com/)|[The Curious Coconut](https://thecuriouscoconut.com/)|[Daniella Walker](https://daniellewalker.com/)|[The Dish on Healthy](https://www.thedishonhealthy.com/)|[Eat Something Delicious](https://eatsomethingdelicious.com/)|
 |[**Elmhurst 1925**](https://elmhurst1925.com/blogs/recipes)|[Everyday Maven](https://www.everydaymaven.com/)|[Freshwater Peaches](https://freshwaterpeaches.com/)|[GF Explorers](https://gfexplorers.com/)|[Go Dairy-Free](https://www.godairyfree.org/)|
-|[Happy as a Yam](https://happyasayam.com/)|[Heather Christo](https://heatherchristo.com/)|[Lenten Chef](https://www.lentenchef.com/)|[Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)|[Mama Shire](https://mamashire.com/)|
+|[Happy as a Yam](https://happyasayam.com/)|[Heather Christo](https://heatherchristo.com/)|[Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)|[Mama Shire](https://mamashire.com/)|
 |[Nutrition in the Kitch](https://nutritioninthekitch.com/)|[Paleo Scaleo](https://www.paleoscaleo.com/)|[Pretend it's a Donut](https://pretenditsadonut.com/)|[Rach L. Mansfield](https://rachlmansfield.com/)|[The Salty Cooker](https://thesaltycooker.com/)|
 |[Simply Whisked](https://www.simplywhisked.com/)|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[Tasty Yummies](https://tasty-yummies.com/)|[That Girl Cooks Healthy](https://thatgirlcookshealthy.com/)|[The Urben Life](https://theurbenlife.com/)|
 |[Veggie Balance](https://www.veggiebalance.com/)|
@@ -1261,7 +1247,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Bless My Food by Payal](https://blessmyfoodbypayal.com/)|[Eggless Cooking](https://www.egglesscooking.com/)|[Gayathri's Cookspot](https://gayathriscookspot.com/)|[Heather Christo](https://heatherchristo.com/)|[Lane and Grey Fare](https://laneandgreyfare.com/)|
-|[Lenten Chef](https://www.lentenchef.com/)|[Mads' Cookhouse](https://madscookhouse.com/)|[Mommy's Home Cooking](https://monicawilde.com/blog/)|[Nalini's Cooking](http://www.naliniscooking.com/)|[Polka Puffs](https://polkapuffs.in/)|
+|[Mads' Cookhouse](https://madscookhouse.com/)|[Mommy's Home Cooking](https://monicawilde.com/blog/)|[Nalini's Cooking](http://www.naliniscooking.com/)|[Polka Puffs](https://polkapuffs.in/)|
 |[Priya's Curry Nation](https://www.priyascurrynation.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[Spicing Your Life](https://www.spicingyourlife.com/)|[The Urben Life](https://theurbenlife.com/)|
 |[Vege Home Cooking](https://vegehomecooking.com/)|[Yummy Tales of Tummy](https://yummytalesoftummy.com/)|
 
@@ -1278,7 +1264,7 @@
 |[The Curious Coconut](https://thecuriouscoconut.com/)|[Daniella Walker](https://daniellewalker.com/)|[A Day in the Kitchen](https://www.adayinthekitchen.com/)|[Delicacious](http://www.delicacious.com/)|[Deliciously Organic](https://deliciouslyorganic.net/deliciously-organic-recipe-index/)|
 |[Delightful Mom Food](https://delightfulmomfood.com/)|[The Dish on Healthy](https://www.thedishonhealthy.com/)|[Ditch the Wheat](https://ditchthewheat.com/)|[The Domestic Man](https://thedomesticman.com/)|[EA Stewart](https://www.eastewart.com/category/recipes-and-nutrition/)|
 |[Eat Something Delicious](https://eatsomethingdelicious.com/)|[Eat With Clarity](https://eatwithclarity.com/)|[Eat Without Gluten](https://www.eatwithoutgluten.com/)|[Emily's Gluten-Free](https://emilysglutenfree.co.uk/)|[Everyday Eye Candy](https://everydayeyecandy.com/)|
-|[Everyday Maven](https://www.everydaymaven.com/)|[Fearless Dining](https://www.fearlessdining.com/)|[Feed Your Soul 2](http://www.feedyoursoul2.com/)|[Feelin' Fabulous with Kayla](https://feelinfabulouswithkayla.com/)|[Feliz Em Gluten](https://felizsemgluten.com.br/en/)|
+|[Everyday Maven](https://www.everydaymaven.com/)|[Fearless Dining](https://www.fearlessdining.com/)|[Feed Your Soul 2](http://www.feedyoursoul2.com/)|[Feelin' Fabulous with Kayla](https://feelinfabulouswithkayla.com/)|
 |[Flavour and Savour](https://www.flavourandsavour.com/)|[Flippin' Delicious](https://flippindelicious.com/)|[**Flour Farm**](https://flour.farm/recipes/)|[Freshwater Peaches](https://freshwaterpeaches.com/)|[GeorgEats](https://georgeats.com/)|
 |[GF Explorers](https://gfexplorers.com/)|[GFF Magazine](https://gffmag.com/recipes/)|[**GF Jules**](https://gfjules.com/recipes/)|[Glutarama](https://www.glutarama.com/)|[Gluten-Free Alchemist](https://www.glutenfreealchemist.com/)|
 |[Gluten-Free Around the World](https://www.gluten-free-around-the-world.com/)|[Gluten-Free Cuppa Tea](https://glutenfreecuppatea.co.uk/)|[Gluten-Free and More](https://glutenfreeandmore.com/)|[Gluten-Free Fast](https://fromscratchfast.com/)|[Gluten-Free Homestead](https://glutenfreehomestead.com/)|
@@ -1295,12 +1281,12 @@
 |[My Plantiful Cooking](https://www.myplantifulcooking.com/)|[My Weekend Kitchen](https://www.myweekendkitchen.in/)|[**New Gem Foods**](https://newgemfoods.com/pages/recipes)|[North-South Blonde](https://northsouthblonde.com/category/recipes/)|[**Nu Life Market**](https://nulifemarket.com/gluten-free-recipes/)|
 |[Nurture My Gut](https://nurturemygut.com/)|[Nutrition in the Kitchen](https://nutritioninthekitch.com/)|[Nutrizonia](https://www.nutrizonia.com/)|[Off the Wheaten Path](https://offthewheatenpathtt.com/)|[Only Gluten-Free Recipes](https://onlyglutenfreerecipes.com/)|
 |[Organically Addison](https://organicallyaddison.com/)|[**Outside the Breadbox**](https://outsidethebreadbox.com/blog/)|[Paleo Gluten-Free](https://paleoglutenfree.com/)|[Paleo Gluten-Free Guy](https://paleoglutenfreeguy.com/)|[Paleo Newbie](https://www.paleonewbie.com/)|
-|[Paleo Scaleo](https://www.paleoscaleo.com/)|[The Panicked Foodie](https://thepanickedfoodie.com/)|[Peel with Zeal](https://www.peelwithzeal.com/)|[Pretend It's a Donut](https://pretenditsadonut.com/)|[**Promise Gluten-Free**](https://www.promiseglutenfree.com/recipes/)|
+|[Paleo Scaleo](https://www.paleoscaleo.com/)|[Peel with Zeal](https://www.peelwithzeal.com/)|[Pretend It's a Donut](https://pretenditsadonut.com/)|[**Promise Gluten-Free**](https://www.promiseglutenfree.com/recipes/)|
 |[Power Hungry](https://www.powerhungry.com/)|[Rach L. Mansfield](https://rachlmansfield.com/)|[Real Good Foods](https://realgoodfoods.com/blogs/recipes)|[Regain Your Sparkle](https://www.regainyoursparkle.com/)|[Rhian's Recipes](https://www.rhiansrecipes.com/)|
 |[The Roasted Root](https://www.theroastedroot.net/)|[Salted Plains](https://saltedplains.com/)|[The Salty Cooker](https://thesaltycooker.com/)|[Sarah Freia](https://www.sarahfreia.com/)|[A Saucy Kitchen](https://www.asaucykitchen.com/)|
 |[Savory Lotus](https://savorylotus.com/)|[Science & Crumbs](https://www.scienceandcrumbs.com/)|[**Shipetaukin**](https://www.shipetaukin.com/natural-recipes-gluten-free-recipes-healthy-recipes/)|[Stem and Spoon](https://stemandspoon.com/)|[**St. James Tearoom**](https://stjamestearoom.com/category/recipe-archives/)|
 |[Strength & Sunshine](https://strengthandsunshine.com/)|[Sun-Kissed Kitchen](https://sunkissedkitchen.com/)|[Sweet As Honey](https://www.sweetashoney.co/)|[**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)|[Tasty Yummies](https://tasty-yummies.com/)|
-|[Texan Erin](https://www.texanerin.com/)|[That Girl Cooks Healthy](https://thatgirlcookshealthy.com/)|[This Mess is Ours](https://thismessisours.com/)|[Three Bakers](https://threebakers.com/category/gluten-free-recipes/)|[Unconventional Baker](https://www.unconventionalbaker.com/)|
+|[Texan Erin](https://www.texanerin.com/)|[That Girl Cooks Healthy](https://thatgirlcookshealthy.com/)|[This Mess is Ours](https://thismessisours.com/)|[Unconventional Baker](https://www.unconventionalbaker.com/)|
 |[Veggie Balance](https://www.veggiebalance.com/)|[VeggieKins](https://veggiekinsblog.com/)|[Veggie Lexi](https://veggielexi.com/)|[Veggies Don't Bite](https://www.veggiesdontbite.com/)|[Watch, Learn, Eat](https://watchlearneat.com/)|
 |[What the Fork Food](https://www.whattheforkfoodblog.com/)|[Wheat by the Wayside](https://wheatbythewayside.com/)|[With Sweet Honey](https://withsweethoney.com/)|[**Wrawp**](https://wrawp.com/blogs/default-blog)|[**XO Baking Co.**](https://xobakingco.com/recipes/)|
 |[The Yummy Bowl](https://theyummybowl.com/)|[This Vivacious Life](https://www.thisvivaciouslife.com/)|
@@ -1316,11 +1302,6 @@
 |     |
 | --- |
 |[Eat the Gains](https://eatthegains.com/)|[Hurry the Food Up](https://hurrythefoodup.com/)|[Lauren Fit Foods](https://laurenfitfoodie.com/)|[Oh Snap Macros](https://ohsnapmacros.com/)|[The Protein Chef](https://theproteinchef.co/)|
-
-### Jain
-|     |     |
-| --- | --- |
-|[Your Veg Recipe](https://yourvegrecipe.com/)|
 
 ### Keto/Low-Carb
 |     |     |     |     |     |
@@ -1405,11 +1386,6 @@
 |[Fit Fab FODMAP](https://www.fitfabfodmap.com/category/all-recipes/)|[FODMAP Everyday](https://www.fodmapeveryday.com/)|[FODMAP Formula](https://www.fodmapformula.com/)|[FODMAP Friendly](https://fodmapfriendly.com/)|[**FODY Foods**](https://www.fodyfoods.com/blogs/low-fodmap-recipes)|
 |[Fun Without FODMAPs](https://funwithoutfodmaps.com/)|[Good Noms Honey](https://www.goodnomshoney.com/)|[**Gourmend Foods**](https://www.gourmendfoods.com/pages/low-fodmap-recipes)|[Half-Tablespoon](https://www.halftablespoon.com/)|[The Irritable Vegan](https://www.theirritablevegan.com/)|
 |[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|[Karlijn's Kitchen](https://www.karlijnskitchen.com/en/)|[A Little Bit Yummy](https://alittlebityummy.com/)|[Rachel Paul's Food](https://rachelpaulsfood.com/)|[Strands of My Life](https://www.strandsofmylife.com/)|
-
-### Low-Protein
-|     |
-| --- |
-|[Low-Pro Recipes](http://www.lowprorecipes.com/)|
 
 ### Low-Sodium
 |     |     |
@@ -1519,13 +1495,13 @@
 |[Kathy's Vegan Kitchen](https://www.kathysvegankitchen.com/)|[Katy Beskow](https://katybeskow.com/)|[Keeping the Peas](https://www.keepingthepeas.com/)|[Kiip Fit](https://kiipfit.com/)|[Kind Earth](https://www.kindearth.net/)|
 |[Kitchen and Other Stories](https://kitchenandotherstories.com/)|[Kitchen Archives](https://kitchenarchives.com/)|[Kitchen Confidante](https://kitchenconfidante.com/)|[Kitchen Stories](https://www.kitchenstories.com/en)|[The Korean Vegan](https://thekoreanvegan.com/)|
 |[Lavender and Macarons](https://www.lavenderandmacarons.com/)|[Lazy Cat Kitchen](https://www.lazycatkitchen.com/)|[The Lazy Vegan Baker](https://www.thelazyveganbaker.com/)|[Lenka Pagan](https://lenkapagan.com/category/healthy-recipes/)|[Light Orange Bean](https://lightorangebean.com/)|
-|[The Lish Life](https://thelishlife.com/)|[The Literary Vegan](https://www.theliteraryvegan.com/)|[The Little Blog of Vegan](https://www.thelittleblogofvegan.com/)|[Live Kindly](https://www.livekindly.com/food/vegan-recipes/)|[Living Healthy with Chocolate](https://livinghealthywithchocolate.com/)|[Livity Gardens](https://livitygardens.com/)|
+|[The Literary Vegan](https://www.theliteraryvegan.com/)|[The Little Blog of Vegan](https://www.thelittleblogofvegan.com/)|[Live Kindly](https://www.livekindly.com/food/vegan-recipes/)|[Living Healthy with Chocolate](https://livinghealthywithchocolate.com/)|[Livity Gardens](https://livitygardens.com/)|
 |[Liv Vegan Strong](https://www.livveganstrong.com/)|[Lotta Veg](https://www.lottaveg.com/)|[Love is in My Tummy](http://loveisinmytummy.com/)|[Loving It Vegan](https://lovingitvegan.com/)|[Lucy & Lentils](https://lucyandlentils.co.uk/)|
 |[Maitri Cooks](https://maitricooks.com/)|[Make It Dairy-Free](https://makeitdairyfree.com/)|[Making Thyme for Health](https://www.makingthymeforhealth.com/)|[Mama Eats Plants](https://mamaeatsplants.wordpress.com/)|[Mary's Test Kitchen](https://www.marystestkitchen.com/)|
 |[**Meridian Foods**](https://shop.meridianfoods.co.uk/blogs/recipes)|[Messy Vegan Cook](https://www.messyvegancook.com/)|[Mexican Made Meat Less](https://mexicanmademeatless.com/)|[Micadeli](https://www.micadeli.com/)|[Microwave Cooking For One](https://www.microwavecookingforone.com/)|
 |[Mina Rome](https://www.mina-rome.com/)|[Mindful Avocado](https://mindfulavocado.com/)|[Mini Van Dreams](https://www.minivandreams.com/recipe-box/)|[Miss Marzipan](https://missmarzipan.com/)|[Monkey and Me Kitchen Adventures](https://monkeyandmekitchenadventures.com/)|
 |[Munchmeals by Janet](https://munchmealsbyjanet.com/)|[Murielle Banackissa](https://www.muriellebanackissa.com/)|[My Berry Forest](https://www.myberryforest.com/)|[My Cooking Journey](https://www.mycookingjourney.com/)|[My Darling Vegan](https://www.mydarlingvegan.com/)|
-|[My Eager Eats](https://myeagereats.com/)|[My Plantiful Cooking](https://www.myplantifulcooking.com/)|[My Pure Plants](https://mypureplants.com/)|[My Quiet Kitchen](https://myquietkitchen.com/)|[My Vegan](https://www.myvegan.com/blog/recipes/)|
+|[My Eager Eats](https://myeagereats.com/)|[My Plantiful Cooking](https://www.myplantifulcooking.com/)|[My Pure Plants](https://mypureplants.com/)|[My Quiet Kitchen](https://myquietkitchen.com/)|
 |[My Vegan Minimalist](https://myveganminimalist.com/)|[My Whole Food Life](https://mywholefoodlife.com/)|[Nadia's Healthy Kitchen](https://nadiashealthykitchen.com/)|[Namely Marly](https://namelymarly.com/)|[**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)|
 |[Neurotic Mommy](https://neuroticmommy.com/category/recipes/)|[The New Baguette](https://thenewbaguette.com/)|[Nikki Vegan](https://nikkivegan.com/)|[Nirvana Cakery](https://nirvanacakery.com/)|[No Meat Athlete](https://www.nomeatathlete.com/)|
 |[Nourished by Caroline](https://www.nourishedbycaroline.ca/)|[Nourish-to-Flourish](https://www.nourish-to-flourish.net/)|[Nutriciously](https://nutriciously.com/)|[Nutrition Facts](https://nutritionfacts.org/recipes/)|[Nutrition Refined](https://nutritionrefined.com/)|
@@ -1536,14 +1512,14 @@
 |[A Pinch of Parsley](https://apinchofparsley.com/)|[Pisco Trail](https://www.piscotrail.com/category/recipes/)|[Planet Veggie](https://www.planetveggie.co.uk/)|[Plant Baes](https://www.plantbaes.com/)|[Plant-Based and Broke](https://plantbasedandbroke.com/)|
 |[Plant-Based Cooking](https://www.plantbasedcooking.com/)|[Plant-Based Folk](https://plantbasedfolk.com/)|[Plant-Based Jess](https://plantbasedjess.com/)|[Plant-Based Matters](https://plantbasedmatters.net/)|[Plant-Based Meal Plan](https://www.plantbasedmealplan.com/)|
 |[Plant-Based on a Budget](https://plantbasedonabudget.com/)|[The Plant-Based Palette](https://theplantbasedpalette.com/)|[Plant-Based Passport](https://plantbased-passport.com/)|[Plant-Based Persian](https://plantbasedpersian.com)|[Plant-Based RD](https://plantbasedrdblog.com/)|
-|[Plant-Based Recipe](https://www.plantbasedrecipe.com/)|[The Plant-Based School](https://theplantbasedschool.com/)|[The Plant-Based Wok](https://theplantbasedwok.com/)|[Planted and Picked](https://plantedandpicked.com/)|[Plant Fulfilled](https://plantfulfilled.com/)|
+|[Plant-Based Recipe](https://www.plantbasedrecipe.com/)|[The Plant-Based School](https://theplantbasedschool.com/)|[The Plant-Based Wok](https://theplantbasedwok.com/)|[Plant Fulfilled](https://plantfulfilled.com/)|
 |[Planticize](http://www.planticize.com/category/recipes/)|[Plantivores](https://plantivores.com/)|[**PlantPerks**](https://www.plantperks.com/vegan-recipes/)|[Plant Plate](http://plantplate.com/Recipe/List)|[Plants Rule](https://plants-rule.com/)|
 |[PlantYou](https://plantyou.com/)|[Plastic-Free Herbivore]|[Plateful of Veggies](https://platefulofveggies.com/)|[The Post Punk Kitchen](https://www.theppk.com/)|[Power Hungry](https://www.powerhungry.com/)|
 |[Project Vegan Baking](https://projectveganbaking.com/)|[Pure Kitchen Blog](https://purekitchenblog.com/)|[**Purple Carrot**](https://www.purplecarrot.com/plant-based-recipes)|[Quite Good Food](https://quitegoodfood.co.nz/)|[Rabbit and Wolves](https://www.rabbitandwolves.com/)|
 |[Rachel Ama](https://www.rachelama.com/)|[Rainbow Nourishments](https://www.rainbownourishments.com/)|[Rainbow Plant Life](https://rainbowplantlife.com/)|[The Raw Chef](https://therawchef.com/raw-food-recipes/)|[Raw Manda](https://rawmanda.com/)|
 |[The Rawtarian](https://www.therawtarian.com/)|[Recipe Guy](https://www.recipeguy.co.uk/)|[Recipes and Places](https://www.recipesandplaces.com/)|[Rhian's Recipes](https://www.rhiansrecipes.com/)|[Ropovka](https://ropovka.com/en)|
-|[Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/)|[Sarah's Vegan Recipes](https://www.sarahsveganrecipes.co.uk/)|[School Night Vegan](https://schoolnightvegan.com/)|[Seitan Beats Your Meat](https://seitanbeatsyourmeat.com/)|[Seitan is My Motor](https://www.seitanismymotor.com/)|
-|[Serene Trail](https://serenetrail.com/)|[Shane and Simple](https://shaneandsimple.com/)|[Sheil Shukla](https://www.sheilshukla.com/recipes)|[Short Girl Tall Order](https://shortgirltallorder.com/)|[Simply Bakings](https://simplybakings.com/)|[Simple Green Smoothies](https://simplegreensmoothies.com/)|
+|[Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/)|[Sarah's Vegan Recipes](https://www.sarahsveganrecipes.co.uk/)|[School Night Vegan](https://schoolnightvegan.com/)|[Seitan Beats Your Meat](https://seitanbeatsyourmeat.com/)|
+|[Serene Trail](https://serenetrail.com/)|[Shane and Simple](https://shaneandsimple.com/)|[Short Girl Tall Order](https://shortgirltallorder.com/)|[Simply Bakings](https://simplybakings.com/)|[Simple Green Smoothies](https://simplegreensmoothies.com/)|
 |[Simple Green Soul](https://simplegreensoul.com/)|[The Simple Sprinkle](https://thesimplesprinkle.com/)|[Simple Sumptuous Cooking](https://www.mrishtanna.com/)|[Simple Vegan Blog](https://simpleveganblog.com/)|
 |[Simple Veganista](https://simple-veganista.com/)|[Simple Veganizer](https://simpleveganizer.com/)|[Simply Quinoa](https://www.simplyquinoa.com/)|[Sindhi Rasoi](https://sindhirasoi.com/)|[Six Hungry Feet](https://sixhungryfeet.com/)|
 |[Slavic Vegan](http://www.slavicvegan.com/)|[**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)|[Soulful Vegan](https://soulfulvegan.com/)|[Strength and Sunshine](https://strengthandsunshine.com/)|[Sunberry Jam](https://sunberryjam.com/)|
@@ -1580,12 +1556,12 @@
 |[Center Stage Wellness](https://centerstagewellness.com/recipes/)|[Chez Shuchi](https://www.chezshuchi.com/)|[Choosing Chia](https://choosingchia.com/)|[Code 2 Cook](https://code2cook.com/)|[Coffee & Quinoa](https://www.coffeeandquinoa.com/)|
 |[Cook, Click n' Devour](https://www.cookclickndevour.com/)|[Cookie and Kate](https://cookieandkate.com/)|[Cooking Carnival](https://www.cookingcarnival.com/)|[Cooking with Janki](https://cookingwithjanki.com/)|[Cook's Hideout](https://www.cookshideout.com/)|
 |[A Cook Within](https://acookwithin.com/)|[CRS Rice Bowl](https://www.crsricebowl.org/recipe)|[CT Buddha Mind](http://www.ctbuddhamind.org/go-veggies/recipes/?lang=en)|[Curry and Vanilla](https://curryandvanilla.com/)|[Dassana's Veg Recipes](https://www.vegrecipesofindia.com/)|
-|[Dishcovery](https://dishcovery.in/)|[Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)|[Evergreen Kitchen](https://evergreenkitchen.ca/)|[The Fiery Vegetarian](https://www.thefieryvegetarian.com/)|[Fit Meal Ideas](https://fitmealideas.com/)|
+|[Easy Cheese Vegetarian](https://www.easycheesyvegetarian.com/)|[Evergreen Kitchen](https://evergreenkitchen.ca/)|[The Fiery Vegetarian](https://www.thefieryvegetarian.com/)|[Fit Meal Ideas](https://fitmealideas.com/)|
 |[Fork in the Kitchen](https://www.forkinthekitchen.com/)|[Flavours Treat](https://www.flavourstreat.com/)|[Gayathri's Cookspot](https://gayathriscookspot.com/)|[Gluten-Free Vegetarian](https://gf-veg.com/)|[Gourmandelle](https://gourmandelle.com/)|
 |[Grandad's Cookbook](https://grandadscookbook.co.uk/)|[Grateful Grazer](https://gratefulgrazer.com/)|[Greener Ideal](https://greenerideal.com/recipes/)|[Happy Veggie Kitchen](https://www.happyveggiekitchen.com/)|[Hebbars Kitchen](https://hebbarskitchen.com/)|
 |[Hello Little Home](https://hellolittlehome.com/)|[Herbivoracious](https://www.herbivoracious.com/)|[I Heart Vegetables](https://iheartvegetables.com/)|[Indian Veggie Delight](https://www.indianveggiedelight.com/)|[Inspiration for All](https://www.inspirationforall.de/en/)|
 |[It's a Veg World After All](https://itsavegworldafterall.com/)|[The Jam Lab](https://thejamlab.co/)|[Jeyashri's Kitchen](https://www.jeyashriskitchen.com/)|[Karma Free Cooking](https://karma-free-cooking.com/)|[Kawaling Pinoy Recipe](https://www.kawalingpinoyrecipe.com/)|
-|[The Last Food Blog](https://www.thelastfoodblog.com/)|[Lenten Chef](https://www.lentenchef.com/)|[The Little Arepa](https://thelittlearepa.com/)|[Live Eat Learn](https://www.liveeatlearn.com/)|[The Live-In Kitchen](https://theliveinkitchen.com/)|
+|[The Last Food Blog](https://www.thelastfoodblog.com/)|[The Little Arepa](https://thelittlearepa.com/)|[Live Eat Learn](https://www.liveeatlearn.com/)|[The Live-In Kitchen](https://theliveinkitchen.com/)|
 |[Madhu's Everyday Indian](https://www.madhuseverydayindian.com/)|[Manjula's Kitchen](https://www.manjulaskitchen.com/)|[Masala Chilli](https://masalachilli.com/)|[Maya Bugs](http://mayabugs.com/blog/)|[May I Have That Recipe?](https://mayihavethatrecipe.com/)|
 |[Milk and Cardamom](https://milkandcardamom.com/)|[Mirchi Tales](https://www.mirchitales.com/)|[Moon and Spoon and Yum](https://moonandspoonandyum.com/)|[**Morning Star Farms**](https://www.morningstarfarms.com/en_US/vegetarian-recipes.html)|[My Diverse Kitchen](https://www.mydiversekitchen.com/)|
 |[My Vegetarian Roots](https://myvegetarianroots.com/)|[My Weekend Kitchen](https://www.myweekendkitchen.in/)|[Naive Cook Cooks](https://www.naivecookcooks.com/)|[Nam's Corner](https://www.namscorner.com/)|[Naturally Elly](https://naturallyella.com/)|
@@ -1597,10 +1573,9 @@
 |[Sunny's Vegetarian Foodhunt](http://vegefoodhunt.blogspot.com/)|[Sweet Potato Soul](https://sweetpotatosoul.com/)|[Tara Dalal](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2)|[Tickling Palates](https://www.ticklingpalates.com/)|[Tin and Thyme](https://tinandthyme.uk/)|
 |[Tinned Tomatoes](https://www.tinnedtomatoes.com/)|[Toaster Oven Love](https://toasterovenlove.com/)|[Tomato Blues](https://www.tomatoblues.com/)|[Trial and Eater](https://www.trialandeater.com/)|[Udupi Recipes](https://udupi-recipes.com/)|
 |[Urban Farmie](https://urbanfarmie.com/)|[Vanilla and Bean](https://vanillaandbean.com/)|[Varada's Kitchen](https://varadaskitchen.blogspot.com/)|[Vege Cravings](https://vegecravings.com/)|[Vegetarian Mamma](https://vegetarianmamma.com/)|
-|[Vegetarian Resource Guide](https://www.vrg.org/recipes/)|[Vegetarian Society](https://vegsoc.org/)|[Vegetarian Taste Buds](https://www.vegetariantastebuds.com/)|[Vegetarian Times](https://www.vegetariantimes.com/)|[Vegetarian Ventures](https://www.vegetarianventures.com/)|
+|[Vegetarian Resource Guide](https://www.vrg.org/recipes/)|[Vegetarian Society](https://vegsoc.org/eating-veggie/recipes/)|[Vegetarian Taste Buds](https://www.vegetariantastebuds.com/)|[Vegetarian Times](https://www.vegetariantimes.com/)|[Vegetarian Ventures](https://www.vegetarianventures.com/)|
 |[Veggies Don't Bite](https://www.veggiesdontbite.com/)|[Veggie Soul Food](http://www.veggiesoulfood.com/)|[The Veg Hog](http://the-veghog.blogspot.com/)|[Veg Indian Cooking](https://vegindiangoodfood.blogspot.com/)|[Veg Recipes of Karnataka](https://vegrecipesofkarnataka.com/index.php)|
 |[Very Good Cook](https://verygoodcook.com/)|[V for Veggy](https://vforveggy.com/)|[**Wholly Veggie**](https://whollyveggie.com/blogs/recipes)|[The Wimpy Vegetarian](https://thewimpyvegetarian.com/)|[XO & So](https://www.xoandso.com/)|
-|[Your Veg Recipe](https://yourvegrecipe.com/)|
 
 ## Historical
 |     |     |     |     |     |
@@ -1624,7 +1599,7 @@
 | --- | --- | --- | --- | --- |
 |[1001 Cocktails](https://en.1001cocktails.com/)|[Advanced Mixology](https://advancedmixology.com/)|[Art of Drink](https://www.artofdrink.com/category/recipe)|[Aurabora](https://aurabora.com/blogs/recipes)|[The Bar](https://www.thebar.com/en-gb/recipes)|
 |[**A Bar Above**](https://abarabove.com/recipes/)|[Bevvy](https://bevvy.co/cocktails)|[**The Bottle Club**](https://www.thebottleclub.com/)|[Camp Craft Cocktails](https://www.campcraftcocktails.com/blogs/recipes)|[Cocktails and Shots](https://cocktailsandshots.com/)|
-|[Cocktail Book](https://cocktailbook.com/)|[Cocktail Builder](https://www.cocktailbuilder.com/)|[Cocktail Flow](https://cocktailflow.com/)|[Cocktail Party](https://cocktailpartyapp.com/drinks/)|[Cocktail Seeker](https://cocktailseeker.com/)|
+|[Cocktail Book](https://cocktailbook.com/)|[Cocktail Builder](https://www.cocktailbuilder.com/)|[Cocktail Flow](https://cocktailflow.com/)|[Cocktail Party](https://cocktailpartyapp.com/drinks/)|
 |[Cocktails With Class](https://cocktailswithclass.com/)|[Crystal Mixer](https://www.crystalmixer.com/)|[Cupcakes and Cutlery](https://www.cupcakesandcutlery.com/)|[Cup of Zest](https://www.cupofzest.com/)|[**Cutwater Spirits**](https://www.cutwaterspirits.com/recipes/)|
 |[Difford's Guide](https://www.diffordsguide.com/cocktails)|[Drink Boy](https://www.drinkboy.com/Cocktails/)|[Drink Existence](https://www.drinkexistence.com/)|[The Drink Kings](https://www.thedrinkkings.com/)|[Drink Lab](https://www.drinklab.org/)|
 |[Drink Nation](https://www.drinknation.com/)|[Drunkard's Almanac](https://drunkardsalmanac.com/)|[Feast and West](https://feastandwest.com/)|[**Fever Tree**](https://fever-tree.com/en_US/cocktails)|[Food Viva](https://cocktails.foodviva.com/)|
@@ -1637,7 +1612,7 @@
 - #### Beer
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Anchor Brewing**](https://www.anchorbrewing.com/blog/category/beer-food-pairings/)|[Beer Alien](https://beeralien.com/)|[Beer and Brewing](https://beerandbrewing.com/beer-recipes/)|[Beers With Mandy](https://beerswithmandy.com/)|[Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)|
+|[Beer Alien](https://beeralien.com/)|[Beer and Brewing](https://beerandbrewing.com/beer-recipes/)|[Beers With Mandy](https://beerswithmandy.com/)|[Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)|
 |[Brew Dudes](https://www.brew-dudes.com/beer-recipes)|[Brewer's Friend](https://www.brewersfriend.com/homebrew-recipes/)|[Brulosophy](https://brulosophy.com/recipes/)|[Craft Beering](https://www.craftbeering.com/)|[**Guinness**](https://www.guinness.com/en-us/experiences/recipes)|
 |[Homebrew Academy](https://homebrewacademy.com/beer-recipes/)|[Homebrew Answers](https://homebrewanswers.com/)|[Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)|
 - #### Bourbon
@@ -1661,7 +1636,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**Bacardi**](https://www.bacardi.com/us/en/rum-cocktails/)|[**Brugal**](https://www.brugal-rum.com/en-us/cocktails)|[**Don Q**](https://donq.com/recipes/)|[**Dos Maderas**](https://dosmaderas.com/easy-dark-rum-cocktail-recipes/)|[**Element Rhum**](https://www.rhumclementusa.com/cocktails)|
-|[**Guavaberry**](https://guavaberry.com/recipes)|[**Mount Gay**](https://www.mountgayrum.com/cocktails/)|[**Ron Inmortal**](https://roninmortal.com/cocktails/)|[**Ten to One**](https://www.tentoonerum.com/cocktails/)|
+|[**Guavaberry**](https://guavaberry.com/recipes)|[**Mount Gay**](https://www.mountgayrum.com/cocktails/)|[**Ten to One**](https://www.tentoonerum.com/cocktails/)|
 - #### Tequila
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -1676,7 +1651,7 @@
 | --- | --- | --- | --- | --- |
 |[**Absolut**](https://www.absolutdrinks.com/en/learn/)|[**Belvedere Vodka**](https://www.belvederevodka.com/en-us/vodka-cocktails/)|[**Broken Shed**](https://brokenshed.com/the-recipes?offset=0)|[**Chopin Vodka**](https://chopinvodka.com/recipes/)|[**Ciroc**](https://www.ciroc.com/en-row/vodka-cocktails)|
 |[**Crystal Head Vodka**](https://www.crystalheadvodka.com/recipes)|[**Effen Vodka**](https://www.effenvodka.com/vodka-cocktail-recipes/)|[**Grey Goose**](https://www.greygoose.com/cocktails.html)|[**Humboldt Distillery**](https://humboldtdistillery.com/cocktails/)|[**Ketel One**](https://www.ketelone.com/vodka-drinks)|
-|[**King St. Vodka**](https://kingstvodka.com/recipes/)|[**Old Bay Vodka**](https://oldbayvodka.com/recipes/)|[**Skyy**](https://www.skyyvodka.com/us/cocktails/)|[**Stoli**](https://stoli.com/cocktail/)|[**Svedka**](https://www.svedka.com/blogs/summer-mixes)|
+|[**King St. Vodka**](https://kingstvodka.com/recipes/)|[**Skyy**](https://www.skyyvodka.com/us/cocktails/)|[**Stoli**](https://stoli.com/cocktail/)|
 |[**Tito's**](https://www.titosvodka.com/recipes)|
 - #### Whiskey
 |     |     |     |     |     |
@@ -1696,7 +1671,7 @@
 ### Beans
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**The Amazing Chickpea**](https://www.theamazingchickpea.com/blogs/recipe)|[**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)|[**Camellia**](https://www.camelliabrand.com/)|[**Casa Verde**](https://eatcasaverde.com/blogs/recipes)|[**Jack Rabbit Beans**](https://jackrabbitbeans.com/recipes/)|
+|[**The Amazing Chickpea**](https://www.theamazingchickpea.com/blogs/recipe)|[**Bush Beans**](https://www.bushbeans.com/en_US/bean-recipes)|[**Camellia**](https://www.camelliabrand.com/)|[**Jack Rabbit Beans**](https://jackrabbitbeans.com/recipes/)|
 |[Lorin Cooks Legumes](https://lorincookslegumes.com/)|[**The Only Bean**](https://theonlybean.com/blogs/recipes)|[**Randall Beans**](https://randallbeans.com/recipes/)|[**Serious Bean Co.**](https://seriousbeanco.com/blogs/recipes)|
 
 ### Beverages
@@ -1705,11 +1680,11 @@
 |[**7up**](https://www.7up.com/en/recipes)|[**Ace Canning**](http://www.acecanning.com/web/recipes/)|[**Bhakti Chai**](https://drinkbhakti.com/blogs/recipes)|[**Califia Farms**](https://www.califiafarms.com/recipes)|[**Ceres Juices**](https://ceresjuices.com/recipes/)|
 |[**Coconut Cloud**](https://coconutcloud.net/blogs/coconut-cloud)|[**Coffee Mate**](https://www.goodnes.com/coffeemate/recipes/)|[**De La Calle**](https://www.delacalle.mx/blogs/news)|[**Ethan's**](https://ethans.com/blogs/recipes/tagged/recipe)|[**Evolution Fresh**](https://www.evolutionfresh.com/)|
 |[**Fermenting Fairy**](https://fermentingfairy.com/blogs/recipes)|[**Garden of Flavor**](https://gardenofflavor.com/blogs/home)|[**Goldthread**](https://drinkgoldthread.com/blogs/recipes)|[**Greenhouse Juice**](https://blog.greenhousejuice.com/tagged/recipe)|[**Iconic**](https://www.drinkiconic.com/blogs/recipes)|
-|[**Inner Eco**](https://inner-eco.com/our-favorite-recipes/)|[**Karviva**](https://karviva.com/recipes/)|[**LaCroix**](https://www.lacroixwater.com/recipes/)|[**Lori's Original Lemonade**](https://lorisoriginallemonade.com/category/recipes/)|[**Martinelli's**](https://www.martinellis.com/recipes)|
+|[**LaCroix**](https://www.lacroixwater.com/recipes/)|[**Lori's Original Lemonade**](https://lorisoriginallemonade.com/category/recipes/)|[**Martinelli's**](https://www.martinellis.com/recipes)|
 |[**The Mindful Mocktail**](https://mindfulmocktail.com/)|[**Oliko Ginger Beer**](https://www.olikogingerbeer.com/recipes)|[**Perrier**](https://www.perrier.com/us/drink-recipes)|[**Pom**](https://www.pomwonderful.com/recipes/drinks)|[**Pure Cocobella**](https://purecocobella.com/recipe/)|
-|[**Realm Foods**](https://www.realmfoods.com/blogs/news)|[**Rebbl**](https://rebbl.co/blog/#recipes)|[Reboot with Joe](https://www.rebootwithjoe.com/recipes/)|[**Reed's**](https://drinkreeds.com/recipes/)|[**RW Knudsen**](https://rwknudsen.com/recipes)|
+|[Reboot with Joe](https://www.rebootwithjoe.com/recipes/)|[**Reed's**](https://drinkreeds.com/recipes/)|[**RW Knudsen**](https://rwknudsen.com/recipes)|
 |[**San Pellegrino**](https://www.sanpellegrino.com/uk/sparkling-drinks/zesty-food)|[**SlimFast**](https://slimfast.com/recipes/)|[**Smart Pressed Juice**](https://smartpressedjuice.com/blogs/immunity-wellness)|[**SpinDrift**](https://drinkspindrift.com/blogs/recipes)|[**Suja Organic**](https://www.sujaorganic.com/blog/category/recipes/)|
-|[**Swoon**](https://www.tasteswoon.com/pages/recipes)|[**Treetop**](https://www.treetop.com/consumer/recipes/)|[**Uncle Matt's**](https://www.unclematts.com/category/recipes/)|[**Waterloo Sparkling Water**](https://www.drinkwaterloo.com/recipes)|
+|[**Treetop**](https://www.treetop.com/consumer/recipes/)|[**Uncle Matt's**](https://www.unclematts.com/category/recipes/)|[**Waterloo Sparkling Water**](https://www.drinkwaterloo.com/recipes)|
 - #### Coffee
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -1722,7 +1697,7 @@
 - #### Tea
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Blue Lotus Chai**](https://bluelotuschai.com/recipes-videos/)|[**Celestial Seasonings**](https://celestialseasonings.com/blogs/recipes)|[**Cusa**](https://www.drinkcusa.com/blogs/recipes)|[**Hojicha**](https://hojicha.co/blogs/recipes)|[**Ito En**](https://itoen.com/pages/recipes)|
+|[**Blue Lotus Chai**](https://bluelotuschai.com/recipes-videos/)|[**Celestial Seasonings**](https://celestialseasonings.com/blogs/recipes)|[**Cusa**](https://www.drinkcusa.com/blogs/recipes)|[**Hojicha**](https://hojicha.co/blogs/recipes)|
 |[**Jade Leaf Matcha**](https://www.jadeleafmatcha.com/blogs/matcha-recipes)|[**Kuli Kuli Foods**](https://blog.kulikulifoods.com/tag/recipes/)|[**Lipton**](https://www.lipton.com/us/en/world-of-tea/recipes/)|[**Maeda**](https://maeda-en.com/pages/recipes)|[**Mighty Leaf**](https://www.mighty-leaf.com/blogs/recipes)|
 |[**Millennia TEA**](https://millenniatea.com/blogs/news)|[**Mizuba**](https://mizubatea.com/blogs/recipes)|[**Paromi**](https://paromi.com/blogs/recipes)|[**Prana Chai**](https://pranachai.com/blogs/recipes)|[**Pure Leaf**](https://www.pureleaf.com/recipes/)|
 |[**Rasa**](https://wearerasa.com/blogs/news/tagged/recipes)|[**Red Diamond Bev Service**](https://reddiamondbevservice.com/menu-ideas/)|[**The Republic of Tea**](https://the.republicoftea.com/tea-recipes/)|[**Revolution**](https://www.revolutiontea.com/blogs/recipes)|[**Rishi**](https://journal.rishi-tea.com/tea-recipes/)|
@@ -1744,7 +1719,7 @@
 |[**Abuelita**](https://www.goodnes.com/abuelita/recipes/)|[**Aero**](https://www.aerochocolate.co.uk/recipes)|[**Ah Cacao**](https://ahcacao.com/recipes)|[Best With Chocolate](https://bestwithchocolate.com/)|[**Beyond Good**](https://beyondgood.com/blogs/recipes)|
 |[**Blommer**](https://www.blommer.com/services-recipe-library.php)|[**Camille Bloch**](https://camillebloch.ch/en/torino/recettes/)|[**Cocoa Metro**](https://www.cocoametro.com/recipes)|[**Divine Chocolate**](https://www.divinechocolate.com/divine-world/recipes/)|[**Dobla**](https://www.dobla.com/en-gb)|
 |[Eat More Chocolate](https://eatmorechocolate.com/)|[**Enjoy Life**](https://enjoylifefoods.com/blogs/content/tagged/recipes)|[**Guittard**](https://www.guittard.com/in-the-kitchen/recipes)|[**Hawaiian Host**](https://hawaiianhost.com/blogs/news/tagged/recipes)|[**Hershey**](https://www.hersheyland.com/recipes-and-crafts)|
-|[**Honey Mamas**](https://honeymamas.com/blogs/recipes)|[**Lindt**](https://www.lindtusa.com/recipes/excellence-recipes)|[**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)|[**Loving Earth**](https://m.lovingearth.net/recipe)|[**Melangers**](https://www.melangers.com/blogs/recipes)|
+|[**Honey Mamas**](https://honeymamas.com/blogs/recipes)|[**Lindt**](https://www.lindtusa.com/recipes)|[**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)|[**Loving Earth**](https://m.lovingearth.net/recipe)|[**Melangers**](https://www.melangers.com/blogs/recipes)|
 |[**Mike and Jen's**](https://mikeandjens.com/pages/recipies)|[Mission Chocolate](https://missionchocolaterecipes.com/)|[**Murray Sugar-Free**](https://www.murraysugarfree.com/en/Murray-Sugar-Free-Recipes)|[**Nebula Snacks**](https://nebulasnacks.com/blogs/recipes)|[**Nesquik**](https://www.goodnes.com/nesquik/recipes/)|
 |[**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)|[**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/recipe-books/)|[**Simply Delish**](https://simplydelish.net/healthy-recipes/)|[**Supplant**](https://supplant.com/recipes)|[**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)|
 |[**Theo Chocolate**](https://theochocolate.com/blog/tag/Recipes)|[**Verse Chocolate**](https://versechocolate.com/blogs/news)|[**Vosges Chocolate**](https://www.vosgeschocolate.com/pages/recipes)|
@@ -1760,7 +1735,7 @@
 |[**Carbone Fine Food**](https://carbonefinefood.com/pages/recipes)|[**Chef Ecet**](http://chefecet.hu/en)|[**Chia Smash**](https://chiasmash.com/blogs/recipes-blog)|[**Chiporro**](https://chiporro.com/#eluid0efaa466)|[**Cholula**](https://www.cholula.com/en-us/recipes)|
 |[**Chosen Foods**](https://chosenfoods.com/blogs/central)|[**Cindy's Kitchen**](http://www.cindyskitchen.com/recipes)|[**Cocina**](https://wearecocina.com/recipes/)|[**Colicchio Collection**](https://colicchiocollection.com/pages/recipes)|[**Colman's Mustard**](https://colmansusa.com/recipes)|
 |[**Coombs Family Farm**](https://www.coombsfamilyfarms.com/maple-recipes/)|[**Cooper's Small Batch**](https://www.cooperssmallbatch.com/recipes)|[**Corine's Cuisine**](https://www.corinescuisine.com/blog)|[**Cornaby's**](https://cornabys.com/recipes/)|[**Crofter's Organic**](https://croftersorganic.com/recipes/)|
-|[**Crosse and Blackwell**](https://www.crosseandblackwell.com/)|[**Curry Culture**](https://curryculture.co.uk/category/curry-recipes/)|[**Dalmatia's Spreads**](https://dalmatiaspreads.com/pages/recipes)|[**D'Arbp**](https://www.darbo.at/en/delicious-recipes)|[**Dave's Gourmet**](https://davesgourmet.com/blogs/recipes)|
+|[**Crosse and Blackwell**](https://www.crosseandblackwell.com/)|[**Curry Culture**](https://curryculture.co.uk/category/curry-recipes/)|[**Dalmatia's Spreads**](https://dalmatiaspreads.com/pages/recipes)|[**D'Arbo**](https://www.darbo.at/en/delicious-recipes)|[**Dave's Gourmet**](https://davesgourmet.com/blogs/recipes)|
 |[**Dingolay Hot Sauce**](https://dingolayhotsauce.com/recipes/)|[**Divina Market**](https://divinamarket.com/blogs/recipes)|[**Do Anything Foods**](https://www.doanythingfoods.com/blogs/recipes)|[**Doux South**](https://douxsouth.com/recipes/)|[**Dress It Up**](https://www.dressitupdressing.com/blogs/recipes)|
 |[**Duke's Mayo**](https://dukesmayo.com/blogs/recipes)|[**Eat Grumpy Ginger**](https://eatgrumpyginger.com/blogs/recipes)|[**Eleni's Kitchen**](https://www.eleniskitchen.com/blog)|[**Fat Cat Foods**](https://fatcatfoods.com/blogs/recipes)|[**Felix Jams**](https://www.felixjams.com/recipes/)|
 |[**Fly By Jing**](https://flybyjing.com/)|[**Flying Goose Brand**](https://www.flyinggoosebrand.com/recipes/)|[**Foraged n' Found**](https://foragednfound.com/blogs/recipes)|[**Francesco Rinaldi**](https://francescorinaldi.com/blogs/recipes)|[**Frank's Kraut**](https://frankskraut.com/recipe/)|
@@ -1768,7 +1743,7 @@
 |[**Garlic Expressions**](https://garlic-expressions.com/recipes)|[**G. Hughes' Sugar-Free**](https://www.ghughessugarfree.com/original-bbq-recipes)|[**Gilly Loco**](https://gillyloco.com/blogs/recipes)|[**Global Sempio**](https://www.globalsempio.com/recipes/)|[**Gold's Horseradish**](https://www.goldshorseradish.com/blog/)|
 |[**Good Food for Good**](https://goodfoodforgood.ca/blogs/recipes-with-simplicity)|[**Good Good Brand**](https://goodgoodbrand.com/blogs/recipes)|[**Gotham Greens**](https://www.gothamgreens.com/journal/category/recipes/)|[**Green Mountain Gringo**](https://greenmountaingringo.com/recipes/)|[**Haven's Kitchen**](https://havenskitchen.com/recipes/)|
 |[**Heinz**](https://www.heinz.com/recipes/)|[**Hellmann's**](https://www.hellmanns.com/us/en/recipes.html)|[**Hidden Valley**](https://www.hiddenvalley.com/recipe/)|[**Holic Foods**](https://holicfoods.com/blogs/recipes)|[**Hope Foods**](https://hopefoods.com/recipes/)|
-|[**I Love Date Lady**](https://ilovedatelady.com/blogs/date-lady-recipes)|[**Imagine Foods**](https://www.imaginefoods.com/recipes)|[**Ithaca Hummus**](https://ithacahummus.com/real-recipes/)|[**Jar Goods**](https://jargoods.com/blogs/recipes)|[**Kewpie**](https://www.kewpie.com/en/products/mayonnaise/)|
+|[**I Love Date Lady**](https://ilovedatelady.com/blogs/date-lady-recipes)|[**Imagine Foods**](https://www.imaginefoods.com/recipes)|[**Ithaca Hummus**](https://ithacahummus.com/real-recipes/)|[**Jar Goods**](https://jargoods.com/blogs/recipes)|
 |[**Khalsa Salsa**](https://www.khalsasalsa.net/pages/recipes)|[**Kikkoman**](https://www.kikkoman.com/en/index.html)|[**Kitchen Crafted**](https://kitchencrafted.com/blogs/recipes)|[**Kozlik's Mustard**](https://www.kozliks.com/pages/recipes)|[**Kumana Foods**](https://www.kumanafoods.com/blogs/recipes)|
 |[**Lakanto**](https://www.lakanto.com/blogs/recipes)|[**La Terrafina**](https://laterrafina.com/recipes/)|[**La Victoria**](https://www.salsas.com/la-victoria/recipes/)|[**Le Sauce**](https://www.lesaucecompany.com/recipes)|[**Longson**](https://www.longson.com.my/recipes/)|
 |[**Maille**](https://us.maille.com/blogs/recipes)|[**Mama Kicks**](https://mamakicks.com/recipes)|[**Mama Lam's**](https://mamalams.com/recipes/)|[**Mama Mancini's**](https://www.mamamancinis.com/recipes/)|[**Maple from Canada**](https://www.maplefromcanada.co.uk/)|
@@ -1855,10 +1830,10 @@
 ### Dairy Alternatives
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Alpro**](https://www.alpro.com/uk/recipes/)|[**Arctic Zero**](https://www.arcticzero.com/recipes/)|[**Bute Island**](https://www.buteisland.com/recipes/)|[**Califia Farms**](https://www.califiafarms.com/recipes)|[**Core and Rind**](https://coreandrind.com/blogs/recipes)|
+|[**Alpro**](https://www.alpro.com/uk/recipes/)|[**Arctic Zero**](https://www.arcticzero.com/recipes/)|[**Bute Island**](https://www.buteisland.com/recipes/)|[**Califia Farms**](https://www.califiafarms.com/recipes)|
 |[**Craft Beering**](https://risebrewingco.com/blogs/recipe)|[**Daiya Foods**](https://daiyafoods.com/recipes/)|[**Dream**](https://www.dreamplantbased.com/recipes)|[**Earth Balance**](https://www.earthbalancenatural.com/recipes)|[**Eat Parma**](https://eatparma.com/category/recipes/)|
 |[**Field Roast**](https://fieldroast.com/recipes/)|[**Flora**](https://www.flora.com/en-us/floraplant/recipe)|[**Future of Cheese**](https://www.futureofcheese.com/copy-of-team)|[**Good Karma Foods**](https://goodkarmafoods.com/blogs/recipes)|[**Grillies**](https://www.grillies.com/recipes)|
-|[**Hye Foods**](https://hyefoods.com/food-recipe/)|[**Kite Hill**](https://www.kite-hill.com/recipes/)|[**Koita**](https://www.koita.com/koita-kitchen/)|[**Living Harvest**](https://livingharvest.com/#recipes)|[**Malk Organics**](https://malkorganics.com/recipes/)|
+|[**Kite Hill**](https://www.kite-hill.com/recipes/)|[**Koita**](https://www.koita.com/koita-kitchen/)|[**Living Harvest**](https://livingharvest.com/#recipes)|[**Malk Organics**](https://malkorganics.com/recipes/)|
 |[**Milkadamia**](https://milkadamia.com/recipes/)|[**Milkman**](https://milkmanmilk.com/blogs/milkman-bakery)|[**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)|[**Nature's Fynd**](https://www.naturesfynd.com/recipes)|[**New Barn Organics**](https://www.newbarnorganics.com/blogs/recipes)|
 |[**NotCo**](https://notco.com/us/recipes)|[**Nutpods**](https://www.nutpods.com/blogs/recipes)|[**NutraMilk**](https://thenutramilk.com/)|[**Planet Oat**](https://planetoat.com/recipes)|[**Rasaku**](https://rasaku.com.my/#recipe)|
 |[**Realcoco**](https://enjoyrealcoco.com/blogs/recipes)|[**Ripple Foods**](https://www.ripplefoods.com/blog/recipes/)|[**Silk**](https://silk.com/plant-based-recipes/)|[**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)|[**Three Trees**](https://www.threetrees.com/recipes)|
@@ -1893,7 +1868,7 @@
 |[**Ancient Harvest**](https://ancientharvest.com/recipes/)|[**Anson Mills**](https://ansonmills.com/recipes)|[**Argo Food Service**](https://www.argofoodservice.com/recipes/all)|[**Arrowhead Mills**](https://arrowheadmills.com/recipes/)|[**Athen's Foods**](https://athensfoods.com/recipes/)|
 |[**Bertolli**](https://www.bertolli.com/recipes/)|[**Bluebird Grain Farms**](https://bluebirdgrainfarms.com/recipes/)|[**Bob's Red Mill**](https://www.bobsredmill.com/recipes/)|[**Carbonaut**](https://www.carbonaut.co/blog-recipes/)|[**Community Grains**](https://www.communitygrains.com/recipes/)|
 |[**Cream of Wheat**](https://creamofwheat.com/recipes/)|[**Dove's Farm**](https://www.dovesfarm.co.uk/category/recipes/all-recipes)|[**Dunya Harvest**](https://www.dunyaharvest.com/recipes)|[**Earthly Choice**](https://earthlychoice.com/recipes/)|[**Eat Banza**](https://www.eatbanza.com/blogs/recipes)|
-|[**Eat Guud**](https://eatguud.com/blogs/recipes)|[Eat Wheat](https://eatwheat.org/recipes/)|[**Flahavan's**](https://www.flahavans.com/recipes/)|[**Food for Life**](https://www.foodforlife.com/recipes)|[**Go Barley**](https://gobarley.com/)|
+|[Eat Wheat](https://eatwheat.org/recipes/)|[**Flahavan's**](https://www.flahavans.com/recipes/)|[**Food for Life**](https://www.foodforlife.com/recipes)|[**Go Barley**](https://gobarley.com/)|
 |[**Great River Milling**](https://www.greatrivermilling.com/recipes/)|[**Homestead Gristmill**](https://www.homesteadgristmill.com/recipes/)|[**Jessica's Natural Foods**](https://jessicasnaturalfoods.com/recipes/)|[**Krusteaz**](https://www.krusteaz.com/recipes/)|[**Lakeside Mills**](https://lakeside-mills.mybigcommerce.com/recipes-1/)|
 |[**Laura's Gourmet**](https://www.laurasgourmet.com/recipes/)|[**Lentils**](https://www.lentils.org/recipes-cooking/)|[**Maine Grains**](https://mainegrains.com/)|[**Masienda**](https://masienda.com/blogs/learn)|[**Michele's Granola**](https://www.michelesgranola.com/blogs/recipes)|
 |[**Milton's Craft Bakers**](https://www.miltonscraftbakers.com/recipes)|[**Mylk Labs**](https://www.mylklabs.com/blogs/mylk-labs)|[**One Degree Organics**](https://onedegreeorganics.com/recipes/)|[**Outside the Breadbox**](https://outsidethebreadbox.com/blog/)|[**Pearl Milling Company**](https://www.pearlmillingcompany.com/recipes)|
@@ -1943,16 +1918,16 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**Adventure Kitchen**](https://www.adventurekitchen.com/collections/all-the-recipes)|[**A-Z Spice Co.**](https://www.azspiceco.com/recipes-list/)|[**Badia Spices**](https://badiaspices.com/recipes/)|[**Barvecue**](https://barvecue.com/blogs/recipes)|[**B-Garlic**](https://www.b-garlic.com/how-to-use)|
-|[**Borsari**](https://borsarifoods.com/blogs/recipes)|[**Botany Culture**](https://www.botanyculture.com/)|[**Burlap and Barrel**](https://www.burlapandbarrel.com/blogs/recipes)|[Cailleach's Herbarium](https://cailleachs-herbarium.com/category/herbalism/)|[Cassia at Home](https://cassiaathome.com/blogs/recipes)|
-|[**Cedar Mountain Herbs**](https://cedarmountainherbs.com/topics/recipes/)|[**Dano's Seasoning**](https://danosseasoning.com/recipes/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes/)|[**Dimply's**](https://www.dimplys.com/recipes/)|[**Fresh Jax**](https://freshjax.com/blogs/freshjax-recipes)|
-|[**Frontier Co-op**](https://www.frontiercoop.com/community/articles/cooking-with-cardamom-0)|[**Gaia Herbs**](https://www.gaiaherbs.com/blogs/seeds-of-knowledge/tagged/category-recipes)|[**Garlic Gold**](https://garlicgold.com/garlic-gold-recipes/)|[**GD Seasoning**](https://www.gdseasoning.com/recipes)|[**Gimme Some Grilling**](https://gimmesomegrilling.com/)|
+|[**Borsari**](https://borsarifoods.com/blogs/recipes)|[**Botany Culture**](https://www.botanyculture.com/)|[**Burlap and Barrel**](https://www.burlapandbarrel.com/blogs/recipes)|[Cassia at Home](https://cassiaathome.com/blogs/recipes)|
+|[**Cedar Mountain Herbs**](https://cedarmountainherbs.com/topics/recipes/)|[**Dano's Seasoning**](https://danosseasoning.com/recipes/)|[**Diaspora Co.**](https://www.diasporaco.com/blogs/recipes/)|
+|[**Gaia Herbs**](https://www.gaiaherbs.com/blogs/seeds-of-knowledge/tagged/category-recipes)|[**GD Seasoning**](https://www.gdseasoning.com/recipes)|[**Gimme Some Grilling**](https://gimmesomegrilling.com/)|
 |[**Gourmet Garden**](https://www.gourmetgarden.com/en-us/recipes)|[**Grill Mates**](https://www.mccormick.com/grill-mates/recipes)|[**Gustus Vitae**](https://www.gustusvitae.com/blogs/recipeish)|[The Herbal Academy](https://theherbalacademy.com/blog/)|[**Herbal Remedies Advice**](https://www.herbalremediesadvice.org/herbal-recipes.html)|
-|[**Herbie's**](https://www.herbies.com.au/recipes/)|[**Hey Grill Hey**](https://heygrillhey.com/)|[**Hungarian Paprika**](https://hungarianpaprika.net/en/recipes-page-10/)|[**Infinite Herbs**](https://infiniteherbs.com/category/recipes/)|[**Jekka's**](https://www.jekkas.com/blogs/jekkas-herb-based-recipes)|
+|[**Herbie's**](https://www.herbies.com.au/recipes/)|[**Hey Grill Hey**](https://heygrillhey.com/)|[**Infinite Herbs**](https://infiniteherbs.com/category/recipes/)|[**Jekka's**](https://www.jekkas.com/blogs/jekkas-herb-based-recipes)|
 |[**J. Q. Dickinson Salt-Works**](https://www.jqdsalt.com/blog/)|[**Kitchen Crafted**](https://kitchencrafted.com/blogs/recipes)|[**La Baleine**](https://www.labaleine.us/our-recipes-0)|[**La Boite**](https://www.laboiteny.com/blogs/recipes)|[**Lawry's**](https://www.mccormick.com/lawrys/recipes)|
 |[Learning Herbs](https://learningherbs.com/free-herbal-remedies/#top)|[**Littles Cuisine**](https://www.littlescuisine.com/meals/)|[**Maldon Salt**](https://maldonsalt.com/us/recipes-tips-blog/)|[**Maria and Ricardo's**](https://mariaandricardos.com/recipes/)|[Masal Herb](https://www.masalaherb.com/)|
 |[**Montana Mex**](https://www.montanamex.com/blogs/recipes)|[**Morton & Bassett**](https://mortonbassett.com/blogs/recipes)|[**Morton Salt**](https://www.mortonsalt.com/)|[**Mountain Rose Herbs**](https://blog.mountainroseherbs.com/)|[**Mr. Make It Happen**](https://www.mrmakeithappen.com/)|
 |[**Mrs. Dash**](https://mrsdash.com/recipes/)|[**Nielsen Massey**](https://nielsenmassey.com/recipes/)|[**Oakton Spice Shop**](https://oaktownspiceshop.com/blogs/recipes)|[**Oh My Spice**](https://www.oh-my-spice.com/blogs/news)|[**Olde Virdens**](https://oldevirdens.com/blogs/recipes)|
-|[**Olivelle**](https://www.olivelle.com/blogs/recipes)|[**Omnivore**](https://www.omnivore.us/blogs/recipes)|[**Organic India**](https://organicindiausa.com/blog/)|[**Osage Gardens**](https://osagegardens.com/)|[**Outdoor Apothecary**](https://www.outdoorapothecary.com/recipe-index/)|
+|[**Olivelle**](https://www.olivelle.com/blogs/recipes)|[**Omnivore**](https://www.omnivore.us/blogs/recipes)|[**Organic India**](https://organicindiausa.com/blog/)|[**Outdoor Apothecary**](https://www.outdoorapothecary.com/recipe-index/)|
 |[**Penzeys**](https://www.penzeys.com/shop/recipes/)|[**Pepper Scale**](https://www.pepperscale.com/category/spicy-recipes/)|[Phytoalimurgia](https://phytoalimurgia.com/category/recipes/)|[**Piquant Post**](https://piquantpost.com/blogs/recipes)|[**Primal Palate**](https://www.primalpalate.com/paleo-recipes/#us)|
 |[**Rumi Spice**](https://www.rumispice.com/blogs/recipes)|[**Saltery**](https://saltery.store/blogs/recipes)|[**Saporidelmondo**](https://www.saporidelmondo-blog.com/en/home-en/)|[**SF Salt**](https://sfsalt.com/blogs/recipes)|[**Sifra Foods**](https://www.sifrafoods.com/blog)|
 |[**Simply Organic**](https://www.simplyorganic.com/recipes)|[Snapdragon Life](https://www.snapdragonlife.com/content/blog/?filter=recipe)|[**Soli Organic**](https://www.soliorganic.com/recipes/)|[Spice and Life](https://www.spiceandlife.com/)|[**Spice Barn**](https://spicebarn.com/index.htm)|
@@ -2206,20 +2181,20 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[A Beautiful Plate](https://www.abeautifulplate.com/)|[Back to Our Roots](https://www.backtoourroots.net/)|[Baking Hermann](https://bakinghermann.com/)|[Biancolievito](https://biancolievito.com/)|[Bread Dad](https://breaddad.com/)|
-|[The Bread Kitchen](http://www.thebreadkitchen.com/)|[Bread Maker Machines](https://www.breadmakermachines.com/)|[**Breadman**](http://www.breadman.com/)|[Breadtopia](https://breadtopia.com/)|[The Clever Carrot](https://www.theclevercarrot.com/)|
+|[Bread Maker Machines](https://www.breadmakermachines.com/)|[**Breadman**](http://www.breadman.com/)|[Breadtopia](https://breadtopia.com/)|[The Clever Carrot](https://www.theclevercarrot.com/)|
 |[Cook 'Til Delicious](https://cooktildelicious.com/)|[Culinary Exploration](https://www.culinaryexploration.eu/blog)|[The Flavor Bells](https://theflavorbells.com/)|[The Fresh Loaf](https://www.thefreshloaf.com/)|[Grant Bakes](https://grantbakes.com/)|
 |[Heghineh](https://heghineh.com/)|[Home-Grown Happiness](https://homegrownhappiness.com/)|[Little Spoon Farm](https://littlespoonfarm.com/)|[Mary's Nest](https://marysnest.com/)|
 |[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|
 |[Natasha's Baking](https://natashasbaking.com/)|[Our Gabled Home](https://ourgabledhome.com/)|[Pantry Mama](https://www.pantrymama.com/)|[The Perfect Loaf](https://www.theperfectloaf.com/)|[Sammy Wong's Kitchen](https://sammywongskitchen.com/)|
 |[Sue Bee Homemaker](https://suebeehomemaker.com/)|[True Sourdough](https://truesourdough.com/)|
 
-- #### General
+- #### General 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[5 Boys Baker](https://www.5boysbaker.com/)|[8 Bits of Food](https://8bitsoffood.com/)|[52 Kitchen Adventures](https://www.52kitchenadventures.com/)|[80 Twenty Nutrition](https://80twentynutrition.com/)|[365 Days of Baking and More](https://www.365daysofbakingandmore.com/)|
 |[5th Avenue Cake Designs](https://5thavenuecakedesigns.com/)|[Agoralia Recipes](https://www.agoraliarecipes.com/)|[Aliette de Bodard](https://www.aliettedebodard.com/recipes/)|[Also the Crumbs Please](https://www.alsothecrumbsplease.com/)|[Always Eat Dessert](https://alwayseatdessert.com/)|
-|[Amy's Healthy Baking](https://amyshealthybaking.com/)|[Annisa Sofia](https://annisasofia.com/)|[The Answer is Cake](https://www.theansweriscake.com/)|[Apt. 2B Baking Co.](http://www.apt2bbakingco.com/)|[At Sloane's Table](https://atsloanestable.com/)|
-|[Bakeanista](https://thebakeanista.com/)|[Bake at 350](https://www.bakeat350.net/)|[Bake at Midnite](https://bakeatmidnite.com/)|[Baked](https://www.baked-theblog.com/)|[Baked Bree](https://bakedbree.com/)|
+|[Amy's Healthy Baking](https://amyshealthybaking.com/)|[The Answer is Cake](https://www.theansweriscake.com/)|[Apt. 2B Baking Co.](http://www.apt2bbakingco.com/)|[At Sloane's Table](https://atsloanestable.com/)|
+|[Bakeanista](https://thebakeanista.com/)|[Bake at 350](https://www.bakeat350.net/)|[Bake at Midnite](https://bakeatmidnite.com/)|[Baked Bree](https://bakedbree.com/)|
 |[The Bake Dept.](https://www.thebakedept.com/)|[Baked by Rachel](https://www.bakedbyrachel.com/)|[Baked by an Introvert](https://www.bakedbyanintrovert.com/)|[Bake Club](https://bakeclub.com.au/)|[Bake Fresh](https://bakefresh.net/)|
 |[Bake from Scratch](https://www.bakefromscratch.com/)|[Bake it With Love](https://bakeitwithlove.com/)|[Bake or Break](https://bakeorbreak.com/)|[The Baker Chick](https://www.thebakerchick.com/)|[Bakepedia](https://www.bakepedia.com/)|
 |[Bake Play Smile](https://bakeplaysmile.com/)|[Baker Bettie](https://bakerbettie.com/)|[Baker by Nature](https://bakerbynature.com/)|[Baker Jo](https://bakerjo.co.uk/)|[Bakes and Blunders](https://www.bakesandblunders.com/)|
@@ -2227,11 +2202,11 @@
 |[Baking Bites](https://bakingbites.com/)|[Baking Envy](https://www.bakingenvy.com/)|[The Baking Explorer](https://thebakingexplorer.com/)|[Baking for Friends](https://www.bakingforfriends.com/)|[Baking for Happiness](https://www.baking4happiness.com/)|
 |[A Baking Journey](https://www.abakingjourney.com/)|[Baking Mad](https://www.bakingmad.com/)|[Baking Martha](https://www.bakingmartha.co.uk/)|[Baking Sense](https://www.baking-sense.com/)|[Baking Taitai](https://www.bakingtaitai.com/)|
 [Baking with Aimee](https://bakingwithaimee.com/)|[Baking with Granny](https://bakingwithgranny.co.uk/)|[Baking with Josh & Ange](https://www.bakingwithjoshandange.com/)|[The Baking Wizard](https://thebakingwizard.com/)|[Baran Bakery](https://baranbakery.com/)|
-|[Barbara Bakes](https://www.barbarabakes.com/)|[Barth Bakery](https://www.barthbakery.com/)|[A Beautiful Mess](https://abeautifulmess.com/category/food/)|[Beneath the Crust](https://www.beneaththecrust.com/)|[BenGingi](https://www.bengingi.com/)|
+|[Barbara Bakes](https://www.barbarabakes.com/)|[Barth Bakery](https://www.barthbakery.com/)|[A Beautiful Mess](https://abeautifulmess.com/category/food/)|[BenGingi](https://www.bengingi.com/)|
 |[The Best Cake Recipes](https://thebestcakerecipes.com/)|[**Betty Crocker**](https://www.bettycrocker.com/recipes)|[Beyond Frosting](https://beyondfrosting.com/)|[Beyond the Butter](https://beyondthebutter.com/)|[Bite It Quick](https://biteitquick.com/)|
-|[A Bite of Delight](https://www.abiteofdelight.com/)|[The Blonde Abroad](https://www.theblondeabroad.com/recipes/)|[Blondie-ish at Kitchen](https://blondieishatkitchen.com/en_US/)|[Blossom to Stem](https://www.blossomtostem.net/)|[Bojon Gourmet](https://bojongourmet.com/)|
+|[The Blonde Abroad](https://www.theblondeabroad.com/recipes/)|[Blondie-ish at Kitchen](https://blondieishatkitchen.com/en_US/)|[Blossom to Stem](https://www.blossomtostem.net/)|[Bojon Gourmet](https://bojongourmet.com/)|
 |[Bonni Bakery](https://bonnibakery.com/)|[Boo Boo's Bakery](https://booboosbakery.com/)|[Boston Girl Bakes](https://www.bostongirlbakes.com/)|[The Boy Who Bakes](https://www.theboywhobakes.co.uk/)|[Bread by Elise](https://breadbyelise.com/)|
-|[Broma Bakery](https://bromabakery.com/)|[Browned Butter Blondie](https://brownedbutterblondie.com/)|[Brown Eyed Baker](https://www.browneyedbaker.com/)|[Brownie Brittle](https://www.browniebrittle.com/pages/all-recipes)|[Bru Crew Life](https://insidebrucrewlife.com/)|
+|[Broma Bakery](https://bromabakery.com/)|[Browned Butter Blondie](https://brownedbutterblondie.com/)|[Brown Eyed Baker](https://www.browneyedbaker.com/)|[Bru Crew Life](https://insidebrucrewlife.com/)|
 |[Bunsen Burner Bakery](https://www.bunsenburnerbakery.com/)|[Butter and Bliss](https://butterandbliss.net/)|[Butternut Bakery](https://butternutbakeryblog.com/)|[The Cake Blog](https://thecakeblog.com/)|[Cake By Courtney](https://cakebycourtney.com/)|
 |[Cake Central](https://www.cakecentral.com/)|[Cakelets & Doilies](http://cakeletsanddoilies.blogspot.com/)|[Cakere](https://www.cakere.com/)|[**Cake Rush**](https://www.cakerush.my/blogs/recipes/)|[Cakescottage](https://cakescottage.com/)|
 |[Cakes Whiz](https://cakewhiz.com/)|[Cakey Boi](https://www.cakeyboi.com/)|[Call Me Cupcake](https://www.callmecupcake.se/)|[Celebrating Sweets](https://celebratingsweets.com/)|[Certified Pastry Aficionado](https://www.certifiedpastryaficionado.com/)|
@@ -2243,9 +2218,9 @@
 |[DessArts](https://www.dessarts.com/)|[Dessert First Girl](https://dessertfirstgirl.com/)|[Dessert For Two](https://www.dessertfortwo.com/)|[Dessertisans](https://dessertisans.com/)|[Dessert Now, Dinner Later](https://www.dessertnowdinnerlater.com/)|
 |[Desserts With Benefits](https://dessertswithbenefits.com/)|[The Domestic Rebel](https://thedomesticrebel.com/)|[The Donut Whole](https://www.thedonutwhole.com/)|[Doug Bakes](https://dougbakes.com/)|[**Duff**](https://www.duff.com/recipes)|
 |[E2 Bakes Brooklyn](https://e2bakesbrooklyn.com/)|[Easy as Cookies](https://easyascookies.com/)|[Easy Sugar-Free](https://www.easy-sugarfree.com/)|[Eat Delights](https://eatdelights.com/)|[**Eat Gonanaa**](https://eatgonanas.com/blogs/recipes)|
-|[Eat Munch Love](https://eatmunchlove.com/category/recipes/)|[Eat the Love](https://www.eatthelove.com/)|[Elisabeth and Butter](https://www.elisabethandbutter.com/)|[Elyse Creates](https://elysecreates.com/)|[Emily Luchetti](http://www.emilyluchetti.com/recipes-introduction)|
-|[Emma Duckworth Bakes](https://emmaduckworthbakes.co.uk/)|[**Entenmanns**](https://www.entenmanns.com/en/fantastic-recipes)|[Enticing Desserts](https://enticingdesserts.com/)|[Eva Bakes](https://www.eva-bakes.com/)|[Everyday Pie](https://everydaypie.com/)|
-|[Family Cookie Recipes](https://familycookierecipes.com/)|[The Farmer's Daughter](https://www.the-farmersdaughter.com/)|[Feasting on Fruit](https://feastingonfruit.com/)|[Feliz Em Gluten](https://felizsemgluten.com.br/en/)|[filcanbites](https://filcanbites.com/)|
+|[Eat Munch Love](https://eatmunchlove.com/category/recipes/)|[Eat the Love](https://www.eatthelove.com/)|[Elisabeth and Butter](https://www.elisabethandbutter.com/)|[Emily Luchetti](http://www.emilyluchetti.com/recipes-introduction)|
+|[Emma Duckworth Bakes](https://emmaduckworthbakes.co.uk/)|[**Entenmanns**](https://www.entenmanns.com/recipes)|[Eva Bakes](https://www.eva-bakes.com/)|[Everyday Pie](https://everydaypie.com/)|
+|[Family Cookie Recipes](https://familycookierecipes.com/)|[Feasting on Fruit](https://feastingonfruit.com/)|[Feliz Em Gluten](https://felizsemgluten.com.br/en/)|[filcanbites](https://filcanbites.com/)|
 |[The First Year Blog](https://thefirstyearblog.com/)|[**Flapjacked**](https://www.flapjacked.com/blogs/recipes)|[The Floured Table](https://www.theflouredtable.com/)|[**Flourish Pancakes**](https://www.flourishpancakes.com/en-us/blogs/fun-flourish-recipes)|[Flour on My Fingers](https://flouronmyfingers.com/)|
 |[Food Lust, People Love](https://www.foodlustpeoplelove.com/)|[Friendship Bread Kitchen](https://www.friendshipbreadkitchen.com/)|[Gather for Bread](https://gatherforbread.com/)|[Geoff's Baking Blog](https://geoffsbakingblog.com/)|[Ginger Snap's Baking Affair](https://gingersnapsbakingaffairs.com/)|
 |[Girl Versus Dough](https://www.girlversusdough.com/)|[Glitter and Goulash](http://glitterandgoulash.com/)|[**Good Dee's**](https://gooddees.com/blogs/news)|[Good Things Baking](https://goodthingsbaking.com/)|[Greedy Eats](https://greedyeats.com/)|
@@ -2254,39 +2229,39 @@
 |[How to Make Easy Cookies](https://howtomakeeasycookies.com/)|[Hummingbird High](https://www.hummingbirdhigh.com/)|[I Am Baker](https://iambaker.net/)|[I Am Homesteader](https://iamhomesteader.com/)|[Identical Recipes](https://www.identicalrecipes.com/)|
 |[I Made My Cake](https://imademycake.com/)|[I'm Heatherr](https://imheatherr.com/)|[**InBite**](https://inbite.us/blogs/recipes)|[International Desserts Blog](https://www.internationaldessertsblog.com/)|[**The Invisible Chef**](https://theinvisiblechef.com/pages/recipes)|
 |[Itsy Bitsy Kitchen](https://itsybitsykitchen.com/)|[Jaja Bakes](https://jajabakes.com/)|[Jane's Patisserie](https://www.janespatisserie.com/)|[JeanellEats](https://jeanelleats.com/)|[Jelly Toast Blog](https://jellytoastblog.com/)|
-|[Jenny Is Baking](https://jennyisbaking.com/)|[Jen's Favorite Cookies](https://jensfavoritecookies.com/)|[**Jiffy Mix**](https://site.jiffymix.com/recipes/)|[Jordbrovej](https://jordbrovej.wordpress.com/)|[Joy the Baker](https://joythebaker.com/)|
+|[Jenny Is Baking](https://jennyisbaking.com/)|[**Jiffy Mix**](https://site.jiffymix.com/recipes/)|[Jordbrovej](https://jordbrovej.wordpress.com/)|[Joy the Baker](https://joythebaker.com/)|
 |[Julie Marie Eats](https://juliemarieeats.com/)|[Just So Tasty](https://www.justsotasty.com/)|[Katie Bird Bakes](https://www.katiebirdbakes.com/)|[Kickass Baker](https://kickassbaker.com/)|[Kiki's Book of Dreams](http://kikisbookofdreams.blogspot.com/p/recipes.html)|
 |[Kitchen Tigress](https://kitchentigress.com/)|[Korena in the Kitchen](https://korenainthekitchen.com/)|[The Kosher Baker](https://www.thetasteofkosher.com/)|[La Cooquette](https://lacooquette.com/about-la-cooquette/)|[A Latte Food](https://www.alattefood.com/)|
 |[The Lazy Vegan Baker](https://www.thelazyveganbaker.com/)|[**Lehi Mills**](https://lehimills.com/blogs/desserts)|[Lenox Bakery](https://lenoxbakery.com/)|[**Libby's**](https://www.verybestbaking.com/libbys/recipes/)|[Life, Love and Sugar](https://www.lifeloveandsugar.com/)|
-|[Lights Camera Bake](https://www.lightscamera-bake.com/)|[Lilie Bakery](https://liliebakery.fr/en/)|[Lili's Cakes](https://liliscakes.com/)|[Lil' Luna](https://lilluna.com/)|[Lily's Sweets](https://lilys.com/blogs/live)|
+|[Lights Camera Bake](https://www.lightscamera-bake.com/)|[Lilie Bakery](https://liliebakery.fr/en/)|[Lili's Cakes](https://liliscakes.com/)|[Lil' Luna](https://lilluna.com/)|
 |[Lion's Bread](https://www.lionsbread.com/)|[Little Sugar Snaps](https://www.littlesugarsnaps.com/)|[Live Well, Bake Often](https://www.livewellbakeoften.com/)|[Liv For Cake](https://livforcake.com/)|[Living Healthy with Chocolate](https://livinghealthywithchocolate.com/)|
-|[Living Sweet Moments](https://livingsweetmoments.com/)|[**Lo Dough**](https://lodough.co/blogs/recipes)|[The Loopy Whisk](https://theloopywhisk.com/)|[Love and Olive Oil](https://www.loveandoliveoil.com/)|[Love Bakes Good Cakes](https://www.lovebakesgoodcakes.com/)|
+|[Living Sweet Moments](https://livingsweetmoments.com/)|[The Loopy Whisk](https://theloopywhisk.com/)|[Love and Olive Oil](https://www.loveandoliveoil.com/)|[Love Bakes Good Cakes](https://www.lovebakesgoodcakes.com/)|
 |[Mama Bear's Kitchen](http://mamabearskitchen.com.au/)|[Marga](https://www.marga.org/food/int/)|[The Marmalade Teapot](https://www.themarmaladeteapot.com/)|[Meals by Molly](https://www.mealsbymolly.com/)|[Mighty Mrs.](https://www.mightymrs.com/)|
 |[Mike Bakes NYC](https://mikebakesnyc.com/)|[Mildly Meandering](https://mildlymeandering.com/)|[Milk and Pop](https://milkandpop.com/)|[**Milk Bar Store**](https://milkbarstore.com/blogs/recipes/)|[Mindee's Cooking Obsession](https://mindeescookingobsession.com/)|
 |[MiNDFOODIE](https://www.mindfood.com/category/recipes/)|[Mini Batch Baker](https://minibatchbaker.com/)|[Modern Asian Baking](https://www.modernasianbaking.com/)|[The Monday Box](https://themondaybox.com/)|[Mostly Bakes](https://mostlybakes.com/)|
-|[Movers and Bakers](https://moversandbakers.co.uk/)|[My Cake School](https://www.mycakeschool.com/)|[My Delicious Monster](https://mydeliciousmonster.com/)|[My Name is Yeh](https://mynameisyeh.com/)|[My Urban Treats](https://myurbantreats.com/)|
-|[Naomi Cakes](https://naomicakes.com/)|[Nestle Toll House](https://www.verybestbaking.com/toll-house/)|[New Gen Baker](https://newgenbaker.com/)|[**Odlums**](https://www.odlums.ie/category/odlums-recipes/all-recipes/)|[Of Batter and Dough](https://ofbatteranddough.com/)|
+|[Movers and Bakers](https://moversandbakers.co.uk/)|[My Cake School](https://www.mycakeschool.com/)|[My Name is Yeh](https://mynameisyeh.com/)|[My Urban Treats](https://myurbantreats.com/)|
+|[Naomi Cakes](https://naomicakes.com/)|[Nestle Toll House](https://www.verybestbaking.com/toll-house/)|[New Gen Baker](https://newgenbaker.com/)|[Of Batter and Dough](https://ofbatteranddough.com/)|
 |[Oh Lady Cakes](https://www.ohladycakes.com/)|[Olives + Thyme](https://olivesnthyme.com/)|[OMG Chocolate Desserts](https://omgchocolatedesserts.com/)|[One Sarcastic Baker](https://www.onesarcasticbaker.com/)|[Only Crumbs Remain](https://onlycrumbsremain.com/)|
-|[**Ozery Bakery**](https://ozerybakery.com/us-en/)|[Panko Bunny](https://www.pankobunny.com/)|[Parsley & Icing](https://parsleyandicing.com/)|[Parsnips and Pastries](https://www.parsnipsandpastries.com/)|[Partylicious](https://partylicious.net/)|
-|[Pass the Dessert](https://passthedessert.com/)|[Pastries Like a Pro](https://pastrieslikeapro.com/)|[Pastry Affair](https://www.pastryaffair.com/)|[Pastry and Beyond](https://pastryandbeyond.com/)|[Pastry Chef Online](https://pastrychefonline.com/)|
+|[Panko Bunny](https://www.pankobunny.com/)|[Parsley & Icing](https://parsleyandicing.com/)|[Parsnips and Pastries](https://www.parsnipsandpastries.com/)|[Partylicious](https://partylicious.net/)|
+|[Pass the Dessert](https://passthedessert.com/)|[Pastries Like a Pro](https://pastrieslikeapro.com/)|[Pastry Affair](https://www.pastryaffair.com/)|[Pastry and Beyond](https://pastryandbeyond.com/)|
 |[Pastry Maestra](https://pastrymaestra.com/)|[Pastry Wiz](https://www.pastrywiz.com/)|[Patisserie Makes Perfect](https://www.patisseriemakesperfect.co.uk/)|[Pies and Plots](https://piesandplots.net/)|[**Pillsbury**](https://www.pillsbury.com/recipes)|
-|[Ping Desserts](https://www.pingdesserts.com/)|[Pint-Size Bakery](https://www.pintsizebakery.com/recipes)|[Portlandia Pie Lady](https://portlandiapielady.com/)|[Pretty Simple Sweet](https://prettysimplesweet.com/)|[Project Vegan Baking](https://projectveganbaking.com/)|
+|[Ping Desserts](https://www.pingdesserts.com/)|[Pint-Size Bakery](https://www.pintsizebakery.com/recipes)|[Portlandia Pie Lady](https://portlandiapielady.com/)|[Pretty Simple Sweet](https://prettysimplesweet.com/)|
 |[Puratos](https://www.puratos.com.my/en/recipes)|[Real Irish Desserts](https://realirishdesserts.com/)|[Red Currant Bakery](https://redcurrantbakery.com/)|[The Redhead Baker](https://www.theredheadbaker.com/)|[Red Fermented Grapes](https://redfermentedgrapes.com/)|
 |[Robin's Web](http://www.robinsweb.com/cookies/index.html)|[Rose Bakes](https://rosebakes.com/)|[**Saco Pantry**](https://www.sacopantry.com/recipes/)|[Sally's Baking Addiction](https://sallysbakingaddiction.com/)|[Salt & Baker](https://saltandbaker.com/)|
-|[The Salted Sweets](https://thesaltedsweets.com/)|[Salt Lake Culinary](https://sliceutah.com/blog-salt-lake-culinary-utah/)|[Santa Barbara Baker](https://santabarbarabaker.com/)|[Sarah Makes Stuff](https://www.sarahmakesstuff.com/)|[**Sasas Mix**](https://sasasmix.com/blogs/recipes)|
+|[The Salted Sweets](https://thesaltedsweets.com/)|[Salt Lake Culinary](https://sliceutah.com/blog-salt-lake-culinary-utah/)|[Santa Barbara Baker](https://santabarbarabaker.com/)|[Sarah Makes Stuff](https://www.sarahmakesstuff.com/)|
 |[Scientifically Sweet](https://scientificallysweet.com/)|[Scratch Pantry](https://scratchpantry.com/)|[Scotch and Scones](https://www.scotchandscones.com/)|[Secret Ingredient](https://secret-ingredient.net/)|[Shirlgard](https://shirlgard.com/)|
-|[Sift n' Whisk](https://www.siftnwhisk.com/)|[Silicone Moulds](http://siliconemoulds.blogspot.com/)|[Simply Veganista](https://simple-veganista.com/)|[Solo Foods](https://www.solofoods.com/recipes)|[Something Swanky](https://www.somethingswanky.com/)|
+|[Silicone Moulds](http://siliconemoulds.blogspot.com/)|[Simply Veganista](https://simple-veganista.com/)|[Solo Foods](https://www.solofoods.com/recipes)|[Something Swanky](https://www.somethingswanky.com/)|
 |[A Sparkle of Genius](https://www.asparkleofgenius.com/)|[Spatula Desserts](https://www.spatuladesserts.com/)|[The Spelt Kitchen](https://www.thespeltkitchen.com/)|[Spices n' Flavors](https://spicesnflavors.com/)|[Spicy Ice Cream](https://spicyicecream.com.au/recipe-index/)|
 |[Sprinkle Bakes](https://www.sprinklebakes.com/)|[**St. Pierre Bakery**](https://stpierrebakery.co.uk/recipes/)|[Stress Baking](https://stressbaking.com/)|[Style Sweet](https://stylesweet.com/)|[Sue Bee Homemaker](https://suebeehomemaker.com/)|
 |[Sugar & Sparrow](https://sugarandsparrow.com/)|[The Sugar Coated Cottage](https://www.thesugarcoatedcottage.com/)|[Sugar Hero](https://www.sugarhero.com/)|[Sugar Laws](https://www.sugarlaws.com/)|[Sugar Spun Run](https://sugarspunrun.com/)|
 |[Sugar Yums](https://sugaryums.co.uk/)|[Summer Bakes the World](https://summerbakestheworld.com/)|[Sunday Baker](https://sundaybaker.co/)|[Suzie Sweet Tooth](https://suziesweettooth.com/)|[Sweet Beginnings Blog](https://sweetbeginningsblog.com/)|
-|[Sweet Loren's](https://sweetlorens.com/lets-dish/)|[Sweetest Menu](https://www.sweetestmenu.com/)|[Sweet Fix Baker](https://www.sweetfixbaker.com/)|[Sweet Saura](https://sweetsaura.com/)|[Sweet Things by Lizzie](https://sweetthingsbylizzie.com/)|
+|[Sweet Loren's](https://sweetlorens.com/lets-dish/)|[Sweetest Menu](https://www.sweetestmenu.com/)|[Sweet Fix Baker](https://www.sweetfixbaker.com/)|[Sweet Things by Lizzie](https://sweetthingsbylizzie.com/)|
 |[Tasting Thyme](https://tasting-thyme.com/)|[Tea Collection](https://blog.teacollection.com/category/global-dishes/)|[Teak & Thyme](https://teakandthyme.com/)|[Teatime Magazine](https://www.teatimemagazine.com/category/recipes/)|[Texan Erin](https://www.texanerin.com/)|
 |[Top with Cinnamon](https://topwithcinnamon.com/)|[Tray Bakes and More](http://traybakesandmore.com/)|[A Treat's Affair](http://atreatsaffair.com/)|[**TruEats**](https://www.trueats.com/blogs/recipes)|[Two Raspberries](https://tworaspberries.com/)|
 |[Two Sisters Crafting](https://www.twosisterscrafting.com/)|[Two Sugar Bugs](https://twosugarbugs.com/)|[Tutti Dolci](https://tutti-dolci.com/)|[typefoodie](https://www.typefoodie.com/)|[Ugly Duckling Bakery](https://uglyducklingbakery.com/)|
 |[Unconventional Baker](https://www.unconventionalbaker.com/)|[The University of Rhode Island](https://web.uri.edu/community-nutrition/recipes/)|[The Unlikely Baker](https://theunlikelybaker.com/)|[The Vanilla Bean Blog](https://sweetlorens.com/lets-dish/)|[Veena Azmanov](https://veenaazmanov.com/)|
 |[Vintage Kitchen Notes](https://vintagekitchennotes.com/)|[Waiting for Blanc Mange](https://waitingforblancmange.com/)|[Weekend Bakery](https://www.weekendbakery.com/)|[**Well and Good**](https://wellandgood.com.au/well-and-good-new-food-recipes/)|[What Jessica Baked Next](https://whatjessicabakednext.com/)|
-|[Wheat Beat](https://wheatbeat.com/)|[Wheel of Baking](https://wheelofbaking.com/)|[Whisk Averse Baking](https://whiskaversebaking.com/)|[White on Rice Couple](https://whiteonricecouple.com/)|[Wholesome Patisserie](https://wholesomepatisserie.com/)|
+|[Wheat Beat](https://wheatbeat.com/)|[Wheel of Baking](https://wheelofbaking.com/)|[White on Rice Couple](https://whiteonricecouple.com/)|[Wholesome Patisserie](https://wholesomepatisserie.com/)|
 |[**Wholly Wholesome**](https://www.whollywholesome.com/category/recipes/)|[Wifee Mama Foodie](https://www.wifemamafoodie.com/)|[Willow Bird Baking](http://willowbirdbaking.com/)|[**XO Baking Co.**](https://xobakingco.com/recipes/)|[Your Cup of Cake](https://www.yourcupofcake.com/)|
 |[Youth Sweets](https://youthsweets.com/)|[Zhang Catherine](https://zhangcatherine.com/)|[Zoe Bakes](https://zoebakes.com/)|[Made By Shade](https://www.madebyshade.com/)
 
@@ -2295,7 +2270,7 @@
 | --- | --- | --- | --- | --- |
 |[Angus and Oink](https://angusandoink.com/blogs/recipes)|[BBQ Heroes](https://bbq-heroes.com/)|[BBQing with the Nolands](https://bbqingwiththenolands.com/)|[Better Grills](https://bettergrills.com/)|[Burger Artist](https://www.burgerartist.com/)|
 |[Burgers Here and There](https://burgershereandthere.com/)|[**Charbroil**](https://www.charbroil.com/recipes)|[**Chicago Steak Company**](https://www.mychicagosteak.com/steak-university/category/cooking/recipes)|[Chiles and Smoke](https://www.chilesandsmoke.com/)|[Cooking Outdoors](https://cooking-outdoors.com/)|
-|[Date Night Doins](https://datenightdoins.com/)|[**Derrick Riches**](https://www.derrickriches.com/)|[Destination BBQ](https://destination-bbq.com/)|[**Dimply's**](https://www.dimplys.com/recipes/)|[The Flat Top King](https://theflattopking.com/)|
+|[Date Night Doins](https://datenightdoins.com/)|[**Derrick Riches**](https://www.derrickriches.com/)|[Destination BBQ](https://destination-bbq.com/)|[The Flat Top King](https://theflattopking.com/)|
 |[Foreman Grill Recipes](https://foremangrillrecipes.com/)|[**Gimme Some Grilling**](https://gimmesomegrilling.com/)|[Girl Carnivore](https://girlcarnivore.com/)|[Girls Can Grill](https://girlscangrill.com/)|[Grilling 24x7](https://grilling24x7.com/)|
 |[Grilling Montana](https://grillingmontana.com/)|[**Grill Mates**](https://www.mccormick.com/grill-mates/recipes)|[Grill on a Dime](https://grillonadime.com/)|[Grill Seeker](https://www.grillseeker.com/)|[**Hey Grill Hey**](https://heygrillhey.com/)|
 |[**Kingsford**](https://www.kingsford.com/recipes/)|[**Lillie's**](https://lilliesq.com/blogs/bbq-recipes)|[Meathead's Amazing Ribs](https://amazingribs.com/)|[The Online Grill](https://theonlinegrill.com/)|[Or Whatever You Do](https://www.orwhateveryoudo.com/)|
@@ -2314,22 +2289,22 @@
 | --- | --- | --- | --- | --- |
 |[Cast Iron Keto](https://www.castironketo.net/)|[Cast Iron Recipes](https://castironrecipes.com/)|[Heavy Metal Cookbook](https://www.heavymetalcookbook.com/)|[**Lodge Cast Iron**](https://www.lodgecastiron.com/discover/recipes)|[**Southern Cast Iron**](https://southerncastiron.com/)|
 
-### Preserving
+### Preserving 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Cansanity](https://cansanity.com/)|[Cultured](https://cultured.guru/)|[**Cultures for Health**](https://culturesforhealth.com/)|[Eat Delights](https://eatdelights.com/)|[Fermentation Recipes](https://www.fermentationrecipes.com/)|
-|[Fermenters Club](https://fermentersclub.com/category/recipes/)|[Fermenters Kitchen](https://fermenterskitchen.com/)|[Fermenting for Foodies](https://www.fermentingforfoodies.com/)|[Fermentology](https://fermentology.pubpub.org/recipes)|[Food in Jars](https://foodinjars.com/recipes/)|
-|[Food Preserving](http://www.foodpreserving.org/)|[Great Lakes Prepping](https://www.greatlakesprepping.com/)|[Grow Forage Cook Ferment](https://www.growforagecookferment.com/)|[Homegrown Happiness](https://homegrownhappiness.com/)|[Homespun Seasonal Living](https://homespunseasonalliving.com/)|
-|[Insane in the Brine](https://insaneinthebrine.com/)|[Jem Ferments](https://jemferments.com/blog/)|[Just Dabbling Along](https://www.justdabblingalong.com/homestead-life/food/)|[Lady Lee's Home](https://ladyleeshome.com/)|[Mary's Nest](https://marysnest.com/)|
+|[Fermenters Club](https://fermentersclub.com/category/recipes/)|[Fermenting for Foodies](https://www.fermentingforfoodies.com/)|[Fermentology](https://fermentology.pubpub.org/recipes)|[Food in Jars](https://foodinjars.com/recipes/)|
+|[Food Preserving](http://www.foodpreserving.org/)|[Grow Forage Cook Ferment](https://www.growforagecookferment.com/)|[Homegrown Happiness](https://homegrownhappiness.com/)|[Homespun Seasonal Living](https://homespunseasonalliving.com/)|
+|[Insane in the Brine](https://insaneinthebrine.com/)|[Lady Lee's Home](https://ladyleeshome.com/)|[Mary's Nest](https://marysnest.com/)|
 |[Mountain Feed](https://www.mountainfeed.com/blogs/learn)|[My Fermentation](https://www.myfermentation.com/)|[Old World Garden Farms](https://oldworldgardenfarms.com/cooking-and-canning-recipes/)|[An Oregon Cottage](https://anoregoncottage.com/)|[Our Gabled Home](https://ourgabledhome.com/)|
-|[Practical Self-Reliance](https://practicalselfreliance.com/)|[Prepared Housewives](http://prepared-housewives.com/food-storage-recipes-index/)|[Preparedness Mama](https://preparednessmama.com/food-storage/food-storage-recipes/)|[The Purposeful Pantry](https://www.thepurposefulpantry.com/)|[Ready and Thriving](https://readyandthriving.com/)|
+|[Practical Self-Reliance](https://practicalselfreliance.com/)|[Prepared Housewives](http://prepared-housewives.com/food-storage-recipes-index/)|[Preparedness Mama](https://preparednessmama.com/food-storage/food-storage-recipes/)|[The Purposeful Pantry](https://www.thepurposefulpantry.com/)|
 |[**Revolution Fermentation**](https://revolutionfermentation.com/en/)|[Schneider Peeps](https://www.schneiderpeeps.com/)|[Wild Fermentation](https://www.wildfermentation.com/)|
 
-### Pressure Cooker
+### Pressure Cooker 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[365 Days of Slow + Pressure Cooking](https://www.365daysofcrockpot.com/)|[Amy + Jacky](https://www.pressurecookrecipes.com/)|[Corrie Cooks](https://www.corriecooks.com/)|[Eating in an Instant](https://eatinginaninstant.com/)|[Fast Food Bistro](https://fastfoodbistro.com/)|
-|[Fork to Spoon](https://forktospoon.com/)|[Hip Pressure Cooking](https://www.hippressurecooking.com/)|[Hollis Homestead](https://www.hollishomestead.com/)|[**Instant Pot**](https://recipes.instantpot.com/)|[Instant Pot Eats](https://instantpoteats.com/)|
+|[Fork to Spoon](https://forktospoon.com/)|[Hip Pressure Cooking](https://www.hippressurecooking.com/)|[Hollis Homestead](https://www.hollishomestead.com/)|[Instant Pot Eats](https://instantpoteats.com/)|
 |[Lana Under Pressure](https://lanaunderpressure.com/)|[Magic Skillet](https://magicskillet.com/)|[Monday is Meatloaf](https://mondayismeatloaf.com/)|[Paint the Kitchen Red](https://www.paintthekitchenred.com/)|[Pressure Luck Cooking](https://pressureluckcooking.com/)|
 |[The Skinny Pot](https://theskinnypot.com/)|[Tidbits](https://tidbits-marci.com/)|
 
@@ -2339,10 +2314,10 @@
 |[365 Days of Slow + Pressure Cooking](https://www.365daysofcrockpot.com/)|[Carnegie Mellon](http://www.cs.cmu.edu/~mjw/recipes/crockpot/crkpot-coll-2.html)|[**Crock Pot**](https://www.crock-pot.com/on/demandware.store/Sites-crockpot-Site/default/Content-BlogLanding?fdid=recipes)|[Crock Pot Ladies](https://crockpotladies.com/)|[Magic Skillet](https://magicskillet.com/)|
 |[The Magical Slow Cooker](https://www.themagicalslowcooker.com/)|[Moms With Crock Pots](https://momswithcrockpots.com/)|[Recipes That Crock](https://www.recipesthatcrock.com/)|[Street Smart Kitchen](https://www.streetsmartkitchen.com/)|
 
-### Small-Batch
+### Small-Batch 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[1-2 Cook](https://www.1-2-cook.com/)|[101 Cooking for Two](https://www.101cookingfortwo.com/)|[Chocolate Moosey](https://www.chocolatemoosey.com/)|[A Flavor Journal](https://aflavorjournal.com/)|[Mini Batch Baker](https://minibatchbaker.com/)|
+|[101 Cooking for Two](https://www.101cookingfortwo.com/)|[Chocolate Moosey](https://www.chocolatemoosey.com/)|[A Flavor Journal](https://aflavorjournal.com/)|[Mini Batch Baker](https://minibatchbaker.com/)|
 |[One Dish Kitchen](https://onedishkitchen.com/)|[The Single Gourmand](https://thesinglegourmand.com/)|[Toaster Oven Love](https://toasterovenlove.com/)|[A Weekend Cook](https://aweekendcook.com/)|[Yummy Lummy](https://yummylummy.com/)|
 
 ### Smoking
