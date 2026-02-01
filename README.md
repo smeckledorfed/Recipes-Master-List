@@ -706,28 +706,26 @@
 #### Italy 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[All Our Way](https://allourway.com/)|[A Modo Mio](https://a-modo-mio.com/)|[Anna Maria Volpi](http://www.annamariavolpi.com/public_html/)|
-|[Bell 'Alimento](https://bellalimento.com/)|[The Bella Vita](https://www.the-bella-vita.com/)|[Cafe Osharak](https://www.osharak.com/)|
-|[Cerise Cherie](https://rebeccasherrow.com/)|[Chef Bikeski](https://www.chefbikeski.com/)|[The Chiappas](https://thechiappas.com/)|[Ciao Bella Kitchen](https://ciaobellakitchen.com/)|[Ciao Chow Bambina](https://ciaochowbambina.com/)|
-|[Ciao Florentina](https://ciaoflorentina.com/)|[Ciao Italia](https://www.ciaoitalia.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Coley Cooks](https://coleycooks.com/)|
+|[All Our Way](https://allourway.com/)|[A Modo Mio](https://a-modo-mio.com/)|[Anna Maria Volpi](http://www.annamariavolpi.com/public_html/)|[Bell 'Alimento](https://bellalimento.com/)|[The Bella Vita](https://www.the-bella-vita.com/)|
+|[Cafe Osharak](https://www.osharak.com/)|[Cerise Cherie](https://rebeccasherrow.com/)|[Chef Bikeski](https://www.chefbikeski.com/)|[The Chiappas](https://thechiappas.com/)|[Ciao Bella Kitchen](https://ciaobellakitchen.com/)|
+|[Ciao Chow Bambina](https://ciaochowbambina.com/)|[Ciao Florentina](https://ciaoflorentina.com/)|[Ciao Italia](https://www.ciaoitalia.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Coley Cooks](https://coleycooks.com/)|
 |[Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Cooking With Manuela](https://www.cookingwithmanuela.com/)|[Cooking With Nonna](https://www.cookingwithnonna.com/)|[Cooking With Patty](http://cookingwithpatty.com/)|
 |[Cucina Antica](https://cucina-antica.com/blogs/recipes)|[Cucina By Elena](https://www.cucinabyelena.com/)|[**Delallo**](https://www.delallo.com/recipe-finder)|[Eatalian with Roberto](https://www.eatalianwithroberto.com/)|[Elizabeth Minchilli](https://www.elizabethminchilli.com/recipes/)|
 |[Erica De Mane](https://ericademane.com/)|[The Eternal Table](https://www.theeternaltable.com/historicalrecipes)|[Feeling Foodish](https://feelingfoodish.com/)|[Flavor of Italy](https://flavorofitaly.com/fi-recipes/)|[Fleurty Herald](https://fleurtyherald.wordpress.com/2013/09/03/recipes-from-renaissance-italy/)|
 |[Gennaro Contaldo](https://gennarocontaldo.com/category/recipes/)|[Giallo Zafferano](https://www.giallozafferano.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Gourmet Project](https://www.gourmetproject.net/)|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|
 |[Great Italian Chefs](https://www.greatitalianchefs.com/)|[Historical Italian Cooking](https://historicalitaliancooking.home.blog/)|[Ilaria's Perfect Recipes](https://www.ilariasperfectrecipes.com/category/recipes/)|[Il Globo](https://ilglobo.com/en/recipes/explore/)|[**Il Gusto**](https://www.oliocarli.us/magazine/italian-recipes)|
 |[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Inside the Rustic Kitchen](https://www.insidetherustickitchen.com/)|[Ita Food Baby Blog](https://ltafoodbabyblog.wordpress.com/)|[Italian Chef](https://italianchef.com/)|[Italian Cook](http://www.italiancook.ca/)|
-|[Italian Food Forever](https://www.italianfoodforever.com/)|[Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)|[An Italian in My Kitchen](https://anitalianinmykitchen.com/)|[The Italian Sauce](https://theitaliansauce.com/)|
-|[Italian Spoon](https://www.italianspoon.com.au/)|[Italian Style Cooking](https://www.italianstylecooking.net/en/)|[Italy Mamma Mia](https://www.italymammamia.com/venice-food.html)|[Italy Revisited](http://www.italyrevisited.org/)|[Josie and Nina](https://josieandnina.com/)|
-|[La Cucina Italiana](https://www.lacucinaitaliana.com/)|[Lida Bastianich](https://lidiasitaly.com/)|[Living a Life in Colour](https://www.livingalifeincolour.com/recipes/)|[Magnus Made](https://www.magnusmade.com/category/food/recipe/)|[Mama Blip](https://www.mamablip.com/en/recipes)|
-|[Mangia This](https://mangiathis.net/)|[Manu's Menu](https://www.manusmenu.com/)|[Marcellina in Cucina](https://www.marcellinaincucina.com/)|[Maria Liberati](https://marialiberati.com/blog2/recipes-articles/)|[Memorie Di Angelina](https://memoriediangelina.com/)|
-|[The Monday Pasta Club](https://www.themondaypastaclub.com/)|[**Mortadella Head**](https://mortadellahead.com/category/recipes/)|[My Italian](https://myitalian.recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|
-|[Nonna Box](https://www.nonnabox.com/recipes/)|[No Plate Like Home](https://noplatelikehome.com/)|[Our Italian Journey](https://ouritalianjourney.com/)|[Our Italian Table](https://ouritaliantable.com/)|[Pascquale Sciarappa](https://orsararecipes.net/)|
-|[Pasta Grammar](https://www.pastagrammar.com/blog)|[The Pasta Project](https://www.the-pasta-project.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[Pietru Furnar](http://www.pietrufurnar.com/)|
-|[Polenta e Baccala](https://polentaebaccala.com/)|[Proud Italian Cook](https://www.prouditaliancook.com/)|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[Recipes from Italy](https://www.recipesfromitaly.com/)|
-|[Rubber Slippers in Italy](https://rubberslippersinitaly.wordpress.com/)|[Sal e Pepe](https://www.salepepe.com/recipes/)|[Sarah's Cucina Bella](https://sarahscucinabella.com/)|[Savoring Italy](https://www.savoringitaly.com/)|
-|[Scordo](http://www.scordo.com/)|[She Loves Biscotti](https://www.shelovesbiscotti.com/)|[Silvia's Cucina](https://silviascucina.net/)|[Sip and Feast](https://www.sipandfeast.com/)|[The Slow Roasted Italian](https://www.theslowroasteditalian.com/)|
-|[Spaghetti Sauce and Meatballs](https://saucesnlove.com/recipes/)|[Spicy Goulash](https://spicygoulash.com/)|[Sugar Love Spices](https://www.sugarlovespices.com/)|[The Tiny Italian](https://thetinyitalian.com/)|[Veroni](https://www.veroni.com/recipes/)|
-|[Very EATalian](http://www.veryeatalian.com/)|[Vincenzo's Plate](https://www.vincenzosplate.com/)|[What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/)|[Your Guardian Chef](https://yourguardianchef.com/)|
+|[Italian Food Forever](https://www.italianfoodforever.com/)|[Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)|[An Italian in My Kitchen](https://anitalianinmykitchen.com/)|[The Italian Sauce](https://theitaliansauce.com/)|[Italian Spoon](https://www.italianspoon.com.au/)|
+|[Italian Style Cooking](https://www.italianstylecooking.net/en/)|[Italy Mamma Mia](https://www.italymammamia.com/venice-food.html)|[Italy Revisited](http://www.italyrevisited.org/)|[Josie and Nina](https://josieandnina.com/)|[La Cucina Italiana](https://www.lacucinaitaliana.com/)|
+|[Lida Bastianich](https://lidiasitaly.com/)|[Living a Life in Colour](https://www.livingalifeincolour.com/recipes/)|[Magnus Made](https://www.magnusmade.com/category/food/recipe/)|[Mama Blip](https://www.mamablip.com/en/recipes)|[Mangia This](https://mangiathis.net/)|
+|[Manu's Menu](https://www.manusmenu.com/)|[Marcellina in Cucina](https://www.marcellinaincucina.com/)|[Maria Liberati](https://marialiberati.com/blog2/recipes-articles/)|[Memorie Di Angelina](https://memoriediangelina.com/)|[The Monday Pasta Club](https://www.themondaypastaclub.com/)|
+|[**Mortadella Head**](https://mortadellahead.com/category/recipes/)|[My Italian](https://myitalian.recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Nasuki.Guru](https://www.nasuki.guru/category/nasukis-pantry/all-recipes/)|[Nonna Box](https://www.nonnabox.com/recipes/)|
+|[No Plate Like Home](https://noplatelikehome.com/)|[Our Italian Journey](https://ouritalianjourney.com/)|[Our Italian Table](https://ouritaliantable.com/)|[Pascquale Sciarappa](https://orsararecipes.net/)|[Pasta Grammar](https://www.pastagrammar.com/blog)|
+|[The Pasta Project](https://www.the-pasta-project.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[Pietru Furnar](http://www.pietrufurnar.com/)|[Polenta e Baccala](https://polentaebaccala.com/)|[Proud Italian Cook](https://www.prouditaliancook.com/)|
+|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[Recipes from Italy](https://www.recipesfromitaly.com/)|[Rubber Slippers in Italy](https://rubberslippersinitaly.wordpress.com/)|[Sal e Pepe](https://www.salepepe.com/recipes/)|[Sarah's Cucina Bella](https://sarahscucinabella.com/)|
+|[Savoring Italy](https://www.savoringitaly.com/)|[Scordo](http://www.scordo.com/)|[She Loves Biscotti](https://www.shelovesbiscotti.com/)|[Silvia's Cucina](https://silviascucina.net/)|[Sip and Feast](https://www.sipandfeast.com/)|
+|[The Slow Roasted Italian](https://www.theslowroasteditalian.com/)|[Spaghetti Sauce and Meatballs](https://saucesnlove.com/recipes/)|[Spicy Goulash](https://spicygoulash.com/)|[Sugar Love Spices](https://www.sugarlovespices.com/)|[The Tiny Italian](https://thetinyitalian.com/)|
+|[Veroni](https://www.veroni.com/recipes/)|[Very EATalian](http://www.veryeatalian.com/)|[Vincenzo's Plate](https://www.vincenzosplate.com/)|[What's Cookin' Italian Style Cuisine](https://www.whatscookinitalianstylecuisine.com/)|[Your Guardian Chef](https://yourguardianchef.com/)|
 - ##### Genoa
 |     |
 | --- |
@@ -765,8 +763,8 @@
 |[Macedonian Cuisine](https://www.macedoniancuisine.com/p/blog-page.html)|
 
 #### Malta
-|     |     |     |     |
-| --- | --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
 |[Apron and Whisk](https://apronandwhisk.com/)|[I Love Food.com.mt](https://www.ilovefood.com.mt/maltese-cuisine/)|[Maltese Cuisine](https://maltesecuisine.com/)|
 
 #### Moldova
@@ -787,8 +785,8 @@
 #### Norway
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Arctic Grub](https://arcticgrub.com/)|[Daughters of Norway](https://www.daughtersofnorway.org/heritage/nordic-foods/)|[North Wild Kitchen](https://northwildkitchen.com/)|[Norway Hei](https://www.norway-hei.com/norwegian-recipes.html)|
-|[Norwegian American](https://www.norwegianamerican.com/category/food/)|[Seafood from Norway](https://fromnorway.com/recipes/)|[Sons of Norway](https://www.sofn.com/norwegian_culture/recipe_box/)|[Tine Brunost](http://www.tinebrunost.com/recipes)|
+|[Arctic Grub](https://arcticgrub.com/)|[Daughters of Norway](https://www.daughtersofnorway.org/heritage/nordic-foods/)|[North Wild Kitchen](https://northwildkitchen.com/)|[Norway Hei](https://www.norway-hei.com/norwegian-recipes.html)|[Norwegian American](https://www.norwegianamerican.com/category/food/)|
+|[Seafood from Norway](https://fromnorway.com/recipes/)|[Sons of Norway](https://www.sofn.com/norwegian_culture/recipe_box/)|[Tine Brunost](http://www.tinebrunost.com/recipes)|
 
 #### Poland
 |     |     |     |     |     |
