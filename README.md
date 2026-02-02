@@ -1115,9 +1115,8 @@
 - ##### Southwest
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Denver Green Chili](https://denvergreenchili.com/recipes/)|[Edible Denver](https://www.edibledenver.com/)|
-|[Everyday Southwest](https://www.everydaysouthwest.com/)|[Highlands Ranch Foodie](https://highlandsranchfoodie.com/)|[Made in New Mexico](https://madeinnewmexico.com/blogs/recipes)|[New Mexican Foodie](https://www.newmexicanfoodie.com/)|
-|[New Mexico Nomad](https://newmexiconomad.com/resources/food/recipes/)|[New Mexico.org](https://www.newmexico.org/things-to-do/cuisine/recipes/)|[Sweet Life Bake](https://sweetlifebake.com/)|
+|[Denver Green Chili](https://denvergreenchili.com/recipes/)|[Edible Denver](https://www.edibledenver.com/)|[Everyday Southwest](https://www.everydaysouthwest.com/)|[Highlands Ranch Foodie](https://highlandsranchfoodie.com/)|[Made in New Mexico](https://madeinnewmexico.com/blogs/recipes)|
+|[New Mexican Foodie](https://www.newmexicanfoodie.com/)|[New Mexico Nomad](https://newmexiconomad.com/resources/food/recipes/)|[New Mexico.org](https://www.newmexico.org/things-to-do/cuisine/recipes/)|[Sweet Life Bake](https://sweetlifebake.com/)|
 
 - ##### West
 |     |     |     |     |     |
@@ -1160,8 +1159,8 @@
 #### Brazil
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Brasil Agosto](https://www.brasilagosto.org/en/category/recipes/)|[Brazilian Kitchen Abroad](https://braziliankitchenabroad.com/)|[Cassia's Cuisine](https://cassiascuisine.com/)|[Easy Brazilian Food](https://easybrazilianfood.com/)|
-|[Eat Rio](https://eatrio.net/brazilian-recipes)|[Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)|[I Heart Brazil](https://www.iheartbrazil.com/category/foods-and-drinks/)|[Texas de Brazil](https://texasdebrazil.com/recipes/)|
+|[Brasil Agosto](https://www.brasilagosto.org/en/category/recipes/)|[Brazilian Kitchen Abroad](https://braziliankitchenabroad.com/)|[Cassia's Cuisine](https://cassiascuisine.com/)|[Easy Brazilian Food](https://easybrazilianfood.com/)|[Eat Rio](https://eatrio.net/brazilian-recipes)|
+|[Flavors of Brazil](https://flavorsofbrazil.blogspot.com/)|[I Heart Brazil](https://www.iheartbrazil.com/category/foods-and-drinks/)|[Texas de Brazil](https://texasdebrazil.com/recipes/)|
 
 #### Chile
 |     |
@@ -2119,27 +2118,25 @@
 ### Vegetables
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Abel and Cole](https://www.abelandcole.co.uk/recipes)|[**Aerofarms**](https://www.aerofarms.com/recipes/)|[**Alexia Foods**](https://www.alexiafoods.com/recipes)|[**Amore**](https://amorebrand.com/blogs/recipe)|
-|[**Atlantic Sea Farms**](https://atlanticseafarms.com/recipes/)|[Australian Mushrooms](https://australianmushrooms.com.au/)|[Australian Onions](https://australianonions.com.au/)|[**Backyard Larder**](https://backyardlarder.co.uk/blog/)|
-|[**Barnacle Foods**](https://www.barnaclefoods.com/blogs/recipes)|[**Beach Food**](https://beachfood.co.uk/)|[**Bright Fresh**](https://www.brightfresh.com/recipe)|[**CauliPower**](https://eatcaulipower.com/en/meal-hacks/recipes/)|
-|[Cayenne Diane](https://www.cayennediane.com/spicy-recipes/)|[Chili Pepper Madness](https://www.chilipeppermadness.com/)|[Chilli Workshop](https://chilliworkshop.co.uk/)|[**Christopher Ranch**](https://christopherranch.com/featured-recipes/)|[**Cozy Koji**](https://www.cozykoji.com/recipegallery)|
-|[Crazy for Yuca](https://crazyforyuca.com/)|[The Devil Wears Salad](https://thedevilwearssalad.com/)|[**Dole**](https://www.dole.com/en/recipes)|[**Duda Fresh**](https://www.dudafresh.com/recipes)|[**Earth Exotics**](https://www.earthexotics.com/blogs/recipes)|
-|[**First Field**](https://first-field.com/recipes)|[**Frog Song ORganics**](https://frogsongorganics.com/category/recipes/)|[**Full Green**](https://www.fullgreen.com/blogs/recipes)|[**Furmanos**](https://www.furmanos.com/recipes)|
-|[**The Ginger People**](https://gingerpeople.com/recipes/)|[**Green Giant**](https://greengiant.com/our-recipes/)|[**Grillo's Pickles**](https://www.grillospickles.com/recipes/)|[**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)|[Grow a Good Life](https://growagoodlife.com/)|
-|[**Grown in Idaho**](https://growninidaho.com/recipes/)|[**Hatch Green Chile**](https://www.hatch-green-chile.com/pages/hatch-recipe-central)|[Have a Plant](https://fruitsandveggies.org/recipes/)|[**High Ground Organics**](https://www.highgroundorganics.com/category/recipes/)|
-|[**Host Defense**](https://hostdefense.com/pages/recipe-book)|[**Hungry Harvest**](https://hungryharvest.net/storageguide)|[**Hunt's**](https://www.hunts.com/recipes)|[Idaho Potato Commission](https://idahopotato.com/recipes)|[**Idaho Spuds**](https://www.idahospuds.com/recipes/)|
-|[**I Love Lindsay**](https://www.ilovelindsay.com/recipes/)|[**I Love Organic Girl**](https://www.iloveorganicgirl.com/recipe/)|[Inquiring Chef](https://inquiringchef.com/)|[Inspiralized](https://inspiralized.com/)|[**Irish Seaweeds**](https://irishseaweeds.com/shop-2/carrageen-irish-moss-recipes/)|
-|[**Kenter Canyon Farms**](https://kentercanyonfarms.com/recipes/)|[Kitchen Pride Mushrooms](https://www.kitchenpride.com/our-recipes)|[Know Your Produce](https://www.knowyourproduce.com/)|[**Leaf**](https://www.leafprojectpa.org/seasonal-recipes#)|
-|[Let's Grow Akron](http://letsgrowakron.org/seasonal-recipes/)|[**Little Leaf Farms**](https://www.littleleaffarms.com/recipes/)|[Living Plantfully](https://livingplantfully.co.uk/food/)|[**Love Beets**](http://www.lovebeets.com/recipes/)|[Love My Salad](https://www.lovemysalad.com/)|
-|[Maayeka](https://maayeka.com/)|[**Maine Coast Sea Vegetables**](https://seaveg.com/blogs/recipes)|[Mariquita](https://www.mariquita.com/category/recipes/)|[**McClure's**](https://mcclures.com/pages/recipes)|[**Mt. Olive Pickles**](https://www.mtolivepickles.com/recipes/)|
-|[**Mycopia Mushrooms**](https://www.mycopia.com/recipes)|[**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)|[**Mrs. Wages**](https://www.mrswages.com/recipes/)|[**Muir Glen**](https://www.muirglen.com/recipes/)|[Mycological](https://mycological.com/pages/recipes)|
-|[**Nature Sweet**](https://naturesweet.com/recipes/)|[North Coast Growers Association](https://www.northcoastgrowersassociation.org/seasonalrecipes.html)|[**Om Mushrooms**](https://ommushrooms.com/blogs/blog/tagged/recipes)|[**Oregon Seaweed**](https://www.oregonseaweed.com/category/recipes/)|[**Outer Aisle Gourmet**](https://www.outeraislegourmet.com/blogs/blog/tagged/recipes)|
-|[**Pacific Pickle Works**](https://pacificpickleworks.com/blogs/recipes)|[Pepperbowl](https://www.pepperbowl.com/)|[**Pickled Pink Foods**](https://pickledpinkfoods.com/blogs/news)|[Planter's Place](https://plantersplace.com/category/the-fresh-spread/)|[**Pomi**](https://www.pomi.us.com/en-us/recipes/)|
-|[**R & R Cultivation**](https://rrcultivation.com/blogs/mn)|[**Red Gold Tomatoes**](https://www.redgoldtomatoes.com/redgold/recipes)|[**Rio Luna Organic**](https://riolunaorganic.com/recipes/)|[Rural Sprout](https://www.ruralsprout.com/)|
-|[saladBURNET](https://saladburnet.org/index.php/recipes/)|[**Salad Cosmo**](https://www.saladcosmo.com/recipes)|[Salad Girl](https://www.saladgirl.com/)|[Sami Tallberg](https://samitallberg.com/en/recipes)|[**Sandia Seed**](https://www.sandiaseed.com/blogs/news)|
-|[**Satur Farms**](https://www.saturfarms.com/recipes)|[**Sea Point Farms**](https://seapointfarms.com/recipes/)|[Seasonal Eating](http://www.seasonaleating.net/)|[**Soli Organic**](https://www.soliorganic.com/recipes/)|[**Square Roots Grow**](https://www.squarerootsgrow.com/recipes)|
-|[**Sucker Punch Gourmet**](https://suckerpunchgourmet.com/blogs/news)|[**Sunset Grown**](https://www.sunsetgrown.com/recipes/)|[Suwannee Rose](https://suwanneerose.com/)|[**Tasteful Selections**](https://www.tastefulselections.com/recipes/)|[**Taylor Farms**](https://www.taylorfarms.com/recipes/)|
-|[The Toronto Beet](https://thetorontobeet.wordpress.com/)|[**Xica**](https://eaturxica.com/blogs/recipes)|[**Zia**](https://ziahatchchileco.com/blogs/recipes)|
+|[Abel and Cole](https://www.abelandcole.co.uk/recipes)|[**Aerofarms**](https://www.aerofarms.com/recipes/)|[**Alexia Foods**](https://www.alexiafoods.com/recipes)|[**Amore**](https://amorebrand.com/blogs/recipe)|[**Atlantic Sea Farms**](https://atlanticseafarms.com/recipes/)|
+|[Australian Mushrooms](https://australianmushrooms.com.au/)|[Australian Onions](https://australianonions.com.au/)|[**Backyard Larder**](https://backyardlarder.co.uk/blog/)|[**Barnacle Foods**](https://www.barnaclefoods.com/blogs/recipes)|[**Beach Food**](https://beachfood.co.uk/)|
+|[**Bright Fresh**](https://www.brightfresh.com/recipe)|[**CauliPower**](https://eatcaulipower.com/en/meal-hacks/recipes/)|[Cayenne Diane](https://www.cayennediane.com/spicy-recipes/)|[Chili Pepper Madness](https://www.chilipeppermadness.com/)|[Chilli Workshop](https://chilliworkshop.co.uk/)|
+|[**Christopher Ranch**](https://christopherranch.com/featured-recipes/)|[**Cozy Koji**](https://www.cozykoji.com/recipegallery)|[Crazy for Yuca](https://crazyforyuca.com/)|[The Devil Wears Salad](https://thedevilwearssalad.com/)|[**Dole**](https://www.dole.com/en/recipes)|
+|[**Duda Fresh**](https://www.dudafresh.com/recipes)|[**Earth Exotics**](https://www.earthexotics.com/blogs/recipes)|[**First Field**](https://first-field.com/recipes)|[**Frog Song Organics**](https://frogsongorganics.com/category/recipes/)|[**Full Green**](https://www.fullgreen.com/blogs/recipes)|
+|[**Furmanos**](https://www.furmanos.com/recipes)|[**The Ginger People**](https://gingerpeople.com/recipes/)|[**Green Giant**](https://greengiant.com/our-recipes/)|[**Grillo's Pickles**](https://www.grillospickles.com/recipes/)|[**Grimmway Carrots**](https://www.grimmwaycarrots.com/recipes/)|
+|[Grow a Good Life](https://growagoodlife.com/)|[**Grown in Idaho**](https://growninidaho.com/recipes/)|[**Hatch Green Chile**](https://www.hatch-green-chile.com/pages/hatch-recipe-central)|[Have a Plant](https://fruitsandveggies.org/recipes/)|[**High Ground Organics**](https://www.highgroundorganics.com/category/recipes/)|[**Host Defense**](https://hostdefense.com/pages/recipe-book)|
+|[**Hungry Harvest**](https://hungryharvest.net/storageguide)|[**Hunt's**](https://www.hunts.com/recipes)|[Idaho Potato Commission](https://idahopotato.com/recipes)|[**Idaho Spuds**](https://www.idahospuds.com/recipes/)|[**I Love Lindsay**](https://www.ilovelindsay.com/recipes/)|
+|[**I Love Organic Girl**](https://www.iloveorganicgirl.com/recipe/)|[Inquiring Chef](https://inquiringchef.com/)|[Inspiralized](https://inspiralized.com/)|[**Irish Seaweeds**](https://irishseaweeds.com/shop-2/carrageen-irish-moss-recipes/)|[**Kenter Canyon Farms**](https://kentercanyonfarms.com/recipes/)|[Kitchen Pride Mushrooms](https://www.kitchenpride.com/our-recipes)|
+|[Know Your Produce](https://www.knowyourproduce.com/)|[**Leaf**](https://www.leafprojectpa.org/seasonal-recipes#)|[Let's Grow Akron](http://letsgrowakron.org/seasonal-recipes/)|[**Little Leaf Farms**](https://www.littleleaffarms.com/recipes/)|[Living Plantfully](https://livingplantfully.co.uk/food/)|
+|[**Love Beets**](http://www.lovebeets.com/recipes/)|[Love My Salad](https://www.lovemysalad.com/)|[Maayeka](https://maayeka.com/)|[**Maine Coast Sea Vegetables**](https://seaveg.com/blogs/recipes)|[Mariquita](https://www.mariquita.com/category/recipes/)|
+|[**McClure's**](https://mcclures.com/pages/recipes)|[**Mt. Olive Pickles**](https://www.mtolivepickles.com/recipes/)|[**Mycopia Mushrooms**](https://www.mycopia.com/recipes)|[**Mother In Law's Kimchi**](https://milkimchi.com/blogs/recipes)|[**Mrs. Wages**](https://www.mrswages.com/recipes/)|
+|[**Muir Glen**](https://www.muirglen.com/recipes/)|[Mycological](https://mycological.com/pages/recipes)|[**Nature Sweet**](https://naturesweet.com/recipes/)|[North Coast Growers Association](https://www.northcoastgrowersassociation.org/seasonalrecipes.html)|[**Om Mushrooms**](https://ommushrooms.com/blogs/blog/tagged/recipes)|
+|[**Oregon Seaweed**](https://www.oregonseaweed.com/category/recipes/)|[**Outer Aisle Gourmet**](https://www.outeraislegourmet.com/blogs/blog/tagged/recipes)|[**Pacific Pickle Works**](https://pacificpickleworks.com/blogs/recipes)|[Pepperbowl](https://www.pepperbowl.com/)|[**Pickled Pink Foods**](https://pickledpinkfoods.com/blogs/news)|
+|[Planter's Place](https://plantersplace.com/category/the-fresh-spread/)|[**Pomi**](https://www.pomi.us.com/en-us/recipes/)|[**R & R Cultivation**](https://rrcultivation.com/blogs/mn)|[**Red Gold Tomatoes**](https://www.redgoldtomatoes.com/redgold/recipes)|[**Rio Luna Organic**](https://riolunaorganic.com/recipes/)|
+|[Rural Sprout](https://www.ruralsprout.com/)|[saladBURNET](https://saladburnet.org/index.php/recipes/)|[**Salad Cosmo**](https://www.saladcosmo.com/recipes)|[Salad Girl](https://www.saladgirl.com/)|[Sami Tallberg](https://samitallberg.com/en/recipes)|
+|[**Sandia Seed**](https://www.sandiaseed.com/blogs/news)|[**Satur Farms**](https://www.saturfarms.com/recipes)|[**Sea Point Farms**](https://seapointfarms.com/recipes/)|[Seasonal Eating](http://www.seasonaleating.net/)|[**Soli Organic**](https://www.soliorganic.com/recipes/)|
+|[**Square Roots Grow**](https://www.squarerootsgrow.com/recipes)|[**Sucker Punch Gourmet**](https://suckerpunchgourmet.com/blogs/news)|[**Sunset Grown**](https://www.sunsetgrown.com/recipes/)|[Suwannee Rose](https://suwanneerose.com/)|[**Tasteful Selections**](https://www.tastefulselections.com/recipes/)|
+|[**Taylor Farms**](https://www.taylorfarms.com/recipes/)|[The Toronto Beet](https://thetorontobeet.wordpress.com/)|[**Xica**](https://eaturxica.com/blogs/recipes)|[**Zia**](https://ziahatchchileco.com/blogs/recipes)|
 ### Yeast
 |     |     |
 | --- | --- |
