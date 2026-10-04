@@ -2998,8 +2998,7 @@
 |[Recipe Free](https://www.recipe-free.com/)|[Recipe Zazz](https://www.recipezazz.com/)|[Sainsbury Magazine](https://www.sainsburysmagazine.co.uk/recipes)|[Savour Calgary](https://savourcalgary.ca/recipes/)|[Secret Sauce](https://secretsauce.co.uk/)|
 |[Serious Eats](https://www.seriouseats.com/)|[Servings](https://www.servings.org/recipes/)|[Side Chef](https://www.sidechef.com/)|[The Skullery](https://theskullery.net/)|[Spoon University](https://spoonuniversity.com/recipe)|
 |[Stack of Recipes](https://stackofrecipes.com/)|[Supercook](https://www.supercook.com/)|[Taste.com.au](https://www.taste.com.au/)|[Tastemade](https://www.tastemade.com/)|[Taste of Harmony](https://www.tasteofharmony.org.au/recipes/)|
-|[Veg World Mag](https://vegworldmag.com/recipes/)|[Very Good Recipes](https://verygoodrecipes.com/)|[Whisk](https://my.whisk.com/communities)|[Wocobook](https://www.wocobook.com/us)|[World Food](https://worldfood.guide/)|
-|[World of Cooking](https://worldofcooking.net/)|[Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)|[Yummly](https://www.yummly.com/)|[ZeeZest](https://zeezest.com/recipes)|
+|[Veg World Mag](https://vegworldmag.com/recipes/)|[Very Good Recipes](https://verygoodrecipes.com/)|[Whisk](https://my.whisk.com/communities)|[World Food](https://worldfood.guide/)|[World of Cooking](https://worldofcooking.net/)|[Your Living City](https://www.yourlivingcity.com/stockholm/category/community/expat-cookbook/)|[Yummly](https://www.yummly.com/)|
 
 ### Media
 |     |     |     |     |     |
