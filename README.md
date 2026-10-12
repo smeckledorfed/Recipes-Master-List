@@ -2827,8 +2827,8 @@
 
 | T   |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Table for Two Blog](https://www.tablefortwoblog.com/)|[A Table Full of Joy](https://www.atablefullofjoy.com/)|[Table n' Spoon](https://tablenspoon.com/)|[Table of Colors](https://tableofcolors.com/)|[The Table of Spice](https://thetableofspice.com/)|
-|[Tablespoon](https://www.tablespoon.com/)|[Taco and Tiramisu](https://tacoandtiramisu.com/)|[The Take-Out](https://thetakeout.com/recipes)|[Take Two Tapas](https://www.taketwotapas.com/)|[Talking Meals](https://talkingmeals.com/)|
+|[Table for Two Blog](https://www.tablefortwoblog.com/)|[A Table Full of Joy](https://www.atablefullofjoy.com/)|[Table of Colors](https://tableofcolors.com/)|[The Table of Spice](https://thetableofspice.com/)|[Tablespoon](https://www.tablespoon.com/)|[Taco and Tiramisu](https://tacoandtiramisu.com/)|[The Take-Out](https://thetakeout.com/recipes)|[Take Two Tapas](https://www.taketwotapas.com/)|[Talking Meals](https://talkingmeals.com/)|
+
 |[Tamarind & Thyme](https://www.tamarindnthyme.com/)|[Taming of the Spoon](https://tamingofthespoon.com/)|[Tammi Lee Tips](https://www.tammileetips.com/)|[Tandy Sinclair](https://tandysinclair.com/)|[Tantalise My Tastebuds](https://www.tantalisemytastebuds.com/)|
 |[Tao of Spice](https://taoofspice.com/)|[Tara's Multi-Cultural Table](https://tarasmulticulturaltable.com/)|[Tara Teaspoon](https://tarateaspoon.com/)|[Tasha's Artisan Foods](https://www.tashasartisanfoods.com/blog/)|[Taste](https://taste.co.za/)|
 |[Taste and See](https://tasteandsee.com/)|[Taste and Tell Blog](https://www.tasteandtellblog.com/)|[Taste Cooking](https://tastecooking.com/)|[Tastefully Vikkie](https://tastefullyvikkie.com/)|[Taste Great Foodie](https://tastegreatfoodie.com/)|
