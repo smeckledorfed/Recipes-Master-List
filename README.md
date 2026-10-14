@@ -2769,6 +2769,7 @@
 | --- | --- | --- | --- | --- |
 |[Sailor Bailey](https://sailorbailey.com/)|[Salad in a Jar](https://saladinajar.com/)|[Salad Master](https://recipes.saladmaster.com/)|[Sally Bernstein](https://sallybernstein.com/food/recipes/recipes.htm)|[Salmon and Frogs](https://www.salmonandfrogs.com/)|
 |[Salt and Lavender](https://www.saltandlavender.com/)|[Salt and Spices](https://saltandspices.weebly.com/)|[The Salt and Sweet](https://thesaltandsweet.com/)|[Salt and Wild Honey](https://www.saltandwildhoney.com/)|[Salt and Wind](https://saltandwind.com/)|
+
 |[The Salted Pepper](https://thesaltedpepper.com/)|[Salt n' Pepper Here](https://www.saltnpepperhere.com/)|[Salt Pepper Skillet](https://saltpepperskillet.com/)|[Salty Canary](https://www.saltycanary.com/)|[Salty Lemon Sister](https://www.saltylemonsister.com/)|
 |[The Salty Marshmallow](https://thesaltymarshmallow.com/)|[The Salty Pot](https://thesaltypot.com/)|[Salty Side Dish](https://www.saltysidedish.com/)|[Samira's Recipe](https://samirasrecipe.com/)|[Sam Stern](http://www.samstern.co.uk/)|
 |[Sandra's Easy Cooking](https://www.sandraseasycooking.com/)|[Sandra Valvassori](https://www.sandravalvassori.com/)|[Santa's Net](http://www.santas.net/recipes.htm)|[Sarah Halstead](https://www.sarahhalstead.com/)|[Sara Moulton](https://saramoulton.com/recipes/)|
