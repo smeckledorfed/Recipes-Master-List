@@ -2279,9 +2279,9 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[365 Days of Slow + Pressure Cooking](https://www.365daysofcrockpot.com/)|[Amy + Jacky](https://www.pressurecookrecipes.com/)|[Corrie Cooks](https://www.corriecooks.com/)|[Eating in an Instant](https://eatinginaninstant.com/)|[Fast Food Bistro](https://fastfoodbistro.com/)|
-|[Fork to Spoon](https://forktospoon.com/)|[Hip Pressure Cooking](https://www.hippressurecooking.com/)|[Hollis Homestead](https://www.hollishomestead.com/)|[Instant Pot Eats](https://instantpoteats.com/)|
-|[Lana Under Pressure](https://lanaunderpressure.com/)|[Magic Skillet](https://magicskillet.com/)|[Monday is Meatloaf](https://mondayismeatloaf.com/)|[Paint the Kitchen Red](https://www.paintthekitchenred.com/)|[Pressure Luck Cooking](https://pressureluckcooking.com/)|
-|[The Skinny Pot](https://theskinnypot.com/)|[Tidbits](https://tidbits-marci.com/)|
+|[Fork to Spoon](https://forktospoon.com/)|[Hip Pressure Cooking](https://www.hippressurecooking.com/)|[Hollis Homestead](https://www.hollishomestead.com/)|[Instant Pot Eats](https://instantpoteats.com/)|[Lana Under Pressure](https://lanaunderpressure.com/)|
+|[Magic Skillet](https://magicskillet.com/)|[Monday is Meatloaf](https://mondayismeatloaf.com/)|[Paint the Kitchen Red](https://www.paintthekitchenred.com/)|[Pressure Luck Cooking](https://pressureluckcooking.com/)|[The Skinny Pot](https://theskinnypot.com/)|
+|[Tidbits](https://tidbits-marci.com/)|
 
 ### Slow-Cooker
 |     |     |     |     |     |
