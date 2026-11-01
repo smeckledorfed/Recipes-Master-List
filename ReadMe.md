@@ -1,4 +1,3 @@
-# Recipe Websites Master List
 - Every website is in 1-4 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
 - Websites in a particular category do not ONLY offer recipes of that kind; that German website might have some delicious keto stuff. I don't know, I haven't looked through them all, but you can. Life is all about exploration. 
 - If a website doesn't seem to have a particular focus on anything, it will be in the *Miscellaneous* section.
@@ -2093,11 +2092,10 @@
 ### Sweeteners
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Big Tree Farms**](https://bigtreefarms.com/all-recipes/)|[**Chelsea Sugar**](https://www.chelsea.co.nz/)|[**Crown Maple**](https://www.crownmaple.com/crown-maple-recipes)|[**Dan Sukker**](https://www.dansukker.co.uk/uk/recipes)|[**Dixie Crystals**](https://www.dixiecrystals.com/recipes)|
-|[**Domino**](https://www.dominosugar.com/recipes)|[**Fuller's Sugarhouse**](https://www.fullerssugarhouse.com/recipe-categories/)|[**Golden Eagle Syrup**](https://www.goldeneaglesyrup.com/re)|[**Good Good**](https://goodgoodbrand.com/blogs/recipes)|[**Grandma's Molasses**](https://grandmasmolasses.com/)|
-|[**Health Garden USA**](https://www.healthgardenusa.com/recipes-main/)|[**I Love Date Lady**](https://ilovedatelady.com/blogs/date-lady-recipes)|[**Imperial**](https://www.imperialsugar.com/recipes)|[**In the Raw**](https://www.intheraw.com/using-itr/recipes/)|[**Java Melts**](https://javamelts.com/blogs/recipes)|
-|[**Jed's Maple**](https://www.jedsmaple.com/maple-recipes)|[**Karo Syrup**](https://www.karosyrup.com/recipes/)|[**La Lechera**](https://www.goodnes.com/la-lechera/recipes/)|[**Lyle's Golden Syrup**](https://www.lylesgoldensyrup.com/)|
-|[**Maplecraft Foods**](https://maplecraftfoods.com/blogs/recipes)|[**Monin**](https://www.monin.com/us/recipes)|[**NuNaturals**](https://www.nunaturals.com/blogs/recipes)|
+|[**Big Tree Farms**](https://bigtreefarms.com/all-recipes/)|[**Chelsea Sugar**](https://www.chelsea.co.nz/)|[**Crown Maple**](https://www.crownmaple.com/crown-maple-recipes)|[**Dixie Crystals**](https://www.dixiecrystals.com/recipes)|[**Domino**](https://www.dominosugar.com/recipes)|
+|[**Fuller's Sugarhouse**](https://www.fullerssugarhouse.com/recipe-categories/)|[**Golden Eagle Syrup**](https://www.goldeneaglesyrup.com/re)|[**Good Good**](https://goodgoodbrand.com/blogs/recipes)|[**Grandma's Molasses**](https://grandmasmolasses.com/)|[**Health Garden USA**](https://www.healthgardenusa.com/recipes-main/)|
+|[**I Love Date Lady**](https://ilovedatelady.com/blogs/date-lady-recipes)|[**Imperial**](https://www.imperialsugar.com/recipes)|[**In the Raw**](https://www.intheraw.com/using-itr/recipes/)|[**Java Melts**](https://javamelts.com/blogs/recipes)|[**Jed's Maple**](https://www.jedsmaple.com/maple-recipes)|
+|[**Karo Syrup**](https://www.karosyrup.com/recipes/)|[**Lyle's Golden Syrup**](https://www.lylesgoldensyrup.com/)|[**Maplecraft Foods**](https://maplecraftfoods.com/blogs/recipes)|[**Monin**](https://www.monin.com/us/recipes)|[**NuNaturals**](https://www.nunaturals.com/blogs/recipes)|
 |[**Pearl Milling Company**](https://www.pearlmillingcompany.com/recipes)|[**Redpath**](https://www.redpathsugar.com/recipes)|[**Runamok**](https://runamokmaple.com/recipes/)|[**RxSugar**](https://rxsugar.com/blogs/recipes)|[**Silloway Maple**](https://sillowaymaple.com/recipes)|
 |[**Splenda**](https://www.splenda.com/recipes/)|[**Steen's Syrup**](https://www.steenssyrup.com/recipes)|[**Stevia**](https://cookingwithstevia.com/)|[**Swerve Sweet**](https://swervesweet.com/recipes)|[**Torani**](https://www.torani.com/recipes.html)|
 |[**Truvia**](https://www.truvia.com/all-recipes)|[**Whole Earth Sweetener**](https://wholeearthsweetener.com/recipes/)|
