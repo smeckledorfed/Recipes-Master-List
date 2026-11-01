@@ -2146,9 +2146,9 @@
 ### Air Fryer
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Air Fried](https://airfried.com/)|[Air Fryer Eats](https://airfryereats.com/)|[Air Fryer World](https://airfryerworld.com/)|[Air Frying Foodie](https://airfryingfoodie.com/)|[Air Fry with Me](https://airfrywithme.com/)|
-|[Fast Food Bistro](https://fastfoodbistro.com/)|[Food Banjo](https://www.foodbanjo.com/)|[Fork to Spoon](https://forktospoon.com/)|[Hollis Homestead](https://www.hollishomestead.com/)|[Hot Air Frying](https://www.hotairfrying.com/)|
-|[Love Food Not Cooking](https://lovefoodnotcooking.com/)|[Magic Skillet](https://magicskillet.com/)|[Paint the Kitchen Red](https://www.paintthekitchenred.com/)|
+|[Air Fried](https://airfried.com/)|[Air Fryer Eats](https://airfryereats.com/)|[Air Fryer World](https://airfryerworld.com/)|[Air Frying Foodie](https://airfryingfoodie.com/)|[Fast Food Bistro](https://fastfoodbistro.com/)|
+|[Food Banjo](https://www.foodbanjo.com/)|[Fork to Spoon](https://forktospoon.com/)|[Hollis Homestead](https://www.hollishomestead.com/)|[Hot Air Frying](https://www.hotairfrying.com/)|[Love Food Not Cooking](https://lovefoodnotcooking.com/)|
+|[Magic Skillet](https://magicskillet.com/)|[Paint the Kitchen Red](https://www.paintthekitchenred.com/)|
 
 ### Baking
 
