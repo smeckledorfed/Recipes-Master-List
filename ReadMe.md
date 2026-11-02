@@ -1984,7 +1984,7 @@
 ### Medicinals
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Cannabis Cheri](https://www.cannabischeri.com/food/recipes/)|[Cannigma](https://cannigma.com/recipes/)|[CBD MD](https://www.cbdmd.com/recipes)|[**Coda Signature**](https://codasignature.com/blog/)|[**Dramapothecary**](https://www.dramapothecary.com/dram-recipes/)|
+|[Cannabis Cheri](https://www.cannabischeri.com/food/recipes/)|[Cannigma](https://cannigma.com/recipes/)|[CBD MD](https://www.cbdmd.com/recipes)|[**Coda Signature**](https://codasignature.com/)|[**Dramapothecary**](https://www.dramapothecary.com/dram-recipes/)|
 |[**Evo Hemp**](https://evohemp.com/hemp-blog/recipes)|[Fermenters Club](https://fermentersclub.com/category/recipes/)|[Flavor Fix](https://flavorfix.com/edible-recipes/)|[Happy Pot Farmers](https://happypotfarmer.com/recipes)|[**Holistik Wellness**](https://www.holistikwellness.com/blogs/recipes)|
 |[**Levo Oil**](https://levooil.com/blogs/recipes)|[Living Harvest](http://livingharvest.com/#recipes)|[**Magical Butter**](https://magicalbutter.com/pages/recipes)|[**Proof Cannabis**](https://proofcannabis.com/recipes)|[**Pure Kana**](https://purekana.com/blog/cooking-recipes/)|
 |[**Rise Cannabis**](https://risecannabis.com/resources/recipes/)|[**Shroomery**](https://www.shroomery.org/6226/Mushroom-Recipes)|[Emily Kyle](https://emilykylenutrition.com/)
