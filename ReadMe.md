@@ -1992,14 +1992,12 @@
 ### Nuts/Nut Butters
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**88 Acres**](https://88acres.com/pages/88-acres-blog)|[**Barney Butter**](https://barneybutter.com/blogs/recipes)|[**Black Walnuts**](https://black-walnuts.com/explore-recipes/)|[**Blue Diamond**](https://www.bluediamond.com/recipes)|
-|[**Diamond Nuts**](https://www.diamondnuts.com/recipes/)|[**Fix & Fogg**](https://fixandfogg.com/recipes-fix-and-fogg)|
-|[**Good Spread**](https://helpgoodspread.com/blogs/recipes)|[**Jif**](https://www.jif.com/peanut-butter/recipes)|[**Jobbie Nut Butter**](https://www.jobbienutbutter.com/blogs/recipe)|[**Joi**](https://addjoi.com/blogs/made-with-joi-recipes)|
-|[**Justin's**](https://www.justins.com/recipes/)|[**Karma Nuts**](https://www.karmanuts.com/blogs/recipes)|[**Mori-Nu**](https://morinaganutrition.com/pages/morinu-tofu-recipes)|[**Nichols Farms**](https://nicholsfarms.com/our-recipes/)|[Nutcracker Museum](https://www.nutcrackermuseum.com/recipes8.html)|
-|[NutStop](https://recipes.nutstop.com/)|[**Nutty Gourmet**](https://nutty-gourmet.com/blogs/recipes)|[**NuttZo**](https://www.nuttzo.com/blogs/news-1)|[**Once Again Nut Butter**](https://www.onceagainnutbutter.com/)|[**PB Love Co.**](https://www.thepbloveco.com/blogs/recipes)|
-|[Peanut Butter Lovers](https://peanutbutterlovers.com/)|[**Planters**](https://www.planters.com/recipes/)|[**Revival Food Co.**](https://revivalfoodco.com/blogs/recipes)|[**Sante Nuts**](https://www.santenuts.com/blogs/recipes)|[**Sciara Pistacchio**](https://www.sciarapistacchio.com/en/recipes/)|
-|[**Seed and Mill**](https://www.seedandmill.com/pages/recipes)|[**Seedible**](https://eatseedible.com/blogs/recipes)|[**Skinny Dipped**](https://skinnydipped.com/blogs/blog)|[**Sun Butter**](https://sunbutter.com/recipes/)|
-|[**Sunshine Nuts**](https://sunshinenuts.com/blogs/recipes)|[**Super Seedz**](https://www.superseedz.com/blogs/recipes)|[**Tofu Bud**](https://tofubud.com/blogs/recipes)|[**Tofurky**](https://tofurky.com/recipes/)|[**Tofutti**](https://www.tofutti.com/recipe-blog)|
+|[**Barney Butter**](https://barneybutter.com/blogs/recipes)|[**Black Walnuts**](https://black-walnuts.com/explore-recipes/)|[**Blue Diamond**](https://www.bluediamond.com/recipes)|[**Diamond Nuts**](https://www.diamondnuts.com/recipes/)|[**Fix & Fogg**](https://fixandfogg.com/recipes-fix-and-fogg)|
+|[**Good Spread**](https://helpgoodspread.com/blogs/recipes)|[**Jif**](https://www.jif.com/peanut-butter/recipes)|[**Jobbie Nut Butter**](https://www.jobbienutbutter.com/blogs/recipe)|[**Joi**](https://addjoi.com/blogs/made-with-joi-recipes)|[**Justin's**](https://www.justins.com/recipes/)|
+|[**Karma Nuts**](https://www.karmanuts.com/blogs/recipes)|[**Mori-Nu**](https://morinaganutrition.com/pages/morinu-tofu-recipes)|[**Nichols Farms**](https://nicholsfarms.com/our-recipes/)|[Nutcracker Museum](https://www.nutcrackermuseum.com/recipes8.html)|[NutStop](https://recipes.nutstop.com/)|
+|[**Nutty Gourmet**](https://nutty-gourmet.com/blogs/recipes)|[**NuttZo**](https://www.nuttzo.com/blogs/news-1)|[**Once Again Nut Butter**](https://www.onceagainnutbutter.com/)|[Peanut Butter Lovers](https://peanutbutterlovers.com/)|[**Planters**](https://www.planters.com/recipes/)|
+|[**Sante Nuts**](https://www.santenuts.com/blogs/recipes)|[**Sciara Pistacchio**](https://www.sciarapistacchio.com/en/recipes/)|[**Seed and Mill**](https://www.seedandmill.com/pages/recipes)|[**Seedible**](https://eatseedible.com/blogs/recipes)|[**Skinny Dipped**](https://skinnydipped.com/blogs/blog)|
+|[**Sun Butter**](https://sunbutter.com/recipes/)|[**Sunshine Nuts**](https://sunshinenuts.com/blogs/recipes)|[**Super Seedz**](https://www.superseedz.com/blogs/recipes)|[**Tofu Bud**](https://tofubud.com/blogs/recipes)|[**Tofurky**](https://tofurky.com/recipes/)|[**Tofutti**](https://www.tofutti.com/recipe-blog)|
 |[**Tru Nut**](https://tru-nutbutter.com/recipes/)|[**Wonderful Pistachios**](https://www.wonderfulpistachios.com/recipes)|[**WW Traders Cashews**](https://wwcashews.com/blogs/blogs-and-recipes)|
 ### Oil
 |     |     |     |     |     |
