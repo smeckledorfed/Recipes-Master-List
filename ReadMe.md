@@ -2015,9 +2015,8 @@
 ### Pizza
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Etalia Foods**](https://www.etaliafoods.com/blogs/recipes)|[**Gozney**](https://www.gozney.com/blogs/recipes)|[**Home Run Inn**](https://www.homeruninnpizza.com/frozen-pizza/recipes/)|[Pala Pizza](https://palapizza.com/recipes/)|
-|[Pizza Making](https://www.pizzamaking.com/pizza-recipes.html)|[Pizza Today](https://pizzatoday.com/recipes/)|[**Pizzeria Ora**](https://www.pizzeriaora.com/recipes)|[Spicy Goulash](https://spicygoulash.com/)|
-|[Thursday Night Pizza](https://www.thursdaynightpizza.com/recipe-index/)|
+|[**Etalia Foods**](https://www.etaliafoods.com/blogs/recipes)|[**Gozney**](https://www.gozney.com/blogs/recipes)|[**Home Run Inn**](https://www.homeruninnpizza.com/frozen-pizza/recipes/)|[Pala Pizza](https://palapizza.com/recipes/)|[Pizza Making](https://www.pizzamaking.com/pizza-recipes.html)|
+|[Pizza Today](https://pizzatoday.com/recipes/)|[**Pizzeria Ora**](https://www.pizzeriaora.com/recipes)|[Spicy Goulash](https://spicygoulash.com/)|[Thursday Night Pizza](https://www.thursdaynightpizza.com/recipe-index/)|
 
 ### Sandwiches
 |     |     |     |     |     |
