@@ -1946,7 +1946,7 @@
 | --- | --- | --- | --- | --- |
 |[**Al Fresco Chicken**](https://www.alfrescochicken.com/recipes/)|[All Chicken Recipes](https://www.allchickenrecipes.com/)|[**Bell and Evans**](https://www.bellandevans.com/)|[Chicken Roost](https://www.chickenroost.com/)|[Easy Chicken Recipes](https://easychickenrecipes.com/)|
 |[**Expresco Foods**](https://exprescofoods.com/recipes/)|[**Foster Farms**](https://www.fosterfarms.com/turkey-and-chicken-recipes/)|[**Just Bare**](https://www.justbarefoods.com/recipes/)|[**Miller Poultry**](https://millerpoultry.com/recipes/)|[**Perdue**](https://www.perdue.com/recipes/)|
-|[**Roli Roti**](https://roliroti.com/recipes/)|[**Sanderson Farms**](https://sandersonfarms.com/recipes/)|[**Tyson**](https://www.tyson.com/recipes/)|
+|[**Sanderson Farms**](https://sandersonfarms.com/recipes/)|[**Tyson**](https://www.tyson.com/recipes/)|
 - #### Duck
 |     |
 | --- |
@@ -2046,8 +2046,7 @@
 |[**Bare Bones Broth**](https://www.barebonesbroth.com/blogs/recipes)|[**Better Than Bouillon**](https://www.betterthanbouillon.com/recipes-tips/)|[**Brass Roots Food**](https://brassrootsfood.com/blogs/recipes)|[**Campbell's Soup Company**](https://www.campbells.com/recipes/)|
 |[**Campbell's Canada**](https://www.cookwithcampbells.ca/collections/)|[**Eat Proper Good**](https://eatpropergood.com/blogs/proper-good-recipes)|[**Imagine Foods**](https://www.imaginefoods.com/recipes/)|[**Immi Eats**](https://immieats.com/recipes/)|[**Kettle and Fire**](https://blog.kettleandfire.com/recipes/)|
 |[**Knorr**](https://www.knorr.com/ph/recipe-ideas.html)|[**Lipton Kitchens**](https://www.liptonkitchens.com/)|[**Maruchan**](https://www.maruchan.com/recipes/)|[**Mike's Mighty Good**](https://mikesmightygood.com/blogs/recipes)|[**Nissin**](https://nissinfoods.com/recipes)|
-|[**Roli Roti**](https://roliroti.com/recipes/)|[**Samyang Foods**](https://www.samyangfoods.com/eng/publicity/public/list.do)|[**Sanyo Foods**](https://sanyofoodsamerica.com/recipe/)|[**Souper Cubes**](https://www.soupercubes.com/blogs/recipes)|
-|[Soup Song](http://soupsong.com/)|[**Swanson**](https://www.campbells.com/swanson)|[**Zoup!**](https://www.zoupbroth.com/category/recipes/)|
+|[**Samyang Foods**](https://www.samyangfoods.com/eng/publicity/public/list.do)|[**Sanyo Foods**](https://sanyofoodsamerica.com/recipe/)|[**Souper Cubes**](https://www.soupercubes.com/blogs/recipes)|[**Swanson**](https://www.campbells.com/swanson)|[**Zoup!**](https://www.zoupbroth.com/category/recipes/)|
 
 ### Snacks
 |     |     |     |     |     |
