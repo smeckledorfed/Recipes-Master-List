@@ -1880,21 +1880,19 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**Academia Barilla**](https://www.academiabarilla.it/en/)|[**American Beauty**](https://www.americanbeauty.com/)|[**Annie's**](https://www.annies.com/recipes)|[**Asha Dry Noodle**](https://ashadrynoodle.com/blogs/recipes)|[**Barilla**](https://www.barilla.com/en-us/recipes)|
-|[The Burnt Butter Table](https://www.theburntbuttertable.com/)|[**Chickapea**](https://chickapea.com/blogs/recipes)|[**Creamette**](https://www.creamette.com/en-us/recipes/)|[**De Cecco**](https://www.dececco.com/us_us/recipes/)|
-|[**Eat Natural Heaven**](https://eatnaturalheaven.com/blogs/recipes)|[**Explore Cuisine**](https://explorecuisine.com/portfolio-category/all-recipes/)|[**Ginger and Scotch**](https://gingerandscotch.com/)|[In Good Taste](https://www.ingoodtaste.app/)|[**Lotus Foods**](https://www.lotusfoods.com/blogs/recipes)|
-|[**Miracle Noodle**](https://miraclenoodle.com/pages/recipe-cookbook)|[**Misko**](https://www.misko.gr/en/)|[The Monday Pasta Club](https://www.themondaypastaclub.com/)|[**Mueller's Pasta**](https://www.muellerspasta.com/recipes/)|[**No Yolks**](https://www.noyolks.com/recipes/)|
-|[**Nuovo Pasta**](https://www.nuovopasta.com/)|[Pandemic Noodles](https://pandemicnoodles.wixsite.com/summer2020/recipes)|[**Pasta Evangelists**](https://pastaevangelists.com/blogs/blog/tagged/recipes)|[Pasta Grammar](https://www.pastagrammar.com/blog)|[The Pasta Project](https://www.the-pasta-project.com/)|
-|[**Pasta Rummo**](https://www.pastarummo.it/en/list/recipes/)|[**Pasta Shoppe**](https://pastashoppe.com/)|[Pasta Twins](https://pastatwins.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[The Ramen Rater](https://www.theramenrater.com/resources-2/recipes/)|
-|[**Reame's Foods**](https://reamesfoods.com/recipes/)|[**Ronzoni**](https://ronzoni.com/recipes)|[**San Giorgio**](https://www.sangiorgio.com/recipes/)|[Share the Pasta](https://sharethepasta.org/)|
-|[**Skinner Pasta**](https://www.skinnerpasta.com/en-us/recipes/search/default.aspx)|[**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)|[**Tortellini & Co.**](https://www.tortelliniandco.com/en/category/recipes/)|[**Umi Organic**](https://www.umiorganic.com/recipes)|[**Veggie Craft Farms**](https://veggiecraftfarms.com/recipe/)|
-|[**ZENB**](https://zenb.com/blogs/recipes)|
+|[The Burnt Butter Table](https://www.theburntbuttertable.com/)|[**Chickapea**](https://chickapea.com/blogs/recipes)|[**Creamette**](https://www.creamette.com/en-us/recipes/)|[**De Cecco**](https://www.dececco.com/us_us/recipes/)|[**Eat Natural Heaven**](https://eatnaturalheaven.com/blogs/recipes)|
+|[**Explore Cuisine**](https://explorecuisine.com/portfolio-category/all-recipes/)|[**Ginger and Scotch**](https://gingerandscotch.com/)|[In Good Taste](https://www.ingoodtaste.app/)|[**Lotus Foods**](https://www.lotusfoods.com/blogs/recipes)|[**Miracle Noodle**](https://miraclenoodle.com/pages/recipe-cookbook)|
+|[**Misko**](https://www.misko.gr/en/)|[The Monday Pasta Club](https://www.themondaypastaclub.com/)|[**Mueller's Pasta**](https://www.muellerspasta.com/recipes/)|[**No Yolks**](https://www.noyolks.com/recipes/)|[**Nuovo Pasta**](https://www.nuovopasta.com/)|
+|[Pandemic Noodles](https://pandemicnoodles.wixsite.com/summer2020/recipes)|[**Pasta Evangelists**](https://pastaevangelists.com/blogs/blog/tagged/recipes)|[Pasta Grammar](https://www.pastagrammar.com/blog)|[The Pasta Project](https://www.the-pasta-project.com/)|[**Pasta Rummo**](https://www.pastarummo.it/en/list/recipes/)|
+|[**Pasta Shoppe**](https://pastashoppe.com/)|[Pasta Twins](https://pastatwins.com/)|[Piatto Recipes](https://www.piattorecipes.com/)|[The Ramen Rater](https://www.theramenrater.com/resources-2/recipes/)|[**Reame's Foods**](https://reamesfoods.com/recipes/)|
+|[**San Giorgio**](https://www.sangiorgio.com/recipes/)|[Share the Pasta](https://sharethepasta.org/)|[**Skinner Pasta**](https://www.skinnerpasta.com/en-us/recipes/search/default.aspx)|[**Taste Republic**](https://tasterepublicglutenfree.com/blogs/recipes)|
+|[**Tortellini & Co.**](https://www.tortelliniandco.com/en/category/recipes/)|[**Umi Organic**](https://www.umiorganic.com/recipes)|[**ZENB**](https://zenb.com/blogs/recipes)|
 - #### Rice
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Carolina Rice**](https://carolinarice.com/)|[**European Rice**](https://www.europeanrice.eu/recipes/)|[**Lion Brand**](https://www.lionbrand.com.au/recipes/)|[**Lotus Foods**](https://www.lotusfoods.com/blogs/recipes)|
-|[**Minute Rice**](https://minuterice.com/recipes/)|[**Rice-a-Roni**](https://www.ricearoni.com/recipes)|[**Riceland**](https://www.riceland.com/recipes)|[**Rice Select**](https://riceselect.com/recipes)|[**Riso Scotti**](https://www.risoscotti.com/creative-cooking/)|
-|[**Success Rice**](https://successrice.com/recipes/)|[**Sunwhite**](https://sunwhite.me/en/rice-recipes/)|[**Tilda Rice**](https://www.tilda.com/recipes/)|[**Tinkyada**](https://www.tinkyada.com/good-recipe)|[**White House Farms**](https://whitehousefarms.com/blogs/recipes)|
-|[**Zatarain's**](https://www.mccormick.com/zatarains/recipes)|
+|[**Carolina Rice**](https://carolinarice.com/)|[**European Rice**](https://www.europeanrice.eu/recipes/)|[**Lion Brand**](https://www.lionbrand.com.au/recipes/)|[**Lotus Foods**](https://www.lotusfoods.com/blogs/recipes)|[**Minute Rice**](https://minuterice.com/recipes/)|
+|[**Rice-a-Roni**](https://www.ricearoni.com/recipes)|[**Riceland**](https://www.riceland.com/recipes)|[**Rice Select**](https://riceselect.com/recipes)|[**Riso Scotti**](https://www.risoscotti.com/creative-cooking/)|[**Success Rice**](https://successrice.com/recipes/)|
+|[**Sunwhite**](https://sunwhite.me/en/rice-recipes/)|[**Tilda Rice**](https://www.tilda.com/recipes/)|[**Tinkyada**](https://www.tinkyada.com/good-recipe)|[**White House Farms**](https://whitehousefarms.com/blogs/recipes)|[**Zatarain's**](https://www.mccormick.com/zatarains/recipes)|
 
 ### Herbs & Spices
 |     |     |     |     |     |
