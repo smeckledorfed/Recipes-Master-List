@@ -1805,11 +1805,9 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[**Chobani**](https://www.chobani.com/recipes/)|[**Dannon**](https://www.dannon.com/recipes/)|[**Euro Cuisine**](https://eurocuisine.net/blogs/recipes)|[**Fage**](https://usa.fage/recipes)|[**Good Moood Farm**](https://goodmooodfarm.com/en/recipes)|
-|[**Greek Gods**](https://www.greekgodsyogurt.com/list-of-recipes/)|[**Green Mountain Creamery**](https://greenmountaincreamery.com/recipes/)|[**Icelandic Provisions**](https://www.icelandicprovisions.com/skyr-recipes/)|[**LaLa**](https://www.lalafoods.com/recipe/)|[**Lavva**](https://lovvelavva.com/in-the-wild/category/recipes/)|
-|[**Lifeway Kefir**](https://lifewaykefir.com/recipes/)|[**Light and Fit**](https://www.lightandfit.com/recipes/)|[**Nancy's Yogurt**](https://nancysyogurt.com/recipes/)|[**Noun's Creamery**](https://www.nounoscreamery.com/blog)|
-|[**Oikos**](https://www.oikosyogurt.com/greek-yogurt-recipes/)|[**Painterland Sisters**](https://painterlandsisters.com/blogs/recipes)|[**Redwood Hill**](https://redwoodhill.com/recipes)|[**Siggi's**](https://siggis.com/recipes)|
-|[**Stonyfield**](https://www.stonyfield.com/recipes/)|[**Wallaby Organics**](https://wallabyyogurt.com/recipes/)|[**Yakult (Middle East)**](https://yakultme.com/yakult-recipes/)|[**Yakult (USA)**](https://www.yakultusa.com/recipes/)|[**Yogourtmet**](https://yogourmet.com/en/international/recipes/)|
-|[**Zott Primo**](https://www.zott-primo.com/en/recipes/)|
+|[**Greek Gods**](https://www.greekgodsyogurt.com/list-of-recipes/)|[**Green Mountain Creamery**](https://greenmountaincreamery.com/recipes/)|[**Icelandic Provisions**](https://www.icelandicprovisions.com/skyr-recipes/)|[**LaLa**](https://www.lalafoods.com/recipe/)|[**Lifeway Kefir**](https://lifewaykefir.com/recipes/)|
+|[**Light and Fit**](https://www.lightandfit.com/recipes/)|[**Nancy's Yogurt**](https://nancysyogurt.com/recipes/)|[**Noun's Creamery**](https://www.nounoscreamery.com/blog)|[**Painterland Sisters**](https://painterlandsisters.com/blogs/recipes)|[**Siggi's**](https://siggis.com/recipes)|
+|[**Stonyfield**](https://www.stonyfield.com/recipes/)|[**Wallaby Organics**](https://wallabyyogurt.com/recipes/)|[**Yakult (USA)**](https://www.yakultusa.com/recipes/)|[**Yogourtmet**](https://yogourmet.com/en/international/recipes/)|[**Zott Primo**](https://www.zott-primo.com/en/recipes/)|
 
 ### Dairy Alternatives
 |     |     |     |     |     |
