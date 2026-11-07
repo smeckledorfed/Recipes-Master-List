@@ -1814,14 +1814,12 @@
 ### Dairy Alternatives
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Alpro**](https://www.alpro.com/uk/recipes/)|[**Bute Island**](https://www.buteisland.com/recipes/)|[**Califia Farms**](https://www.califiafarms.com/recipes)|
-|[**Craft Beering**](https://risebrewingco.com/blogs/recipe)|[**Daiya Foods**](https://daiyafoods.com/recipes/)|[**Dream**](https://www.dreamplantbased.com/recipes)|[**Earth Balance**](https://www.earthbalancenatural.com/recipes)|[**Eat Parma**](https://eatparma.com/category/recipes/)|
-|[**Field Roast**](https://fieldroast.com/recipes/)|[**Flora**](https://www.flora.com/en-us/floraplant/recipe)|[**Good Karma Foods**](https://goodkarmafoods.com/blogs/recipes)|
-|[**Kite Hill**](https://kite-hill.com/)|[**Koita**](https://www.koita.com/blogs/all/tagged/recipes)|[**Living Harvest**](https://livingharvest.com/#recipes)|[**Malk Organics**](https://malkorganics.com/blogs/recipes)|
-|[**Milkadamia**](https://www.milkadamia.com/pages/recipes)|[**Milkman**](https://milkmanmilk.com/blogs/milkman-bakery)|[**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)|[**New Barn Organics**](https://www.newbarnorganics.com/blogs/recipes)|
-|[**Nutpods**](https://www.nutpods.com/blogs/recipes)|[**Planet Oat**](https://planetoat.com/recipes)|
+|[**Alpro**](https://www.alpro.com/uk/recipes/)|[**Bute Island**](https://www.buteisland.com/recipes/)|[**Califia Farms**](https://www.califiafarms.com/recipes)|[**Craft Beering**](https://risebrewingco.com/blogs/recipe)|[**Daiya Foods**](https://daiyafoods.com/recipes/)|
+|[**Dream**](https://www.dreamplantbased.com/recipes)|[**Earth Balance**](https://www.earthbalancenatural.com/recipes)|[**Field Roast**](https://fieldroast.com/recipes/)|[**Flora**](https://www.flora.com/en-us/floraplant/recipe)|[**Good Karma Foods**](https://goodkarmafoods.com/blogs/recipes)|
+|[**Kite Hill**](https://kite-hill.com/)|[**Koita**](https://www.koita.com/blogs/all/tagged/recipes)|[**Living Harvest**](https://livingharvest.com/#recipes)|[**Malk Organics**](https://malkorganics.com/blogs/recipes)|[**Milkadamia**](https://www.milkadamia.com/pages/recipes)|
+|[**Milkman**](https://milkmanmilk.com/blogs/milkman-bakery)|[**Nature's Charm**](https://www.naturescharmveganproducts.com/recipes)|[**New Barn Organics**](https://www.newbarnorganics.com/blogs/recipes)|[**Nutpods**](https://www.nutpods.com/blogs/recipes)|[**Planet Oat**](https://planetoat.com/recipes)|
 |[**Realcoco**](https://enjoyrealcoco.com/blogs/recipes)|[**Ripple Foods**](https://www.ripplefoods.com/blog/recipes/)|[**Silk**](https://silk.com/plant-based-recipes/)|[**So Delicious**](https://sodeliciousdairyfree.com/vegan-recipes/)|[**Three Trees**](https://www.threetrees.com/recipes)|
-|[**Vitalite**](https://www.vitalite.com/en/recipes)|[**Willa's Oat Milk**](https://willaskitchen.com/blogs/oat-milk-recipes)|
+|[**Willa's Oat Milk**](https://willaskitchen.com/blogs/oat-milk-recipes)|
 
 ### Eggs
 |     |     |     |     |     |
