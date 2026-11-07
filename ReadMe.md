@@ -1768,8 +1768,7 @@
 | --- | --- | --- | --- | --- |
 |[**Chef Shamy**](https://chefshamy.com/)|[**Country Crock**](https://www.countrycrock.com/)|[Epicurean Butter](https://www.epicureanbutter.com/recipes)|[**Fondo Foods**](https://fondofoods.com/recipes/)|[**Fourth and Heart**](https://fourthandheart.com/blogs/recipes-and-more)|
 |[Go Bold With Butter](https://goboldwithbutter.com/)|[**Grand Fermage**](https://www.grand-fermage.fr/en/recettes-beurre-cuisine/)|[**Grassland Butter**](https://www.grasslandbutter.com/)|[I Love Ghee](https://iloveghee.com/blogs/health-headliners)|[**Kerrygold**](https://www.kerrygoldusa.com/recipes/)|
-|[**Land O' Lakes**](https://www.landolakes.com/recipes/)|[**Lurpak**](https://new.lurpak.com/en/recipes/)|[**Majestic Butter**](https://majesticbutter.com/pages/recipes)|
-|[**Plugra**](https://plugra.com/recipes/)|[**Truly Grassfed**](https://www.trulygrassfed.com/recipes/)|
+|[**Land O' Lakes**](https://www.landolakes.com/recipes/)|[**Lurpak**](https://new.lurpak.com/en/recipes/)|[**Plugra**](https://plugra.com/recipes/)|[**Truly Grassfed**](https://www.trulygrassfed.com/recipes/)|
 
 - #### Cheese
 |     |     |     |     |     |
