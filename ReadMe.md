@@ -1694,18 +1694,17 @@
 ### Candy
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Dandie's**](https://dandies.com/recipes)|[**Maltesers**](https://www.maltesers.co.uk/recipes?)|[**Max Sweets**](https://www.myknowbrainer.com/blogs/recipes)|
-|[**Snickers**](https://www.snickers.com/recipes)|[**Stuffed Puffs**](https://stuffedpuffs.com/blogs/recipes)|[**Tootsie**](https://tootsie.com/recipes/)|[**Twix**](https://www.twix.com/recipes)|
+|[**Dandie's**](https://dandies.com/recipes)|[**Maltesers**](https://www.maltesers.co.uk/recipes?)|[**Max Sweets**](https://www.myknowbrainer.com/blogs/recipes)|[**Snickers**](https://www.snickers.com/recipes)|[**Stuffed Puffs**](https://stuffedpuffs.com/blogs/recipes)|
+|[**Tootsie**](https://tootsie.com/recipes/)|[**Twix**](https://www.twix.com/recipes)|
 
 ### Chocolate
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Abuelita**](https://www.goodnes.com/abuelita/recipes/)|[**Ah Cacao**](https://ahcacao.com/recipes)|[Best With Chocolate](https://bestwithchocolate.com/)|[**Beyond Good**](https://beyondgood.com/blogs/recipes)|
-|[**Blommer**](https://www.blommer.com/services-recipe-library.php)|[**Camille Bloch**](https://camillebloch.ch/en/torino/recettes/)|[**Cocoa Metro**](https://www.cocoametro.com/recipes)|[**Dobla**](https://www.dobla.com/en-gb)|
-|[Eat More Chocolate](https://eatmorechocolate.com/)|[**Enjoy Life**](https://enjoylifefoods.com/blogs/content/tagged/recipes)|[**Guittard**](https://www.guittard.com/in-the-kitchen/recipes)|[**Hawaiian Host**](https://hawaiianhost.com/blogs/news/tagged/recipes)|[**Hershey**](https://www.hersheyland.com/recipes-and-crafts)|
-|[**Honey Mamas**](https://honeymamas.com/blogs/recipes)|[**Lindt**](https://www.lindtusa.com/recipes)|[**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)|[**Melangers**](https://www.melangers.com/blogs/recipes)|
-|[**Mike and Jen's**](https://mikeandjens.com/pages/recipies)|[Mission Chocolate](https://missionchocolaterecipes.com/)|[**Murray Sugar-Free**](https://www.murraysugarfree.com/en/Murray-Sugar-Free-Recipes)|[**Nebula Snacks**](https://nebulasnacks.com/blogs/recipes)|[**Nesquik**](https://www.goodnes.com/nesquik/recipes/)|
-|[**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)|[**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/recipe-books/)|[**Simply Delish**](https://simplydelish.net/healthy-recipes/)|[**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)|
+|[**Abuelita**](https://www.goodnes.com/abuelita/recipes/)|[**Ah Cacao**](https://ahcacao.com/recipes)|[Best With Chocolate](https://bestwithchocolate.com/)|[**Beyond Good**](https://beyondgood.com/blogs/recipes)|[**Blommer**](https://www.blommer.com/services-recipe-library.php)|
+|[**Camille Bloch**](https://camillebloch.ch/en/torino/recettes/)|[**Cocoa Metro**](https://www.cocoametro.com/recipes)|[**Dobla**](https://www.dobla.com/en-gb)|[Eat More Chocolate](https://eatmorechocolate.com/)|[**Enjoy Life**](https://enjoylifefoods.com/blogs/content/tagged/recipes)|
+|[**Hawaiian Host**](https://hawaiianhost.com/blogs/news/tagged/recipes)|[**Hershey**](https://www.hersheyland.com/recipes-and-crafts)|[**Honey Mamas**](https://honeymamas.com/blogs/recipes)|[**Lindt**](https://www.lindtusa.com/recipes)|[**Little Secrets Chocolates**](https://littlesecretschocolates.com/blogs/recipes)|
+|[**Melangers**](https://www.melangers.com/blogs/recipes)|[**Mike and Jen's**](https://mikeandjens.com/pages/recipies)|[Mission Chocolate](https://missionchocolaterecipes.com/)|[**Murray Sugar-Free**](https://www.murraysugarfree.com/en/Murray-Sugar-Free-Recipes)|[**Nebula Snacks**](https://nebulasnacks.com/blogs/recipes)|
+|[**Nesquik**](https://www.goodnes.com/nesquik/recipes/)|[**Raaka Chocolate**](https://www.raakachocolate.com/blogs/news)|[**Santa Barbara Chocolate**](https://www.santabarbarachocolate.com/recipe-books/)|[**Simply Delish**](https://simplydelish.net/healthy-recipes/)|[**Taza Chocolate**](https://www.tazachocolate.com/pages/recipes)|
 |[**Theo Chocolate**](https://theochocolate.com/blogs/all-recipes)|[**Verse Chocolate**](https://versechocolate.com/blogs/news)|[**Vosges Chocolate**](https://www.vosgeschocolate.com/pages/recipes)|
 
 ### Condiment
