@@ -1597,14 +1597,13 @@
 - #### Beer
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Beer Alien](https://beeralien.com/)|[Beer and Brewing](https://beerandbrewing.com/beer-recipes/)|[Beers With Mandy](https://beerswithmandy.com/)|[Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)|
-|[Brew Dudes](https://www.brew-dudes.com/beer-recipes)|[Brewer's Friend](https://www.brewersfriend.com/homebrew-recipes/)|[Brulosophy](https://brulosophy.com/recipes/)|[Craft Beering](https://www.craftbeering.com/)|[**Guinness**](https://www.guinness.com/en-us/experiences/recipes)|
-|[Homebrew Academy](https://homebrewacademy.com/beer-recipes/)|[Homebrew Answers](https://homebrewanswers.com/)|[Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)|
+|[Beer Alien](https://beeralien.com/)|[Beer and Brewing](https://beerandbrewing.com/beer-recipes/)|[Beers With Mandy](https://beerswithmandy.com/)|[Beginner Brewer](https://beginnerbrewer.com/category/know-how/recipes/)|[Brew Dudes](https://www.brew-dudes.com/beer-recipes)|
+|[Brewer's Friend](https://www.brewersfriend.com/homebrew-recipes/)|[Brulosophy](https://brulosophy.com/recipes/)|[Craft Beering](https://www.craftbeering.com/)|[**Guinness**](https://www.guinness.com/en-us/experiences/recipes)|[Homebrew Academy](https://homebrewacademy.com/beer-recipes/)|
+|[Homebrew Answers](https://homebrewanswers.com/)|[Make Beer Easy](https://makebeereasy.com/home-brewing-recipes/)|
 - #### Bourbon
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Evan Williams Bourbon**](https://evanwilliams.com/recipes)|[**Jim Beam**](https://www.jimbeam.com/en/cocktails/)|[**Knob Creek**](https://www.knobcreek.com/our-cocktails/)|[**Maker's Mark**](https://www.makersmark.com/cocktails)|
-|[**Wild Turkey Bourbon**](https://www.wildturkeybourbon.com/en-us/cocktails/)|
+|[**Evan Williams Bourbon**](https://evanwilliams.com/recipes)|[**Jim Beam**](https://www.jimbeam.com/en/cocktails/)|[**Knob Creek**](https://www.knobcreek.com/our-cocktails/)|[**Maker's Mark**](https://www.makersmark.com/cocktails)|[**Wild Turkey Bourbon**](https://www.wildturkeybourbon.com/en-us/cocktails/)|
 - #### Brandy
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
