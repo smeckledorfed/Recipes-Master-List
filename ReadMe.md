@@ -1583,17 +1583,16 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[1001 Cocktails](https://en.1001cocktails.com/)|[Advanced Mixology](https://advancedmixology.com/)|[Art of Drink](https://www.artofdrink.com/category/recipe)|[Aurabora](https://aurabora.com/blogs/recipes)|[The Bar](https://www.thebar.com/en-gb/recipes)|
-|[**A Bar Above**](https://abarabove.com/recipes/)|[Bevvy](https://bevvy.co/cocktails)|[**The Bottle Club**](https://www.thebottleclub.com/)|[Cocktails and Shots](https://cocktailsandshots.com/)|
-|[Cocktail Book](https://cocktailbook.com/)|[Cocktail Builder](https://www.cocktailbuilder.com/)|[Cocktail Flow](https://cocktailflow.com/)|[Cocktail Party](https://cocktailpartyapp.com/drinks/)|
-|[Cocktails With Class](https://cocktailswithclass.com/)|[Crystal Mixer](https://www.crystalmixer.com/)|[Cupcakes and Cutlery](https://www.cupcakesandcutlery.com/)|[Cup of Zest](https://www.cupofzest.com/)|[**Cutwater Spirits**](https://www.cutwaterspirits.com/recipes/)|
-|[Difford's Guide](https://www.diffordsguide.com/cocktails)|[Drink Boy](https://www.drinkboy.com/Cocktails/)|[Drink Existence](https://www.drinkexistence.com/)|[The Drink Kings](https://www.thedrinkkings.com/)|[Drink Lab](https://www.drinklab.org/)|
-|[Drink Nation](https://www.drinknation.com/)|[Drunkard's Almanac](https://drunkardsalmanac.com/)|[Feast and West](https://feastandwest.com/)|[**Fever Tree**](https://fever-tree.com/en_US/cocktails)|[Food Viva](https://cocktails.foodviva.com/)|
-|[Have a Cocktail](https://www.haveacocktail.com/)|[Home Brewer's Association](https://www.homebrewersassociation.org/homebrew-recipes/)|[Home Drink Menu](https://homedrinkmenu.com/)|[In Good Taste](https://www.ingoodtaste.app/)|[Inshaker](https://us.inshaker.com/cocktails)|
-|[**Koval Distillery**](https://www.koval-distillery.com/newsite/recipes)|[Liquor](https://www.liquor.com/cocktail-and-other-recipes-4779343)|[Make Me a Cocktail](https://makemeacocktail.com/)|[Mix That Drink](https://mixthatdrink.com/)|[Moonshine Recipe](https://moonshinerecipe.org/)|
-|[Mr. Boston Drinks](https://mrbostondrinks.com/discover)|[My Bartender](https://mybartender.com/)||[Open Drinks](https://opendrinks.io/)|[**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)|[Platings and Pairings](https://www.platingsandpairings.com/)|
-|[Punch](https://punchdrink.com/)|[**Q Mixers**](https://qmixers.com/cocktails/)|[Regain Your Sparkle](https://www.regainyoursparkle.com/)|[Shake Drink Repeat](https://www.shakedrinkrepeat.com/)|
-|[ShakeIt DrinkIt](https://www.shakeitdrinkit.com/)|[Sidewalk Shoes](https://www.sidewalkshoes.com/)|[Social and Cocktail](https://www.socialandcocktail.co.uk/)|[Thrillist](https://www.thrillist.com/recipes)|
-|[Tipsy Bartender](https://tipsybartender.com/)|[Vine Pair](https://vinepair.com/cocktail-recipe/)|[Vintage American Cocktails](https://vintageamericancocktails.com/)|
+|[**A Bar Above**](https://abarabove.com/recipes/)|[Bevvy](https://bevvy.co/cocktails)|[**The Bottle Club**](https://www.thebottleclub.com/)|[Cocktails and Shots](https://cocktailsandshots.com/)|[Cocktail Book](https://cocktailbook.com/)|
+|[Cocktail Builder](https://www.cocktailbuilder.com/)|[Cocktail Flow](https://cocktailflow.com/)|[Cocktail Party](https://cocktailpartyapp.com/drinks/)|[Cocktails With Class](https://cocktailswithclass.com/)|[Crystal Mixer](https://www.crystalmixer.com/)|
+|[Cupcakes and Cutlery](https://www.cupcakesandcutlery.com/)|[Cup of Zest](https://www.cupofzest.com/)|[**Cutwater Spirits**](https://www.cutwaterspirits.com/recipes/)|[Difford's Guide](https://www.diffordsguide.com/cocktails)|[Drink Boy](https://www.drinkboy.com/Cocktails/)|
+|[Drink Existence](https://www.drinkexistence.com/)|[The Drink Kings](https://www.thedrinkkings.com/)|[Drink Lab](https://www.drinklab.org/)|[Drink Nation](https://www.drinknation.com/)|[Drunkard's Almanac](https://drunkardsalmanac.com/)|
+|[Feast and West](https://feastandwest.com/)|[**Fever Tree**](https://fever-tree.com/en_US/cocktails)|[Food Viva](https://cocktails.foodviva.com/)|[Home Brewer's Association](https://www.homebrewersassociation.org/homebrew-recipes/)|[Home Drink Menu](https://homedrinkmenu.com/)|
+|[In Good Taste](https://www.ingoodtaste.app/)|[Inshaker](https://us.inshaker.com/cocktails)|[**Koval Distillery**](https://www.koval-distillery.com/newsite/recipes)|[Liquor](https://www.liquor.com/cocktail-and-other-recipes-4779343)|[Make Me a Cocktail](https://makemeacocktail.com/)|
+|[Mix That Drink](https://mixthatdrink.com/)|[Moonshine Recipe](https://moonshinerecipe.org/)|[My Bartender](https://mybartender.com/)||[Open Drinks](https://opendrinks.io/)|[**Parker's Hangover Tonic**](https://www.parkershangovertonic.com/recipes)|
+|[Platings and Pairings](https://www.platingsandpairings.com/)|[Punch](https://punchdrink.com/)|[**Q Mixers**](https://qmixers.com/cocktails/)|[Regain Your Sparkle](https://www.regainyoursparkle.com/)|[Shake Drink Repeat](https://www.shakedrinkrepeat.com/)|
+|[ShakeIt DrinkIt](https://www.shakeitdrinkit.com/)|[Sidewalk Shoes](https://www.sidewalkshoes.com/)|[Social and Cocktail](https://www.socialandcocktail.co.uk/)|[Thrillist](https://www.thrillist.com/recipes)|[Tipsy Bartender](https://tipsybartender.com/)|
+|[Vine Pair](https://vinepair.com/cocktail-recipe/)|[Vintage American Cocktails](https://vintageamericancocktails.com/)|
 - #### Beer
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
