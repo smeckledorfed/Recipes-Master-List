@@ -1636,22 +1636,20 @@
 | --- | --- | --- | --- | --- |
 |[**Absolut**](https://www.absolutdrinks.com/en/learn/)|[**Belvedere Vodka**](https://www.belvederevodka.com/en-us/vodka-cocktails/)|[**Broken Shed**](https://brokenshed.com/the-recipes?offset=0)|[**Chopin Vodka**](https://chopinvodka.com/recipes/)|[**Ciroc**](https://www.ciroc.com/en-row/vodka-cocktails)|
 |[**Crystal Head Vodka**](https://www.crystalheadvodka.com/recipes)|[**Effen Vodka**](https://www.effenvodka.com/vodka-cocktail-recipes/)|[**Grey Goose**](https://www.greygoose.com/cocktails.html)|[**Humboldt Distillery**](https://humboldtdistillery.com/cocktails/)|[**Ketel One**](https://www.ketelone.com/vodka-drinks)|
-|[**King St. Vodka**](https://kingstvodka.com/recipes/)|[**Skyy**](https://www.skyyvodka.com/us/cocktails/)|[**Stoli**](https://stoli.com/cocktail/)|
-|[**Tito's**](https://www.titosvodka.com/recipes)|
+|[**King St. Vodka**](https://kingstvodka.com/recipes/)|[**Skyy**](https://www.skyyvodka.com/us/cocktails/)|[**Stoli**](https://stoli.com/cocktail/)|[**Tito's**](https://www.titosvodka.com/recipes)|
 - #### Whiskey
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[**Buchanan's**](https://www.buchananswhisky.com/en-us/whisky-cocktails/)|[**Bulleit**](https://www.bulleit.com/cocktail-food-pairings/)|[**Crown Royal**](https://www.crownroyal.com/whisky-cocktails/)|[**Fireball**](https://www.fireballwhisky.com/recipes.html)|
-|[**The Glenlivet**](https://www.theglenlivet.com/en-us/cocktail-collection/)|[**Jack Daniels**](https://www.jackdaniels.com/index.php/en-us/recipes)|[**Jameson**](https://www.jamesonwhiskey.com/en/cocktail-recipes/)|[**Johnnie Walker**](https://www.johnniewalker.com/en-us/whisky-cocktails/)|
-|[**Screwball Whiskey**](https://www.skrewballwhiskey.com/recipes/)|[**Seagrams**](https://www.seagrams7.com/whiskey-drinks)|[**Southern Comfort**](https://www.southerncomfort.com/recipes.html)|[**Tullamore Dew**](https://www.tullamoredew.com/en-us/whiskey-cocktails/)|[The Whiskey Land](https://thewhiskeyland.com/)|
-|[**Woodford Reserve**](https://www.woodfordreserve.com/lifestyle/cocktails/)|
+|[**Buchanan's**](https://www.buchananswhisky.com/en-us/whisky-cocktails/)|[**Bulleit**](https://www.bulleit.com/cocktail-food-pairings/)|[**Crown Royal**](https://www.crownroyal.com/whisky-cocktails/)|[**Fireball**](https://www.fireballwhisky.com/recipes.html)|[**The Glenlivet**](https://www.theglenlivet.com/en-us/cocktail-collection/)|
+|[**Jack Daniels**](https://www.jackdaniels.com/index.php/en-us/recipes)|[**Jameson**](https://www.jamesonwhiskey.com/en/cocktail-recipes/)|[**Johnnie Walker**](https://www.johnniewalker.com/en-us/whisky-cocktails/)|[**Screwball Whiskey**](https://www.skrewballwhiskey.com/recipes/)|[**Seagrams**](https://www.seagrams7.com/whiskey-drinks)|
+|[**Southern Comfort**](https://www.southerncomfort.com/recipes.html)|[**Tullamore Dew**](https://www.tullamoredew.com/en-us/whiskey-cocktails/)|[The Whiskey Land](https://thewhiskeyland.com/)|[**Woodford Reserve**](https://www.woodfordreserve.com/lifestyle/cocktails/)|
 - #### Wine
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Arish Tam](https://www.arishtam.com/home-brew-recipes/)|[**Cava**](https://www.cava.wine/en/discover/recipes-world-cava/)|[**Chaucer's**](https://chaucerswine.com/recipes-pairings/our-recipes-and-pairings/)|[**Chippewa Valley Bean**](https://www.cvbean.com/kidney-bean-consumers/suggested-recipes/)|[**Get Brewsy**](https://getbrewsy.com/pages/recipes)|
 |[**Grandes Vinos**](https://www.grandesvinos.com/en/blog/temas/gastronomy/)|[Homebrew Answers](https://homebrewanswers.com/)|[**Manischewitz**](https://manischewitz.com/recipes/)|[Minnesota Uncorked](https://www.minnesotauncorked.com/)|[**Moonlight Meadery**](https://www.moonlightmeadery.com/cooking-with-mead/)|
 |[**Oliver Winery**](https://www.oliverwinery.com/blog/categories/wine-cocktails)|[**Qantas Wine**](https://wine.qantas.com/recipes/)|[**RayZyn**](https://rayzyn.com/blogs/recipes)|[**Redstone Meadery**](https://www.redstonemeadery.com/about/#Cocktails)|[**Robinette's**](https://robinettes.com/category/recipes)|
-|[**Sandeman**](https://www.sandeman.com/mixology-and-food/)|[**Wine Dharma**](https://winedharma.com/en/recipes/)|[Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)|[Wine Lovers' Page](http://www.wine-lovers-page.com/wlp_archive/food/foodtoc.shtml)|
+|[**Sandeman**](https://www.sandeman.com/mixology-and-food/)|[**Wine Dharma**](https://winedharma.com/en/recipes/)|[Wine Enthusiast Magazine](https://www.winemag.com/category/food/recipes/)|
 
 ### Beans
 |     |     |     |     |     |
