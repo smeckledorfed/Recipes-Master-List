@@ -1443,11 +1443,12 @@
 ### Vegan/Plant-Based
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[101 Cookbooks](https://www.101cookbooks.com/)|[2ShareMyJoy](https://www.2sharemyjoy.com/category/high-protein-vegan-recipes/)|[Aegean Delight](https://aegeandelight.com/)|[Aline Made](https://www.aline-made.com/)|
-|[All-Purpose](https://allpurposeveggies.com/)|[Ascension Kitchen](https://ascensionkitchen.com/)|[The Aspiring Home Cook](https://theaspiringhomecook.com/)|[Avant Gard Vegan](https://www.avantgardevegan.com/)|
-|[Avocado Pesto](https://avocadopesto.com/)|[Avocado Skillet](https://avocadoskillet.com/)|[A. Vogel](https://www.avogel.ca/en/food/recipes/)|[Bakeroise](https://bakeroise.com/)|[The Banana Diaries](https://thebananadiaries.com/)|
-|[Be ExtraVegant](https://beextravegant.com/)|[Be Plant Well](https://beplantwell.com/)|[Best of Vegan](https://bestofvegan.com/)|
-|[Bitter Treats](https://www.bittertreats.com/)|[Blissful Basil](https://www.blissfulbasil.com/)|[Blooming Nolwenn](https://bloomingnolwenn.com/)|[Blooming with Flavors](https://bloomingwithflavors.com/)|[Boo Boo's Bakery](https://booboosbakery.com/)|
+|[101 Cookbooks](https://www.101cookbooks.com/)|[2ShareMyJoy](https://www.2sharemyjoy.com/category/high-protein-vegan-recipes/)|[Aegean Delight](https://aegeandelight.com/)|[Aline Made](https://www.aline-made.com/)|[All-Purpose](https://allpurposeveggies.com/)|
+|[Ascension Kitchen](https://ascensionkitchen.com/)|[The Aspiring Home Cook](https://theaspiringhomecook.com/)|[Avant Gard Vegan](https://www.avantgardevegan.com/)|[Avocado Pesto](https://avocadopesto.com/)|[Avocado Skillet](https://avocadoskillet.com/)|
+|[A. Vogel](https://www.avogel.ca/en/food/recipes/)|[Bakeroise](https://bakeroise.com/)|[The Banana Diaries](https://thebananadiaries.com/)|[Be ExtraVegant](https://beextravegant.com/)|[Be Plant Well](https://beplantwell.com/)|
+|[Best of Vegan](https://bestofvegan.com/)|[Bitter Treats](https://www.bittertreats.com/)|[Blissful Basil](https://www.blissfulbasil.com/)|[Blooming Nolwenn](https://bloomingnolwenn.com/)|[Blooming with Flavors](https://bloomingwithflavors.com/)|
+
+|[Boo Boo's Bakery](https://booboosbakery.com/)|
 |[Brand New Vegan](https://www.brandnewvegan.com/)|[Bree's Vegan Life](https://www.breesveganlife.com/)|[Broke Bank Vegan](https://brokebankvegan.com/)|[Brown Girl Vegan](https://browngirlveganeats.com/)|[The Buddhist Chef](https://www.thebuddhistchef.com/)|
 |[Bunny's Bite](https://bunnysbite.com/)|[Thee Burger Dude](https://theeburgerdude.com/)|[Carla Cao](https://carlocao.com/)|[Carrots and Flowers](https://www.carrotsandflowers.com/)|[Carve Your Craving](https://www.carveyourcraving.com/)|
 |[Celestial Peach](https://www.celestialpeach.com/blog/category/Recipes)|[Cheap and Cheerful Cooking](https://cheapandcheerfulcooking.com/en/)|[The Cheap Lazy Vegan](https://www.thecheaplazyvegan.com/)|[The Cheeky Chickpea](https://thecheekychickpea.com/)|[Chef Atulya](https://chefatulya.com/)|
