@@ -1316,12 +1316,12 @@
 | --- | --- | --- | --- | --- |
 |[Aish](https://aish.com/jewlish/recipes/)|[Batel's Kitchen](https://batelskitchen.com/)|[Bubbe Lottie](https://www.bubbelottie.com/)|[Busy in Brooklyn](https://busyinbrooklyn.com/recipe-index/)|[Eitan Bernath](https://www.eitanbernath.com/)|
 |[Family Friends Food](https://family-friends-food.com/)|[The Global Jewish Kitchen](https://www.theglobaljewishkitchen.com/)|[Jennifer Abadi](https://jenniferabadi.com/)|[The Kosher Baker](https://thekosherbaker.com/)|[Kosher.com](https://www.kosher.com/)|
-|[Kosher Cooking](http://www.koshercooking.com/)|[Kosher Cowboy](https://koshercowboy.com/)|[Kosher Delight](https://kosherdelight.com/)|[Kosher Everyday](https://koshereveryday.com/)|[Kosher Eye](https://koshereye.com/)|
-|[Kosher in the Kitch](https://www.kosherinthekitch.com/)|[Jamie Geller](https://jamiegeller.com/)|[Jewish Cookery](https://jewishcookery.com/)|[Jewish Food](https://jewishfood.wordpress.com/)|[Jewish Food List](http://www.jewishfood-list.com/recipes/recipe_index.html)|
-|[Jewish Food Society](https://www.jewishfoodsociety.org/)|[The Jewish Kitchen](https://thejewishkitchen.com/)|[Jewish Women's Archive](https://jwa.org/blog/food-corner)|[Joan Nathan](http://joannathan.com/recipes/)|[Kashrut](https://www.kashrut.com/recipes/)|
-|[Leah Cooks Kosher](https://www.leahcookskosher.com/)|[Levana Cooks](https://levanacooks.com/)|[Monday Morning Cooking](https://mondaymorningcookingclub.com.au/ourrecipes/)|[My Jewish Learning](https://www.myjewishlearning.com/the-nosher/)|[OMG Yummy](https://omgyummy.com/)|
-|[OU Kosher](https://oukosher.org/recipes/)|[Proportional Plate](https://www.proportionalplate.com/)|[Renana's Kitchen](https://renanas.kitchen/)|[Sephardic Food](https://sephardicfood.com/)|[Street Smart Kitchen](https://www.streetsmartkitchen.com/)|
-|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[This American Bite](https://thisamericanbite.com/)|[West of the Loop](https://www.westoftheloop.com/)|[What Jew Wanna Eat](https://whatjewwannaeat.com/)|[Yay Kosher](https://yaykosher.com/)|
+|[Kosher Cooking](http://www.koshercooking.com/)|[Kosher Cowboy](https://koshercowboy.com/)|[Kosher Delight](https://kosherdelight.com/)|[Kosher Everyday](https://koshereveryday.com/)|[Kosher in the Kitch](https://www.kosherinthekitch.com/)|
+|[Jamie Geller](https://jamiegeller.com/)|[Jewish Cookery](https://jewishcookery.com/)|[Jewish Food](https://jewishfood.wordpress.com/)|[Jewish Food Society](https://www.jewishfoodsociety.org/)|[The Jewish Kitchen](https://thejewishkitchen.com/)|
+|[Jewish Women's Archive](https://jwa.org/blog/food-corner)|[Kashrut](https://www.kashrut.com/recipes/)|[Leah Cooks Kosher](https://www.leahcookskosher.com/)|[Levana Cooks](https://levanacooks.com/)|[Monday Morning Cooking](https://mondaymorningcookingclub.com.au/ourrecipes/)|
+|[My Jewish Learning](https://www.myjewishlearning.com/the-nosher/)|[OMG Yummy](https://omgyummy.com/)|[OU Kosher](https://oukosher.org/recipes/)|[Proportional Plate](https://www.proportionalplate.com/)|[Renana's Kitchen](https://renanas.kitchen/)|
+|[Street Smart Kitchen](https://www.streetsmartkitchen.com/)|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[This American Bite](https://thisamericanbite.com/)|[West of the Loop](https://www.westoftheloop.com/)|[What Jew Wanna Eat](https://whatjewwannaeat.com/)|
+|[Yay Kosher](https://yaykosher.com/)|
 
 ### Krishna
 |     |
