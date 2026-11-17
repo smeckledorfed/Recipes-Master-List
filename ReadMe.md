@@ -1450,7 +1450,7 @@
 |[Create Mindfully](https://createmindfully.com/)|[Crowded Kitchen](https://www.crowdedkitchen.com/)|[Crumbs & Caramel](https://crumbsandcaramel.com/)|[Culinary Shades](https://culinaryshades.com/)|[Cupful of Kale](https://cupfulofkale.com/)|
 |[The Curious Chickpea](https://www.thecuriouschickpea.com/)|[Cutting Vedge](https://cuttingvedge.com/recipes/)|[Dances with Knives](https://www.danceswithknives.com/)|[**Dandie's**](https://dandies.com/recipes)|[Darn Good Veggies](https://www.darngoodveggies.com/)|
 |[Daughter of Seitan](https://daughterofseitan.com/)|[Da Vina Vegan](http://davinadavegan.com/)|[Delicious Everyday](https://www.deliciouseveryday.com/)|[Delish Knowledge](https://www.delishknowledge.com/)|[Del's Cooking Twist](https://www.delscookingtwist.com/)|
-|[Desiree RD](https://desireerd.com/)|[Dianne's Vegan Kitchen](https://www.diannesvegankitchen.com/)|[Diced and Spiced](https://dicedandspiced.com/)||[Domestic Gothess](https://domesticgothess.com/)|[Dora's Table](https://dorastable.com/)|
+|[Desiree RD](https://desireerd.com/)|[Dianne's Vegan Kitchen](https://www.diannesvegankitchen.com/)|[Diced and Spiced](https://dicedandspiced.com/)|[Domestic Gothess](https://domesticgothess.com/)|[Dora's Table](https://dorastable.com/)|
 |[Earth to Veg](https://earthtoveg.com/)|[Easy Vegan Meal Plan](https://www.easyveganmealplan.com/)|[Eat Figs, Not Pigs](https://www.eatfigsnotpigs.com/)|[Eating Vibrantly](https://eatingvibrantly.com/)|[Eat Plant-Based](https://eatplant-based.com/)|
 |[Eat Something Vegan](https://eatsomethingvegan.com/)|[The Edgy Veg](https://www.theedgyveg.com/)|[Elavegan](https://elavegan.com/)|[Elephantastic Vegan](https://www.elephantasticvegan.com/)|[Ellie Likes Cooking](https://www.ellielikes.cooking/)|
 |[Eluxe Magazine](https://eluxemagazine.com/category/recipes/)|[Emilie Eats](https://www.emilieeats.com/)|[Euphoric Vegan](https://www.euphoricvegan.com/)|[Everything Alex Cooks](https://www.everythingalexcooks.com/recipes)|[Ex-Sloth](https://www.exsloth.com/)|
@@ -1516,8 +1516,7 @@
 |[We Are So Vegan](https://www.wearesovegan.com/)|[Well and Good](https://www.wellandgood.com/food-nutrition/)|[Well Vegan](https://wellvegan.com/)|[Whole Food Soul Food Kitchen](https://wholefoodsoulfoodkitchen.com/)|[The Whole Scoop Blog](https://thewholescoopblog.com/)|
 |[Woon Heng](https://woonheng.com/)|[World of Vegan](https://www.worldofvegan.com/)|[You Eat Plants](https://youeatplants.com/)|[Yummy Mummy Kitchen](https://www.yummymummykitchen.com/)|[The Yummy Vegan](https://theyummyvegan.com/)|
 |[Yum Vegan Food](https://yumveganlunchideas.com/)|[Yup.. It's Vegan](https://yupitsvegan.com/)|[Zacchary Bird](https://www.zaccharybird.com/)|[Zardy Plants](https://zardyplants.com/)|[Zucker & Jagdwurst](https://www.zuckerjagdwurst.com/en)|
-|[Zsu's Vegan Pantry](http://www.zsusveganpantry.com/)|[Planted365](https://www.planted365.com/)|
-
+|[Zsu's Vegan Pantry](http://www.zsusveganpantry.com/)|
 ### Vegetarian
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
