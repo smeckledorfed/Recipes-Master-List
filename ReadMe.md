@@ -1211,14 +1211,13 @@
 ### Dairy-Free
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[24 Carrot Kitchen](https://24carrotkitchen.com/)|[Ai Made It For You](https://www.aimadeitforyou.com/)|[Angela's Kitchen](https://angelaskitchen.com/)|[Bakerita](https://www.bakerita.com/)|[Belated Brewery](https://www.belatedbrewery.com/)|
-|[Calm Eats](https://calmeats.com/)|[Clean Plate Mama](https://cleanplatemama.com/)|[The Cookie Dough Diaries](https://thecookiedoughdiaries.com/)|[Cook Nourish Bliss](https://cooknourishbliss.com/)|
-|[Cringey Kitchen](https://cringeykitchen.com/)|[The Curious Coconut](https://thecuriouscoconut.com/)|[Daniella Walker](https://daniellewalker.com/)|[The Dish on Healthy](https://www.thedishonhealthy.com/)|[Eat Something Delicious](https://eatsomethingdelicious.com/)|
-|[**Elmhurst 1925**](https://elmhurst1925.com/blogs/recipes)|[Everyday Maven](https://www.everydaymaven.com/)|[Freshwater Peaches](https://freshwaterpeaches.com/)|[GF Explorers](https://gfexplorers.com/)|[Go Dairy-Free](https://www.godairyfree.org/)|
-|[Heather Christo](https://heatherchristo.com/)|[Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)|[Mama Shire](https://mamashire.com/)|
-|[Nutrition in the Kitch](https://nutritioninthekitch.com/)|[Paleo Scaleo](https://www.paleoscaleo.com/)|[Pretend it's a Donut](https://pretenditsadonut.com/)|[Rach L. Mansfield](https://rachlmansfield.com/)|[The Salty Cooker](https://thesaltycooker.com/)|
-|[Simply Whisked](https://www.simplywhisked.com/)|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[Tasty Yummies](https://tasty-yummies.com/)|[That Girl Cooks Healthy](https://thatgirlcookshealthy.com/)|[The Urben Life](https://theurbenlife.com/)|
-|[Veggie Balance](https://www.veggiebalance.com/)|
+|[24 Carrot Kitchen](https://24carrotkitchen.com/)|[Ai Made It For You](https://www.aimadeitforyou.com/)|[Angela's Kitchen](https://angelaskitchen.com/)|[Bakerita](https://www.bakerita.com/)|[Calm Eats](https://calmeats.com/)|
+|[Clean Plate Mama](https://cleanplatemama.com/)|[The Cookie Dough Diaries](https://thecookiedoughdiaries.com/)|[Cook Nourish Bliss](https://cooknourishbliss.com/)|[Cringey Kitchen](https://cringeykitchen.com/)|[The Curious Coconut](https://thecuriouscoconut.com/)|
+|[Daniella Walker](https://daniellewalker.com/)|[The Dish on Healthy](https://www.thedishonhealthy.com/)|[Eat Something Delicious](https://eatsomethingdelicious.com/)|[**Elmhurst 1925**](https://elmhurst1925.com/blogs/recipes)|[Everyday Maven](https://www.everydaymaven.com/)|
+|[Freshwater Peaches](https://freshwaterpeaches.com/)|[GF Explorers](https://gfexplorers.com/)|[Go Dairy-Free](https://www.godairyfree.org/)|[Heather Christo](https://heatherchristo.com/)|[Mama Knows Gluten-Free](https://www.mamaknowsglutenfree.com/)|
+|[Mama Shire](https://mamashire.com/)|[Nutrition in the Kitch](https://nutritioninthekitch.com/)|[Paleo Scaleo](https://www.paleoscaleo.com/)|[Pretend it's a Donut](https://pretenditsadonut.com/)|[Rach L. Mansfield](https://rachlmansfield.com/)|
+|[The Salty Cooker](https://thesaltycooker.com/)|[Simply Whisked](https://www.simplywhisked.com/)|[The Taste of Kosher](https://www.thetasteofkosher.com/)|[Tasty Yummies](https://tasty-yummies.com/)|[That Girl Cooks Healthy](https://thatgirlcookshealthy.com/)|
+|[The Urben Life](https://theurbenlife.com/)|[Veggie Balance](https://www.veggiebalance.com/)|
 
 ### Diabetic
 |     |     |     |     |     |
