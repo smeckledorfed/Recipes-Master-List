@@ -1232,9 +1232,8 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Bless My Food by Payal](https://blessmyfoodbypayal.com/)|[Eggless Cooking](https://www.egglesscooking.com/)|[Gayathri's Cookspot](https://gayathriscookspot.com/)|[Heather Christo](https://heatherchristo.com/)|[Lane and Grey Fare](https://laneandgreyfare.com/)|
-|[Mads' Cookhouse](https://madscookhouse.com/)|[Mommy's Home Cooking](https://monicawilde.com/blog/)|[Nalini's Cooking](http://www.naliniscooking.com/)|
-|[Priya's Curry Nation](https://www.priyascurrynation.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[Spicing Your Life](https://www.spicingyourlife.com/)|[The Urben Life](https://theurbenlife.com/)|
-|[Vege Home Cooking](https://vegehomecooking.com/)|[Yummy Tales of Tummy](https://yummytalesoftummy.com/)|
+|[Mads' Cookhouse](https://madscookhouse.com/)|[Mommy's Home Cooking](https://monicawilde.com/blog/)|[Nalini's Cooking](http://www.naliniscooking.com/)|[Priya's Curry Nation](https://www.priyascurrynation.com/)|[Shweta in the Kitchen](https://shwetainthekitchen.com/)|
+|[Spice Up the Curry](https://www.spiceupthecurry.com/)|[Spicing Your Life](https://www.spicingyourlife.com/)|[The Urben Life](https://theurbenlife.com/)|[Vege Home Cooking](https://vegehomecooking.com/)|
 
 ### Gluten-Free
 |     |     |     |     |     |
