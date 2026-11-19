@@ -1168,8 +1168,8 @@
 #### Colombia
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Arepas del Gringo](https://arepasdelgringo.com/)|[My Colombian Recipes](https://www.mycolombianrecipes.com/)|[The Little Arepa](https://thelittlearepa.com/)|[Receta Tipica](https://recetatipica.net/)|
-|[Sweet y Salado](https://sweetysalado.com/en/)|[Vecina Vegeteriana](https://vecinavegetariana.com/)|
+|[Arepas del Gringo](https://arepasdelgringo.com/)|[My Colombian Recipes](https://www.mycolombianrecipes.com/)|[The Little Arepa](https://thelittlearepa.com/)|[Receta Tipica](https://recetatipica.net/)|[Sweet y Salado](https://sweetysalado.com/en/)|
+|[Vecina Vegeteriana](https://vecinavegetariana.com/)|
 
 #### Ecuador
 |     |
