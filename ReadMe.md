@@ -468,7 +468,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Aaron and Claire](https://aaronandclaire.com/)|[Aeri's Kitchen](http://www.aeriskitchen.com/)|[Ahjummarecipes](https://www.ahjummarecipes.com/)|[Ahnest Kitchen](https://ahnestkitchen.com/)|[Basic Sunday](https://basicsunday.com/category/recipes/)|
-|[Beyond Kimchee](https://www.beyondkimchee.com/)|[**Bibigo**](https://www.bibigousa.com/recipes/)|[Cafe Maddy](https://www.cafemaddy.com/)|[Carving a Journey](https://www.carvingajourney.com/)|[Cathlyn's Korean Kitchen](https://koreancuisinerecipes.com/)|
+|[Beyond Kimchee](https://www.beyondkimchee.com/)|[**Bibigo**](https://www.bibigousa.com/recipes/)|[Cafe Maddy](https://www.cafemaddy.com/)|[Cathlyn's Korean Kitchen](https://koreancuisinerecipes.com/)|
 |[Chef Atulya](https://chefatulya.com/)|[Chef Christ Cho](https://chefchrischo.com/)|[Chopsticks and Flour](https://www.chopsticksandflour.com/)|[Chow Divine](http://chowdivine.com/)|[Chrisse en Place](http://chrisseenplace.com/)|
 |[Crazy Korean Cooking](https://crazykoreancooking.com/)|[Easy Korean Food](https://www.easykoreanfood.com/)|[Future Dish](https://futuredish.com/)|[Gwangju News](https://gwangjunewsgic.com/category/food-drink/recipe/)|[Hanna One](https://hannaone.com/)|
 |[**H Mart**](https://www.hmart.com/recipe)|[Judy Joo](https://www.judyjoo.com/recipes/)|[Kat Turner](https://www.katturner.com/blog/category/K-Recipes)|[Kimchi Mari](https://kimchimari.com/)|[Kimchi Mom](https://kimchimom.com/)|
@@ -1100,10 +1100,10 @@
 |[Diva's Can Cook](https://divascancook.com/)|
 |[Edible South Florida](https://ediblesouthflorida.ediblecommunities.com/)|[Fueling a Southern Soul](https://www.fuelingasouthernsoul.com/)|
 |[Grits and Pinecones](https://www.gritsandpinecones.com/)|[Homesick Texan](https://www.homesicktexan.com/)|[House of Yumm](https://houseofyumm.com)|[Huckleberry Life](https://huckleberrylife.com/)|[I Heart Recipes](https://iheartrecipes.com/)|
-|[Julia's Simply Southern](https://juliassimplysouthern.com/)|[**Justin Wilson**](https://justinwilson.com/recipes/)|[Kenneth Temple](https://kennethtemple.com/)|[Kentucky Tourism](https://www.kentuckytourism.com/culinary/recipes)|[Live Love Texas](https://livelovetexas.com/)|
+|[Julia's Simply Southern](https://juliassimplysouthern.com/)|[Kenneth Temple](https://kennethtemple.com/)|[Kentucky Tourism](https://www.kentuckytourism.com/culinary/recipes)|[Live Love Texas](https://livelovetexas.com/)|
 |[The Local Palate](https://thelocalpalate.com/recipes/)|[Louisiana Cookin'](https://www.louisianacookin.com/)|[Louisiana Kitchen and Culture](https://louisiana.kitchenandculture.com/)|[**Louisiana Seafood**](https://www.louisianaseafood.com/)|[Louisiana Travel](https://www.louisianatravel.com/culinary/louisiana-recipes)|
 |[Louisiana Woman Blog](https://louisianawomanblog.com/)|[Magnolia Days](https://magnoliadays.com/)|[Mama Sue's Southern Kitchen](https://www.mamasuessouthernkitchen.com/)|[Melissa's Southern Style Kitchen](https://www.melissassouthernstylekitchen.com/)|[My Country Table](https://mycountrytable.com/)|
-|[My TX Kitchen](https://mytxkitchen.com/)|[Not Entirely Average](https://notentirelyaverage.com/)|[On Ty's Plate](https://www.ontysplate.com/)|[Parnell the Chef](https://parnellthechef.com/)|[Pinay in Texas Cooking](http://www.pinaycookingcorner.com/)|
+|[My TX Kitchen](https://mytxkitchen.com/)|[Not Entirely Average](https://notentirelyaverage.com/)|[On Ty's Plate](https://www.ontysplate.com/)|[Parnell the Chef](https://parnellthechef.com/)|
 |[Pinch Me I'm Eating](https://www.pinchmeimeating.com/)|[Poppy Tooker](https://www.poppytooker.com/)|[Quiche My Grits](https://quichemygrits.com/)|[Restless Chipotle](https://www.restlesschipotle.com/)|[Serving Up Southern](https://servingupsouthern.com/)|
 |[Smarty Pants Kitchen](https://www.smartypantskitchen.com/)|[Southern Bite](https://southernbite.com/)|[**Southern Cast Iron**](https://southerncastiron.com/)|[Southern Discourse](https://southerndiscourse.com/)|[Southern Kissed](https://www.southernkissed.com/)|
 |[Southern Living](https://www.southernliving.com/recipes)|[The Southern Lady Cooks](https://thesouthernladycooks.com/)|[Southern Plate](https://www.southernplate.com/)|[South Your Mouth](https://www.southyourmouth.com/)|[Spicy Southern Kitchen](https://spicysouthernkitchen.com/)|
@@ -1126,11 +1126,6 @@
 |     |     |     |     |
 | --- | --- | --- | --- |
 |[Australia's Best Recipes](https://www.bestrecipes.com.au/)|[Cooking With Nana Ling](https://www.cookingwithnanaling.com/)|[Food Gold Coast](https://foodgoldcoast.com.au/category/recipes/)|[SA Life](https://salife.com.au/wine-and-dine/)|
-
-#### Fiji
-|     |
-| --- |
-|[Savoring Fiji](https://www.savoringfiji.com/)|
 
 #### Guam
 |     |     |     |
