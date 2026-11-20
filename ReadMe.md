@@ -1080,9 +1080,8 @@
 - ##### Northeast
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|
-|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|
-|[Home in the Finger Lakes](https://homeinthefingerlakes.com/)|[New England](https://newengland.com/category/food/)|[Sip and Feast](https://www.sipandfeast.com/)|
+|[Amish 365](https://www.amish365.com/)|[Amish Heritage](https://amish-heritage.org/)|[Boston Sidewalks](https://bostonsidewalks.com/Recipes/0)|[Eastern Shore Recipes](https://easternshorerecipes.com/recipes/)|[Edible Del Marva](https://edibledelmarva.ediblecommunities.com/)|
+|[Edible Rhody](https://ediblerhody.ediblecommunities.com/)|[Home in the Finger Lakes](https://homeinthefingerlakes.com/)|[New England](https://newengland.com/category/food/)|[Sip and Feast](https://www.sipandfeast.com/)|
 
 - ##### Soul Food
 |     |     |     |     |     |
