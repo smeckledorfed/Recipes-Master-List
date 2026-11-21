@@ -710,7 +710,7 @@
 |[Cooking Italian with Joe](https://www.cookingitalianwithjoe.com/recipes)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Cooking With Manuela](https://www.cookingwithmanuela.com/)|[Cooking With Nonna](https://www.cookingwithnonna.com/)|[Cooking With Patty](http://cookingwithpatty.com/)|
 |[Cucina Antica](https://cucina-antica.com/blogs/recipes)|[Cucina By Elena](https://www.cucinabyelena.com/)|[**Delallo**](https://www.delallo.com/recipe-finder)|[Eatalian with Roberto](https://www.eatalianwithroberto.com/)|[Elizabeth Minchilli](https://www.elizabethminchilli.com/recipes/)|
 |[Erica De Mane](https://ericademane.com/)|[The Eternal Table](https://www.theeternaltable.com/historicalrecipes)|[Feeling Foodish](https://feelingfoodish.com/)|[Flavor of Italy](https://flavorofitaly.com/fi-recipes/)|[Fleurty Herald](https://fleurtyherald.wordpress.com/2013/09/03/recipes-from-renaissance-italy/)|
-|[Gennaro Contaldo](https://gennarocontaldo.com/category/recipes/)|[Giallo Zafferano](https://www.giallozafferano.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Gourmet Project](https://www.gourmetproject.net/)|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|
+|[Gennaro Contaldo](https://gennarocontaldo.com/category/recipes/)|[Giallo Zafferano](https://www.giallozafferano.com/)|[Giangi's Kitchen](https://www.giangiskitchen.com/recipe)|[Gourmet Project](https://www.gourmetproject.net/)|
 |[Great Italian Chefs](https://www.greatitalianchefs.com/)|[Historical Italian Cooking](https://historicalitaliancooking.home.blog/)|[Ilaria's Perfect Recipes](https://www.ilariasperfectrecipes.com/category/recipes/)|[Il Globo](https://ilglobo.com/en/recipes/explore/)|[**Il Gusto**](https://www.oliocarli.us/magazine/italian-recipes)|
 |[Immaculate Ruemu](https://www.immaculateruemu.com/)|[Inside the Rustic Kitchen](https://www.insidetherustickitchen.com/)|[Ita Food Baby Blog](https://ltafoodbabyblog.wordpress.com/)|[Italian Chef](https://italianchef.com/)|[Italian Cook](http://www.italiancook.ca/)|
 |[Italian Food Forever](https://www.italianfoodforever.com/)|[Italian Heritage](https://www.italyheritage.com/cuisine/recipes/)|[An Italian in My Kitchen](https://anitalianinmykitchen.com/)|[The Italian Sauce](https://theitaliansauce.com/)|[Italian Spoon](https://www.italianspoon.com.au/)|
@@ -1053,8 +1053,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Accidental Happy Baker](https://www.accidentalhappybaker.com/)|[Akron Ohio Moms](https://www.akronohiomoms.com/recipe/)|[Common Ground Nebraska](https://commongroundnebraska.com/recipes/)|[Cooking in the Midwest](https://www.cookinginthemidwest.com/)|[Culinary Hill](https://www.culinaryhill.com/)|
-|[Fresh Coast Eats](https://freshcoasteats.com/)|[From Michigan to the Table](https://frommichigantothetable.com/)|[Great Chicago Italian Recipes](http://www.great-chicago-italian-recipes.com/)|[Let's Go Iowa](https://www.letsgoiowa.com/iowa-food/)|[Midwest Life and Style](https://www.midwestlifeandstyle.com/category/recipes/)|
-|[My Food Story](https://myfoodstory.com/)|
+|[Fresh Coast Eats](https://freshcoasteats.com/)|[From Michigan to the Table](https://frommichigantothetable.com/)|[Let's Go Iowa](https://www.letsgoiowa.com/iowa-food/)|[Midwest Life and Style](https://www.midwestlifeandstyle.com/category/recipes/)|[My Food Story](https://myfoodstory.com/)|
 
 - ##### Native American
 |     |     |     |     |     |
