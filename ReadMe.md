@@ -943,7 +943,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Cuban in the Midwest](http://cubaninthemidwest.blogspot.com/)|[For the Love of Sazon](https://fortheloveofsazon.com/)|[Hungry Sofia](https://hungrysofia.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Let's Eat Cuban](https://letseatcuban.com/)|
-|[My Big Fat Cuban Family](https://www.mybigfatcubanfamily.com/)|[Rachel's Cuban Italian Kitchen](https://www.rachelscubankitchen.com/)|[A Sassy Spoon](https://asassyspoon.com/)|[Three Guys from Miami](https://icuban.com/food/index.html)|
+|[My Big Fat Cuban Family](https://www.mybigfatcubanfamily.com/)|[A Sassy Spoon](https://asassyspoon.com/)|
 
 #### Dominica
 |     |
@@ -968,18 +968,17 @@
 #### Jamaica
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Amazing Ackee](https://amazingackee.com/)|[Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)|[Eat Jamaican](https://eatjamaican.com/recipes.html)|[Healthier Steps](https://healthiersteps.com/)|
-|[Jamaican Foods and Recipes](https://jamaicanfoodsandrecipes.com/)|
-|[Roxy Chow Down](https://roxychowdown.com/)|[Seasoned Skillet Blog](https://seasonedskilletblog.com/)|[A YouNique Journey](https://ayouniquejourney.com/)|
+|[Chinese-Jamaican Girl](https://chinese-jamaicangirl.com/)|[Eat Jamaican](https://eatjamaican.com/recipes.html)|[Healthier Steps](https://healthiersteps.com/)|[Jamaican Foods and Recipes](https://jamaicanfoodsandrecipes.com/)|[Roxy Chow Down](https://roxychowdown.com/)|
+|[Seasoned Skillet Blog](https://seasonedskilletblog.com/)|[A YouNique Journey](https://ayouniquejourney.com/)|
 
 #### Latin American
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Amigo Foods](https://www.amigofoods.com/)|[Artisan Bryan](https://www.artisanbryan.com/)|[Beyond Mere Sustenance](https://beyondmeresustenance.com/)|[Chef Zee Cooks](https://www.chefzeecooks.com/)|
-|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Delish D'lites](https://www.delishdlites.com/)|[Everyday Latina](https://everydaylatina.com/recipe-index/)|[Familia Kitchen](https://familiakitchen.com/)|[Fat Girl Hedonist](https://fatgirlhedonist.com/)|
-|[Four to Cook for](https://www.fourtocookfor.com/)|[Herencia Cookbook](https://herenciacookbook.com/)|[Hispanic Kitchen](https://hispanickitchen.com/)|[Keesha's Kitchen](https://keeshaskitchen.com/)|[La Cooquette](https://lacooquette.com/about-la-cooquette/)|
-|[Latinas Que Comen](https://www.latinasquecomen.com/)|[Laylita](https://www.laylita.com/recipes/)|[**Loisa**](https://loisa.com/blogs/comida-real)|[Mediterranean Latin Love Affair](https://mediterraneanlatinloveaffair.com/)|[My Latina Table](https://www.mylatinatable.com/)|
-|[Nashi Food](https://www.nashifood.com/)|[Nata Knows Best](https://www.nataknowsbest.com/)|[Que Rica Vida](https://www.quericavida.com/)|[Tasty AZ](https://www.tastyaz.com/)|
+|[Amigo Foods](https://www.amigofoods.com/)|[Beyond Mere Sustenance](https://beyondmeresustenance.com/)|[Chef Zee Cooks](https://www.chefzeecooks.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Delish D'lites](https://www.delishdlites.com/)|
+|[Everyday Latina](https://everydaylatina.com/recipe-index/)|[Familia Kitchen](https://familiakitchen.com/)|[Fat Girl Hedonist](https://fatgirlhedonist.com/)|[Four to Cook for](https://www.fourtocookfor.com/)|[Herencia Cookbook](https://herenciacookbook.com/)|
+|[Hispanic Kitchen](https://hispanickitchen.com/)|[Keesha's Kitchen](https://keeshaskitchen.com/)|[La Cooquette](https://lacooquette.com/about-la-cooquette/)|[Latinas Que Comen](https://www.latinasquecomen.com/)|[Laylita](https://www.laylita.com/recipes/)|
+|[**Loisa**](https://loisa.com/blogs/comida-real)|[Mediterranean Latin Love Affair](https://mediterraneanlatinloveaffair.com/)|[My Latina Table](https://www.mylatinatable.com/)|[Nashi Food](https://www.nashifood.com/)|[Nata Knows Best](https://www.nataknowsbest.com/)|
+|[Que Rica Vida](https://www.quericavida.com/)|[Tasty AZ](https://www.tastyaz.com/)|
 
 #### Martinique
 |     |
@@ -989,14 +988,13 @@
 #### Mexico
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Adriana's Best Recipes](https://www.adrianasbestrecipes.com/)|[Chicano Eats](https://chicanoeats.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|
-|[Dora's Table](https://dorastable.com/)|[**El Comal**](https://www.elcomal.com/recipes/)|[**Gran Luchito**](https://gran.luchito.com/recipes/)|[Healthy Simple Yum](https://healthysimpleyum.com/)|[Herencia Cookbook](https://herenciacookbook.com/)|
-|[Hola Jalapeño](https://www.holajalapeno.com/)|[In Mama Maggie's Kitchen](https://inmamamaggieskitchen.com/)|[Isabel Eats](https://www.isabeleats.com/)|[La Piña en la Cocina](https://pinaenlacocina.com/)|[M.A. Kitchen](https://www.maricruzavalos.com/)|
-|[**Maria and Ricardo's**](https://mariaandricardos.com/recipes/)|[Mex Connect](https://www.mexconnect.com/category/food-cuisine/recipes/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|[Mex Grocer](https://www.mexgrocer.com/mexican-recipes.html)|[Mexican Food Journal](https://mexicanfoodjournal.com/)|
-|[Mexican Made Meat Less](https://mexicanmademeatless.com/)|[Mexican Please](https://www.mexicanplease.com/)|[Mexican Recipes.me](http://www.mexicanrecipes.me/)|[Mexico in My Kitchen](https://www.mexicoinmykitchen.com/)|[Muy Bueno](https://muybuenocookbook.com/)|
-|[Muy Delish](https://www.muydelish.com/)|[My Latina Table](https://www.mylatinatable.com/)|[My Slice of Mexico](https://mysliceofmexico.ca/)|[Sabor Mexicano](https://sabormexicano.com/recipes)|[Stell n' Spice](https://stellanspice.com/)|
-|[Taco Guy](https://tacoguy.com.au/recipes/)|[Thai Caliente](https://thaicaliente.com/)|[Thrift & Spice](https://thriftandspice.com/)|[**Tucson Tamale**](https://tucsontamale.com/pages/our-secret-recipes)|[Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)|
-|[Villa Cocina](https://villacocina.com/)|
+|[Adriana's Best Recipes](https://www.adrianasbestrecipes.com/)|[Chicano Eats](https://chicanoeats.com/)|[Cilantro Parsley](https://www.cilantroparsley.com/)|[Dora's Table](https://dorastable.com/)|[**El Comal**](https://www.elcomal.com/recipes/)|
+|[**Gran Luchito**](https://gran.luchito.com/recipes/)|[Healthy Simple Yum](https://healthysimpleyum.com/)|[Herencia Cookbook](https://herenciacookbook.com/)|[Hola Jalapeño](https://www.holajalapeno.com/)|[In Mama Maggie's Kitchen](https://inmamamaggieskitchen.com/)|
+|[Isabel Eats](https://www.isabeleats.com/)|[La Piña en la Cocina](https://pinaenlacocina.com/)|[M.A. Kitchen](https://www.maricruzavalos.com/)|[**Maria and Ricardo's**](https://mariaandricardos.com/recipes/)|[Mex Connect](https://www.mexconnect.com/category/food-cuisine/recipes/)|
+|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|[Mex Grocer](https://www.mexgrocer.com/mexican-recipes.html)|[Mexican Food Journal](https://mexicanfoodjournal.com/)|[Mexican Made Meat Less](https://mexicanmademeatless.com/)|[Mexican Please](https://www.mexicanplease.com/)|
+|[Mexico in My Kitchen](https://www.mexicoinmykitchen.com/)|[Muy Bueno](https://muybuenocookbook.com/)|[Muy Delish](https://www.muydelish.com/)|[My Latina Table](https://www.mylatinatable.com/)|[My Slice of Mexico](https://mysliceofmexico.ca/)|
+|[Sabor Mexicano](https://sabormexicano.com/recipes)|[Stell n' Spice](https://stellanspice.com/)|[Taco Guy](https://tacoguy.com.au/recipes/)|[Thai Caliente](https://thaicaliente.com/)|[Thrift & Spice](https://thriftandspice.com/)|
+|[**Tucson Tamale**](https://tucsontamale.com/pages/our-secret-recipes)|[Vamanos to Mexico](https://www.vamonostomexico.com/mexican-gastronomy/)|[Villa Cocina](https://villacocina.com/)|
 - #### Maya
 |     |
 | --- |
@@ -1016,7 +1014,7 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |[Colonial Sense](http://www.colonialsense.com/Society-Lifestyle/Recipes/Recipes.php)|[Cooking With Mamma C](https://cookingwithmammac.com/)|[Edible Communities](https://www.ediblecommunities.com/edible-communities/find-your-edible/)|[Every Little Crumb](https://everylittlecrumb.com/)|[Feeding My Ohana](https://www.feedingmyohana.com/)|
-|[The Historical Homemaker](https://thehistoricalhomemaker.com/historic-recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Travel Experience Live](https://www.travel-experience-live.com/national-parks-inspired-recipes-food-dishes/)|[What Sharon Eats](https://whatsharoneats.com/recipes/)|[World Turnd Upside Down](https://www.worldturndupsidedown.com/p/historical-recipes.html)|
+|[The Historical Homemaker](https://thehistoricalhomemaker.com/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Travel Experience Live](https://www.travel-experience-live.com/national-parks-inspired-recipes-food-dishes/)|[What Sharon Eats](https://whatsharoneats.com/recipes/)|[World Turnd Upside Down](https://www.worldturndupsidedown.com/p/historical-recipes.html)|
 
 - ##### Alaska
 |     |     |
