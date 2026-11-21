@@ -1006,8 +1006,7 @@
 #### Puerto Rico
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|[Salima's Kitchen](https://salimaskitchen.com/)|
-|[Welcome to Puerto Rico](https://welcome.topuertorico.org/cocina/)|
+|[Aida's Kitchen Boricua](https://aidaskitchenboricua.com/)|[Latina Mom Meals](https://latinamommeals.com/)|[Mexican Appetizers and More](https://mexicanappetizersandmore.com/)|[Salima's Kitchen](https://salimaskitchen.com/)|[Welcome to Puerto Rico](https://welcome.topuertorico.org/cocina/)|
 
 #### Trinidad & Tobago
 |     |     |     |     |     |
@@ -1023,8 +1022,7 @@
 - ##### Alaska
 |     |     |     |     |
 | --- | --- | --- | --- |
-|[Edible Alaska](https://ediblealaska.ediblecommunities.com/recipes)|[The Great State of Alaska](https://lam.alaska.gov/alaskarecipes)|[**Moosetard**](https://www.moosetard.com/alaska-sweet-and-spicy-recipes/)|
-
+|[Edible Alaska](https://ediblealaska.ediblecommunities.com/recipes)|[The Great State of Alaska](https://lam.alaska.gov/alaskarecipes)|
 - ##### Appalachia
 |     |
 | --- |
