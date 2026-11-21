@@ -831,9 +831,9 @@
 | --- |
 |[Asturias](https://en.asturias.com/tourism-in-asturias/Asturian-cuisine-recipes/)|
 - ##### Barcelona
-|     |     |
-| --- | --- |
-|[Barcelona](https://www.barcelona.cat/nadal/en/recipes)|[Barcelona Metropolitan](https://www.barcelona-metropolitan.com/topics/recipes/)|
+|     |
+| --- |
+|[Barcelona](https://www.barcelona.cat/nadal/en/recipes)|
 - ##### Gibraltar
 |     |
 | --- |
@@ -842,17 +842,17 @@
 #### Sweden
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-|[Food Etc. Cooks](https://foodetccooks.com/)|[Home Sweet Sweden](https://homesweetsweden.com/)|[Swedish Freak](https://www.swedishfreak.com/)|[Swedish Food](https://www.swedishfood.com/)|
-|[Swedish Spoon](https://swedishspoon.com/)|[Visit Sweden](https://visitsweden.com/what-to-do/food-drink/recipes/)|[Without a Path](https://www.withoutapath.com/category/food/)|
+|[Food Etc. Cooks](https://foodetccooks.com/)|[Home Sweet Sweden](https://homesweetsweden.com/)|[Swedish Freak](https://www.swedishfreak.com/)|[Swedish Spoon](https://swedishspoon.com/)|[Visit Sweden](https://visitsweden.com/what-to-do/food-drink/recipes/)|
+|[Without a Path](https://www.withoutapath.com/category/food/)|
 
 #### Switzerland
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|[Cuisine Helvetica](https://cuisinehelvetica.com/)|[Expatica](https://www.expatica.com/ch/lifestyle/food-drink/)|[Helvetic Kitchen](https://www.helvetickitchen.com/)|[Little Zurich Kitchen](https://www.littlezurichkitchen.ch/)|[Z-Nuni](http://www.tinebrunost.com/recipes)|
+|     |     |     |     |
+| --- | --- | --- | --- |
+|[Cuisine Helvetica](https://cuisinehelvetica.com/)|[Expatica](https://www.expatica.com/ch/lifestyle/food-drink/)|[Helvetic Kitchen](https://www.helvetickitchen.com/)|[Z-Nuni](http://www.tinebrunost.com/recipes)|
 
 #### Slavic
-|     |     |
-| --- | --- |
+|     |
+| --- |
 |[Food Perestroika](https://foodperestroika.com/)|
 ##### Russia
 |     |     |     |     |     |
