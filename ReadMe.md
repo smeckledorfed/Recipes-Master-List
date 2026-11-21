@@ -1,4 +1,3 @@
-- Every website is in 1-4 different sections. Some websites focus on more than one thing (ex. if it's Italian, vegan, & gluten-free, it will be listed in each of those sections). 
 - Websites in a particular category do not ONLY offer recipes of that kind; that German website might have some delicious keto stuff. I don't know, I haven't looked through them all, but you can. Life is all about exploration. 
 - If a website doesn't seem to have a particular focus on anything, it will be in the *Miscellaneous* section.
 - When it comes to which category a website is placed in, I usually go by how the About section identifies it.
@@ -1020,8 +1019,8 @@
 |[The Historical Homemaker](https://thehistoricalhomemaker.com/historic-recipes/)|[My Three Seasons](https://www.mythreeseasons.com/)|[Travel Experience Live](https://www.travel-experience-live.com/national-parks-inspired-recipes-food-dishes/)|[What Sharon Eats](https://whatsharoneats.com/recipes/)|[World Turnd Upside Down](https://www.worldturndupsidedown.com/p/historical-recipes.html)|
 
 - ##### Alaska
-|     |     |     |     |
-| --- | --- | --- | --- |
+|     |     |
+| --- | --- |
 |[Edible Alaska](https://ediblealaska.ediblecommunities.com/recipes)|[The Great State of Alaska](https://lam.alaska.gov/alaskarecipes)|
 - ##### Appalachia
 |     |
